@@ -1,0 +1,2119 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:40:04 CDT 2013 ---
+#
+# Rakesh Pandit <rakesh.pandit@gmail.com>, 2007.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2008-07-03 07:35+0000\n"
+"PO-Revision-Date: 2008-06-28 05:55+0530\n"
+"Last-Translator:  Rakesh Pandit <rakesh.pandit@gmail.com>\n"
+"Language-Team: Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+msgid "Show “%s”"
+msgstr "हय्यव “%s”"
+
+msgid "Move on Toolbar"
+msgstr "टुल्लबार पय्ठ पकनविव (T)"
+
+msgid "Move the selected item on the toolbar"
+msgstr "टुल्लबारस प्यटठ तुलमुत आईटम पकनाव"
+
+msgid "Remove from Toolbar"
+msgstr "टुलबार पय्टठ हट्टाव"
+
+msgid "Remove the selected item from the toolbar"
+msgstr "टुल्लबारस प्यटठ तुलमुत आईटम हट्टाव"
+
+msgid "Delete Toolbar"
+msgstr "टुलबार हट्टाव (T)"
+
+msgid "Remove the selected toolbar"
+msgstr "तुलमुत टुलबार हटाव"
+
+msgid "Separator"
+msgstr "अलग करन वोल"
+
+msgid "Running in fullscreen mode"
+msgstr "फुल सकरिनस मंज चलाव"
+
+msgid "Browse and rotate images"
+msgstr "छांड त गुमाव फोटो"
+
+msgid "Image Viewer"
+msgstr "फोटो हावनुक"
+
+msgid "Aperture Value:"
+msgstr "एपरचर वेलयु"
+
+msgid "Author:"
+msgstr "लेखन वोल:"
+
+msgid "Bytes:"
+msgstr "बय्टस:"
+
+msgid "Camera Model:"
+msgstr "केमरा माडल:"
+
+msgid "Copyright:"
+msgstr "कापिरायट:"
+
+msgid "Date/Time:"
+msgstr "दोह/बज्जय:"
+
+msgid "Description:"
+msgstr "बारे मंज"
+
+msgid "Details"
+msgstr "बारे मंज ज्यादह्"
+
+msgid "Exposure Time:"
+msgstr "हावनुक वक्त:"
+
+msgid "Flash:"
+msgstr "फलेश:"
+
+msgid "Focal Length:"
+msgstr "फोकल खजर:"
+
+msgid "Height:"
+msgstr "थज्जर:"
+
+msgid "ISO Speed Rating:"
+msgstr "आई एस औ सपिड रेटिंग:"
+
+msgid "Keywords:"
+msgstr "किवोड:"
+
+msgid "Location:"
+msgstr "जाय:"
+
+msgid "Metering Mode:"
+msgstr "मिटरिंग मोड:"
+
+msgid "Name:"
+msgstr "नाव:"
+
+msgid "Type:"
+msgstr "टय्यप:"
+
+msgid "Width:"
+msgstr "खज्जर:"
+
+msgid "General"
+msgstr "आम"
+
+msgid "Image Properties"
+msgstr "फोटो परापरटिज"
+
+msgid "Metadata"
+msgstr "मेटाढाटा"
+
+msgid "Next"
+msgstr "दय्यम"
+
+msgid "Previous"
+msgstr "पतिम"
+
+msgid "File Name Preview"
+msgstr "फ़ाइल नाव गडनिक प्यटठ वुचिव"
+
+msgid "File Path Specifications"
+msgstr "फ़ाइल पाथ सपिसफेकशन"
+
+msgid "Options"
+msgstr "आपशन"
+
+msgid "%f: original filename"
+msgstr "%f:असली फायल ऩाव"
+
+msgid "%n: counter"
+msgstr "%n: कावटर"
+
+msgid "Choose a folder"
+msgstr "फोल्डर तुल"
+
+msgid "Destination folder:"
+msgstr "तरावनुक फ़ोल्डर :"
+
+msgid "Filename format:"
+msgstr "फ़ाइलनाव फारमेट :"
+
+msgid "Rename from:"
+msgstr "नाव बदलयव:"
+
+msgid "Replace spaces with underscores"
+msgstr "खलली जाय बदलयव अंडरस्कोर सित"
+
+msgid "Save As"
+msgstr "सेव करिव"
+
+msgid "Start counter at:"
+msgstr "गजरावुन कर शरु:"
+
+msgid "To:"
+msgstr "तान्य:"
+
+msgid "Image Enhancements"
+msgstr "फोटो बढावुन"
+
+msgid "Image Zoom"
+msgstr "फोटो ज़ूम"
+
+msgid "Sequence"
+msgstr "गिनती"
+
+msgid "Transparent Parts"
+msgstr "योर तोर वुच्छु हिस्स"
+
+msgid "As background"
+msgstr "बेकगरुंड (b)"
+
+msgid "As check pattern"
+msgstr "चेक हिश शकल(p)"
+
+msgid "As custom color:"
+msgstr "आम रंग (o)"
+
+msgid "Color for Transparent Areas"
+msgstr "योर तोर वुच्छु हिस्सन रंग"
+
+msgid "Expand images to fit screen"
+msgstr "फोटो करिव बोड सकरिनस मंज बराबर करन बापत्थ(x)"
+
+msgid "Eye of GNOME Preferences"
+msgstr "गनोम अच्छ परिफरिनसिज"
+
+msgid "Image View"
+msgstr "फोटो वुच्छुनक"
+
+msgid "Plugins"
+msgstr "पलिगन"
+
+msgid "Slideshow"
+msgstr "स्लाइड शो (S)"
+
+msgid "Smooth images when zoomed"
+msgstr "ज़ूम फोटो कर समुथ(z)"
+
+msgid "Automatic orientation"
+msgstr "आटोमोटिक सयोद गच्छय"
+
+msgid "Loop sequence"
+msgstr "लूप गिनती (L)"
+
+msgid "Switch image after:"
+msgstr "फोटो स्विच कर: (S):"
+
+msgid "seconds"
+msgstr "सेकण्ड्स"
+
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until "
+"the next one is shown automatically. Zero disables the automatic browsing."
+msgstr ""
+"0 से अधिक मूल्य यह निर्धारित करता है कि एक छवि इतने सेकण्डों तक स्क्रीन पर रहेगा, जब तक "
+"कि अगला स्वचालित रूप से दिखेगा. शून्य स्वचालित ब्राउज़िंग को अक्षम कर देता है."
+
+msgid "Allow zoom greater than 100% initially"
+msgstr "प्रारंभ में ही 100% से अधिक ज़ूम स्वीकारें"
+
+msgid "Delay in seconds until showing the next image"
+msgstr "अगली छवि दिखाने से पहले सेकण्डों में देरी"
+
+msgid ""
+"Determines how transparency should be indicated. Valid values are "
+"CHECKPATTERN, COLOR and NONE. If COLOR is choosen, then the transcolor key "
+"determines the used color value."
+msgstr ""
+"निर्धारित करता है कि किस प्रकार पारदर्शिता दिखाई जाएगी. वैध मूल्य हैं CHECKPATTERN, "
+"COLOR तथा NONE. यदि COLOR चुना जाता है, तब transcolor कुंजी निर्धारित करता है "
+"उपयोग में आने वाला रंग मूल्य."
+
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr ""
+"यदि पारदर्शी कुंजी में रंग मूल्य है, तब यह कुंजी निर्धारित करती है कि कौन सा रंग पारदर्शिता "
+"को प्रदर्शित करने में उपयोग में लिया जाएगा."
+
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "यदि इसे गलत नियत किया जाता है तो छवियों को स्क्रीन के अनुरूप फैलाया नहीं जाएगा."
+
+msgid "Interpolate Image"
+msgstr "इंटरपोलेट छवि"
+
+msgid "Loop through the image sequence"
+msgstr "छवि अनुक्रम में लूप करें"
+
+msgid "Show/hide the image collection pane scroll buttons."
+msgstr "चित्र संग्रह पट्टी दिखायें/छुपायें."
+
+msgid "Show/hide the image collection pane."
+msgstr "चित्र संग्रह पट्टी दिखायें/छुपायें."
+
+msgid "Show/hide the window side pane."
+msgstr "विंडो स्थिति-पट्टी छुपाएँ / दिखाएँ"
+
+msgid "Show/hide the window statusbar."
+msgstr "विंडो स्थिति-पट्टी छुपाएँ / दिखाएँ"
+
+msgid "Show/hide the window toolbar."
+msgstr "विंडो उपकरण-पट्टी छुपाएँ / दिखाएँ"
+
+msgid "Transparency color"
+msgstr "पारदर्शी रंग"
+
+msgid "Transparency indicator"
+msgstr "पारदर्शिता सूचक"
+
+msgid ""
+"Whether or not the sequence of images should be shown in an endless loop."
+msgstr "एक अंतहीन लूप में छवियों के अनुक्रम दिखाया जाए या नहीं."
+
+msgid "Whether the image collection pane should be resizable or not."
+msgstr "चित्र संग्रह पट्टी दिखायें/छुपायें."
+
+msgid ""
+"Whether the image should be interpolated on zoom or not. This leads to "
+"better quality but is somewhat slower than non interpolated images."
+msgstr ""
+"क्या छवियाँ ज़ूम करने पर इंटरपोलेट की जाएँ या नहीं. इससे अच्छी विशेषता प्राप्त होगी परंतु यह "
+"नॉन इंटरपोलेटेड छवियों से कुछ धीमा होगा."
+
+msgid "All Files"
+msgstr "सभी फ़ाइलें"
+
+msgid "All Images"
+msgstr "सभी छवियाँ"
+
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Load Image"
+msgstr "छवि लोड करें"
+
+msgid "Save Image"
+msgstr "छवि सहेजें"
+
+msgid "Open Folder"
+msgstr "फ़ोल्डर खोलें"
+
+msgid "Transformation on unloaded image."
+msgstr "अनलोडेड विंब में बदलें"
+
+msgid "Transformation failed."
+msgstr "अनलोडेड विंब में बदलें"
+
+msgid "EXIF not supported for this file format."
+msgstr "EXIF इस फाइल प्रारूप के लिये समर्थित नहीं है."
+
+msgid "No image loaded."
+msgstr "कोई छवि लोडेड नहीं."
+
+msgid "Temporary file creation failed."
+msgstr "अस्थाई फ़ाइल सृजन असफ़ल."
+
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "%s को सहेजने हेतु अस्थाई फ़ाइल तैयार नहीं कर सका"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "जेपीईजी फ़ाइल को लोड करने हेतु मेमोरी बांटी नहीं जा सकती"
+
+msgid "Camera"
+msgstr "कैमरा"
+
+msgid "Image Data"
+msgstr "छवि डॉटा"
+
+msgid "Image Taking Conditions"
+msgstr "छवि लेने की परिस्थितियाँ"
+
+msgid "Maker Note"
+msgstr "सृजकवाले की टिप्पणी"
+
+msgid "Other"
+msgstr "अन्य"
+
+msgid "XMP IPTC"
+msgstr "IPTC"
+
+msgid "XMP Other"
+msgstr "अन्य"
+
+msgid "Tag"
+msgstr "टैग"
+
+msgid "Value"
+msgstr "मान"
+
+msgid "Image Settings"
+msgstr "फोटो सेटिंग(I)"
+
+msgid "Image"
+msgstr "फोटो (I)"
+
+msgid "Page Setup"
+msgstr "पेज सेटयप"
+
+msgid "Position"
+msgstr "जाय प्य्यटठ"
+
+msgid "Left:"
+msgstr "खोवुर"
+
+msgid "Right:"
+msgstr "दच्छुन: (R)"
+
+msgid "Top:"
+msgstr "हरयकन: (T)"
+
+msgid "Bottom:"
+msgstr "बोनकंय: (B)"
+
+msgid "Center:"
+msgstr "मंजस: (e)"
+
+msgid "None"
+msgstr "काह न"
+
+msgid "Horizontal"
+msgstr "सयोद"
+
+msgid "Vertical"
+msgstr "खड़ा"
+
+msgid "Both"
+msgstr "दोनवय"
+
+msgid "Size"
+msgstr "नाप"
+
+msgid "Scaling:"
+msgstr "सकेलिंग"
+
+msgid "Unit:"
+msgstr "युनिट"
+
+msgid "Millimeters"
+msgstr "मिलिमिटर"
+
+msgid "Inches"
+msgstr "इंच"
+
+msgid "Preview"
+msgstr "छप्पावन बरोटठ वुच्छुन"
+
+msgid "as is"
+msgstr "युथ छु"
+
+msgid "Taken on"
+msgstr "यम विज निमुत"
+
+msgid "At least two file names are equal."
+msgstr "कम से कम छह् जअ फाइल नाव बराबर"
+
+msgid "Could not display help for Eye of GNOME"
+msgstr "गनोम मदद हकुस न हवित"
+
+msgid " (invalid Unicode)"
+msgstr "(गलत यूनिकोड)"
+
+msgid "Open with \"%s\""
+msgstr "यथ सित खोलिव '%s'"
+
+msgid "Use \"%s\" to open the selected image"
+msgstr "य: \"%s\" करिव ईसतेमाल फोटो खोलनस मंज"
+
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "फोटो सेव करिव \"%s\" (%u/%u)"
+
+msgid "Loading image \"%s\""
+msgstr "फोटो लोड%s"
+
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr ""
+"छप्पवय्यन मंज गलती:\n"
+"%s"
+
+msgid "Toolbar Editor"
+msgstr "टुल्लबार एडिट्टर(T)"
+
+msgid "Reset to Default"
+msgstr "डिफालट बन-अयुन"
+
+msgid "translator-credits"
+msgstr "राकेश पंडित <rakesh.pandit@gmail.com>"
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place - Suite 330, Boston, MA 02111-1307, USA."
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA"
+
+msgid "Eye of GNOME"
+msgstr "गनोमच अच्छ"
+
+msgid "The GNOME image viewer."
+msgstr "गनोम का छवि प्रदर्शक तथा केटलॉग बनाने का प्रोग्रामगनोमच फोटो वुच्छनुक"
+
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr ""
+"क्या चह्\n"
+"\"%s\" छुका यच्छान यह् तरावोन टरेशस मंज?"
+
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] ""
+"चह् छुका यच्छान यम फोटो तरावोक\n"
+"टरेशस मंज ?"
+msgstr[1] ""
+"चह् छुका यच्छान यम %d फोटो तरावोक\n"
+"टरेशस मंज ?"
+
+msgid "Move to Trash"
+msgstr "टरेश मंज तरवयुक"
+
+msgid "Couldn't access trash."
+msgstr "टरेश हयोकम न मिलितह"
+
+msgid "Error on deleting image %s"
+msgstr "यह फोटो %s मिटावनस मंज छिह् गलती"
+
+msgid "File"
+msgstr "फ़ाइल (F)"
+
+msgid "Edit"
+msgstr "संपादन (E)"
+
+msgid "View"
+msgstr "वुछिव (V)"
+
+msgid "Go"
+msgstr "गच्छिव (G)"
+
+msgid "Tools"
+msgstr "टुल्स (T)"
+
+msgid "Help"
+msgstr "मदद (H)"
+
+msgid "Open..."
+msgstr "खुलिव (O) ..."
+
+msgid "Open a file"
+msgstr "आक्ख फायल खुलिव"
+
+msgid "Close"
+msgstr "बंद करिव (C)"
+
+msgid "Close window"
+msgstr "विंडो करिव बंद"
+
+msgid "Toolbar"
+msgstr " टुल्लबार (o)"
+
+msgid "Edit the application toolbar"
+msgstr "एपलिकेशन टुल्लबार कर सा एडिट"
+
+msgid "Preferences"
+msgstr " फरिफरसिंस(n)"
+
+msgid "Preferences for Eye of GNOME"
+msgstr "ग्नोम की आँख हेतु वरीयताएँगनोम अच्छच फरिफरसिंस"
+
+msgid "Contents"
+msgstr "आथ मंज (C)"
+
+msgid "Help on this application"
+msgstr "यथ्थ एपलिकेशनच मदद"
+
+msgid "About"
+msgstr "बारे मंज (A)"
+
+msgid "About this application"
+msgstr "यथ्थ एपलिकेशन बारे मंज"
+
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr ""
+"मौजूदा विंडो में उपकरण पट्टी की दृश्यता बदलेंयथ्थ विंडो मंज टुल्लबार वुच्छिनुक गाश बदलाव"
+
+msgid "Statusbar"
+msgstr "स्टेटस बार (S)"
+
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr ""
+"मौजूदा विंडो में प्रस्थिति पट्टी की दृश्यता बदलेंयथ्थ विंडो मंज सटेटसबार वुच्छिनुक गाश बदलाव"
+
+msgid "Image Collection"
+msgstr "फोटो जमगाह करिव(I)"
+
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "यथ्थ विंडो मंज फोटो जमगाह करनुक पेन वुच्छिनुक गाश बदलाव"
+
+msgid "Side Pane"
+msgstr "दंदिरुक पेन"
+
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "यथ्थ विंडो मंज दंदिरुक पेन वुच्छिनुक गाश बदलाव"
+
+msgid "Save"
+msgstr "सेव (S)"
+
+msgid "Save changes in currently selected images"
+msgstr "यथ्थ फोटो मंज बदलावस करिव सेव"
+
+msgid "Open with"
+msgstr "याथ सित्त खुलिव (w)"
+
+msgid "Open the selected image with a different application"
+msgstr "चर्र मुत फोटो खुलिव दय्मस एपलिकेशन मंज"
+
+msgid "Save As..."
+msgstr "सेव करिव... (A)"
+
+msgid "Save the selected images with a different name"
+msgstr "तुलिमत फोटो कर सेव दयमी नाव सित्त"
+
+msgid "Page Setup..."
+msgstr "पेज सेट्टप"
+
+msgid "Setup the page properties for printing"
+msgstr "पेज परापरटिज लेख छप्पवय्यव खत्तर"
+
+msgid "Print..."
+msgstr "छप्पवय्यव..."
+
+msgid "Print the selected image"
+msgstr "यह फोटो छप्पवय्यव"
+
+msgid "Properties"
+msgstr "परापरटिज (r)"
+
+msgid "Show the properties and metadata of the selected image"
+msgstr "फोटो हुन्द परापरटिज त मेटाडाटा हय्यव"
+
+msgid "Undo"
+msgstr "फेरिव (U)"
+
+msgid "Undo the last change in the image"
+msgstr "पतिम बदलाव करिव वापस"
+
+msgid "Flip Horizontal"
+msgstr "आड़ा पलटें (H)"
+
+msgid "Mirror the image horizontally"
+msgstr "सेदि फेरुन"
+
+msgid "Flip Vertical"
+msgstr "खडा फेरिव (V)"
+
+msgid "Mirror the image vertically"
+msgstr "सय्यद हयुन शिशस मंज"
+
+msgid "Rotate Clockwise"
+msgstr "घरयह् तरफय गुम-अयुन (R)"
+
+msgid "Rotate the image 90 degrees to the right"
+msgstr "फोटो गुम-अयुन दचछुन 90 डिगरि"
+
+msgid "Rotate Counterclockwise"
+msgstr "घरयह् विपरित गुम-अयुन(l)"
+
+msgid "Rotate the image 90 degrees to the left"
+msgstr "फोटो गुम-अयुन खोवुर 90 डिगरि"
+
+msgid "Set As Wallpaper"
+msgstr "वालपेपर बनाविव (W)"
+
+msgid "Set the selected image as the desktop wallpaper"
+msgstr "तुलमिच फोटो बनय्व डेकस टाप वालपेपर"
+
+msgid "Move the selected image to the trash folder"
+msgstr "तुलमित फोटो तरिव टरेश मंज"
+
+msgid "Zoom In"
+msgstr "बोड़ आकार (Z)"
+
+msgid "Enlarge the image"
+msgstr "बोढ करिव"
+
+msgid "Zoom Out"
+msgstr "लकुट आकार (O)"
+
+msgid "Shrink the image"
+msgstr "फोटो कर लकुट"
+
+msgid "Normal Size"
+msgstr "नारमल आकार(N)"
+
+msgid "Show the image at its normal size"
+msgstr "फोटो हय्यव नारमल आकारस मंज"
+
+msgid "Best Fit"
+msgstr "असल बराबर (F)"
+
+msgid "Fit the image to the window"
+msgstr "फोटो खुलिव नविस विंडो मंज"
+
+msgid "Full Screen"
+msgstr "फूल स्क्रीन (F)"
+
+msgid "Show the current image in fullscreen mode"
+msgstr "यह फोटो हय्यव फूल स्क्रीन मंज"
+
+msgid "Previous Image"
+msgstr "पतिम फोटो (P)"
+
+msgid "Go to the previous image of the collection"
+msgstr "जमाह फोटवन मंज गस पतिमस पय्टठ"
+
+msgid "Next Image"
+msgstr "दय्यम फोटो (N)"
+
+msgid "Go to the next image of the collection"
+msgstr "जमाह फोटवन मंज गस दयमिस पय्टठ"
+
+msgid "First Image"
+msgstr "गडनियुक फोटो (F)"
+
+msgid "Go to the first image of the collection"
+msgstr "जमाह फोटवन मंज गस गोडनिकस पय्टठ"
+
+msgid "Last Image"
+msgstr "अंदिम फोटो (L)"
+
+msgid "Go to the last image of the collection"
+msgstr "जमाह फोटवन मंज गस अंदस पय्टठ"
+
+msgid "Start a slideshow view of the images"
+msgstr "फोटोवंन हुंद स्लाइड शो करिव शरु"
+
+msgid "Right"
+msgstr "दचछुन"
+
+msgid "Left"
+msgstr "खव्वुर"
+
+msgid "In"
+msgstr "अन्दर"
+
+msgid "Out"
+msgstr "नयबर"
+
+msgid "Normal"
+msgstr "बराबर"
+
+msgid "Fit"
+msgstr "बराबर"
+
+msgid "Collection"
+msgstr "संबरिव (I)"
+
+msgid "Plugin"
+msgstr "पल्गिन"
+
+msgid "Enabled"
+msgstr "चल्वयव"
+
+msgid "Configure"
+msgstr "कानफिगर"
+
+msgid "Activate"
+msgstr "चल्वयव"
+
+msgid "Activate All"
+msgstr "सारि चल्वयव"
+
+msgid "Deactivate All"
+msgstr "सारि करिव बंद"
+
+msgid "Active Plugins:"
+msgstr "चलविन पलगगिन"
+
+msgid "About Plugin"
+msgstr "आथ बारे मंज (A)"
+
+msgid "Configure Plugin"
+msgstr "पलगिन करिव कानफिगर"
+
+msgid "Open in fullscreen mode"
+msgstr "यह खुलिव फुल सकरिन मोडस मंज"
+
+msgid "Disable image collection"
+msgstr "फोटो जमाह करुन करिव बंद(I)"
+
+msgid "Open in slide show mode"
+msgstr "यह् खुलिव सल्यड शोव मंज"
+
+msgid "[FILE...]"
+msgstr "[फाइल...]"
+
+msgid "Eye of GNOME Image Viewer"
+msgstr "गनोम अच्छ फोटो वुच्छन खत्तर"
+
+
+msgid "File corrupted."
+msgstr "खराब फाइल"
+
+msgid "No images found in archive %s"
+msgstr "कांह् फोटू छुंन: आरकाविव मंज %s"
+
+msgid "Comic Books"
+msgstr "कॉमिक किताब"
+
+msgid "Djvu Documents"
+msgstr "डीजावीयु कागजात"
+
+msgid "File not available"
+msgstr "फाइल मेल न"
+
+msgid "DVI document has incorrect format"
+msgstr "डीवी आई कागजातस  छु गलत फारमेट"
+
+msgid "DVI Documents"
+msgstr "डीवी आई कागजात"
+
+msgid "Yes"
+msgstr "आ"
+
+msgid "No"
+msgstr "न"
+
+msgid "Type 1"
+msgstr "टय्प 1"
+
+msgid "Type 1C"
+msgstr "टय्प1C"
+
+msgid "Type 3"
+msgstr "टय्प 3"
+
+msgid "TrueType"
+msgstr "टरुटय्प"
+
+msgid "Type 1 (CID)"
+msgstr "टय्प 1 (CID)"
+
+msgid "Type 1C (CID)"
+msgstr "टय्प 1C (CID)"
+
+msgid "TrueType (CID)"
+msgstr "टरुटय्प (CID)"
+
+msgid "Unknown font type"
+msgstr "खबरकुस फंट टय्प"
+
+msgid "No name"
+msgstr "काह नाव न"
+
+msgid "Embedded subset"
+msgstr "एंबेडेड हिस्स"
+
+msgid "Embedded"
+msgstr "एंबेडेड"
+
+msgid "Not embedded"
+msgstr "एंबेडेड छुन्न"
+
+msgid "PDF Documents"
+msgstr "पीडीएफ़ कागजात"
+
+msgid "Impress Slides"
+msgstr "इंप्रेस स्लाइड"
+
+msgid "No error"
+msgstr "काह गलती न"
+
+msgid "Not enough memory"
+msgstr "पूर्र मेमरी न"
+
+msgid "Cannot find zip signature"
+msgstr "जिप सीगनेचर हयोक न मिलित"
+
+msgid "Invalid zip file"
+msgstr "गलत जिप फाइल"
+
+msgid "Cannot read data from file"
+msgstr "यम फाइल पयेट्ठ हयको न परितथ"
+
+msgid "Cannot find file in the zip archive"
+msgstr "जीप आरकयिव मंज हयको न फाइल छंडित"
+
+msgid "PostScript Documents"
+msgstr "पोस्टस्क्रिप्ट कागजात"
+
+msgid "Couldn't save attachment “%s”: %s"
+msgstr "एटेचमेंट हयको न सेव करिथ “%s”: %s"
+
+msgid "Couldn't open attachment “%s”: %s"
+msgstr "एटेचमेंट हयको न खुलित्थ “%s”: %s"
+
+msgid "Couldn't open attachment “%s”"
+msgstr "एटेचमेंट हयको न खुलित्थ “%s”"
+
+msgid "Unknown MIME Type"
+msgstr "पत्हयन्न कुस एम आई एम ई टायप"
+
+msgid "All Documents"
+msgstr "सर्री कागजात"
+
+msgid "Password:"
+msgstr "पासवर्ड: (P)"
+
+msgid "Fit Page Width"
+msgstr "अनुरूप पृष्ठ चौड़ाई"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "Document Viewer"
+msgstr "कागजात वुछनुक"
+
+msgid "View multipage documents"
+msgstr "वारयाह वरख कागजात"
+
+msgid "Remember password for this session"
+msgstr "यम सशेनुक पासवर्ड: थय्यव याद"
+
+msgid "Save password in keyring"
+msgstr "कीरिंग मंज लग्गयव पासवर्ड:"
+
+msgid "Created:"
+msgstr " बनोव :"
+
+msgid "Creator:"
+msgstr " बनावन वोल:"
+
+msgid "Format:"
+msgstr " फारमेट:"
+
+msgid "Modified:"
+msgstr " बदलोव:"
+
+msgid "Number of Pages:"
+msgstr " कच वरख:"
+
+msgid "Optimized:"
+msgstr " ऑप्टीमाइज़्ड:"
+
+msgid "Producer:"
+msgstr " बनावन वोल:"
+
+msgid "Security:"
+msgstr " र्रच्छ:"
+
+msgid "Subject:"
+msgstr " सब्बजटक:"
+
+msgid "Title:"
+msgstr " टायटल"
+
+msgid "Override document restrictions"
+msgstr "कागजात लिखव बिना रुकावटि"
+
+msgid "Override document restrictions, like restriction to copy or to print."
+msgstr "कागजात लिखव बिना रुकावटि यिथकंय कापी करुन या परंट"
+
+msgid "Document"
+msgstr "कागजात"
+
+msgid "default:mm"
+msgstr "डिफालट:एमएम"
+
+msgid "%.0f x %.0f mm"
+msgstr "%.0f x %.0f एमएम"
+
+msgid "%.2f x %.2f inch"
+msgstr "%.2f x %.2f ईंच"
+
+msgid "%s, Portrait (%s)"
+msgstr "%s, पौट्टरैट (%s)"
+
+msgid "%s, Landscape (%s)"
+msgstr "%s, लैंडस्केप (%s)"
+
+msgid "%.2f x %.2f in"
+msgstr "%.2f x %.2f मंज"
+
+msgid "Search string"
+msgstr "स्ट्रिंग छंडिव"
+
+msgid "The name of the string to be found"
+msgstr "छांडनुक स्ट्रिंग नाव"
+
+msgid "Case sensitive"
+msgstr "केस सेंसिटिव"
+
+msgid "TRUE for a case sensitive search"
+msgstr "सही आक्ह केस सेंसेटिव छांडन खत्तर"
+
+msgid "Highlight color"
+msgstr "हायलायट रंग"
+
+msgid "Color of highlight for all matches"
+msgstr "सारनी मैलन वलय हुंद रंग"
+
+msgid "Current color"
+msgstr "य: रंग"
+
+msgid "Color of highlight for the current match"
+msgstr "मौजूदा मैच के लिये हाइलाइट का रंगमैल खयन्न वाल्यन हुंद हायलायट रंग"
+
+msgid "Find:"
+msgstr "छंडिव:"
+
+msgid "Find Previous"
+msgstr "पततिम छंडिव"
+
+msgid "Find Next"
+msgstr "दय्यम छंडिव"
+
+msgid "Find next occurrence of the search string"
+msgstr "बेय्य छांडव स्टरिंग"
+
+msgid "Case Sensitive"
+msgstr "केस सेंसेटिव  (a)"
+
+msgid "(%d of %d)"
+msgstr "(%d उक %d)"
+
+msgid "of %d"
+msgstr "%d मंज"
+
+msgid "Password required"
+msgstr "पासवड जरुरत"
+
+msgid "Enter password"
+msgstr "पासवड दियव"
+
+msgid "Password for document %s"
+msgstr "%s कागजातन खत्तर पासवड"
+
+msgid "Incorrect password"
+msgstr "गलत पासवड"
+
+msgid ""
+"This document is locked and can only be read by entering the correct "
+"password."
+msgstr "कागजात छि बंद, त हयको खुलित सिरिफ पासवड तर्वित हयको वुचछित।"
+
+msgid "Unlock Document"
+msgstr "कागजात खोल (U)"
+
+msgid "Fonts"
+msgstr "फ़ॉन्ट्स"
+
+msgid "Font"
+msgstr "फ़ॉन्ट"
+
+msgid "Gathering font information... %sd%%"
+msgstr "फांटस बारे मंज छु जमा करान... %sd%%"
+
+msgid "Attachments"
+msgstr "सयीत्त सामान"
+
+msgid "Loading..."
+msgstr "लोड छु गसान..."
+
+msgid "Index"
+msgstr "निशान थवन वरुक"
+
+msgid "Thumbnails"
+msgstr "निशान"
+
+msgid "Scroll Up"
+msgstr "स्क्रॉल हयोर"
+
+msgid "Scroll Down"
+msgstr "स्क्रॉल बोन"
+
+msgid "Scroll View Up"
+msgstr "स्क्रॉल करिव हयोर"
+
+msgid "Scroll View Down"
+msgstr "स्क्रॉल करिव बोन"
+
+msgid "Document View"
+msgstr "कागजात वुच्छिव"
+
+msgid "Go to first page"
+msgstr "गोडनिकस वर्कस गच्छिव"
+
+msgid "Go to previous page"
+msgstr "पत्तिमस वर्कस गच्छिव"
+
+msgid "Go to next page"
+msgstr "दय्यमिस वर्कस गसिव"
+
+msgid "Go to last page"
+msgstr "गच्छिव अखिर वरुक"
+
+msgid "Go to page"
+msgstr "यथ वरकस पयठ गच्छिव"
+
+msgid "Find"
+msgstr "छांड"
+
+msgid "Go to page %s"
+msgstr "%s वरकस पय्ठ गच्छ"
+
+msgid "Go to %s on file “%s”"
+msgstr "%s फायल पयठ गच्छिव “%s”"
+
+msgid "Go to file “%s”"
+msgstr "“%s” फाइल पयठ गाच्छ"
+
+msgid "Launch %s"
+msgstr "%s लांच करिव"
+
+msgid "End of presentation. Press Escape to exit."
+msgstr "हावुन मकलयोव। एसकेप दबाव बंद करन खत्तर।"
+
+msgid "%d found on this page"
+msgid_plural "%d found on this page"
+msgstr[0] "%d यथ वर्रकस पय्यठ मेलि"
+msgstr[1] "%d यथ वर्रकस पय्यठ मेलि"
+
+msgid "%sd%% remaining to search"
+msgstr "%sd%% बचेमित छ: छांडन खत्तर"
+
+msgid "Page %s - %s"
+msgstr "वरुख %s - %s"
+
+msgid "Unable to open document"
+msgstr "कागजात हयको न खुलित"
+
+msgid "Open Document"
+msgstr "कागजात खुलिव"
+
+msgid "Couldn't create symlink “%s”: %s"
+msgstr "सिमबालिक लिंक हयक न बन्यथ “%s”: %s"
+
+msgid "Save a Copy"
+msgstr "एक प्रतिलिपि सहेजेंआक्ख नकल कर सा सेव"
+
+msgid "Printing is not supported on this printer."
+msgstr "यथ पर्टंर पय्टठ हयको न पर्टं करिथ"
+
+msgid "Print"
+msgstr "छपाई"
+
+msgid ""
+"Evince is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version.\n"
+msgstr ""
+"Evince is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version.\n"
+
+msgid ""
+"Evince is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details.\n"
+msgstr ""
+"Evince is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details.\n"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"Evince; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place, Suite 330, Boston, MA  02111-1307  USA\n"
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"Evince; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place, Suite 330, Boston, MA  02111-1307  USA\n"
+
+msgid "Evince"
+msgstr "एवींस"
+
+msgid "Open an existing document"
+msgstr "मौजूद कागजात खोल"
+
+msgid "Save a Copy..."
+msgstr "आक्ख नकल कर सेव...(S)"
+
+msgid "Save a copy of the current document"
+msgstr "कागजातन हंज नकल कर सेव"
+
+msgid "Setup the page settings for printing"
+msgstr "छप्पावन खत्तर कर पेज खेटिंग"
+
+msgid "Print this document"
+msgstr "कागजात छप्पवय्व"
+
+msgid "Select All"
+msgstr "सयरि तुलिव (A)"
+
+msgid "Find..."
+msgstr "छंडिव (F)..."
+
+msgid "Find a word or phrase in the document"
+msgstr "कागजातन मंज छंडिव शब्द या मुहावरा"
+
+msgid "Rotate Left"
+msgstr "खोवुर घुमाव (L)"
+
+msgid "Rotate Right"
+msgstr "दच्छुन घुमाव (R)"
+
+msgid "Enlarge the document"
+msgstr "कागजात बढाव"
+
+msgid "Shrink the document"
+msgstr "कागजात करिव कम"
+
+msgid "Reload"
+msgstr "बय्य लोड करिव (R)"
+
+msgid "Reload the document"
+msgstr "दस्तावेज पुनः लोड़ करोकागजात करिव बय्य लौड"
+
+msgid "Autoscroll"
+msgstr "आटो सकराल"
+
+msgid "Previous Page"
+msgstr "पतिम पेज (P)"
+
+msgid "Go to the previous page"
+msgstr "पतिम पेजस पसठ गसव"
+
+msgid "Next Page"
+msgstr "बरुठिम पेज(N)"
+
+msgid "Go to the next page"
+msgstr "दय्यमस पेजस पयट्ठ"
+
+msgid "First Page"
+msgstr "गडनियुक पेज (F)"
+
+msgid "Go to the first page"
+msgstr "गयोढनिकस पेजस गसिव"
+
+msgid "Last Page"
+msgstr "आखिर पेज(L)"
+
+msgid "Go to the last page"
+msgstr "आखरिक पेजस गास"
+
+msgid "Leave Fullscreen"
+msgstr "फुलस्क्रीन तराव"
+
+msgid "Leave fullscreen mode"
+msgstr "फुलस्क्रीन मोड तराव"
+
+msgid "Show or hide the toolbar"
+msgstr "टुल्लबार हयव या छुप्विव"
+
+msgid "Show or hide the side pane"
+msgstr "दंदर हयव या छुप्विव"
+
+msgid "Continuous"
+msgstr "लगातार (C)"
+
+msgid "Show the entire document"
+msgstr "पूर कागजात हयव"
+
+msgid "Dual"
+msgstr "दयम (D)"
+
+msgid "Show two pages at once"
+msgstr "अके साथ ह्यव ज़ पेज"
+
+msgid "Fullscreen"
+msgstr "फुलस्क्रीन (F)"
+
+msgid "Expand the window to fill the screen"
+msgstr "विंडो बडाव स्क्रीन भरन खत्तर"
+
+msgid "Run document as a presentation"
+msgstr "कागजात चल्लयव हावून खत्तर।"
+
+msgid "Make the current document fill the window"
+msgstr "यम कागज सित्त बरिव विंडो"
+
+msgid "Make the current document fill the window width"
+msgstr "यम कागज्ज सित बरिव विंडो"
+
+msgid "Open Link"
+msgstr "लिंक खुलिव (O)"
+
+msgid "Go To"
+msgstr "गच्छिव (G)"
+
+msgid "Open in New Window"
+msgstr "नय विंडो मंज खुलिव"
+
+msgid "Copy Link Address"
+msgstr "लिंकस करिव नकल (C)"
+
+msgid "Copy Image"
+msgstr "ईमेज करिव नकल"
+
+msgid "Page"
+msgstr "कागज"
+
+msgid "Select Page"
+msgstr "पेज तुलिव"
+
+msgid "Zoom"
+msgstr "ज़ूम"
+
+msgid "Adjust the zoom level"
+msgstr "जूम लेबल करिव बराबर"
+
+msgid "Navigation"
+msgstr "नचव"
+
+msgid "Back"
+msgstr "पात्थ"
+
+msgid "Move across visited pages"
+msgstr "वुछमित पेज मंज पकिव"
+
+msgid "Fit Width"
+msgstr "खजर कर बराबर"
+
+msgid "Couldn't find appropriate format to save image"
+msgstr "ईमेज सेव करनुक फारमेट हयोकस न कमपलिट करिथ।"
+
+msgid "Unable to open attachment"
+msgstr "कागजात आय न खोलन्य"
+
+msgid "The attachment could not be saved."
+msgstr "एटेचमेंट हयकव न सेव करिथ।"
+
+msgid "%s - Password Required"
+msgstr "%s - पास्वड जरूरत"
+
+msgid "By extension"
+msgstr "ऐक्सटनशन स्यीत"
+
+msgid "The page of the document to display."
+msgstr "हावन खत्तर कागजातन हुंद पेज"
+
+msgid "PAGE"
+msgstr "वरूकख"
+
+msgid "Run evince in fullscreen mode"
+msgstr "पूर्ण स्क्रीन मोड में एवींस चलायेंएवींस चल्लयव सर्यस्यह् स्क्रीनस।"
+
+msgid "Run evince in presentation mode"
+msgstr "एवींस चल्लयव हावून खत्तर।"
+
+msgid "Run evince as a previewer"
+msgstr "एवींस चल्लयव वुछन् खत्तर।"
+
+msgid "STRING"
+msgstr "सटर्रिंग"
+
+msgid "GNOME Document Viewer"
+msgstr "गनोम कागजात वुच्छुनूक"
+
+msgid "Evince Document Viewer"
+msgstr "एवींस कागजात वुछिव।"
+
+msgid ""
+"Boolean options available, true enables thumbnailing and false disables the "
+"creation of new thumbnails"
+msgstr "बूलियन छु सही थंबनेलन ठिक करान त: गल्त थंबनेलन बंद करान।"
+
+msgid "Enable thumbnailing of PDF Documents"
+msgstr "पीडीएफयूक थंबनेल चालू कर।"
+
+msgid "Thumbnail command for PDF Documents"
+msgstr "पीडीएफ कागज़ात खत्तर निशान कमांड।"
+
+msgid ""
+"Valid command plus arguments for the PDF Document thumbnailer. See nautilus "
+"thumbnailer documentation for more information."
+msgstr ""
+"कमांड त दलील पीडीएफ कागज़ात निशान खत्तर।  ज्यादह् दलिलखत्तर वुछिव थंबनेल कागज़ात।"
+
+msgid "BBox"
+msgstr "बी-बाक्स"
+
+msgid "Letter"
+msgstr "चीठ"
+
+msgid "Tabloid"
+msgstr "टेब्लाइड"
+
+msgid "Ledger"
+msgstr "लेजर"
+
+msgid "Legal"
+msgstr "लीगल"
+
+msgid "Statement"
+msgstr "स्टेटमेन्ट"
+
+msgid "Executive"
+msgstr "एक्ज़ीक्यूटिव"
+
+msgid "A0"
+msgstr "ए0"
+
+msgid "A1"
+msgstr "ए1"
+
+msgid "A2"
+msgstr "ए2"
+
+msgid "A3"
+msgstr "ए3"
+
+msgid "A4"
+msgstr "ए4"
+
+msgid "A5"
+msgstr "ए५"
+
+msgid "B4"
+msgstr "बी4"
+
+msgid "B5"
+msgstr "बी5"
+
+msgid "Folio"
+msgstr "फोलियो"
+
+msgid "Quarto"
+msgstr "क्वार्टो"
+
+msgid "10x14"
+msgstr "१०X१४"
+
+msgid ""
+"Failed to load document “%s”. Ghostscript interpreter was not found in "
+"path"
+msgstr ""
+"“%s” कागजात हयोकस न लोड करितथ। गोस्टसकरिप्ट इंटरपरेटर छुन्न पन्निस पाथस मंज।"
+
+msgid "Encapsulated PostScript"
+msgstr "इन्नकेपशुलेटिड पोस्टसकरिपट"
+
+msgid "PostScript"
+msgstr "पोस्टसकरिपट"
+
+msgid "Interpreter failed."
+msgstr "इन्टरप्रेटर हयोक न करिथ"
+
+msgid "Unhandled MIME type: “%s”"
+msgstr "ईसतेमाल करन्य एम आई एम ई टायप: “%s”"
+
+msgid "Open “%s”"
+msgstr "“%s” खोलें"
+
+msgid "Empty"
+msgstr "खाली"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "No document loaded."
+msgstr "कोई दस्तावेज़ लोडेड नहीं."
+
+msgid "Broken pipe."
+msgstr "टूटा पाइप."
+
+msgid "File is not readable."
+msgstr "फ़ाइल पढ़ने योग्य नहीं है."
+
+msgid "Document loaded."
+msgstr "दास्तावेज़ लोड किया."
+
+
+msgid "GNU Info Pages"
+msgstr "गनू खबर्य वरख"
+
+msgid "Traditional command line help (info)"
+msgstr "आम कमान्ड सत्तर मदद (खबर)"
+
+msgid "Applications"
+msgstr "अमय्क प्रयोग"
+
+msgid "BLT Functions"
+msgstr "बीएलटी कामि:"
+
+msgid "Configuration Files"
+msgstr "डालन वाजिह फ़ाइल:"
+
+msgid "Curses Functions"
+msgstr "कर्सेस कामिह"
+
+msgid "Development"
+msgstr "बडावून"
+
+msgid "FORTRAN Functions"
+msgstr "फारटरेन कामिह"
+
+msgid "Games"
+msgstr "खय्यल:"
+
+msgid "Hardware Devices"
+msgstr "हार्डवेयरुक सामान"
+
+msgid "Kernel Routines"
+msgstr "कर्नेल रूटीन्स"
+
+msgid "Manual Pages"
+msgstr "मैनुअल वरख"
+
+msgid "Network Audio Sound Functions"
+msgstr "नेटवर्क आवाज कामिह्"
+
+msgid "OpenSSL Applications"
+msgstr "औपन एस एस एल्लक  प्रयोग"
+
+msgid "OpenSSL Configuration"
+msgstr "औपन एस एस एल डालून"
+
+msgid "OpenSSL Functions"
+msgstr "औपन एस एस एल्लक कामिह्"
+
+msgid "OpenSSL Overviews"
+msgstr "औपन एस एस एलस प्येठ प्येठ नजर"
+
+msgid "Overviews"
+msgstr "प्येठ प्येठ नजर"
+
+msgid "POSIX Functions"
+msgstr "पोजिक्स कामि:"
+
+msgid "POSIX Headers"
+msgstr "पोजिक्स कुनुई नाव"
+
+msgid "Perl Functions"
+msgstr "पर्ल कामिह्"
+
+msgid "Qt Functions"
+msgstr "क्योटी कामिह्"
+
+msgid "Readline Functions"
+msgstr "कामिह्"
+
+msgid "Section 0p"
+msgstr "हिय्स: 0p"
+
+msgid "Section 1m"
+msgstr "हिय्स: 1m"
+
+msgid "Section 1ssl"
+msgstr "हिय्स: 1ssl"
+
+msgid "Section 1x"
+msgstr "हिय्स: 1x"
+
+msgid "Section 2"
+msgstr "हिय्स: 2"
+
+msgid "Section 3blt"
+msgstr "हिय्स: 3blt"
+
+msgid "Section 3f"
+msgstr "हिय्स: 3f"
+
+msgid "Section 3nas"
+msgstr "हिय्स: 3nas"
+
+msgid "Section 3p"
+msgstr "हिय्स: 3p"
+
+msgid "Section 3qt"
+msgstr "हिय्स: 3qt"
+
+msgid "Section 3readline"
+msgstr "हिय्स: 3readline"
+
+msgid "Section 3ssl"
+msgstr "हिय्स: 3ssl"
+
+msgid "Section 3tiff"
+msgstr "हिय्स: 3tiff"
+
+msgid "Section 4"
+msgstr "हिय्स: 4"
+
+msgid "Section 4x"
+msgstr "हिय्स: 4x"
+
+msgid "Section 5"
+msgstr "हिय्स: 5"
+
+msgid "Section 5ssl"
+msgstr "हिय्स: 5ssl"
+
+msgid "Section 5x"
+msgstr "हिय्स: 5x"
+
+msgid "Section 6"
+msgstr "हिय्स: 6"
+
+msgid "Section 6x"
+msgstr "हिय्स: 6x"
+
+msgid "Section 7ssl"
+msgstr "हिय्स: 7ssl"
+
+msgid "Section 7x"
+msgstr "हिय्स: 7x"
+
+msgid "Section 9"
+msgstr "हिय्स: 9"
+
+msgid "Sections 1, 1p, 1g and 1t"
+msgstr "हिय्स: 1, 1p, 1g तह् 1t"
+
+msgid "Sections 3, 3o, and 3t"
+msgstr "हिय्स: 3, 3o, तह् 3t"
+
+msgid "Sections 3form and 3menu"
+msgstr "हिय्स: 3form तह् 3menu"
+
+msgid "Sections 3ncurses and 3curses"
+msgstr "हिय्स: 3ncurses तह् 3curses"
+
+msgid "Sections 3pm and 3perl"
+msgstr "हिय्स: 3pm तह् 3perl"
+
+msgid "Sections 3x and 3X11"
+msgstr "हिय्स: 3x तह् 3X11"
+
+msgid "Sections 7 and 7gcc"
+msgstr "हिय्स: 7 तह् 7gcc"
+
+msgid "Sections 8 and 8l"
+msgstr "हिय्स: 8 तह् 8l"
+
+msgid "System Administration"
+msgstr "सिस्टम नजर थव्न वोल"
+
+msgid "System Calls"
+msgstr "सिस्टम काल्स"
+
+msgid "System V Form/Menu Functions"
+msgstr "सिस्टम वी फार्म मेनु कामिह्"
+
+msgid "TIFF Functions"
+msgstr "टी आई एफ एफ कामिह्"
+
+msgid "Termcap Applications"
+msgstr "टरमकेप प्रयोग"
+
+msgid "Traditional command line help (man)"
+msgstr "प्रर्यन्यह् कमान्ड लायन मदद (मेन्न)"
+
+msgid "X11 Applications"
+msgstr "एक्स11"
+
+msgid "X11 Configuration"
+msgstr "एक्स11"
+
+msgid "X11 Devices"
+msgstr "एक्स11"
+
+msgid "X11 Functions"
+msgstr "एक्स11"
+
+msgid "X11 Games"
+msgstr "एक्स11"
+
+msgid "X11 Overviews"
+msgstr "एक्स11 प्येठ प्येठ नजर"
+
+msgid "Accessibility"
+msgstr "एक्सेसिबिलिटी"
+
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+msgid "Education"
+msgstr "पढ्ह्य्य़"
+
+msgid "Graphics"
+msgstr "गर्फेकिस"
+
+msgid "Internet"
+msgstr "इन्टरनेट्"
+
+msgid "Other Documentation"
+msgstr "बाक्कय कागज्"
+
+msgid "Printing"
+msgstr "प्रंट करान"
+
+msgid "Sound amp; Video"
+msgstr "आवाज amp; विड्यो"
+
+msgid "Welcome to the GNOME Help Browser"
+msgstr "तोह्य छुव गनोम मदद बरोजर मंज स्वागत"
+
+msgid "Add Bookmark"
+msgstr "पसंदुक निशान करिव: जमाह्"
+
+msgid "Bookmarks"
+msgstr "पसंदुक निशान"
+
+msgid "Open Location"
+msgstr "जाय खूलिव"
+
+msgid "Rename"
+msgstr "नोव नाव (n)"
+
+msgid "Bookmarks:"
+msgstr "पसंदुक निशान (B)"
+
+msgid "Browse with caret"
+msgstr "कैरेट सय्यत करिव: बरुज"
+
+msgid "Fixed width:"
+msgstr "बराबर खजर (F)"
+
+msgid "Use system fonts"
+msgstr "सिस्ट्म फांट करिव: ईसत्यमाल(U)"
+
+msgid "Variable width:"
+msgstr "वेरेबल खजर (V)"
+
+msgid "Wrap around"
+msgstr "अयंद अयंद वलूव(W)"
+
+msgid "Font for fixed text"
+msgstr "बराबर टैक्सट खत्तर: फॉन्ट"
+
+msgid "Font for text"
+msgstr "टैक्सट खत्तर: फॉन्ट"
+
+msgid "Font for text with fixed width."
+msgstr "बराबर खजरूक टैक्सट खत्तर: फॉन्ट"
+
+msgid "Font for text with variable width."
+msgstr "वेरेबल खजरूक टैक्सट खत्तर: फॉन्ट"
+
+msgid "Use a keyboard-controllable caret when viewing pages."
+msgstr "पेज वुच्छन विज किबोड केरेट इस्तिमाल"
+
+msgid "Use caret"
+msgstr "केरेट करिव इस्तेमाल"
+
+msgid "Use the default fonts set for the system."
+msgstr "सिस्टम खत्तर: करिव डिफाल्ट फोंटुक इस्तेमाल"
+
+msgid "Open Bookmark in New Window"
+msgstr "पसंदुक निशान करिव इस्तेमाल"
+
+msgid "Rename Bookmark"
+msgstr "पसंदिक निशानुक नाव  बदल्यव"
+
+msgid "Remove Bookmark"
+msgstr "पसंदुक निशान मिटह्यव"
+
+msgid "A bookmark titled %s already exists for this page."
+msgstr "आक: पसंदुक निशान %s छु बरोंठुई याथ वरखस प्यठ।"
+
+msgid "Help Topics"
+msgstr "मदद मूदद"
+
+msgid "Document Sections"
+msgstr "कागजिक हिस्स:"
+
+msgid "Page not found"
+msgstr "वरुख आव न: अथ्थिह्"
+
+msgid "The page %s was not found in the document %s."
+msgstr "य: वरुख %s आव न: यमन कागजन %s मंज अथ्थिह्"
+
+msgid "The requested page was not found in the document %s."
+msgstr "मगोमूत पेज औस न: कागजस %s मंज"
+
+msgid "File not found"
+msgstr "फाइल आय न: अथ्थय:"
+
+msgid "The file ‘%s’ does not exist."
+msgstr "यह् फाइल ‘%s’ छय्यिनी।"
+
+msgid "Could not parse file"
+msgstr "यह् फायल ह्यको न: पारस करिथ"
+
+msgid ""
+"The file ‘%s’ could not be parsed because it is not a well-formed XML "
+"document."
+msgstr "फायल ‘%s’ ह्यको न: पारस करिथ कयाजकिह् यह् छुन ठीक एक्सएमएलकागज"
+
+msgid ""
+"The file ‘%s’ could not be parsed because one or more of its included files "
+"is not a well-formed XML document."
+msgstr ""
+"फायल ‘%s’ ह्यको न: पारस करिथ कयाजकिह् अक्य खोत ज्याद ईन्कलुडिड फायलछन्न ठीक एक्सएमएल "
+"कागज"
+
+msgid "Unknown"
+msgstr "खबरकस"
+
+msgid "Unknown Error"
+msgstr "खबरकस गलती"
+
+msgid "Could Not Read File"
+msgstr "यह फाइल ह्यको न: परिथ"
+
+msgid "No information is available about this error."
+msgstr "य़थ गलती बारे मंज छन काह्: जानकरी"
+
+msgid ""
+"The file ‘%s’ could not be parsed because it is not a well-formed info page."
+msgstr "फासल ‘%s’ हयको न: पारस करिथ क्याज की यह् छुन ठीक इन्नफो वरुख।"
+
+msgid ""
+"The file ‘%s’ could not be read and decoded. The file may be compressed in "
+"an unsupported format."
+msgstr "फायल ‘%s’ ह्यको न परिथ या डिकोड करिथय। यह् फायलुक कामप्रसड फारमेटुकछुन्न "
+
+msgid "Use a private session"
+msgstr "पनुन सेशन करिव ईस्तेमाल"
+
+msgid "Define which cache directory to use"
+msgstr "यह् दपिव कि कस कैश डिरेक्ट्री करिव ईसतेमाल"
+
+msgid " GNOME Help Browser"
+msgstr "गनोम मदद बरोजर"
+
+msgid ""
+"The file ‘%s’ could not be parsed because it is not a well-formed man page."
+msgstr "यह् फायल ‘%s’ हयको न: पारस करिथ कयाज कि यह् छुन्न ठिक मेन पेज"
+
+msgid "Preparing to print"
+msgstr "प्रंट खत्तर तयरी"
+
+msgid "Printing is not supported on this printer"
+msgstr "प्रंटर्र छुन्न करान प्रंट"
+
+msgid "Printer %s does not support postscript printing."
+msgstr "प्रंटर्र %s छुन्न करान पौस्टसकरिपट प्रंट"
+
+msgid "Waiting to print"
+msgstr "परंट करनस प्ररिव"
+
+msgid "An error occurred while printing"
+msgstr "प्रट करान विज आव आकह् गल्ती"
+
+msgid "It was not possible to print your document: %s"
+msgstr "तुहंज कागजात: %s प्रंट करनिच अस्स न: गुनज्यश"
+
+msgid "the GNOME Support Forums"
+msgstr "गनोम मदद फौरम"
+
+msgid "No results for \"%s\""
+msgstr "\"%s\" खत्तर छुन काह् नतिज"
+
+msgid ""
+"Try using different words to describe the problem you're having or the topic "
+"you want help with."
+msgstr "अलग शब्दन मंज पंनिन परेशनी या टापिककरिव जह्यर"
+
+msgid "Search results for \"%s\""
+msgstr "छंडिव नतीजि \"%s\" खत्तर:"
+
+msgid "Repeat the search online at %s"
+msgstr "य: छाडुन कर्यतव आनलायन बेय्य %s प्यठ"
+
+msgid "re"
+msgstr "NULL"
+
+msgid "ers:er:ing:es:s:'s"
+msgstr "NULL"
+
+msgid "Search could not be processed"
+msgstr "छाडुन हयोक न परासेस करिथ"
+
+msgid "The requested search could not be processed."
+msgstr "यह् मंगमूत्त छांडून हयोक न: परासेस करितह्"
+
+msgid "Cannot process the search"
+msgstr "छांडनुक परास्से हयको न: करित"
+
+msgid "The search processor returned invalid results"
+msgstr "छांडनूक परास्सेरन कोर न: ठीक नतिज वापस"
+
+msgid "The page %s was not found in the TOC."
+msgstr "पेज %s औस न टाकस मंज"
+
+msgid "The requested page was not found in the TOC."
+msgstr "मगोमूत पेज औस न टाकस मंज"
+
+msgid ""
+"The TOC file could not be parsed because it is not a well-formed XML "
+"document."
+msgstr "टाक फाईल ह्यकव न: पारस करिथ कयाजिह् कि यह छुनह् ठीक एकएमएलकागज"
+
+msgid "Invalid Stylesheet"
+msgstr "खराब सटायलशीट्टह्"
+
+msgid "The XSLT stylesheet ‘%s’ is either missing, or it is not valid."
+msgstr "एक्सएसएलटी सटायलशीट्टह् ‘%s’ छ: गह्ब या छंन ठीक।"
+
+msgid "Broken Transformation"
+msgstr "फूट्टमिच: टरान्सफरमेशन"
+
+msgid "An unknown error occurred while attempting to transform the document."
+msgstr "आक्ह अनजान गलती गय याथ कागजस तबदिल करनस मंज"
+
+msgid "No href attribute found on yelp:document\n"
+msgstr "कगह् एचरेफ आव न अय्थिह् य़ेल्प कागजस्: मंज\n"
+
+msgid "Out of memory"
+msgstr "मेम्री नयबर"
+
+msgid "New Window"
+msgstr "नोव विंडो (N)"
+
+msgid "Print This Document ..."
+msgstr "यी: कागज छप्पवय्व"
+
+msgid "Print This Page ..."
+msgstr "यी: वरुख छप्पवय्व"
+
+msgid "About This Document"
+msgstr "यम्य: कागज मुतलिक"
+
+msgid "Close Window"
+msgstr "विंडो करिव बन्द (C)"
+
+msgid "Copy"
+msgstr "नकल (C)"
+
+msgid "Find previous occurrence of the word or phrase"
+msgstr "पतिम शब्द या पर्च्छ्छ छंडिव"
+
+msgid "Find next occurrence of the word or phrase"
+msgstr "बरूठिम शब्द या पर्च्छ्छ छंडिव"
+
+msgid "Show previous page in history"
+msgstr "पतिम वरूक वुच्छिव हिस्टरी मंज"
+
+msgid "Forward"
+msgstr "बरोट्ठ (F)"
+
+msgid "Show next page in history"
+msgstr "दयम वरूक वुच्छिव हिस्टरी मंज"
+
+msgid "Go to the listing of help topics"
+msgstr "मदद लिस्ट वुच्छनी गसिव"
+
+msgid "Previous Section"
+msgstr "पतिम हिस्ह् (P)"
+
+msgid "Next Section"
+msgstr "बरुठिम हिस्ह् (N)"
+
+msgid "Edit Bookmarks..."
+msgstr "एडिट करिव पसन्द निशान. . . (E)"
+
+msgid "Open Link in New Window"
+msgstr "लिंक नवि विंडो मंज खूलिव(N)"
+
+msgid "Help On this application"
+msgstr "यथ सामानच् मदद"
+
+msgid "Copy Email Address"
+msgstr "ईमेल पता करिव नकल (E)"
+
+msgid "Help Browser"
+msgstr "मदद बरवजर"
+
+msgid "Unknown Page"
+msgstr "यम पेज्जच छनह् पयी"
+
+msgid "The requested URI \"%s\" is invalid"
+msgstr "रिक्वेसटिड यूआरएल \"%s\" छु गलत"
+
+msgid "Unable to load page"
+msgstr "यह पेज ह्यको न: लोड"
+
+msgid "Error executing \"gnome-open\""
+msgstr "गलती आय \"gnome-open\" चलावनस मंज"
+
+msgid "Search:"
+msgstr "छंडिव (S)"
+
+msgid "Search for other documentation"
+msgstr "दयमन कागजन छंडिव"
+
+msgid "Cannot create window"
+msgstr "विंडो ह्यको न: बनह्वित"
+
+msgid "Cannot create search component"
+msgstr "छांडनुक हिस्ह ह्यको न: बनह्वित"
+
+msgid "Phrase not found"
+msgstr "यह् परर्च्छ आय न: अय्थह्"
+
+msgid ""
+"The file ‘%s’ could not be read.  This file might be missing, or you might "
+"not have permissions to read it."
+msgstr "‘%s’ फाइल हय्किव न: परित। यह: फाइल छ: रवमच्च या च्य छय्य न: आग्या यह् परनस ।"
+
+msgid "Yelp"
+msgstr "येल्प"
+
+msgid "A documentation browser and viewer for the Gnome Desktop."
+msgstr "गनोम डेस्कटॉप खत्तर: कागजय: ब्रॉउजर ।"
+
+msgid "Get help with GNOME"
+msgstr "गनोम पय्टठ नियू मदद"
+
+msgid "Accessories"
+msgstr "मददतूक सामान"
+
+msgid "Applications for fun"
+msgstr "मजदार सामान"
+
+msgid "Applications for word processing and other office tasks"
+msgstr "कागजी कामिह् तह् आफिस्चह् कामिह् करनुक सामान"
+
+msgid "Applications related to multimedia"
+msgstr "मलटिह् मिडियाऊक सामान"
+
+msgid "Applications related to software development"
+msgstr "साफटविसर ढेव्लपमेंटुक सामान"
+
+msgid "Applications specific to the panel"
+msgstr "पेनलुक सामान"
+
+msgid "Applications that support assistive technologies"
+msgstr "ऐस्सटिव टेकनोलाजियुक सामान"
+
+msgid "KDE"
+msgstr "केडीई"
+
+msgid "Learning applications"
+msgstr "सामान चलावुन हैच्छुन"
+
+msgid "Office"
+msgstr "आफिस"
+
+msgid "Panel Applets"
+msgstr "पटलल एप्लेट्स"
+
+msgid "Programming"
+msgstr "प्रोग्रामिंग"
+
+msgid "Scientific Applications."
+msgstr "सयन्टिफक सामान"
+
+msgid "Utility applications"
+msgstr "सामान ठिक करन्न खत्तर सामान"
+
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+msgstr[1] ""
+
+

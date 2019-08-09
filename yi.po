@@ -1,0 +1,3357 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:39:34 CDT 2013 ---
+#
+# Raphael Finkel <raphael@cs.uky.edu>, 2003.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2009-12-21 15:05+0800\n"
+"PO-Revision-Date: 2003-03-19\n"
+"Last-Translator: Raphael Finkel <raphael@cs.uky.edu>\n"
+"Language-Team: Yiddish <raphael@cs.uky.edu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "invalid"
+msgstr "אומלעקסיק"
+
+msgid "alert"
+msgstr "היט זיך"
+
+msgid "animation"
+msgstr "אַנימאַציע"
+
+msgid "arrow"
+msgstr "פֿײַל"
+
+msgid "calendar"
+msgstr "לוח"
+
+msgid "canvas"
+msgstr "לײַװנט"
+
+msgid "dial"
+msgstr "זײגער־פּנים"
+
+msgid "dialog"
+msgstr "דיִאַלאָג"
+
+msgid "filler"
+msgstr "אײַנפֿיל"
+
+msgid "frame"
+msgstr "ראָם"
+
+msgid "icon"
+msgstr "בילדל"
+
+msgid "image"
+msgstr "בילד"
+
+msgid "label"
+msgstr "עטיקעט"
+
+msgid "list"
+msgstr "רשימה"
+
+msgid "menu"
+msgstr "מעניו"
+
+msgid "panel"
+msgstr "טאַפֿליע"
+
+msgid "separator"
+msgstr "צעשײדער"
+
+msgid "slider"
+msgstr "גליטשער"
+
+msgid "statusbar"
+msgstr "סטאַטוסװירע"
+
+msgid "table"
+msgstr "טאַבעלע"
+
+msgid "terminal"
+msgstr "טערמינאַל"
+
+msgid "text"
+msgstr "טעקסט"
+
+msgid "tree"
+msgstr "בױם"
+
+msgid "unknown"
+msgstr "אומבאַקאַנט"
+
+msgid "viewport"
+msgstr "געשטאַלט־פֿענצטער"
+
+msgid "window"
+msgstr "פֿענצטער"
+
+msgid "header"
+msgstr "קאָפּצעטל"
+
+msgid "footer"
+msgstr "פֿוסצעטל"
+
+msgid "paragraph"
+msgstr "פּאַראַגראַף"
+
+msgid "ruler"
+msgstr "װירע"
+
+msgid "application"
+msgstr "אַפּליקאַציע"
+
+
+msgid "none"
+msgstr "קײנע"
+
+
+msgid "Failed to open file '%s': %s"
+msgstr "ניט געקענט עפֿענען טעקע '%s': %s"
+
+msgid "Image file '%s' contains no data"
+msgstr "בילדטעקע '%s' האָט קײן דאַטן ניט"
+
+msgid ""
+"Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr ""
+"ניט געקענט אַרײַנצושטעלן בילד '%s' צוליב אומבאַקאַנטע סיבות, מסתּמא אַ קאָרומפּירטע "
+"בילדטעקע"
+
+msgid ""
+"Failed to load animation '%s': reason not known, probably a corrupt "
+"animation file"
+msgstr ""
+"ניט געקענט אַרײַנצושטעלן אַנימאַציע '%s' צוליב אומבאַקאַנטע סיבות, מסתּמא אַ "
+"קאָרומפּירטע אַנימאַציע טעקע"
+
+msgid "Unable to load image-loading module: %s: %s"
+msgstr "ניט געקענט אַרײַנצושטעלן בילד־אַרײַנשטעל מאָדול: %s: %s"
+
+msgid "Image type '%s' is not supported"
+msgstr "בילד־סאָרט '%s' ניט געשטיצט"
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "ניט געקענט דערקענען בילד־טעקע פֿאָרמאַטירונג אין טעקע '%s'"
+
+msgid "Unrecognized image file format"
+msgstr "ניט דערקענט בילד־טעקע פֿאָרמאַטירונג"
+
+msgid "Failed to load image '%s': %s"
+msgstr "ניט געקענט אַרײַנשטעלן בילד '%s': %s"
+
+msgid "This build of gdk-pixbuf does not support saving the image format: %s"
+msgstr ""
+"דער געבױ פֿון gdk-pixbuf שטיצט ניט אונטער אױפֿהיט פֿון בילד פֿאָרמאַטירונג: %s"
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "ניט געקענט עפֿענען '%s' צו שרײַבן: %s"
+
+msgid ""
+"Failed to close '%s' while writing image, all data may not have been saved: "
+"%s"
+msgstr ""
+"ניט געקענט פֿאַרמאַכן '%s' בשעת שרײַבן די בילד; קען זײַן אַז ניט אױפֿגעהיט אַלע "
+"דאַטן: %s"
+
+msgid "Incremental loading of image type '%s' is not supported"
+msgstr "צוגעבלעך אַרײַנשטעל פֿון בילד־סאָרט '%s' ניט געשטיצט"
+
+msgid "Image header corrupt"
+msgstr "קאָרומפּירטער בילדקאָפּ"
+
+msgid "Image format unknown"
+msgstr "ניט־באַקאַנטע בילד־פֿאָרעם"
+
+msgid "Image pixel data corrupt"
+msgstr "פֿאַלשע בילדצעל דאַטן"
+
+msgid "Unexpected icon chunk in animation"
+msgstr "אומדערװאַרטע בילדל־שטיק אין אַנימאַציע"
+
+msgid "Unsupported animation type"
+msgstr "אַנימאַציע־סאָרט ניט געשטיצט"
+
+msgid "Invalid header in animation"
+msgstr "אומלעקסיק קאָפּצעטל אין אַנימאַציע"
+
+msgid "Not enough memory to load animation"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן אַנימאַציע"
+
+msgid "Malformed chunk in animation"
+msgstr "אומלעקסיק שטיק אין אַנימאַציע"
+
+msgid "The ANI image format"
+msgstr "ANI בילד־פֿאָרעם"
+
+msgid "BMP image has bogus header data"
+msgstr "BMP בילד האָט פֿאַלשע קאָפּצעטל דאַטן"
+
+msgid "Not enough memory to load bitmap image"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן ביטמאַפּע בילד"
+
+msgid "BMP image has unsupported header size"
+msgstr "BMP בילד האָט אַ ניט־געשטיצטע קאָפּצעטל גרײס"
+
+msgid "Premature end-of-file encountered"
+msgstr "צו־פֿריִיִקער טעקע־סוף"
+
+msgid "The BMP image format"
+msgstr "BMP בילד־פֿאָרעם"
+
+msgid "The GIF image format"
+msgstr "GIF בילד־פֿאָרעם"
+
+msgid "The ICO image format"
+msgstr "ICO בילד־פֿאָרעם"
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%s' could not be "
+"parsed."
+msgstr ""
+"די JPEG קװאַליטעט מוז האָבן אַ באַטרעף צװישן 0 און 100; דער באַטרעף '%s' איז "
+"אומלעקסיק"
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%d' is not allowed."
+msgstr ""
+"די JPEG קװאַליטעט מוז האָבן אַ באַטרעף צװישן 0 און 100; דער באַטרעף '%d' איז "
+"אומלעקסיק"
+
+msgid "The JPEG image format"
+msgstr "JPEG בילד־פֿאָרעם"
+
+msgid "Failure reading GIF: %s"
+msgstr "דורכפֿאַל אין לײענען GIF: %s"
+
+msgid "GIF file was missing some data (perhaps it was truncated somehow?)"
+msgstr "אין GIF טעקע פֿעלן דאַטן (אפֿשר איז די טעקע פֿאַרקירצט?)"
+
+msgid "Internal error in the GIF loader (%s)"
+msgstr "אינערלעכע טעות אין GIF אַרײַנשטעל (%s)"
+
+msgid "Stack overflow"
+msgstr "הײפֿטל אָפּפֿלוס"
+
+msgid "Bad code encountered"
+msgstr "געפֿונען אומלעקסיקע פּראָגראַמװאַרג"
+
+msgid "Circular table entry in GIF file"
+msgstr "צעפּלאָשעטע טאַבעלע פּאָזיציע אין GIF טעקע"
+
+msgid "Not enough memory to load GIF file"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן GIF טעקע"
+
+msgid "GIF image is corrupt (incorrect LZW compression)"
+msgstr "קאָרומפּירטע GIF בילד (אומלעקסיקער LZW אײַנקלענערונג)"
+
+msgid "File does not appear to be a GIF file"
+msgstr "טעקע זעט ניט אױס װי קײן GIF טעקע"
+
+msgid "Version %s of the GIF file format is not supported"
+msgstr "װערסיע %s פֿון GIF טעקע פֿאָרמאַטירונג ניט געשטיצט"
+
+msgid ""
+"GIF image has no global colormap, and a frame inside it has no local "
+"colormap."
+msgstr ""
+"דאָס GIF בילד האָט ניט קײן גלאָבאַלע פֿאַרבמאַפּע, און אַ ראָם אין אים האָט ניט קײן "
+"לאָקאַלע פֿאַרבמאַפּע"
+
+msgid "GIF image was truncated or incomplete."
+msgstr "דאָס GIF בילד איז אָדער פֿאַרקירצט אָדער האַלב"
+
+msgid "Invalid header in icon"
+msgstr "אומלעקסיק קאָפּצעטל אין בילדל"
+
+msgid "Not enough memory to load icon"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן בילדל"
+
+msgid "Compressed icons are not supported"
+msgstr "אײַנגעקלענערטע בילדלעך זײַנען ניט געשטיצט"
+
+msgid "Icon has zero width"
+msgstr "בילדל האָט אַ נוליקע ברײט"
+
+msgid "Icon has zero height"
+msgstr "בילדל האָט אַ נוליקע הײך"
+
+msgid "Unsupported icon type"
+msgstr "בילדל סאָרט ניט געשטיצט"
+
+msgid "Not enough memory to load ICO file"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן ICO טעקע"
+
+msgid "Error interpreting JPEG image file (%s)"
+msgstr "טעות אין באַשײדן JPEG בילדטעקע (%s)"
+
+msgid ""
+"Insufficient memory to load image, try exiting some applications to free "
+"memory"
+msgstr ""
+"ניט גענוג זכּרון אַרײַנצושטעלן בילד; פּרוּװ ענדיקן אַנדערע פּראָגראַמען צו דערלײזן "
+"זכּרון"
+
+msgid "Unsupported JPEG color space (%s)"
+msgstr "ניט געשטיצטע JPEG פֿאַרב־שטח (%s)"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "ניט געקענט געפֿינען זכּרון אַרײַנצושטעלן JPEG טעקע"
+
+msgid "Bits per channel of PNG image is invalid."
+msgstr "באַטרעף פֿון ביטן אין קאַנאַל פֿון PNG בילד איז אומלעקסיק"
+
+msgid "Transformed PNG has zero width or height."
+msgstr "טראַנספֿאָרמירטע PNG האָט נוליקע ברײט אָדער הײך"
+
+msgid "Bits per channel of transformed PNG is not 8."
+msgstr "ביטן אין קאַנאַל פֿון טראַנספֿאָרמירטע PNG איז ניט 8"
+
+msgid "Transformed PNG not RGB or RGBA."
+msgstr "טראַנספֿאָרמירטע PNG איז ניט RGB און ניט RGBA"
+
+msgid "Transformed PNG has unsupported number of channels, must be 3 or 4."
+msgstr "טראַנספֿאָרמירטע PNG האָט אַ ניט־געשטיצטן צאָל קאַנאַלן; מוז זײַן 3 אָדער 4"
+
+msgid "Fatal error in PNG image file: %s"
+msgstr "טױטפֿאַל אין PNG בילדטעקע: %s"
+
+msgid "Insufficient memory to load PNG file"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן PNG טעקע"
+
+msgid ""
+"Insufficient memory to store a %ld by %ld image; try exiting some "
+"applications to reduce memory usage"
+msgstr ""
+"ניט גענוג זכּרון פֿאַרהאַלטן אַ בילד מיט גרײס %ld מיט %ld; פּרוּװ ענדיקן עטלעכע "
+"פּראָגראַמען צו פֿאַרקלענערן דעם מאַנגל אין זכּרון"
+
+msgid "Fatal error reading PNG image file"
+msgstr "טױטפֿאַל אין לײענען PNG בילדטעקע"
+
+msgid "Fatal error reading PNG image file: %s"
+msgstr "טױטפֿאַל אין לײענען PNG בילדטעקע: %s"
+
+msgid ""
+"Keys for PNG text chunks must have at least 1 and at most 79 characters."
+msgstr "שליסלעך פֿאַר PNG טעקסט שטיקער מוזן האָבן צװישן 1 און 79 שריפֿטצײכנס"
+
+msgid "Keys for PNG text chunks must be ASCII characters."
+msgstr "שליסלעך פֿאַר PNG טעקסט שטיקער מוזן זײַן ASCII שריפֿטצײכנס"
+
+msgid "The PNG image format"
+msgstr "די PNG בילד־פֿאָרמאַטירונג"
+
+msgid "PNM loader expected to find an integer, but didn't"
+msgstr "PNM אַרײַנשטעל האָט דערװאַרט אַ גאַנצער נומער, אָבער ניט געפֿונען"
+
+msgid "PNM file has an incorrect initial byte"
+msgstr "PNM טעקע האָט אַ פֿאַלש ערשט אַכטעלע"
+
+msgid "PNM file is not in a recognized PNM subformat"
+msgstr "PNM טעקע האָט ניט קײן באַקאַנטע PNM אונטער־פֿאָרמאַטירונג"
+
+msgid "PNM file has an image width of 0"
+msgstr "PNM טעקע האָט אַ נוליקע בילד־ברײט"
+
+msgid "PNM file has an image height of 0"
+msgstr "PNM טעקע האָט אַ נוליקע בילד־הײך"
+
+msgid "Maximum color value in PNM file is 0"
+msgstr "PNM טעקע האָט אַ נוליקן העכסטן פֿאַרב־באַטרעף"
+
+msgid "Maximum color value in PNM file is too large"
+msgstr "PNM טעקע האָט אַ צו־גרױסן העכסטן פֿאַרב־באַטרעף"
+
+msgid "Raw PNM image type is invalid"
+msgstr "רױער PNM בילד־סאָרט איז אומלעקסיק"
+
+msgid "PNM image loader does not support this PNM subformat"
+msgstr "PNM בילד אַרײַנשטעל שטיצט ניט אונטער דעם PNM אונטער־פֿאָרמאַטירונג"
+
+msgid "Raw PNM formats require exactly one whitespace before sample data"
+msgstr ""
+"רױע PNM פֿאָרמאַטירונגען פֿאָדערן פּינקטלעך אײן לײדיקע פּאָזיציע פֿאַר מוסטער־דאַטן"
+
+msgid "Insufficient memory to load PNM context struct"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן PNM קאָנטעקסט־סטרוקטור"
+
+msgid "Unexpected end of PNM image data"
+msgstr "ניט דערװאַרטער סוף פֿון PNM בילד דאַטן"
+
+msgid "Insufficient memory to load PNM file"
+msgstr "ניט גענוג זכּרון אַרײַנצושטעלן PNM טעקע"
+
+msgid "The PNM/PBM/PGM/PPM image format family"
+msgstr "PNM/PBM/PGM/PPM בילד־פֿאָרעם משפּחה"
+
+msgid "QTIF atom size too large (%d byte)"
+msgid_plural "QTIF atom size too large (%d bytes)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Failed to skip the next %d byte with seek()."
+msgid_plural "Failed to skip the next %d bytes with seek()."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "RAS image has bogus header data"
+msgstr "RAS בילד האָט פֿאַלשע קאָפּצעטל דאַטן"
+
+msgid "RAS image has unknown type"
+msgstr "RAS בילד האָט אַן אומבאַקאַנטן סאָרט"
+
+msgid "unsupported RAS image variation"
+msgstr "ניט געשטיצטע RAS־בילד װאַריִאַציע"
+
+msgid "Not enough memory to load RAS image"
+msgstr "ניט גענוג זכּרון אַרײַנשטעלן RAS־בילד"
+
+msgid "The Sun raster image format"
+msgstr "Sun ראַסטער בילד־פֿאָרעם"
+
+msgid "Unexpected bitdepth for colormap entries"
+msgstr "אומדערװאַרטע ביט־טיפֿקײט פֿאַר פֿאַרבמאַפּע ערטער"
+
+msgid "TGA image has invalid dimensions"
+msgstr "TGA בילד האָט אומלעקסיקע דימענסיעס"
+
+msgid "TGA image type not supported"
+msgstr "TGA בילד סאָרט ניט געשטיצט"
+
+msgid "Excess data in file"
+msgstr "איבעריקע דאַטן אין טעקע"
+
+msgid "The Targa image format"
+msgstr "Targa בילד־פֿאָרעם"
+
+msgid "Could not get image width (bad TIFF file)"
+msgstr "ניט געקענט דערטאַפּן בילד־ברײט (אומלעקסיקע TIFF טעקע"
+
+msgid "Could not get image height (bad TIFF file)"
+msgstr "ניט געקענט דערטאַפּן בילד־הײך (אומלעקסיקע TIFF טעקע)"
+
+msgid "Width or height of TIFF image is zero"
+msgstr "נוליקע ברײט אָדער הײך פֿון TIFF בילד"
+
+msgid "Dimensions of TIFF image too large"
+msgstr "דימענסיעס פֿון TIFF בילד זײַנען צו גרױס"
+
+msgid "Insufficient memory to open TIFF file"
+msgstr "ניט גענוג זכּרון עפֿענען TIFF טעקע"
+
+msgid "Failed to load RGB data from TIFF file"
+msgstr "דורכפֿאַל אין אַרײַנשטעלן RGB דאַטן פֿון TIFF טעקע"
+
+msgid "Failed to open TIFF image"
+msgstr "דורכפֿאַל אין עפֿענען TIFF בילד"
+
+msgid "TIFFClose operation failed"
+msgstr "דורכפֿאַל אין פֿאַרמאַכן TIFF"
+
+msgid "Failed to load TIFF image"
+msgstr "דורכפֿאַל אין אַרײַנשטעלן TIFF בילד"
+
+msgid "The TIFF image format"
+msgstr "TIFF בילד־פֿאָרעם"
+
+msgid "Image has zero width"
+msgstr "בילד האָט אַ נוליקע ברײט"
+
+msgid "Image has zero height"
+msgstr "בילד האָט אַ נוליקע הײך"
+
+msgid "Not enough memory to load image"
+msgstr "ניט גענוג זכּרון אַרײַנשטעלן בילד"
+
+msgid "Couldn't save the rest"
+msgstr "ניט געקענט אױפֿהיטן דאָס רעשטל"
+
+msgid "The WBMP image format"
+msgstr "WBMP בילד־פֿאָרעם"
+
+msgid "Invalid XBM file"
+msgstr "אומלעקסיקע XBM טעקע"
+
+msgid "Insufficient memory to load XBM image file"
+msgstr "ניט גענוג זכּרון אַרײַנשטעלן XBM בילדטעקע"
+
+msgid "Failed to write to temporary file when loading XBM image"
+msgstr "דורכפֿאַל אין שרײַבן צײַטװײַליקע טעקע בשעת אַרײַנשטעלן XBM בילד"
+
+msgid "The XBM image format"
+msgstr "XBM בילד־פֿאָרעם"
+
+msgid "No XPM header found"
+msgstr "ניט געפֿונען קײן XPM קאָפּצעטל"
+
+msgid "XPM file has image width <= 0"
+msgstr "XPM טעקע האָט בילד ברײט <= 0"
+
+msgid "XPM file has image height <= 0"
+msgstr "XPM טעקע האָט בילד הײך <= 0"
+
+msgid "XPM has invalid number of chars per pixel"
+msgstr "XPM האָט אַן אומלעקסיקן צאָל שריפֿטצײכנס אין אַ בילדצעל"
+
+msgid "XPM file has invalid number of colors"
+msgstr "XPM טעקע האָט אַן אומלעקסיקן צאָל פֿאַרבן"
+
+msgid "Failed to write to temporary file when loading XPM image"
+msgstr "דורכפֿאַל אין שרײַבן צײַטװײַליקע טעקע בשעת אַרײַנשטעלן XPM בילד"
+
+msgid "The XPM image format"
+msgstr "די XPM בילד פֿאָרמאַטירונג"
+
+
+msgid "Image"
+msgstr "בילד"
+
+msgid "Could not read %d byte from '%s': %s"
+msgid_plural "Could not read %d bytes from '%s': %s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d × %d pixel"
+msgid_plural "%d × %d pixels"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Background"
+msgstr "הינטערגרונט"
+
+msgid "Selection"
+msgstr "סעלעקציע"
+
+msgid "Undo"
+msgstr "פֿאַרקער"
+
+msgid "Width:"
+msgstr "ברײט:"
+
+msgid "Height:"
+msgstr "הײך: "
+
+msgid "Author:"
+msgstr "מחבר"
+
+msgid "Preview"
+msgstr "פֿאָרױסװײַז"
+
+msgid "Preferences"
+msgstr "פּרעפֿערענצן"
+
+msgid "General"
+msgstr "אַלגעמײן"
+
+msgid "Folders"
+msgstr "פּאַפּקעס"
+
+msgid "There is one image with unsaved changes:"
+msgid_plural "There are %d images with unsaved changes:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "If you don't save the image, changes from the last hour will be lost."
+msgid_plural ""
+"If you don't save the image, changes from the last %d hours will be lost."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"If you don't save the image, changes from the last hour and %d minute will "
+"be lost."
+msgid_plural ""
+"If you don't save the image, changes from the last hour and %d minutes will "
+"be lost."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "If you don't save the image, changes from the last minute will be lost."
+msgid_plural ""
+"If you don't save the image, changes from the last %d minutes will be lost."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "(none)"
+msgstr "(גאָרניט)"
+
+msgid "Grayscale"
+msgstr "שװאַרץ־גרױ־װײַס"
+
+msgid "Hue:"
+msgstr "שאַטירונג"
+
+msgid "Saturation:"
+msgstr "דורכװײק"
+
+msgid "Adjustment"
+msgstr "צופּאַסונג"
+
+msgid "Gamma"
+msgstr "γ (גאַמאַ)"
+
+msgid "Size:"
+msgstr "גרײס:"
+
+msgid "Text Color"
+msgstr "טעקסט פֿאַרב"
+
+msgid "Color:"
+msgstr "פֿאַרב:"
+
+msgid "Text"
+msgstr "טעקסט"
+
+msgid "Save"
+msgstr "היט אױף"
+
+msgid "Width"
+msgstr "ברײט"
+
+msgid "Height"
+msgstr "הײך"
+
+msgid "None"
+msgstr "קײנע"
+
+msgid "Message repeated once."
+msgid_plural "Message repeated %d times."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Change Background Color"
+msgstr "בײַט הינטער־פֿאַרב איבער"
+
+msgid "Type"
+msgstr "טיפּ"
+
+msgid "Mode"
+msgstr "מאָדע"
+
+msgid "Selection: "
+msgstr "סעלעקציע: "
+
+msgid "N/A"
+msgstr "־"
+
+
+msgid "Font"
+msgstr "שריפֿט"
+
+msgid "Pattern"
+msgstr "ציל"
+
+msgid "Left"
+msgstr "לינקס"
+
+msgid "Orientation"
+msgstr "אָריִענטירונג"
+
+msgid "Right"
+msgstr "רעכטס"
+
+msgid "Size"
+msgstr "גרײס"
+
+msgid "Padding"
+msgstr "לײדיק אָרט"
+
+msgid "Color"
+msgstr "פֿאַרב"
+
+msgid "Columns"
+msgstr "זײַלן"
+
+msgid "Rows"
+msgstr "שורות"
+
+msgid "Spacing"
+msgstr "אָפּרוקונג"
+
+msgid "Wrap"
+msgstr "שאַר"
+
+
+msgid "Glade Interface Designer"
+msgstr "גלײד צובינד אױסאַרבעטער"
+
+msgid "Grid Options"
+msgstr "ראַסטערפֿעלד אָפּציעס"
+
+msgid "Horizontal Spacing:"
+msgstr "האָריזאָנטאַלישע אָפּרוקונג:"
+
+msgid "Vertical Spacing:"
+msgstr "װערטיקאַלישע אָפּרוקונג:"
+
+msgid "Grid Style:"
+msgstr "ראַסטערפֿעלד סטיל:"
+
+msgid "Dots"
+msgstr "פּינטלעך:"
+
+msgid "Lines"
+msgstr "שורות"
+
+msgid "Snap Options"
+msgstr "אױטאָמאַטיש־באַװעג אָפּציעס"
+
+msgid "Horizontal Snapping:"
+msgstr "האָריזאָנטאַלישע אױטאָמאַטיש־באַװעגונג"
+
+msgid "Vertical Snapping:"
+msgstr "װערטיקאַלישע אױטאָמאַטיש־באַװעגונג"
+
+msgid "Top"
+msgstr "קאָפּ"
+
+msgid "Bottom"
+msgstr "פֿוס"
+
+msgid "Couldn't insert a GtkScrolledWindow widget."
+msgstr "ניט געקענט אַרײַנלײגן קײן GtkScrolledWindow צעפּיכעסל"
+
+msgid "Couldn't insert a GtkViewport widget."
+msgstr "ניט געקענט אַרײַנלײגן קײן GtkViewport צעפּיכעסל"
+
+msgid "Couldn't add new widget."
+msgstr "ניט געקענט צולײגן דאָס נײַע צעפּיכעסל"
+
+msgid ""
+"You can't add a widget at the selected position.\n"
+"\n"
+"Tip: GTK+ uses containers to lay out widgets.\n"
+"Try deleting the existing widget and using\n"
+"a box or table container instead.\n"
+msgstr ""
+"דו קענסט ניט צולײגן קײן צעפּיכעסל אין דעם סעלעקטירטן אָרט.\n"
+"\n"
+"רמז:  פּרוּװ אױסמעקן דאָס פֿאַראַנענע צעפּיכעסל און ניצן אַנשטאָט דעם אַ קעסטל אָדער "
+"טאַבעלע־פּעקל.\n"
+
+msgid "Couldn't delete widget."
+msgstr "ניט געקענט אױסמעקן דאָס צעפּיכעסל"
+
+msgid "The widget can't be deleted"
+msgstr "דאָס צעפּיכעסל לאָזט זיך ניט אױסמעקן"
+
+msgid ""
+"The widget is created automatically as part of the parent widget, and it "
+"can't be deleted."
+msgstr ""
+"דאָס צעפּיכעסל איז אױטאָמאַטיש באַשאַפֿן װי אַ טײל פֿון זײַן טאַטע־מאַמע, און עס לאָזט "
+"זיך ניט אױסמעקן"
+
+msgid "Border Width:"
+msgstr "צאַמרינע ברײט:"
+
+msgid "The width of the border around the container"
+msgstr "די ברײט פֿון דער צאַמרינע אַרום דעם פּעקל"
+
+msgid "Select"
+msgstr "קלײַב אױס"
+
+msgid "Remove Scrolled Window"
+msgstr "נעם אַװעק דורכגעבלעטערטן פֿענצטער"
+
+msgid "Add Scrolled Window"
+msgstr "לײג צו דורכגעבלעטערטן פֿענצטער"
+
+msgid "Remove Alignment"
+msgstr "נעם אַװעק אױסגלײַכונג"
+
+msgid "Add Alignment"
+msgstr "לײג צו אױסגלײַכונג"
+
+msgid "Remove Event Box"
+msgstr "נעם אַװעק טרעפֿעניש־קעסטל"
+
+msgid "Add Event Box"
+msgstr "לײג צו טרעפֿעניש־קעסטל"
+
+msgid "Redisplay"
+msgstr "װײַז װידער"
+
+msgid "Cut"
+msgstr "שער"
+
+msgid "Copy"
+msgstr "קאָפּיר"
+
+msgid "Paste"
+msgstr "קלעפּ"
+
+msgid "Delete"
+msgstr "מעק אַרױס"
+
+msgid "replacing child of container - not implemented yet\n"
+msgstr "פֿאַרבײַט פֿון פּעקלס קינד ־ נאָך ניט רעאַליזירט\n"
+
+msgid "Couldn't insert GtkAlignment widget."
+msgstr "ניט געקענט אַרײַנלײגן GtkAlignment צעפּיכעסל"
+
+msgid "Couldn't remove GtkAlignment widget."
+msgstr "ניט געקענט אױסמעקן GtkAlignment צעפּיכעסל"
+
+msgid "Couldn't insert GtkEventBox widget."
+msgstr "ניט געקענט אַרײַנלײגן GtkEventBox צעפּיכעסל"
+
+msgid "Couldn't remove GtkEventBox widget."
+msgstr "ניט געקענט אױסמעקן GtkEventBox צעפּיכעסל"
+
+msgid "Couldn't insert GtkScrolledWindow widget."
+msgstr "ניט געקענט אַרײַנלײגן GtkScrolledWindow צעפּיכעסל"
+
+msgid "Couldn't remove GtkScrolledWindow widget."
+msgstr "ניט געקענט אױסמעקן GtkScrolledWindow צעפּיכעסל"
+
+msgid "Remove Label"
+msgstr "מעק אױס עטיקעט"
+
+msgid "Label with Accelerator"
+msgstr "עטיקעט מיט פֿאַרגיכערער"
+
+msgid "X Align:"
+msgstr "האָריזאָנטאַלישע אױסגלײַכונג:"
+
+msgid "The horizontal alignment of the child widget"
+msgstr "די האָריזאָנטאַלישע אױסגלײַכונג פֿונעם קינד צעפּיכעסל"
+
+msgid "Y Align:"
+msgstr "װערטיקאַלישע אױסגלײַכונג:"
+
+msgid "The vertical alignment of the child widget"
+msgstr "די װערטיקאַלישע אױסגלײַכונג פֿונעם קינד צעפּיכעסל"
+
+msgid "X Scale:"
+msgstr "האָריזאָנטאַלישע מאָס:"
+
+msgid "The horizontal scale of the child widget"
+msgstr "די האָריזאָנטאַלישע מאָס פֿונעם קינד צעפּיכעסל"
+
+msgid "Y Scale:"
+msgstr "װערטיקאַלישע מאָס:"
+
+msgid "The vertical scale of the child widget"
+msgstr "די װערטיקאַלישע מאָס פֿונעם קינד צעפּיכעסל"
+
+msgid "Alignment"
+msgstr "אױסגלײַכונג"
+
+msgid "Direction:"
+msgstr "ריכטונג:"
+
+msgid "The direction of the arrow"
+msgstr "די ריכטונג פֿון דער פֿײַל"
+
+msgid "Shadow:"
+msgstr "שאָטן:"
+
+msgid "The shadow type of the arrow"
+msgstr "דער שאָטן־סאָרט פֿון דער פֿײַל"
+
+msgid "The horizontal alignment of the arrow"
+msgstr "די האָריזאָנטאַלישע אױסגלײַכונג פֿון דער פֿײַל"
+
+msgid "The vertical alignment of the arrow"
+msgstr "די װערטיקאַלישע אױסגלײַכונג פֿון דער פֿײַל"
+
+msgid "X Pad:"
+msgstr "האָריזאָנטאַליש לײדיק אָרט"
+
+msgid "The horizontal padding"
+msgstr "דאָס האָריזאָנטאַלישע לײדיקע אָרט"
+
+msgid "Y Pad:"
+msgstr "װערטיקאַלישע לײדיק אָרט"
+
+msgid "The vertical padding"
+msgstr "דאָס װערטיקאַלישע לײדיקע אָרט"
+
+msgid "Arrow"
+msgstr "פֿײַל"
+
+msgid "Label X Align:"
+msgstr "עטיקעט האָריזאָנטאַלישע אױסגלײַכונג"
+
+msgid "The horizontal alignment of the frame's label widget"
+msgstr "די האָריזאָנטאַלישע אױסגלײַכונג פֿון דער ראָמס עטיקעט צעפּיכעסל"
+
+msgid "Label Y Align:"
+msgstr "עטיקעט װערטיקאַלישע אױסגלײַכונג"
+
+msgid "The vertical alignment of the frame's label widget"
+msgstr "די װערטיקאַלישע אױסגלײַכונג פֿון דער ראָמס עטיקעט צעפּיכעסל"
+
+msgid "The type of shadow of the frame"
+msgstr "דער סאָרט פֿון שאָטן פֿון דער ראָם"
+
+msgid "Number of columns:"
+msgstr "צאָל זײַלן:"
+
+msgid "Title:"
+msgstr "טיטל:"
+
+msgid "Type:"
+msgstr "טיפּ:"
+
+msgid "OK"
+msgstr "גוט"
+
+msgid "Close"
+msgstr "פֿאַרמאַך"
+
+msgid "Font Selection"
+msgstr "שריפֿט סעלעקציע"
+
+msgid "Position:"
+msgstr "פּאָזיציע"
+
+msgid "Label"
+msgstr "עטיקעט"
+
+msgid "Layout"
+msgstr "אױסשטעל"
+
+msgid "List"
+msgstr "רשימה"
+
+msgid "Help"
+msgstr "געהילף"
+
+msgid "Number of rows:"
+msgstr "צאָל שורות:"
+
+msgid "The number of rows in the table"
+msgstr "די צאָל שורות אין דער טאַבעלע"
+
+msgid "The number of columns in the table"
+msgstr "די צאָל זײַלן אין דער טאַבעלע"
+
+msgid "Table"
+msgstr "טאַבעלע"
+
+msgid "Center"
+msgstr "צענטער"
+
+msgid "Fill"
+msgstr "דערפֿיל"
+
+msgid "Character"
+msgstr "שריפֿטצײכן"
+
+msgid "Pixels of blank space above paragraphs"
+msgstr "בילדצעלן פֿון לײדיקן אָרט איבער די פּאַראַגראַפֿן"
+
+msgid "Pixels of blank space below paragraphs"
+msgstr "בילדצעלן פֿון לײדיקן אָרט אונטער די פּאַראַגראַפֿן"
+
+msgid "Pixels of blank space between wrapped lines in a paragraph"
+msgstr "בילדצעלן פֿון לײדיקן אָרט צװישן געשאַרטע שורות אין אַ פּאַראַגראַף"
+
+msgid "Width of the left margin in pixels"
+msgstr "ברײט פֿונעם לינקן זאַפּאַס, אין בילדצעלן"
+
+msgid "Width of the right margin in pixels"
+msgstr "ברײט פֿונעם רעכטן זאַפּאַס, אין בילדצעלן"
+
+msgid "Style:"
+msgstr "סטיל:"
+
+msgid "The title of the window"
+msgstr "דער טיטל פֿונעם פֿענצטער"
+
+msgid "The type of the window"
+msgstr "דער סאָרט פֿונעם פֿענצטער"
+
+msgid "The initial position of the window"
+msgstr "די אָנהײב־פּאָזיציע פֿונעם פֿענצטער"
+
+msgid "Window"
+msgstr "פֿענצטער"
+
+msgid "Error"
+msgstr "טעות"
+
+msgid "Widget"
+msgstr "צעפּיכעסל"
+
+msgid "Description:"
+msgstr "באַשרײַבונג:"
+
+msgid "New"
+msgstr "נײַ"
+
+msgid "Name"
+msgstr "נאָמען"
+
+msgid "Active"
+msgstr "אַקטיװ"
+
+msgid "Group"
+msgstr "גרופּע"
+
+msgid "Icon"
+msgstr "בילדל"
+
+msgid "The name of the widget"
+msgstr "דער נאָמען פֿון דעם צעפּיכעסל"
+
+msgid "Add"
+msgstr "לײג צו"
+
+msgid "No"
+msgstr "נײן"
+
+msgid "Normal"
+msgstr "נאָרמאַל"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Yes"
+msgstr "יאָ"
+
+msgid "Open"
+msgstr "עפֿן"
+
+msgid "Open File"
+msgstr "עפֿן טעקע"
+
+msgid "Description"
+msgstr "באַשרײַבונג"
+
+msgid "Style"
+msgstr "סטיל"
+
+msgid "Font:"
+msgstr "שריפֿט:"
+
+msgid "Foreground color"
+msgstr "פֿאַר־פֿאַרב"
+
+msgid "Background color"
+msgstr "הינטערפֿאַרב"
+
+msgid "Update"
+msgstr "דערהײַנטיק"
+
+msgid "Clear"
+msgstr "זײַ מבֿטל"
+
+msgid "Styles"
+msgstr "סטילן"
+
+msgid "Rename"
+msgstr "פֿאַרװאַנדל"
+
+msgid "Cancel"
+msgstr "רוף אָפּ"
+
+
+msgid "Conversion from character set '%s' to '%s' is not supported"
+msgstr "פֿאַרװאַנדלונג פֿון קאָדירונג %s צו %s ניט געשטיצט"
+
+msgid "Invalid byte sequence in conversion input"
+msgstr "אומלעקסיק אַכטעלע־סעײַװענץ אין פֿאַרװאַנדלונג אַרױסשרײַב"
+
+msgid "Error during conversion: %s"
+msgstr "דורכפֿאַל בשעת פֿאַרװאַנדלונג: %s"
+
+msgid "Partial character sequence at end of input"
+msgstr "האַלבע כאַראַקטער־סעקװענץ צום סוף פֿון אַרײַנשרײַב"
+
+msgid "Cannot convert fallback '%s' to codeset '%s'"
+msgstr "ניט געקענט פֿאַרװאַנדלען גרונטבאַטרעף %s צו קאָדירונג %s"
+
+msgid "The local file URI '%s' may not include a '#'"
+msgstr "דער לאָקאַלער טעקע־URI %s טאָר ניט כּולל זײַן אַ '#'"
+
+msgid "The URI '%s' is invalid"
+msgstr "דער URI %s איז אומלעקסיק"
+
+msgid "The hostname of the URI '%s' is invalid"
+msgstr "דער מאַשין־נאָמען פֿונעם URI %s איז אומלעקסיק"
+
+msgid "The URI '%s' contains invalidly escaped characters"
+msgstr "דער URI %s איז כּולל אומלעקסיקע פּליטה־כאַראַקטערס"
+
+msgid "The pathname '%s' is not an absolute path"
+msgstr "די פּאַפּקע־רשימה %s איז ניט אַבסאָלוט"
+
+msgid "Invalid hostname"
+msgstr "אומלעקסיקער מאַשין־נאָמען"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%Z %H:%M:%S %Y %b %d %a"
+
+msgid "%m/%d/%y"
+msgstr "%d/%m/%y"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M:%S %p"
+msgstr "%I:%M:%S %P"
+
+msgid "January"
+msgstr "יאַנואַר"
+
+msgid "February"
+msgstr "פֿעברואַר"
+
+msgid "March"
+msgstr "מאַרץ"
+
+msgid "April"
+msgstr "אַפּריל"
+
+msgid "May"
+msgstr "מײַ"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "Jan"
+msgstr "יאַנ"
+
+msgid "Feb"
+msgstr "פֿעב"
+
+msgid "Mar"
+msgstr "מאַר"
+
+msgid "Apr"
+msgstr "אַפּר"
+
+msgid "Jun"
+msgstr "יונ"
+
+msgid "Jul"
+msgstr "יול"
+
+msgid "Monday"
+msgstr "מאָנטיק"
+
+msgid "Tuesday"
+msgstr "דינסטיק"
+
+msgid "Wednesday"
+msgstr "מיטװאָך"
+
+msgid "Thursday"
+msgstr "דאָנערשטיק"
+
+msgid "Friday"
+msgstr "פֿרײַטיק"
+
+msgid "Saturday"
+msgstr "שבת"
+
+msgid "Sunday"
+msgstr "זונטיק"
+
+msgid "Mon"
+msgstr "מאָנ'"
+
+msgid "Tue"
+msgstr "דינ'"
+
+msgid "Wed"
+msgstr "מיט'"
+
+msgid "Thu"
+msgstr "דאָנ'"
+
+msgid "Fri"
+msgstr "פֿרײַ'"
+
+msgid "Sat"
+msgstr "שבת"
+
+msgid "Sun"
+msgstr "זונ'"
+
+msgid "Error opening directory '%s': %s"
+msgstr "דורכפֿאַל אין עפֿענען פּאַפּקע %s: %s"
+
+msgid "Could not allocate %lu bytes to read file \"%s\""
+msgstr "ניט געקענט אױסטײלן %lu אַכטעלעך צו לײענען טעקע %s"
+
+msgid "Error reading file '%s': %s"
+msgstr "דורכפֿאַל אין לײענען טעקע %s: %s"
+
+msgid "Failed to read from file '%s': %s"
+msgstr "ניט געקענט לײענען טעקע %s: %s"
+
+msgid "Failed to get attributes of file '%s': fstat() failed: %s"
+msgstr "ניט געקענט באַקומען אַטריבוטן פֿון טעקע %s: fstat() איז דורכגעפֿאַלן: %s"
+
+msgid "Failed to open file '%s': fdopen() failed: %s"
+msgstr "ניט געקענט עפֿענען טעקע %s: fdopen() איז דורכגעפֿאַלן: %s"
+
+msgid "Failed to create file '%s': %s"
+msgstr "ניט געקענט שאַפֿן טעקע %s: %s"
+
+msgid "Template '%s' invalid, should not contain a '%s'"
+msgstr "מוסטער %s אומלעקסיק, טאָר ניט כּולל זײַן %s"
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s byte"
+msgid_plural "%s bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Can't do a raw read in giochannelreadlinestring"
+msgstr "ניט געקענט מאַכן אַ רױ־לײען אין giochannelreadlinestring"
+
+msgid "Leftover unconverted data in read buffer"
+msgstr "איבעריקע ניט־פֿאַרװאַנדלטע דאַטן אין לײען־באַהאַלטאָרט"
+
+msgid "Channel terminates in a partial character"
+msgstr "קאַנאַל ענדיקט זיך מיט אַ האַלבן שריפֿטצײכן"
+
+msgid "Can't do a raw read in giochannelreadtoend"
+msgstr "ניט געקענט מאַכן אַ רױ־לײען אין giochannelreadtoend"
+
+msgid "Error on line %d: %s"
+msgstr "דורכפֿאַל אױף שורה %d: %s"
+
+msgid ""
+"Character reference did not end with a semicolon; most likely you used an "
+"ampersand character without intending to start an entity - escape ampersand "
+"as amp;"
+msgstr ""
+"שריפֿטצײכן־רעפֿערענץ האָט זיך ניט געענדיקט מיט קײן \";\". מסתּמא האָט מען געשריבן "
+"אַן  שריפֿטצײכן אָן דער כּװנה אָנצוהײבן אַן אײנס.  נאָרמאַליר  װי amp;"
+
+msgid ""
+"Empty entity ';' seen; valid entities are: amp; quot; lt; gt; apos;"
+msgstr ""
+"לײדיקער אײנס ';' געזען; לעקסיקע אײנסן זײַנען: amp; quot; lt; gt; apos;"
+
+msgid ""
+"Entity did not end with a semicolon; most likely you used an ampersand "
+"character without intending to start an entity - escape ampersand as amp;"
+msgstr ""
+"אײנס האָט זיך ניט געענדיקט מיט קײן \";\". מסתּמא האָט מען געשריבן אַן  "
+"שריפֿטצײכן אָן דער כּװנה אָנצוהײבן אַן אײנס.  נאָרמאַליר  װי amp;"
+
+msgid "Document must begin with an element (e.g. <book>)"
+msgstr "דאָקומענט מוז אָנהײבן מיט אַן עלעמענט (װי למשל <book>)"
+
+msgid ""
+"'%s' is not a valid character following a '<' character; it may not begin an "
+"element name"
+msgstr ""
+"'%s' איך ניט קײן לעקסיקער שריפֿטצײכן נאָך אַ '‪<‬' שריפֿטצײכן;עס טאָר ניט אָנהײבן "
+"קײן אײנסנאָמען"
+
+msgid ""
+"Odd character '%s', expected a '=' after attribute name '%s' of element '%s'"
+msgstr ""
+"מאָדנע שריפֿטצײכן '%s'; דערװאַרט אַ '=' שריפֿטצײכן נאָך אַטריבוט־נאָמען %s פֿונעם "
+"עלעמענט '%s'"
+
+msgid ""
+"Odd character '%s', expected a '>' or '/' character to end the start tag of "
+"element '%s', or optionally an attribute; perhaps you used an invalid "
+"character in an attribute name"
+msgstr ""
+"מאָדנע שריפֿטצײכן '%s'; דערװאַרט אַ '‪>‬' אָדער '/' שריפֿטצײכן צו ענדיקן דעם אָנהײב־"
+"הענטל פֿונעם עלעמענט '%s'; אפֿשר האָט מען געלײגט אַן אומלעקסיקן שריפֿטצײכן אין אַן "
+"אַטריבוט־נאָמען"
+
+msgid ""
+"Odd character '%s', expected an open quote mark after the equals sign when "
+"giving value for attribute '%s' of element '%s'"
+msgstr ""
+"מאָדנע שריפֿטצײכן '%s'; דערװאַרט אַ '\"' נאָך דעם '=' צו באַשטעטיקן דעם באַטרעף פֿון "
+"אַטריבוט '%s' פֿונעם עלעמענט '%s'"
+
+msgid ""
+"'%s' is not a valid character following the characters '</'; '%s' may not "
+"begin an element name"
+msgstr ""
+"'%s' איז ניט קײן לעקסיקער שריפֿטצײכן נאָך די שריפֿטצײכנס '‪</‬'; '%s' טאָר ניט "
+"אָנהײבן קײן עלעמענט־נאָמען"
+
+msgid ""
+"'%s' is not a valid character following the close element name '%s'; the "
+"allowed character is '>'"
+msgstr ""
+"'%s' איז ניט קײן לעקסיקער שריפֿטצײכן נאָך דעם שלאָס־עלעמענט נאָמען '%s'; מען מוז "
+"שטעלן '‪>‬'"
+
+msgid "Element '%s' was closed, no element is currently open"
+msgstr "עלעמענט '%s' איז פֿאַרמאַכט; קײן עלעמענט איז דערװײַל אָפֿן"
+
+msgid "Element '%s' was closed, but the currently open element is '%s'"
+msgstr "עלעמענט '%s' איז פֿאַרמאַכט; דער איצטיקער אָפֿענער עלעמענט איז '%s'"
+
+msgid "Document was empty or contained only whitespace"
+msgstr "דאָקומענט איז פּוסט אָדער איז כּולל בלױז לײדיק אָרט"
+
+msgid "Document ended unexpectedly just after an open angle bracket '<'"
+msgstr "דאָקומענט ענדיקט זיך אומגעריכטערהײט נאָך אַן עפֿן־צײכן '‪<‬'"
+
+msgid ""
+"Document ended unexpectedly with elements still open - '%s' was the last "
+"element opened"
+msgstr ""
+"דאָקומענט ענדיקט זיך אומגעריכטערהײט מיט אָפֿענע עלעמענטן; '%s' איז געװען דער "
+"לעצט־געעפֿנטער עלעמענט"
+
+msgid ""
+"Document ended unexpectedly, expected to see a close angle bracket ending "
+"the tag <%s/>"
+msgstr ""
+"דאָקומענט ענדיקט זיך אומגעריכטערהײט; דערװאַרט אַ שלאָס־צײכן '‪>‬' צו ענדיקן דעם "
+"הענטל ‪<%s/>‬"
+
+msgid "Document ended unexpectedly inside an element name"
+msgstr "דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון אַן עלעמענט־נאָמען"
+
+msgid "Document ended unexpectedly inside an attribute name"
+msgstr "דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון אַן אַטריבוט־נאָמען"
+
+msgid "Document ended unexpectedly inside an element-opening tag."
+msgstr "דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון אַן עלעמענט־עפֿן הענטל"
+
+msgid ""
+"Document ended unexpectedly after the equals sign following an attribute "
+"name; no attribute value"
+msgstr ""
+"דאָקומענט ענדיקט זיך אומגעריכטערהײט נאָך דעם '=' שריפֿטצײכן נאָך אַן אַטריבוט־"
+"נאָמען אָן קײן אַטריבוט־באַטרעף"
+
+msgid "Document ended unexpectedly while inside an attribute value"
+msgstr "דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון אַן אַטריבוט־באַטרעף"
+
+msgid "Document ended unexpectedly inside the close tag for element '%s'"
+msgstr ""
+"דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון דעם שלאָס־הענטל פֿון עלעמענט "
+"'%s'"
+
+msgid "Document ended unexpectedly inside a comment or processing instruction"
+msgstr ""
+"דאָקומענט ענדיקט זיך אומגעריכטערהײט אין דרינען פֿון אַ קאָמענטאַר אָדער אַ באַאַרבעטן־"
+"באַפֿעל"
+
+msgid "Quoted text doesn't begin with a quotation mark"
+msgstr "ציטירטער טעקסט הײבט ניט אָן מיט קײן גענדזן־פֿיסל"
+
+msgid "Unmatched quotation mark in command line or other shell-quoted text"
+msgstr "גענדזן־פֿיסל אָן אַ זיװג אין באַפֿעל־שורה אָדער אַנדער ציטירטן טעקסט"
+
+msgid "Text ended just after a '\\' character. (The text was '%s')"
+msgstr ""
+"טעקסט האָט זיך געענדיקט באַלד נאָך אַ '\\' שריפֿטצײכן.  (דער טעקסט איז געװען '%s')"
+
+msgid "Text ended before matching quote was found for %c. (The text was '%s')"
+msgstr ""
+"טעקסט האָט זיך געענדיקט אײדער אַ זיװג צו דעם גענדזן־פֿיסל ‪%c‬.  (דער טעקסט איז "
+"געװען '%s')"
+
+msgid "Text was empty (or contained only whitespace)"
+msgstr "טעקסט איז געװען פּוסט (אָדער איז כּולל בלױס לײדיק אָרט)"
+
+msgid "Failed to read data from child process"
+msgstr "ניט געקענט לײענען דאַטן פֿון קינדפּראָצעס"
+
+msgid "Failed to create pipe for communicating with child process (%s)"
+msgstr "דורכפֿאַל אין שאַפֿן רער צוליב קאָמוניקירן מיט קינדפּראָצעס (%s)"
+
+msgid "Failed to read from child pipe (%s)"
+msgstr "דורכפֿאַל אין לײענע פֿון אַ ינדרער (%s)"
+
+msgid "Failed to change to directory '%s' (%s)"
+msgstr "דורכפֿאַל אין זיך קערן צו פּאַפּקע '%s' (%s)"
+
+msgid "Failed to execute child process (%s)"
+msgstr "דורכפֿאַל אין באַאַרבעטן קינדפּראָצעס (%s)"
+
+msgid ""
+"Unexpected error in giochannelwin32poll() reading data from a child "
+"process"
+msgstr ""
+"אומדערװאַרטער דורכפֿאַל אין giochannelwin32poll() בשעת לײענען דאַטן פֿון אַ "
+"קינדפּראָצעס"
+
+msgid "Failed to read data from child process (%s)"
+msgstr "דורכפֿאַל אין לײענען דאַטן פֿון אַ קינדפּראָצעס (%s)"
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr "אומדערװאַרטער דורכפֿאַל אין select() לײענען דאַטן פֿון אַ קינדפּראָצעס (%s)"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "אומדערװאַרטער דורכפֿאַל אין waitpid() (%s)"
+
+msgid "Failed to fork (%s)"
+msgstr "דורכפֿאַל אין קלאָנירן (%s)"
+
+msgid "Failed to execute child process \"%s\" (%s)"
+msgstr "דורכפֿאַל אין באַאַרבעטן קינדפּראָצעס \"%s\" (%s)"
+
+msgid "Failed to redirect output or input of child process (%s)"
+msgstr "דורכפֿאַל אין װידערצילן אַרױסשרײַב אָדער אַרײַנשרײַב פֿון קינדפּראָצעס (%s)"
+
+msgid "Failed to fork child process (%s)"
+msgstr "דורכפֿאַל אין קלאָנירן קינדפּראָצעס (%s)"
+
+msgid "Unknown error executing child process \"%s\""
+msgstr "אומבאַקאַנטער דורכפֿאַל אין באַאַרבעטן קינדפּראָצעס \"%s\""
+
+msgid "Failed to read enough data from child pid pipe (%s)"
+msgstr "דורכפֿאַל אין לײענען גענוג דאַטן פֿון קינד pid-רער (%s)"
+
+msgid "Character out of range for UTF-8"
+msgstr "שריפֿטצײכן ניט אין דער UTF־8 גאַמע"
+
+msgid "Invalid sequence in conversion input"
+msgstr "אומלעקסיקער סעקװענץ אין פֿאַרװאַנדל־אַרײַנשרײַב"
+
+msgid "Character out of range for UTF-16"
+msgstr "שריפֿטצײכן ניט אין דער UTF־16 גאַמע"
+
+msgid "Wanted to read %lu byte but got EOF"
+msgid_plural "Wanted to read %lu bytes but got EOF"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Encountered array of length %u byte. Maximum length is 2<<26 bytes (64 MiB)."
+msgid_plural ""
+"Encountered array of length %u bytes. Maximum length is 2<<26 bytes (64 MiB)."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No signature header in message but the message body is %u byte"
+msgid_plural "No signature header in message but the message body is %u bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Character '%s' is not valid at the start of an entity name; the  "
+"character begins an entity; if this ampersand isn't supposed to be an "
+"entity, escape it as amp;"
+msgstr ""
+"שריפֿטצײכן %s איז ניט לעקסיק צום אָנהײב פֿון אַן אײנסנאָמען; דער  שריפֿטצײכן "
+"הײבט אַן אײנס אָן; אױב מיט דעם דאָזיקן  מײנט מען ניט קײן אײנס, נאָרמאַליר אים "
+"װי amp;"
+
+msgid "Empty character reference; should include a digit such as #454;"
+msgstr "נוליקע שריפֿטצײכן־רעפֿערענץ; מוז כּולל זײַן אַ ציפֿער, װי #454;"
+
+msgid "Unfinished entity reference"
+msgstr "ניט־געענדיקט אײנס־רעפֿערענץ"
+
+msgid "Unfinished character reference"
+msgstr "ניט־געענדיקט שריפֿטצײכן־רעפֿערענץ"
+
+msgid "Conversion from character set `%s' to `%s' is not supported"
+msgstr "פֿאַרװאַנדלען פֿון שריפֿטצײכן־געזעמל %s צו %s איז ניט געשטיצט"
+
+msgid "Incorrect message size"
+msgstr "ניט־ריכטיקע אָנזאָגגרײס"
+
+
+msgid "Language"
+msgstr "שפּראַך"
+
+
+msgid "Information"
+msgstr "אינפֿאָרמאַציע"
+
+
+msgid "Clock"
+msgstr "זײגער"
+
+msgid "Computer Clock"
+msgstr "קאָמפּיוטער־זײגער"
+
+msgid "Clock Preferences"
+msgstr "זײגער־פּרעפֿערענצן"
+
+msgid "Show seconds"
+msgstr "װײַז סוקענדעס"
+
+msgid "Show date"
+msgstr "װײַז טאָג"
+
+msgid "The Clock displays the current time and date"
+msgstr "דער זײגער װײַזט די איצטיקע צײַט און טאָג"
+
+msgid "24"
+msgstr "24"
+
+msgid "Hour format"
+msgstr "שעה־פֿאָרמאַטירונג"
+
+msgid "Fish"
+msgstr "פֿיש"
+
+msgid "From Whence That Stupid Fish Came"
+msgstr "פֿון װאַנען קומט דער פֿיש דער שוטה"
+
+msgid "Unable to locate the command to execute"
+msgstr "ניט געקענט געפֿינען דעם פֿאַפֿעל צו באַאַרבעטן"
+
+msgid ""
+"Unable to execute '%s'\n"
+"\n"
+"Details: %s"
+msgstr ""
+"ניט געקענט באַאַרבעטן %s\n"
+"\n"
+"פּישטשעװקעס: %s"
+
+msgid "*"
+msgstr "*"
+
+msgid "Browse"
+msgstr "בלעטער"
+
+msgid ""
+"A fish without a name is a pretty dull fish. Bring your fish to life by "
+"naming him."
+msgstr "אַ פֿיש אָן אַ נאָמען איז װי אַ ייִד אָן אַ היטל.  זײַ אים מחיה מיט אַ נאָמען."
+
+msgid "The fish's name"
+msgstr "דעם פֿישס נאָמען"
+
+msgid "Minimum size:"
+msgstr "קלענסטע גרײס:"
+
+msgid "Maximum size:"
+msgstr "גרעסטע גרײס:"
+
+msgid "Drawer"
+msgstr "שופֿלאָד"
+
+msgid "Properties"
+msgstr "נאַטורן"
+
+msgid "Menu"
+msgstr "מעניו"
+
+msgid "Unable to get the name of the command to execute"
+msgstr "ניט געקענט געפֿינען דעם נאָמען פֿון פֿאַפֿעל צו באַאַרבעטן"
+
+msgid "Amusements"
+msgstr "שפּילװאַרג"
+
+msgid "%s the GNOME Fish"
+msgstr "%s דער GNOME פֿיש"
+
+msgid "Expander Size"
+msgstr "פֿאַרגרעסער גרײס"
+
+msgid "Size of the expander arrow"
+msgstr "גרײס פֿון דער פֿאַרגרעסער־פֿײַל"
+
+msgid "Check for mail"
+msgstr "קאָנטראָליר בליצפּאָסט"
+
+msgid "You have new mail."
+msgstr "דו האָסט נײַע בליצפּאָסט"
+
+msgid "You have mail."
+msgstr "דו האָסט בליצפּאָסט"
+
+msgid "%d/%d messages"
+msgstr "%d/%d אָנזאָגן"
+
+msgid "%d messages"
+msgstr "%d אָנזאָגן"
+
+msgid "No mail."
+msgstr "ניט קײן בליצפּאָסט."
+
+msgid "Execute"
+msgstr "באַאַרבעט"
+
+msgid "You've got mail!"
+msgstr "דו האָסט בליצפּאָסט!"
+
+msgid "New Mail"
+msgstr "נײַע בליצפּאָסט"
+
+
+msgid "%s:%d contains NUL characters."
+msgstr "%s:%d איז כּולל נוליקע שריפֿטצײכנס"
+
+msgid "%s:%d contains no method name."
+msgstr "%s:%d איז ניט כּולל קײן מעטאָד־נאָמען"
+
+msgid "%s:%d contains no module name."
+msgstr "%s:%d איז ניט כּולל קײן מאָדול־נאָמען"
+
+msgid "Configuration file `%s' was not found: %s"
+msgstr "צופּאַס־טעקע %s איז ניט בנימצה: %s"
+
+msgid "Cannot create pipe for open GIOChannel: %s"
+msgstr "ניט געקענט שאַפֿן קײן רער פֿאַר אַן אָפֿענעם GIOChannel: %s"
+
+msgid "Unknown job kind %u"
+msgstr "אומבאַקאַנט אַרבעטסאָרט %u"
+
+msgid "Operation stopped"
+msgstr "אָפּעראַציע האָט זיך אױפֿגעהערט"
+
+msgid "Could not parse: %s"
+msgstr "ניט געקענט אַנאַליזירן: %s"
+
+msgid "More parsing errors will be ignored."
+msgstr "איבעריקע אַנאַליזיר־טעותן װעלן זײַן איגנאָרירט"
+
+msgid "No error"
+msgstr "קײן טעות ניט"
+
+msgid "File not found"
+msgstr "טעקע ניט געפֿונען"
+
+msgid "Generic error"
+msgstr "אַלגעמײנער טעות"
+
+msgid "Internal error"
+msgstr "אינערלעכער טעות"
+
+msgid "Invalid parameters"
+msgstr "אומלעקסיקע פּאַראַמעטערס"
+
+msgid "Unsupported operation"
+msgstr "אָפּעראַציע ניט געשטיצט"
+
+msgid "I/O error"
+msgstr "אַרײַן־אַרױסשרײַב טעות"
+
+msgid "Data corrupted"
+msgstr "קאָרומפּירטע דאַטן"
+
+msgid "Format not valid"
+msgstr "אומלעקסיקע פֿאָרמאַטירונג"
+
+msgid "Bad file handle"
+msgstr "שלעכטע טעקע־הענטל"
+
+msgid "File too big"
+msgstr "טעקע צו גרױס"
+
+msgid "No space left on device"
+msgstr "קײן אָרט ניט געבליבן אױף דער המצאָה"
+
+msgid "Read-only file system"
+msgstr "בלױז־לײענעװדיקע טעקע־סיסטעם"
+
+msgid "Invalid URI"
+msgstr "אומלעקסיקער URI"
+
+msgid "File not open"
+msgstr "טעקע ניט אָפֿן"
+
+msgid "Open mode not valid"
+msgstr "אומלעקסיקע עפֿן־מאָדע"
+
+msgid "Access denied"
+msgstr "צוטריט ניט דערלױבט"
+
+msgid "Too many open files"
+msgstr "צופֿיל אָפֿענע טעקעס"
+
+msgid "End of file"
+msgstr "סוף־טעקע"
+
+msgid "Not a directory"
+msgstr "ניט קײן פּאַפּקע"
+
+msgid "Operation in progress"
+msgstr "אָפּעראַציע אַקטיװ"
+
+msgid "Operation interrupted"
+msgstr "אָפּעראַציע איבערגעריסן"
+
+msgid "File exists"
+msgstr "טעקע עקזיסטירט"
+
+msgid "Looping links encountered"
+msgstr "קײַקלדיקע פֿאַרבינדונגען געפֿונען"
+
+msgid "Operation not permitted"
+msgstr "אָפּעראַציע ניט דערלױבט"
+
+msgid "Is a directory"
+msgstr "איז אַ פּאַפּקע"
+
+msgid "Not enough memory"
+msgstr "ניט גענוג זכּרון"
+
+msgid "Host not found"
+msgstr "קאָמפּיוטער ניט געפֿונען"
+
+msgid "Host name not valid"
+msgstr "אומלעקסיקער קאָמפּיוטער־נאָמען"
+
+msgid "Host has no address"
+msgstr "קאָמפּיוטער האָט ניט קײן אַדרעס"
+
+msgid "Login failed"
+msgstr "אַרײַנלאָגירן דורכגעפֿאַלן"
+
+msgid "Operation cancelled"
+msgstr "אָפּעראַציע אָפּגערופֿן"
+
+msgid "Directory busy"
+msgstr "פּאַפּקע פֿאַרנומען"
+
+msgid "Directory not empty"
+msgstr "פּאַפּקע ניט לײדיק"
+
+msgid "Too many links"
+msgstr "צופֿיל פֿאַרבינדונגען"
+
+msgid "Read only file system"
+msgstr "בלױז־לײענעװדיקע טעקע־סיסטעם"
+
+msgid "Not on the same file system"
+msgstr "ניט אױף דער זעלבער טעקע־סיסטעם"
+
+msgid "Name too long"
+msgstr "נאָמען צו לאַנג"
+
+msgid "Service not available"
+msgstr "באַדינונג ניט בנימצה"
+
+msgid "Request obsoletes service's data"
+msgstr "בקשה פֿאַרעלטערט באַדינונגס דאַטן"
+
+msgid "Protocol error"
+msgstr "פּראָטאָקאָל־טעות"
+
+msgid "Could not find master browser"
+msgstr "ניט געקענט געפֿינינען הױפּט־בלעטערער"
+
+msgid "Unknown error"
+msgstr "אומבאַקאַנטע טעות"
+
+msgid "%.1f MB"
+msgstr "%.1f מעגאַ־אַכטעלעך"
+
+msgid "%.1f GB"
+msgstr "%.1f גיגאַ־אַכטעלעך"
+
+msgid " (invalid Unicode)"
+msgstr " (אומלעקסיקער אוניקאָד)"
+
+msgid "Unknown GnomeVFSSeekPosition %d"
+msgstr "אומבאַקאַנטע GnomeVFSSeekPosition %d"
+
+msgid "Didn't find a valid settings file at %s\n"
+msgstr "ניט געפֿונען קײן לעקסיקע מצבֿ־טעקע בײַ %s\n"
+
+msgid "Use the %s environment variable to specify a different location.\n"
+msgstr "ניץ דעם %s מצבֿ־װאַריאַבל אָנצוּװײַזן אַן אַנדער אָרט.\n"
+
+msgid "Standard Moniker factory"
+msgstr "סטאַנדאַרדע צונעמעניש־פֿאַבריק"
+
+msgid "file MonikerExtender"
+msgstr "טעקע צונעמעניש־צוגעבער"
+
+msgid "generic Gnome VFS moniker"
+msgstr "אַלגעמײנע Gnome VFS צונעמעניש"
+
+msgid "generic file moniker"
+msgstr "אַלגעמײנע טעקע־צונעמעניש"
+
+
+msgid "Opening %d Item"
+msgid_plural "Opening %d Items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr ""
+"קלײַב אױס די פֿאַרב װאָס דו װילסט פֿון דעם אױסערלעכן קײַקל.  קלײַב אױס די טונקלקײט "
+"אָדער ליכטיקײט פֿון דער־אָ פֿאַרב מיט דעם אינערלעכן דרײַעק."
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"געב אַ קליק אױף דעם טראָפּירער, און דערנאָך געב אַ קליק אױף אַ פֿאַרב װוּ־ניט־איז אױף "
+"דעם עקראַן אױסצוקלײַבן די־אָ פֿאַרב."
+
+msgid "Position on the color wheel."
+msgstr "פּאָזיציע אױף דער פֿאַרבראָד"
+
+msgid "Value:"
+msgstr "באַטרעף"
+
+msgid "Brightness of the color."
+msgstr "ליכטיקײט פֿון דער פֿאַרב"
+
+msgid "Red:"
+msgstr "רױט"
+
+msgid "Amount of red light in the color."
+msgstr "באַטרעף פֿון רױטן ליכט אין דער פֿאַרב"
+
+msgid "Green:"
+msgstr "גרין"
+
+msgid "Amount of green light in the color."
+msgstr "באַטרעף פֿון גרינעם ליכט אין דער פֿאַרב"
+
+msgid "Blue:"
+msgstr "בלױ"
+
+msgid "Amount of blue light in the color."
+msgstr "באַטרעף פֿון בלױען ליכט אין דער פֿאַרב"
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as 'orange' in this entry."
+msgstr ""
+"מען קען אַרײַנשרײַבן אַ פֿאַרב־באַטרעף אױף העקסידעצימאַל (װי אין HTML), אָדער פּשוט אַ "
+"פֿאַרב נאָמען װי 'פּורפּור' (אָבער אױף ענגליש!) אין דער פּאָזיציע."
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr ""
+"די פֿריִער־אױסגעקליבענע פֿאַרב, אין צוגלײַך מיט דער פֿאַרב װאָס דו האַלטסט איצט אין "
+"אױסקלײַבן.  דו קענסט שלעפּן די פֿאַרב צו אַ פּאַליטרע פּאָזיציע, אָדער אױסקלײַבן די "
+"פֿאַרב װי די איצטיקע דורך זי שלעפּן צו דער דערבײַיִקער פֿאַרב מוסטער."
+
+msgid ""
+"The color you've chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr ""
+"די פֿאַרב װאָס דו האָסט אױסגעקליבן.  דאָ קענסט שלעפּן די פֿאַרב צו אַ פּאַליטרע פּאָזיציע "
+"זי אױפֿצוהיטן צו ניצן אין דער צוקונפֿט."
+
+msgid "Save color here"
+msgstr "היט אױף די פֿאַרב דאָ"
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry, "
+"drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr ""
+"געב אַ קליק אױף דעם פּאַליטרע פּאָזיציע צו באַשטעטיקן די איצטיקע פֿאַרב.  צו ענדערן "
+"די פּאַליטרע פּאָזיציע, שלעפּ אַ פֿאַרבמוסטער אַהער אָדער געב אַ קליק מיט דעם רעכטן "
+"קנעפּל און קלײַב אױס \"היט אױף די פֿאַרב דאָ\"."
+
+msgid "Input Methods"
+msgstr "אַרײַנשרײַב־מיטלען"
+
+msgid "Remove"
+msgstr "נעם אַװעק"
+
+msgid "Files"
+msgstr "טעקעס"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "אאַאָבגדהװזחטיכלמםנןסעפּפֿףצץקרששׂתּת"
+
+msgid "Family:"
+msgstr "משפּחה"
+
+msgid "Preview:"
+msgstr "פֿאָרױסװײַז"
+
+msgid "Error loading icon: %s"
+msgstr "דורכפֿאַל אין אַרײַנשטעלן בילדל %s"
+
+msgid "default:LTR"
+msgstr "default:RTL"
+
+msgid "Page %u"
+msgstr "זײַט %u"
+
+msgid "Unable to find include file: \"%s\""
+msgstr "ניט געקענט געפֿינען אַרײַנגעלײגטע טעקע: %s"
+
+msgid "Unable to locate image file in pixmappath: \"%s\""
+msgstr "ניט געקענט געפֿינען בילדטעקע אין בילדצעל פּאַפּקע־רשימה: %s"
+
+msgid "LRM Left-to-right mark"
+msgstr "לר”ס לינקס־ביז־רעכטס סימן"
+
+msgid "RLM Right-to-left mark"
+msgstr "רל”ס רעכטס־ביז־לינקס סימן"
+
+msgid "LRE Left-to-right embedding"
+msgstr "לר”א לינקס־ביז־רעכטס אײַנבאַק"
+
+msgid "RLE Right-to-left embedding"
+msgstr "רל”א רעכטס־ביז־לינקס אײַנבאַק"
+
+msgid "LRO Left-to-right override"
+msgstr "לר”ב לינקס־ביז־רעכטס בײַקום"
+
+msgid "RLO Right-to-left override"
+msgstr "רל”ב רעכטס־ביז־לינקס בײַקום"
+
+msgid "PDF Pop directional formatting"
+msgstr "קר”ף קאָרטשע ריכטונג־פֿאָרמאַטירונג אױס"
+
+msgid "ZWS Zero width space"
+msgstr "נב”ל נוליקע־ברײט לאָך"
+
+msgid "ZWJ Zero width joiner"
+msgstr "נב”ץ נוליקע־ברײט צולײגער"
+
+msgid "ZWNJ Zero width non-joiner"
+msgstr "נבנ”ץ נוליקע־ברײט ניט־צולײגער"
+
+msgid "Unable to locate theme engine in modulepath: \"%s\","
+msgstr "ניט געקענט געפֿינען דעם טעמע־מאָטאָר אין מאָדול פּאַפּקע־רשימה: %s"
+
+msgid "Amharic (EZ+)"
+msgstr "אַמהאַריש (EZ+)"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "ציריליש (טראַנסליטערירט)"
+
+msgid "IPA"
+msgstr "אַינטערנאַציִאָנאַלע פֿאָנעטישע אַלף־בית"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "טיגריניע־עריטרעיִש (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "טיגריניע־עטיִאָפּיש (EZ+)"
+
+msgid "Vietnamese (VIQR)"
+msgstr "װיִעטנאַמעזיש (VIQR)"
+
+msgid "X Input Method"
+msgstr "X אַרײַנשרײַב־אופֿן"
+
+msgid ""
+"Image-loading module %s does not export the proper interface; perhaps "
+"it's from a different GTK version?"
+msgstr ""
+"בילד־אַרײַנשטעל מאָדול %s עקספּאָרטירט ניט דעם פּאַסיקן צובינד; אפֿשר פֿון אַ צװײטע "
+"GTK װערסיע?"
+
+msgid "\"Deepness\" of the color."
+msgstr "\"טיפֿקײט\" פֿון דער פֿאַרב"
+
+msgid "Folder unreadable: %s"
+msgstr "פּאַפּקע לאָזט זיך ניט לײענען: %s"
+
+msgid ""
+"The file \"%s\" resides on another machine (called %s) and may not be "
+"available to this program.\n"
+"Are you sure that you want to select it?"
+msgstr ""
+"די טעקע %s געפֿינט זיך אױף אַן אַנדער קאָמפּיוטער (%s). עס קען זײַן אַז די "
+"פּראָגראַם קען זי ניט נוצן.  צי ביסטו זיכער אַז דו װילסט זי סעלעקטירן?"
+
+msgid "New Folder"
+msgstr "נײַע פּאַפּקע"
+
+msgid "Delete File"
+msgstr "מעק אָפּ טעקע"
+
+msgid "Rename File"
+msgstr "פֿאַרװאַנדל טעקע נאָמען"
+
+msgid ""
+"The folder name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "די פּאַפּקע נאָמען %s פֿאַרמאָגט סימבאָלן װאָס מען לאָזט ניט אין טעקע נעמען"
+
+msgid "Folder name:"
+msgstr "פּאַפּקע נאָמען:"
+
+msgid "Create"
+msgstr "שאַף"
+
+msgid ""
+"The filename \"%s\" contains symbols that are not allowed in filenames"
+msgstr "די טעקע־נאָמען %s פֿאַרמאָגט סימבאָלן װאָס מען לאָזט זײ ניט אין טעקע־נעמען"
+
+msgid "Error renaming file \"%s\" to \"%s\": %s"
+msgstr ""
+"דורכפֿאַל אין פֿאַרװאַנדלען טעקע נאָמען צו %s: %s\n"
+": %s"
+
+msgid "Rename file \"%s\" to:"
+msgstr "פֿאַרװאַנדל טעקע נאָמען %s אין:"
+
+msgid "Couldn't convert filename"
+msgstr "ניט געקענט איבערמאַכן טעקע־נאָמען"
+
+msgid "Gamma value"
+msgstr "γ (גאַמאַ)"
+
+msgid "Input"
+msgstr "אַרײַנשרײַב"
+
+msgid "Device:"
+msgstr "המצאָה"
+
+msgid "Disabled"
+msgstr "אױסגעלאָשן"
+
+msgid "Screen"
+msgstr "עקראַן"
+
+msgid "(disabled)"
+msgstr "(אױסגעלאָשן)"
+
+msgid "(unknown)"
+msgstr "(ניט באַקאַנט)"
+
+msgid "--- No Tip ---"
+msgstr "־־־ ניט קײן שפּיץ ־־־"
+
+msgid "PNM image format is invalid"
+msgstr "PNM בילד פֿאָרמאַטירונג איז אומלעקסיק"
+
+msgid "Thai (Broken)"
+msgstr "טײַלענדיש (צעבראָכן)"
+
+msgid ""
+"Error creating folder \"%s\": %s\n"
+"%s"
+msgstr ""
+"דורכפֿאַל אין שאַפֿן פּאַפּקע %s: %s\n"
+"%s"
+
+msgid "You probably used symbols not allowed in filenames."
+msgstr "דו האָסט מסתּמא גענוצט סימבאָלן װאָס מען לאָזט זײ ניט אין טעקע־נעמען"
+
+msgid ""
+"Error deleting file \"%s\": %s\n"
+"%s"
+msgstr ""
+"דורכפֿאַל אין אָפּמעקן טעקע %s: %s\n"
+"%s"
+
+msgid "It probably contains symbols not allowed in filenames."
+msgstr "האָט מסתּמא סימבאָלן װאָס מען לאָזט זײ ניט אין טעקע־נעמען"
+
+msgid ""
+"The file name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "די טעקע־נאָמען %s פֿאַרמאָגט סימבאָלן װאָס מען לאָזט זײ ניט אין טעקע־נעמען"
+
+msgid "Select All"
+msgstr "קלײַב אַלץ אױס"
+
+msgid "X"
+msgstr "ה'"
+
+msgid "clear"
+msgstr "באַזײַטיק"
+
+msgid "Pixmap path element: \"%s\" must be absolute, %s, line %d"
+msgstr "בילדצעל פּאַפּקע־רשימה אײנס: %s מוז זײַן אַבסאָלוט, %s, שורה %d"
+
+msgid "Unsupported TIFF variant"
+msgstr "TIFF־װאַריִאַציע ניט געשטיצט"
+
+
+msgid "Couldn't find which child the server was listed in"
+msgstr "ניט געקענט געפֿינען אונטער װעלכן קינד געפֿינט דער סערװירער"
+
+msgid "Not a valid Activation ID"
+msgstr "אומלעקסיקע אַקטיװיר־אידענטיפֿאַציע"
+
+msgid "Directory to read .server files from"
+msgstr "פּאַפּקע װוּ די .server טעקעס געפֿינען זיך"
+
+msgid "DIRECTORY"
+msgstr "פּאַפּקע"
+
+msgid "Serve as an ActivationContext (default is as an ObjectDirectory only)"
+msgstr "אַרבעט װי אַן ActivationContext (געװײנטלעך נאָר אַן ObjectDirectory)"
+
+msgid "File descriptor to write IOR to"
+msgstr "טעקע־באַשרײַבער אין װעלכן צו שרײַבן IOR"
+
+msgid "FD"
+msgstr "טעקע־באַשרײַבער (FD)"
+
+msgid "Query expression to evaluate"
+msgstr "שאלה אױסשפּראַך צו שאַצן"
+
+msgid "EXPRESSION"
+msgstr "אױסשפּראַך"
+
+msgid "CORBA CosNaming service."
+msgstr "CORBA CosNaming באַדינוג"
+
+msgid "Name service"
+msgstr "נאָמען־באַדינונג"
+
+msgid "We don't handle activating shlib objects in a remote process yet"
+msgstr "מיר האַהאַנדלען נאָכניט דאָס אַקטיװירן shlib אײנסן אין אַ װײַטן פּראָצעס"
+
+msgid ""
+"The Bonobo Activation configuration file was not read successfully. Please, "
+"check it is valid in: %s"
+msgstr ""
+"ניט קײן הצלחה אין לײענען די באָנאָבאָ אַקטיריװ־צופּאַס טעקע.  קאָנראָליר, זײַ אַזױ "
+"גוט, אין %s"
+
+msgid "a NULL iid is not valid"
+msgstr "אַ נוליקע iid איז אומלעקסיק"
+
+msgid "iid %s has a NULL type"
+msgstr "דער iid %s האָט אַ ניליקן סאָרט"
+
+msgid "iid %s has a NULL location"
+msgstr "דער iid %s האָט אַ ניליקן אָרט"
+
+msgid "invalid character '%c' in iid '%s'"
+msgstr "אומלעקסיק כאַראַקטער '%c' אין iid '%s'"
+
+msgid "Property '%s' has no value"
+msgstr "נאַטור %s האָט ניט קײן באַטרעף"
+
+msgid "Child process did not give an error message, unknown failure occurred"
+msgstr ""
+"קינד פּראָצעס האָט ניט געגעבן קײן דורכפֿאַל־אָנזאָג, אָבער אַן אומבאַקאַנטן דורכפֿאַל האָט "
+"פּאַסירט"
+
+msgid "Failed to read from child process: %s\n"
+msgstr "דורכפֿאַל אין לײענען פֿון קינד פּראָצעס: %s\n"
+
+msgid "File descriptor to print IOR on"
+msgstr "טעקע־באַשרײַבער אין װעלכן צו דרוקן IOR"
+
+msgid "IID to activate"
+msgstr "IID צו אַקטיװירן"
+
+msgid "Prevent registering of server with OAF"
+msgstr "מײַד אױס דאָס רעגיסטרין דעם סערװירער מיט OAF"
+
+msgid "Bonobo activation options"
+msgstr "באָנאָבאָ־אַקטיװירונג אָפּציעס"
+
+msgid "gmoduleopen of `%s' failed with `%s'"
+msgstr "gmoduleopen פֿון %s האָט אַ דורכפֿאַל: %s"
+
+msgid "Can't find symbol BonoboPlugininfo in `%s'"
+msgstr "ניט געקענט געפֿינען סימבאָל BonoboPlugininfo אין %s"
+
+msgid "Factory `%s' returned NIL for `%s'"
+msgstr "פֿאַבריק %s האָט צוריקגעגעבן NIL פֿאַר %s"
+
+msgid "Shlib `%s' didn't contain `%s'"
+msgstr "Shlib %s האָט ניט באַהאַלטן %s"
+
+msgid "An unsupported action was attempted"
+msgstr "מען האָט געפּרוּװט אַ ניט־געשטיצטע אַקציע"
+
+msgid "IO Error"
+msgstr "אַרײַן־אַרױסשרײַב דורכפֿאַל"
+
+msgid "Invalid argument value"
+msgstr "אומלעקסיקער פּאַראַמעטער־באַטרעף"
+
+msgid "Object not found"
+msgstr "אָביעקט ניט געפֿונען"
+
+msgid "Syntax error in object description"
+msgstr "סינטאַקס־דורכפֿאַל אין אָביעקט־באַשרײַבונג"
+
+msgid "Cannot activate object from factory"
+msgstr "ניט געקענט אַקטיװירן אָביעקט פֿון זײַן פֿאַבריק"
+
+msgid "No permission to access stream"
+msgstr "ניט קײן דערלױבעניש אָנצוקומען צום שטראָם"
+
+msgid "An unsupported stream action was attempted"
+msgstr "געפּרוּװט אַ ניט־געשטיצטע שטראָם־אַקציע"
+
+msgid "IO Error on stream"
+msgstr "אַרײַן־אַרױסשרײַב דורכפֿאַל אױפֿן שטראָם"
+
+msgid "IO Error on storage"
+msgstr "אַרײַן־אַרױסשרײַב דורכפֿאַל אינעם מאַגאַזין"
+
+msgid "Name already exists in storage"
+msgstr "דער נאָמען געפֿינט זיך שױן אין מאַגאַזין"
+
+msgid "Object not found in storage"
+msgstr "אָביעקט ניט געפֿונען אין מאַגאַזין"
+
+msgid "No permission to do operation on storage"
+msgstr "ניט קײן דערלױבעניש אָפּערירן אױפֿן מאַגאַזין"
+
+msgid "An unsupported storage action was attempted"
+msgstr "געפּרוּװט אַ ניט־געשטיצטע מאַגאַזין־אַקציע"
+
+msgid "Object is not a stream"
+msgstr "אָביעקט איז ניט קײן שטראָם"
+
+msgid "Object is not a storage"
+msgstr "אָביעקט איז ניט קײן מאַגאַזין"
+
+msgid "Storage is not empty"
+msgstr "מאַגאַזין איז ניט לײדיק"
+
+msgid "malformed user interface XML description"
+msgstr "אומלעקסיקע ניצער־צובינד XML באַשרײַבונג"
+
+msgid "invalid path to XML user interface element"
+msgstr "אומלעקסיקע פּאַפּקע־רשימה צו XML ניצער־צו עלעמענט"
+
+msgid "the requested UI attribute didn't exist"
+msgstr "די אױסגעבעטענע UI אַטריבוט עקזיסטירט ניט"
+
+msgid "Unknown command or verb"
+msgstr "ניט־באַקאַנטער באַפֿעל אָדער װערב"
+
+msgid "Command is insensitive"
+msgstr "באַפֿעל איז ניט־חושימדיק"
+
+msgid "incorrect data type"
+msgstr "ניט־ריכטיקער דאַטנסאָרט"
+
+msgid "stream not found"
+msgstr "שטראָם ניט געפֿונען"
+
+msgid "property not found"
+msgstr "נאַטור ניט געפֿונען"
+
+msgid "property has invalid type"
+msgstr "נאַטור האָט אַן אומלעקסיקן סאָרט"
+
+msgid "property is read only"
+msgstr "נאַטור איז בלױז־לײענעװדיק"
+
+msgid "config database backend failed "
+msgstr "צופּאַס־דאַטנבאַזע הינטער־פּראָגראַם איז דורכגעפֿאַלן"
+
+msgid "Moniker interface cannot be found"
+msgstr "קען ניט געפֿינען צונעמעניש ניצער־צובינד"
+
+msgid "Moniker activation timed out"
+msgstr "צונעמעניש־אַקטיװירונג איז פֿאַרלאָפֿן"
+
+msgid "Syntax error within moniker"
+msgstr "סינטאַקס־דורכפֿאַל אין צונעמעניש"
+
+msgid "Moniker has an unknown moniker prefix"
+msgstr "צונעמעניש האָט אַן אומבאַקאַנטער צונעמעניש־פּרעפֿיקס"
+
+msgid "Error checking error; no exception"
+msgstr "דורכפֿאַל־קאָנטראָל דורכפֿאַל; ניט קײן אױסנעם"
+
+msgid "General activation error with no description"
+msgstr "אַלגעמײנער אַקטיװירונג־דורכפֿאַל אָן קײן באַשרײַבונג"
+
+msgid "Could not initialize Bonobo"
+msgstr "ניט געקענט איניציאַליזירן באָנאָבאָ"
+
+msgid "Failed to resolve, or extend '%s"
+msgstr "דורכפֿאַל אין רעזאָלירן אָדער פֿאַרלענגערן '%s'"
+
+msgid "Failed to activate object"
+msgstr "דורכפֿאַל אין אַקטיװירן אָביעקט"
+
+msgid "Exception activating '%s'"
+msgstr "אױסנעם אין אַקטיריװן סערװירער %s"
+
+msgid "Failed to activate '%s'"
+msgstr "דורכגעפֿאַלן אין אַקטיריװן %s"
+
+msgid "HTTP Moniker"
+msgstr "HTTP צונעמעניש"
+
+msgid "ORB IOR handling moniker"
+msgstr "ORB IOR באַהאַנדלונג צונעמעניש"
+
+msgid "generic Oaf activation moniker"
+msgstr "אַלגעמײנער Oaf אַקטיװירונג־צונעמעניש"
+
+msgid "generic Oaf query moniker"
+msgstr "אַלגעמײנער Oaf שאלה־צונעמעניש"
+
+msgid "generic factory 'new' moniker"
+msgstr "אַלגעמײנער פֿאַבריק 'נײַ' צונעמעניש"
+
+msgid "generic item moniker"
+msgstr "אַלגעמײנער אײנס צונעמעניש"
+
+msgid "stream MonikerExtender"
+msgstr "שאלה צונעמעניש־פֿאַרלענגערער"
+
+msgid "Bonobo Echo server factory"
+msgstr "באָנאָבאָ װידערקול־סערװירער פֿאַבריק"
+
+msgid "Bonobo Echo server sample program"
+msgstr "באָנאָבאָ װידערקול־סערװירער מוסטער־פּראָגראַם"
+
+msgid "Echo component"
+msgstr "װידערקול־קאָמפּאָנענט"
+
+msgid "Echo component factory"
+msgstr "װידערקול־קאָמפּאָנענט פֿאַבריק"
+
+msgid "I could not initialize Bonobo"
+msgstr "ניט געקענט איניציאַליזירן באָנאָבאָ"
+
+msgid "Could not create an instance of the sample echo component"
+msgstr "ניט געקענט שאַפֿן אַ דוגמה פֿון דעם װידערקול־קאָמפּאָנענט מוסטער"
+
+msgid "An exception occurred '%s'"
+msgstr "אַן אױסנעם איז געשען '%s'"
+
+msgid "Could not save configuration file.\n"
+msgstr "ניט געקענט אױפֿהיטן צופּאַס־טעקע\n"
+
+msgid "Please, make sure you have permissions to write to '%s'.\n"
+msgstr "קאָנטראָליר די רעכטן צו שרײַבן אין %s.\n"
+
+msgid "Successfully wrote configuration file.\n"
+msgstr "הצלחה אין שרײַבן צופּאַס־טעקע\n"
+
+msgid ""
+"configuration file is:\n"
+"    %s\n"
+msgstr ""
+"צופּאַס־טעקע איז:\n"
+"    %s\n"
+
+msgid "%s already in configuration file\n"
+msgstr "%s שױן אין צופּאַס־טעקע\n"
+
+msgid "there is not a properly structured configuration file\n"
+msgstr "ניט קײן לעקסיקע צופּאַס־טעקע\n"
+
+msgid "Bonobo-activation configuration file contains:\n"
+msgstr "באָנאָבאָ אַקטיװיר צופּאַס־טעקע איז כּולל:\n"
+
+msgid "Directory to remove from configuration file"
+msgstr "פּאַפּקע אַװעקצונעמען פֿון צופּאַס־טעקע"
+
+msgid "Directory to add to configuration file"
+msgstr "פּאַפּקע אין װעלכן צוצוגעבן צופּאַס־טעקע"
+
+msgid "Display directories in configuration file"
+msgstr "װײַז פּאַפּקעס אין צופּאַס־טעקע"
+
+msgid "Display path to configuration file"
+msgstr "װײַז פּאַפּקע־רשימה צו דער צופּאַס־טעקע"
+
+msgid "Race condition activating server '%s'"
+msgstr "געיעגפֿאַל אין אַקטיריװן סערװירער %s"
+
+msgid "Child received signal %u (%s)"
+msgstr "קינד האָט באַקומען מעלדונג %u (%s)"
+
+msgid "Unknown non-exit error (status is %u)"
+msgstr "אומבאַקאַנטער ניט־שטערבלעקער דורכפֿאַל (סטאַטוס איז %u)"
+
+msgid "bonobo-activation failed to set process group of %s: %s\n"
+msgstr "באָנאָבאָ־אַקטיװירונג האָט ניט געקענט באַשטעטיקן פּראָצעס־גרופּע %s: %s\n"
+
+msgid "Failed to execute %s: %d (%s)\n"
+msgstr "ניט געקענט באַאַרבעטן %s: %d (%s)\n"
+
+msgid "Too many alias levels for a locale, may indicate a loop"
+msgstr "צו פֿיל צונאָמען־שיכטן פֿאַר אַ לאָקאַל; קען זײַן אַ קײַקל"
+
+
+msgid "corba factory"
+msgstr "קאָרבאַ־פֿאַבריק"
+
+msgid "The factory pointer"
+msgstr "די פֿאַבריק־יד"
+
+msgid "corba UI container"
+msgstr "קאָרבאַ UI פּעקל"
+
+msgid "The User interface container"
+msgstr "דאָס ניצער־צובינד פּעקל"
+
+msgid "Dock the toolbar"
+msgstr "דאָקיר דעם מכשיר־װײַזער"
+
+msgid "Shadow type"
+msgstr "שאָטן־סאָרט"
+
+msgid "Preferred width"
+msgstr "געװוּנטשענע ברײט"
+
+msgid "Preferred height"
+msgstr "געװוּנטשענע הײך"
+
+msgid "Select a file to open"
+msgstr "סעלעקטיר אַ טעקע צו עפֿענען"
+
+msgid "Select files to open"
+msgstr "סעלעקטיר טעקעס צו עפֿענען"
+
+msgid "Select a filename to save"
+msgstr "סעלעקטיר אַ טעקע־נאָמען אױפֿצוהיטן"
+
+msgid "Event Forwarding"
+msgstr "טרעפֿעניש־װײַטערשיקן"
+
+msgid "Whether X events should be forwarded"
+msgstr "צי X־טרעפֿענישן זאָלן זיך װײַטער שיקן"
+
+msgid "Interfaces required"
+msgstr "צובינדן זײַנען נױטיק"
+
+msgid "Interface required entry"
+msgstr "צובינד נײטיקט זיך אין אַן אײנס"
+
+msgid "One of the interfaces that's required"
+msgstr "אײנער פֿון די נױטיקע צובינדן"
+
+msgid "Visible"
+msgstr "זעעװדיק"
+
+msgid "Show"
+msgstr "װײַז"
+
+msgid "Hide"
+msgstr "באַהאַלט"
+
+msgid "View tooltips"
+msgstr "זע מכשיר־פּינטלעך"
+
+msgid "Toolbars"
+msgstr "מכשיר־װירעס"
+
+msgid "toolbars"
+msgstr "מכשיר־װירעס"
+
+msgid "Look"
+msgstr "זע"
+
+msgid "Text and Icon"
+msgstr "טעקסט און בילדל"
+
+msgid "Text only"
+msgstr "בלױז טעקסט"
+
+msgid "Priority text only"
+msgstr "בלױז פּריִאָריטעט־טעקסט"
+
+msgid "Debug"
+msgstr "באַזײַטיק פֿעלערן"
+
+msgid "Dump XML"
+msgstr "װײַז XML באַריכות"
+
+msgid "Dump the entire UI's XML description to the console"
+msgstr "װײַז באַריכות דעם גאַנצן UIס XML באַשרײַבונג צום עקראַן"
+
+msgid "Configure UI"
+msgstr "פּאַס UI צו"
+
+msgid "Gdk debugging flags to set"
+msgstr "Gdk פֿעלער־באַזײַטיקונג אָפּציעס צו באַשטעטיקן"
+
+msgid "FLAGS"
+msgstr "FLAGS"
+
+msgid "Gdk debugging flags to unset"
+msgstr "Gdk פֿעלער־באַשטעטיקן אָפּציעס מבֿטל צו זײַן"
+
+msgid "X display to use"
+msgstr "X עקראַן צו ניצן"
+
+msgid "DISPLAY"
+msgstr "DISPLAY"
+
+msgid "X screen to use"
+msgstr "X אונטער־עקראַן צו ניצן"
+
+msgid "SCREEN"
+msgstr "SCREEN"
+
+msgid "Make X calls synchronous"
+msgstr "סינכראָניזיר X־אַרױסרופֿן"
+
+msgid "Don't use X shared memory extension"
+msgstr "ניץ ניט די X זכּרון־מיטטײל פֿעיִקײט"
+
+msgid "Program name as used by the window manager"
+msgstr "פּראָגראַם־נאָמען, װי דער פֿענצטער־אַדמיניסטראַטאָר ניצט אים"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Program class as used by the window manager"
+msgstr "פּראָגראַם־קלאַס, װי דער פֿענצטער־אַדמיניסטראַטאָר ניצט אים"
+
+msgid "CLASS"
+msgstr "CLASS"
+
+msgid "Gtk+ debugging flags to set"
+msgstr "Gtk פֿעלער־באַזײַטיקונג אָפּציעס צו באַשטעטיקן"
+
+msgid "Gtk+ debugging flags to unset"
+msgstr "Gtk פֿעלער־באַזײַטיקונג אָפּציעס מבֿטל צו זײַן"
+
+msgid "Make all warnings fatal"
+msgstr "אַלע װאָרענונגען װערן טױטפֿאַלן"
+
+msgid "Load an additional Gtk module"
+msgstr "שטעל אַרײַן אַ צוגעבלעכן Gtk מאָדול"
+
+msgid "MODULE"
+msgstr "MODULE"
+
+msgid "GTK+"
+msgstr "GTK+"
+
+msgid "Bonobo GUI support"
+msgstr "באָנאָבאָ גראַפֿישע ניצער־צובינד שטיץ"
+
+msgid "Both"
+msgstr "בײדע"
+
+msgid "Hide tips"
+msgstr "װײַז מכשיר־פּינטלעך"
+
+msgid "Show tips"
+msgstr "באַהאַלט מכשיר־פּינטלעך"
+
+msgid "Hide toolbar"
+msgstr "באַהאַלט מכשיר־װירע"
+
+msgid "Customize"
+msgstr "פֿאַראײגן"
+
+msgid "Customize the toolbar"
+msgstr "פֿאַראײגן די מכשיר־װירע"
+
+msgid "is floating"
+msgstr "שװימט"
+
+msgid "whether the toolbar is floating"
+msgstr "צי די מכשיר־װירע שװימט"
+
+msgid "Contents"
+msgstr "אינהאַלט"
+
+msgid "View help for this application"
+msgstr "זע געהילף פֿאַר דער אַפּליקאַציע"
+
+msgid "Name of the window - used for configuration serialization."
+msgstr "פֿענצטער־נאָמען, גענוצט צוליב צופּאַס־סעריאַליזאַציע"
+
+msgid "Zoom level"
+msgstr "פֿאַרגרעסער־מדרגה"
+
+msgid "The degree of enlargment"
+msgstr "װיפֿל פֿאַרגרעסערונג"
+
+msgid "Minimum Zoom level"
+msgstr "קלענסטע פֿאַרגרעסער־מדרגה"
+
+msgid "The minimum degree of enlargment"
+msgstr "װיפֿל פֿאַרגרעסערונג, אַם קלענסטן"
+
+msgid "Maximum Zoom level"
+msgstr "גרעסטע פֿאַרגרעסערונג־מדרגה"
+
+msgid "The maximum degree of enlargment"
+msgstr "װיפֿל פֿאַרגרעסערונג, אַם גרעסטן"
+
+msgid "Has a minimum Zoom level"
+msgstr "האָט אַ קלענסטע פֿאַרגרעסערונג־מדרגה"
+
+msgid "Whether we have a valid minimum zoom level"
+msgstr "צי די קלענסטע פֿאַרגרעסערונג־מדרגה איז לעקסיק"
+
+msgid "Has a maximum Zoom level"
+msgstr "האָט אַ גרעסטע פֿאַרגרעסערונג־מדרגה"
+
+msgid "Whether we have a valid maximum zoom level"
+msgstr "צי די גרעסטע פֿאַרגרעסערונג־מדרגה איז לעקסיק"
+
+msgid "Is continuous"
+msgstr "איז כּסדרדיק"
+
+msgid "Whether we zoom continuously (as opposed to jumps)"
+msgstr "צי מיר פֿאַרגרעסערן כּסדרדיק (ניט שפּרינגענדיק)"
+
+msgid "About this application"
+msgstr "װעגן דער אַפּליקאַציע"
+
+msgid "About..."
+msgstr "װעגן..."
+
+msgid "Edit"
+msgstr "רעדאַגיר"
+
+msgid "File"
+msgstr "טעקע"
+
+msgid "This does nothing; it is only a demonstration."
+msgstr "טוט גאָרניט; ס'איז בלױז אַ דעמאָנסטראַציע"
+
+msgid "BonoboUI-Hello."
+msgstr "באָנאָבאָ ניצער־צובינד „שלום־עליכם“"
+
+msgid "Gnome Hello"
+msgstr "Gnome „שלום־עליכם“"
+
+msgid "Hello, World!"
+msgstr "שלום עליכם!"
+
+msgid "Cannot init libbonoboui code"
+msgstr "ניט געקענט איניציאַליזירן libbonoboui פּראָגראַמװאַרג"
+
+msgid "Could not initialize Bonobo UI"
+msgstr "ניט געקענט איניציאַליזירן באָנאָבאָ ניצער־צובינד"
+
+
+msgid "User interface events"
+msgstr "ניצער־צובינד טרעפֿענישן"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+"ניט געקענט געפֿינען קײן טערמינאַל; בעט ניצן xterm, כאָטש עס קען זײַן אַז ס'װעט "
+"ניט אַרבעטן"
+
+msgid "GNOME GConf Support"
+msgstr "GConf GConf שטיץ"
+
+msgid "Unable to find the GNOMEFILEDOMAINAPPHELP domain"
+msgstr "ניט געקענט געפֿינען דעם GNOMEFILEDOMAINAPPHELP געגנט"
+
+msgid "Unable to find the GNOMEFILEDOMAINHELP domain."
+msgstr "ניט געקענט געפֿינען דעם GNOMEFILEDOMAINHELP געגנט"
+
+msgid ""
+"Unable to show help as %s is not a directory.  Please check your "
+"installation."
+msgstr ""
+"ניט געגנט װײַזן געהילף, װײַל %s איז ניט קײן פּאַפּקע.  קאָנטראָליר די אינסטאַלאַציע."
+
+msgid ""
+"Unable to find the help files in either %s or %s.  Please check your "
+"installation"
+msgstr ""
+"ניט געקענט געפֿינען געהילף־טעקעס, סײַ אין %s און סײַ אין %s. קאָנטראָליר די "
+"אינסטאַלאַציע."
+
+msgid "Unable to find docid %s in the help path"
+msgstr "ניט געקענט געפֿינען דאָקומענט אידענטיפֿיקאַציע %s אין געהילף פּאַפּקע־רשימה"
+
+msgid "Help document %s/%s not found"
+msgstr "געהילף־דאָקומענט %s/%s ניט געפֿונען"
+
+msgid "Bonobo Support"
+msgstr "באָנאָבאָ שטיץ"
+
+msgid "Bonobo activation Support"
+msgstr "באָנאָבאָ־אַקטיװירונג שטיץ"
+
+msgid "Could not create per-user gnome configuration directory `%s': %s\n"
+msgstr "ניט געקענט שאַפֿן ניצערװײַזע gnome צופּאַס־פּאַפּקע %s: %s\n"
+
+msgid ""
+"Could not set mode 0700 on private per-user gnome configuration directory `%"
+"s': %s\n"
+msgstr ""
+"ניט געקענט באַשטעטיקן מאָדע 0700 אױף פּריװאַטער ניצערװײַזע gnome  צופּאַס־פּאַפּקע %s: "
+"%s\n"
+
+msgid "Could not create gnome accelerators directory `%s': %s\n"
+msgstr "ניט געקענט שאַפֿן gnome פֿאַרגיכערער־פּאַפּקע %s: %s\n"
+
+msgid "Disable sound server usage"
+msgstr "הער אױף ניצן קלאַנג־סערװירער"
+
+msgid "Enable sound server usage"
+msgstr "דערמעגלעך ניצן קלאַנג־סערװירער"
+
+msgid "Host:port on which the sound server to use is running"
+msgstr "קאָמפּיוטער:פּאָרט װוּ דער פּאַסיקער קלאַנג־סערװירער אָפּערירט"
+
+msgid "HOSTNAME:PORT"
+msgstr "קאָמפּיוטער:פּאָרט"
+
+msgid "GNOME Virtual Filesystem"
+msgstr "GNOME װירטועלער טעקעסיסטעם"
+
+msgid "GNOME Library"
+msgstr "GNOME ביבליאָטעק"
+
+msgid "Popt Table"
+msgstr "Popt טאַבעלע"
+
+msgid "The table of options for popt"
+msgstr "די טאַבעלע פֿון אָפּציעס פֿאַר popt"
+
+msgid "Popt Flags"
+msgstr "Popt אָפּציעס"
+
+msgid "The flags to use for popt"
+msgstr "די אָפּציעס צו געבן popt"
+
+msgid "Popt Context"
+msgstr "Popt קאָנטעקסט"
+
+msgid "The popt context pointer that GnomeProgram is using"
+msgstr "דער popt קאָנטעקסט־יד װעלכן GnomeProgram ניצט"
+
+msgid "Human readable name"
+msgstr "מענטש־לײעװדיקער נאָמען"
+
+msgid "Human readable name of this application"
+msgstr "מענטש־לײעװדיקער נאָמען פֿון דער אַפּליקאַציע"
+
+msgid "GNOME path"
+msgstr "GNOME פּאַפּקע־רשימה"
+
+msgid "Path in which to look for installed files"
+msgstr "פּאַפּקעס װוּ צו זוכן אינסטאַלירטע טעקעס"
+
+msgid "App ID"
+msgstr "אַפּליקאַציע־אידענטיפֿיקאַציע"
+
+msgid "ID string to use for this application"
+msgstr "אידענטיפֿיקאַציע אות־פֿאָדעם צו ניצן פֿאַר דער אַפּליקאַציע"
+
+msgid "App version"
+msgstr "אַפּליקאַציע־װערסיע"
+
+msgid "Version of this application"
+msgstr "די װערסיע פֿון דער אַפּליקאַציע"
+
+msgid "GNOME Prefix"
+msgstr "GNOME פּרעפֿיקס"
+
+msgid "Prefix where GNOME was installed"
+msgstr "פּאַפּקע־פּרעפֿיקס װוּ מען האָט אינסטאַלירט GNOME"
+
+msgid "GNOME Libdir"
+msgstr "GNOME ביבליאָטעק־פּאַפּקע"
+
+msgid "Library prefix where GNOME was installed"
+msgstr "ביבליאָטעק־פּרעפֿיקס װוּ מען האָט אינסטאַלירט GNOME"
+
+msgid "GNOME Datadir"
+msgstr "GNOME דאַטן־פּאַפּקע"
+
+msgid "Data prefix where GNOME was installed"
+msgstr "דאַטן־פּרעפֿיקס װוּ מען האָט אינסטאַלירט GNOME"
+
+msgid "GNOME Sysconfdir"
+msgstr "GNOME סיסטעם־צופּאַס־פּאַפּקע"
+
+msgid "Configuration prefix where GNOME was installed"
+msgstr "צופּאַס־פּרעפֿיקס װוּ מען האָט אינסטאַלירט GNOME"
+
+msgid "GNOME App Prefix"
+msgstr "GNOME אַפּליקאַציע־פּרעפֿיקס"
+
+msgid "Prefix where this application was installed"
+msgstr "פּרעפֿיקס װוּ מען האָט אינסטאַלירט די אַפּליקאַציע"
+
+msgid "GNOME App Libdir"
+msgstr "GNOME אַפּליקאַציע ביבליאָטעק־פּאַפּקע"
+
+msgid "Library prefix where this application was installed"
+msgstr "ביבליאָטעק־פּרעפֿיקס װוּ מען האָט אינסטאַלירט די אַפּליקאַציע"
+
+msgid "GNOME App Datadir"
+msgstr "GNOME אַפּליקאַציע דאַטן־פּאַפּקע"
+
+msgid "Data prefix where this application was installed"
+msgstr "דאַטן־פּאַפּקע װוּ מען האָט אינסטאַלירט די אַפּליקאַציע"
+
+msgid "GNOME App Sysconfdir"
+msgstr "GNOME אַפּליקאַציע סיסטעם־צופּאַס־פּאַפּקע"
+
+msgid "Configuration prefix where this application was installed"
+msgstr "צופּאַס־פּרעפֿיקס װוּ מען האָט אינסטאַלירט די אַפּליקאַציע"
+
+msgid "Create Directories"
+msgstr "באַשאַף פּאַפּקעס"
+
+msgid "Create standard GNOME directories on startup"
+msgstr "באַשאַף סטאַנדאַרדע GNOME פּאַפּקעס אין אָנהײב"
+
+msgid "Enable Sound"
+msgstr "דערמעגלעך קלאַנגען"
+
+msgid "Enable sound on startup"
+msgstr "דערמעגלעך קלאַנגען אין אָנהײב"
+
+msgid "Espeaker"
+msgstr "ע־הילכער"
+
+msgid "How to connect to esd"
+msgstr "װי זיך צוצובינדן צו esd"
+
+msgid "Help options"
+msgstr "געהילף־אָפּציעס"
+
+msgid "Application options"
+msgstr "אַפּליקאַציע־אָפּציעס"
+
+msgid "Dynamic modules to load"
+msgstr "דינאַמישע מאָדולן אַרײַנצושטעלן"
+
+msgid "MODULE1,MODULE2,..."
+msgstr "מאָדול־1,מאָדול־2,..."
+
+msgid "Extra Moniker factory"
+msgstr "צוגעגעבענע צונעמעניש־פֿאַבריק"
+
+msgid "GConf moniker"
+msgstr "GConf צונעמעניש"
+
+msgid "config indirect moniker"
+msgstr "פּאַס צו אומדירעקט־צונעמעניש"
+
+msgid "Unknown type"
+msgstr "אומבאַקאַנטער סאָרט"
+
+msgid "Key %s not found in configuration"
+msgstr "שליסל %s ניט געפֿונען אין צופּאַס"
+
+msgid "Beep when a modifier is pressed"
+msgstr "קנאַל װען מען דריקט אַ בײַטקלאַװיש"
+
+msgid "Disable if two keys are pressed at the same time."
+msgstr "לעש אױס אױב מען דריקט צװײ קלאַװישן אין אײן מאָל"
+
+msgid ""
+"Do not accept a key as being pressed unless held for @delay milliseconds"
+msgstr "נעם נישט אָן קײן קלאַװיש סײַדן מען האַלט געדריקט אױף @delay מיליסעקונדעס"
+
+msgid "How many milliseconds it takes to go from 0 to maximum speed"
+msgstr "װיפֿל מיליסעקונדעס געדױערט אין זיך פֿאַרגיכערן פֿון 0 צום העכסטן געאײַל"
+
+msgid ""
+"How many milliseconds to wait before mouse movement keys start to operate"
+msgstr ""
+"װיפֿל מיליסעקונדעס צו װאַרטן אײדער מײַזל־באַװעגונג־קלאַװישן הײבן זיך אָן צו אָפּערירן"
+
+msgid "How many pixels per second to move at the maximum speed"
+msgstr "װיפֿל בילדצעלן סעקונדעסװײַז זיך צו באַװעגן צום פֿלינקסטן"
+
+msgid "Ignore multiple presses of the same key within @delay milliseconds"
+msgstr ""
+"איגנאָריר איבעריקע דריקונגען פֿון זעלבן קלאַװיש אין משך פֿון @delay מיליסעקונדעס"
+
+msgid "how long to accelerate in milliseconds"
+msgstr "װי לאַנג זיך צו פֿאַרגיכערן, אין מיליסעקונדעס"
+
+msgid "Cursor Blink"
+msgstr "לױפֿער בליצלען"
+
+msgid "Cursor Blink Time"
+msgstr "לױפֿער־בליצלען צײַט"
+
+msgid "Toolbar Style"
+msgstr "מכשיר־װײַזער סטיל"
+
+msgid "Whether the cursor should blink"
+msgstr "אױב דער לױפֿער זאָל בליצלען"
+
+msgid "Double Click Time"
+msgstr "טאָפּל־קליק צײַט"
+
+msgid "Action button click"
+msgstr "אַקציע־קנעפּל קליק"
+
+msgid "Check box toggled"
+msgstr "פֿײגעלע־קעסטל פֿאַרקערט"
+
+
+msgid "Y"
+msgstr "װ'"
+
+msgid "Antialiased"
+msgstr "אַנטי־אַליִיִסירט"
+
+msgid "The antialiasing mode of the canvas."
+msgstr "די אַנטי־אַליִיִסיר מאָדע פֿון דעם לײַװנט"
+
+msgid "Text to render"
+msgstr "טעקסט צו פֿאָרמירן"
+
+msgid "Markup"
+msgstr "פֿאַרצײַכענונג"
+
+msgid "Marked up text to render"
+msgstr "פֿאַרצײַכנטער טעקסט צו פֿאָרמירן"
+
+msgid "Font description as a string"
+msgstr "שריפֿט באַשרײַבונג װי אַן אות־פֿאָדעם"
+
+msgid "Font description"
+msgstr "שריפֿט־באַשרײַבונג"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "שריפֿט באַשרײַבונג װי אַ PangoFontDescription סטרוקטור"
+
+msgid "Font family"
+msgstr "שריפֿט משפּחה"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "נאָמען פֿון שריפֿט משפּחה, װי למשל Sans, Helvetica, Times, Monospace"
+
+msgid "Font style"
+msgstr "שריפֿט סטיל"
+
+msgid "Font variant"
+msgstr "שריפֿט װאַריאַנט"
+
+msgid "Font weight"
+msgstr "שריפֿט װאָג"
+
+msgid "Font stretch"
+msgstr "שריפֿט סקאַלירונג"
+
+msgid "Font size"
+msgstr "שריפֿט גרײס"
+
+msgid "Font points"
+msgstr "שריפֿט פּונקטן"
+
+msgid "Font size in points"
+msgstr "שריפֿט גרײס אין פּונקטן"
+
+msgid "Rise"
+msgstr "הײב"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr ""
+"צולײג פֿון טעקסט איבער דעם אונטערגרונט (אונטער דעם אונטערגרונט אױב דער הײב "
+"איז נעגאַטיװ)"
+
+msgid "Strikethrough"
+msgstr "דורכשטריך"
+
+msgid "Whether to strike through the text"
+msgstr "צי מען זאָל דורכשטריכן דעם טעקסט"
+
+msgid "Underline"
+msgstr "אונטערשטריך"
+
+msgid "Style of underline for this text"
+msgstr "סטיל פֿון אונטערשטריך אין דעם טעקסט"
+
+msgid "Scale"
+msgstr "סקאַלירונג"
+
+msgid "Size of font, relative to default size"
+msgstr "גרײס פֿון שריפֿט, רעלאַטיװ צו געװײנטלעכער גרײס"
+
+msgid "Text color, as string"
+msgstr "טעקסטפֿאַרב, װי אַן אות־פֿאָדעם"
+
+msgid "Text color, as a GdkColor"
+msgstr "טעקסטפֿאַרב, װי אַ GdkColor"
+
+msgid "Text color, as an R/G/B/A combined integer"
+msgstr "טעקסטפֿאַרב, װי אַן R/G/B/A קאָמבינירטער גאַנצער נומער"
+
+msgid "Text width"
+msgstr "טעקסטברײט"
+
+msgid "Width of the rendered text"
+msgstr "די ברײט פֿון דעם פֿאָרמירטן טעקסט"
+
+msgid "Text height"
+msgstr "טעסקטהײך"
+
+msgid "Height of the rendered text"
+msgstr "די הײך פֿון דעם פֿאָרמירטן טעקסט"
+
+msgid "Font family set"
+msgstr "באַשטעטיק די שריפֿט משפּחה"
+
+msgid "Whether this tag affects the font family"
+msgstr "צי דאָס הענטל איז משפּיע די שריפֿט משפּחה"
+
+msgid "Font style set"
+msgstr "באַשטעטיק דעם שריפֿט סטיל"
+
+msgid "Whether this tag affects the font style"
+msgstr "צי דאָס הענטל איז משפּיע דעם שריפֿט סטיל"
+
+msgid "Font variant set"
+msgstr "באַשטעטיק דעם שריפֿט װאַריאַנט"
+
+msgid "Whether this tag affects the font variant"
+msgstr "צי דאָס הענטל איז משפּיע דעם שריפֿט װאַריאַנט"
+
+msgid "Font weight set"
+msgstr "באַשטעטיק די שריפֿט װאָג"
+
+msgid "Whether this tag affects the font weight"
+msgstr "צי דאָס הענטל איז משפּיע די שריפֿט װאָג"
+
+msgid "Font stretch set"
+msgstr "באַשטעטיק די שריפֿט סקאַלירונג"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "צי דאָס הענטל איז משפּיע די שריפֿט סקאַלירונג"
+
+msgid "Font size set"
+msgstr "באַשטעטיק די שריפֿט גרײס"
+
+msgid "Whether this tag affects the font size"
+msgstr "צי דאָס הענטל איז משפּיע די שריפֿט גרײס"
+
+msgid "Rise set"
+msgstr "באַשטעטיק דעם הײב"
+
+msgid "Whether this tag affects the rise"
+msgstr "צי דאָס הענטל איז משפּיע דעם הײב"
+
+msgid "Strikethrough set"
+msgstr "באַשטעטיק דעם דורכשטריך"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "צי דאָס הענטל איז משפּיע דעם דורכשטריך"
+
+msgid "Underline set"
+msgstr "באַשטעטיק דעם אונטערשטריך"
+
+msgid "Whether this tag affects underlining"
+msgstr "צי דאָס הענטל איז משפּיע דעם אונטערשטריך"
+
+msgid "Scale set"
+msgstr "באַשטעטיק סקאַלירונג"
+
+msgid "Whether this tag affects font scaling"
+msgstr "צי דאָס הענטל איז משפּיע שריפֿט־סקאַלירונג"
+
+msgid "Text to display"
+msgstr "טעקסט צו װײַזן"
+
+msgid "X position"
+msgstr "ה' פּאָזיציע"
+
+msgid "Y position"
+msgstr "װ' פּאָזיציע"
+
+msgid "Width for text box"
+msgstr "ברײט פֿאַר אַ טעקסטקעסטל"
+
+msgid "Height for text box"
+msgstr "הײך פֿון טעקסטקעסטל"
+
+msgid "Editable"
+msgstr "רעדאַגירעװדיק"
+
+msgid "Is this rich text item editable?"
+msgstr "צי לאָזט דער רײַכטעקסט־אײנס זיך רעדאַגירן?"
+
+msgid "Is this rich text item visible?"
+msgstr "צי איז דער רײַכטעקסט־אײנס זעעװדיק?"
+
+msgid "Cursor Visible"
+msgstr "זעעװדיקער לױפֿער"
+
+msgid "Grow Height"
+msgstr "הײכװוּקס"
+
+msgid "Should the text box height grow if the text does not fit?"
+msgstr "צי זאָל די טעסקטקעסטל־הײך װאַקסן אױב דער טעקסט פּאַסט ניט אַרײַן?"
+
+msgid "Wrap Mode"
+msgstr "שאַר־מאָדע"
+
+msgid "Wrap mode for multiline text"
+msgstr "שאַר־מאָדע פֿאַר מער־שורהדיקן טעקסט"
+
+msgid "Justification"
+msgstr "אױסגלײַכונג"
+
+msgid "Justification mode"
+msgstr "אױסגלײַכונג־מאָדע"
+
+msgid "Direction"
+msgstr "ריכטונג"
+
+msgid "Text direction"
+msgstr "טעקסט ריכטונג"
+
+msgid "Anchor"
+msgstr "אַנקאָר"
+
+msgid "Anchor point for text"
+msgstr "אַנקאָרפּונקט פֿאַר טעקסט"
+
+msgid "Pixels Above Lines"
+msgstr "בילדצעלן איבער די שורות"
+
+msgid "Number of pixels to put above lines"
+msgstr "װיפֿל בילדצעלן צו שטעלן איבער שורות"
+
+msgid "Pixels Below Lines"
+msgstr "בילדצעלן אונטער די שורות"
+
+msgid "Number of pixels to put below lines"
+msgstr "װיפֿל בילדצעלן צו שטעלן אונטער שורות"
+
+msgid "Pixels Inside Wrap"
+msgstr "בילדצעלן אין דרינען פֿון שאַר"
+
+msgid "Number of pixels to put inside the wrap"
+msgstr "צאָל פֿון בילדצעלן צו שטעלן אין דרינען פֿון דעם שאַר"
+
+msgid "Left Margin"
+msgstr "לינקער זאַפּאַס"
+
+msgid "Number of pixels in the left margin"
+msgstr "װיפֿל בילדצעלן אין דעם לינקן זאַפּאַס"
+
+msgid "Right Margin"
+msgstr "רעכטער זאַפּאַס"
+
+msgid "Number of pixels in the right margin"
+msgstr "װיפֿל בילדצעלן אין דעם רעכטן זאַפּאַס"
+
+msgid "Indentation"
+msgstr "אײַנצײנדלונג"
+
+
+msgid "About %s"
+msgstr "‫װעגן %s"
+
+msgid "Revert"
+msgstr "װי פֿריִער"
+
+msgid "Quit"
+msgstr "הער אױף"
+
+msgid "Redo"
+msgstr "איבער־פֿאַרקער"
+
+msgid "Date"
+msgstr "טאָג"
+
+msgid "Title"
+msgstr "טיטל"
+
+msgid "Background color as a GdkColor"
+msgstr "הינטערפֿאַרב װי אַ GdkColor"
+
+msgid "Modal"
+msgstr "מאָדאַל"
+
+msgid "Filename"
+msgstr "נאָמען פֿון טעקע"
+
+msgid "Font name"
+msgstr "שריפֿט נאָמען"
+
+msgid "Preview text"
+msgstr "טעקסט פֿאָרױסװײַז"
+
+msgid "Warning"
+msgstr "װאָרענונג"
+
+msgid "Question"
+msgstr "פֿראַגע"
+
+msgid "Numbered List"
+msgstr "נומערירטע רשימה"
+
+msgid "Indent"
+msgstr "אײַנצײנדלונג"
+
+
+msgid "%u item"
+msgid_plural "%u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%u folder"
+msgid_plural "%u folders"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%u file"
+msgid_plural "%u files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Open %d Window?"
+msgid_plural "Open %d Windows?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This will open %d separate window."
+msgid_plural "This will open %d separate windows."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Are you sure you want to permanently delete the %d selected item?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %d selected items?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d folder selected"
+msgid_plural "%d folders selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %d item)"
+msgid_plural " (containing %d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing a total of %d item)"
+msgid_plural " (containing a total of %d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d item selected (%s)"
+msgid_plural "%d items selected (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d other item selected (%s)"
+msgid_plural "%d other items selected (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Are you sure you want to permanently delete the %d selected item from the "
+"trash?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %d selected items from the "
+"trash?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The %d selected item will be moved if you select the Paste Files command"
+msgid_plural ""
+"The %d selected items will be moved if you select the Paste Files command"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The %d selected item will be copied if you select the Paste Files command"
+msgid_plural ""
+"The %d selected items will be copied if you select the Paste Files command"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Open in New Window"
+msgid_plural "Open in %d New Windows"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d item, with size %s"
+msgid_plural "%d items, totalling %s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Image Type: %s (%s)\n"
+"Resolution: %dx%d pixels\n"
+msgid_plural ""
+"Image Type: %s (%s)\n"
+"Resolution: %dx%d pixels\n"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Do you want to view %d location?"
+msgid_plural "Do you want to view %d locations?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Back"
+msgstr "צוריק"
+
+msgid "Forward"
+msgstr "פֿאָרױס"
+
+msgid "Stop"
+msgstr "ענדיק"
+
+msgid "Zoom In"
+msgstr "פֿאַרגרעסער"
+
+msgid "Zoom Out"
+msgstr "פֿאַרקלענער"
+
+msgid "Home"
+msgstr "אַהײם"
+
+msgid "Up"
+msgstr "אַרױף"
+
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+msgstr[1] ""
+
+

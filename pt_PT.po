@@ -1,0 +1,240 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:40:59 CDT 2013 ---
+#
+# Nuno Donato <nunodonato@gmail.com>, 2004.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2013-04-29 17:33-0500\n"
+"PO-Revision-Date: 2005-10-19 01:45+0900\n"
+"Last-Translator: Nuno Donato <nunodonato@gmail.com>\n"
+"Language-Team: Portuguese <translation-team-pt@lists.sourceforge.net>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Differences"
+msgstr "Diferenças"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "%b %e  %Y"
+msgstr "%b %e  %Y"
+
+msgid "%b %e %H:%M"
+msgstr "%b·%e·%H:%M"
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Directory"
+msgstr "Directório"
+
+msgid "Character device"
+msgstr "Dispositivo de Caracter"
+
+msgid "Block device"
+msgstr "Dispositivo de Bloco"
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "Socket"
+msgstr "Socket"
+
+msgid "unknown"
+msgstr "desconhecido"
+
+msgid "Rename"
+msgstr "Mudar o nome"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Touch"
+msgstr "Tocar"
+
+msgid "Properties"
+msgstr "Propriedades"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Home"
+msgstr "Pasta Pessoal"
+
+msgid "Cut"
+msgstr "Cortar"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Paste"
+msgstr "Colar"
+
+msgid "Delete"
+msgstr "Remover"
+
+msgid "Open with"
+msgstr "Abrir com"
+
+msgid "Reload"
+msgstr "Recarregar"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Owner"
+msgstr "Dono"
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Columns"
+msgstr "Colunas"
+
+msgid "Stay on single filesystem"
+msgstr "Permanecer apenas num sistema de ficheiros"
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Permissions"
+msgstr "Permissões"
+
+msgid "Modification Time :"
+msgstr "Data de Modificação :"
+
+msgid "Access Time :"
+msgstr "Data de Acesso:"
+
+msgid "Run"
+msgstr "Executar"
+
+msgid "Go"
+msgstr "Ir"
+
+msgid "File"
+msgstr "Ficheiro"
+
+msgid "Sort"
+msgstr "Ordenar"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Apply to all"
+msgstr "Aplicar em todos"
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "New file"
+msgstr "Novo ficheiro"
+
+msgid "Up"
+msgstr "Cima"
+
+msgid "Variable"
+msgstr "Variável"
+
+msgid "Find"
+msgstr "Procurar"
+
+msgid "Recursive"
+msgstr "Recursivo"
+
+msgid "File type : "
+msgstr "Tipo de ficheiro : "
+
+msgid "Extended regexp"
+msgstr "regexp extendido"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Read"
+msgstr "Leitura"
+
+msgid "Write"
+msgstr "Escrita"
+
+msgid "Execute"
+msgstr "Executar"
+
+msgid "Set UID"
+msgstr "Mudar UID"
+
+msgid "Set GID"
+msgstr "Mudar GID"
+
+msgid "Sticky"
+msgstr "Sticky"
+
+msgid "Preview"
+msgstr "Prevêr"
+
+msgid "Mount"
+msgstr "Montar"
+
+msgid "Unmount"
+msgstr "Desmontar"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Filter"
+msgstr "Filtros"
+
+msgid ""
+"To display files which pass the filter (stars and regexps will be processed)"
+msgstr ""
+"Para mostrar ficheiros que passam o filtro (estrelas e regexps serão "
+"processados)"
+
+msgid "Creation Time :"
+msgstr "Data de Criação :"
+
+msgid "Quit"
+msgstr "Sair"
+
+

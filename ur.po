@@ -1,0 +1,6469 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:40:22 CDT 2013 ---
+#
+# Muhammad Ali Makki <makki.ma@gmail.com>, 2008.
+# Copyright (C) 2005 Dan Williams <dcbw@redhat.com>.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+# Anand Kulkarni <kulk_anand@yahoo.com>, 2008.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2008-02-29 15:35+0000\n"
+"PO-Revision-Date: 2008-03-02 18:07+0500\n"
+"Last-Translator: Muhammad Ali Makki <makki.ma@gmail.com>\n"
+"Language-Team: Urdu <makki.ma@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Urdu\n"
+"X-Poedit-Country: PAKISTAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "Load Options"
+msgstr "اختیارات لوڈ کریں"
+
+msgid "Create"
+msgstr "بنائیں"
+
+msgid "Create Archive"
+msgstr "محفوظہ بنائیں"
+
+msgid "Location"
+msgstr "مقام"
+
+msgid "Location:"
+msgstr "مقام:"
+
+msgid "Archive:"
+msgstr "محفوظہ:"
+
+msgid "<span weight=\"bold\" size=\"larger\">Password required</span>"
+msgstr "<span weight=\"bold\" size=\"larger\">پاس ورڈ مطلوب ہے</span>"
+
+msgid "Password:"
+msgstr "پاس ورڈ:"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "All files"
+msgstr "تمام فائلیں"
+
+msgid "Files:"
+msgstr "فائلیں:"
+
+msgid "Selected files"
+msgstr "منتخب کردہ فائلیں"
+
+msgid "example: *.txt; *.doc"
+msgstr "مثال: *.txt; *.doc"
+
+msgid "Available application:"
+msgstr "دستیاب اطلاقیے:"
+
+msgid "Open Files"
+msgstr "فائلیں کھولیں"
+
+msgid "Recent applications:"
+msgstr "حالیہ اطلاقیے:"
+
+msgid "Application:"
+msgstr "اطلاقیہ:"
+
+msgid "Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted."
+msgstr "نوٹ: پاس ورڈ حالیہ محفوظہ میں شامل کی گئی فائل کو انکرپٹ کرنے اور حالیہ محفوظہ سے فائلیں نکالنے پر انہیں ڈکرپٹ کرنے کے لیے ہے. جب محفوظہ بند ہوگی تو پاس ورڈ حذف کردیا جائے گا."
+
+msgid "Password"
+msgstr "پاس ورڈ"
+
+msgid "Select the files you want to update:"
+msgstr "فائل منتخب کریں جس کی آپ تجدید کرنا چاہتے ہیں:"
+
+msgid "The file has been modified with an external application. If you don't update the version in the archive, all of your changes will be lost."
+msgid_plural "There are %d files that have been modified with an external application. If you don't update the files in the archive, all of your changes will be lost."
+msgstr[0] "فائل میں کسی خارجی  اطلاقیے سے تبدیلی کی گئی ہے، اگر آپ محفوظہ میں موجود فائل کے ورژن کو اپڈیٹ نہیں کریں گے تو آپ کی تمام تبدیلیاں ضائع ہوجائیں گی."
+msgstr[1] "%d فائلوں میں کسی خارجی  اطلاقیے سے تبدیلی کی گئی ہے، اگر آپ محفوظہ میں موجود فائلوں کے ورژن کو اپڈیٹ نہیں کریں گے تو آپ کی تمام تبدیلیاں ضائع ہوجائیں گی."
+
+msgid "Update"
+msgstr "تجدید"
+
+msgid "Archive Manager"
+msgstr "محفوظہ منیجر"
+
+msgid "Create and modify an archive"
+msgstr "محفوظہ بنائیں اور تبدیل کریں"
+
+msgid "Extract Here"
+msgstr "یہیں نکالیں"
+
+msgid "Extract the selected archive in the current position"
+msgstr "منتخب کردہ محفوظہ اسی مقام پر نکالیں"
+
+msgid "Extract To..."
+msgstr "نکالیں تا..."
+
+msgid "Extract the selected archive"
+msgstr "منتخب کردہ محفوظہ نکالیں"
+
+msgid "Create Archive..."
+msgstr "محفوظہ بنائیں..."
+
+msgid "Create an archive with the selected objects"
+msgstr "منتخب عناصر سے محفوظہ بنائیں"
+
+msgid "Could not create the archive"
+msgstr "محفوظہ نہیں بنائی جاسکتی"
+
+msgid "You have to specify an archive name."
+msgstr "آپ کو محفوظہ کا نام متعین کرنا ہوگا."
+
+msgid "You don't have permission to create an archive in this folder"
+msgstr "آپ کے پاس اس فولڈر میں محفوظہ بنانے کا اجازہ نہیں ہے"
+
+msgid "Archive type not supported."
+msgstr "محفوظہ کی قسم کی معاونت نہیں ہے."
+
+msgid "The archive already exists.  Do you want to overwrite it?"
+msgstr "محفوظہ پہلے ہی موجود ہے. کیا آپ اس کے اوپر لکھنا چاہتے ہیں؟"
+
+msgid "Overwrite"
+msgstr "اوپر لکھیں"
+
+msgid "Could not delete the old archive."
+msgstr "پرانی محفوظہ حذف نہیں کی جاسکتی"
+
+msgid "New"
+msgstr "نیا"
+
+msgid "All archives"
+msgstr "تمام محفوظات"
+
+msgid "Archive type:"
+msgstr "محفوظہ قسم:"
+
+msgid "Automatic"
+msgstr "خودکار"
+
+msgid "Open"
+msgstr "کھولیں"
+
+msgid "Save"
+msgstr "محفوظ کریں"
+
+msgid "Last Output"
+msgstr "آخری ما حاصل"
+
+msgid "File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version."
+msgstr "فائل رولر ایک مفت سوفٹ ویئر ہے، آپ اسے فری سوفٹ ویئر فاونڈیشن کی طرف سے جاری کردہ گنو جنرل پبلک لائسنس ورژن 2 یا (اپنی مرضی سے) بعد کے کسی ورژن کی شرائط کے تحت تقسیم / یا تبدیل کرسکتے ہیں."
+
+msgid "File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details."
+msgstr "فائل رولر اس امید کے ساتھ تقسیم کیا جاتا ہے کہ یہ مفید اور کارآمد ثابت ہوگا تاہم کسی بھی وارنٹی کے بغیر؛ تجارت یا کسی مخصوص کام کے  قابل ہونے کی ایسی وارنٹی کے بھی بغیر جس کی طرف یہ دلالت کرتا ہو۔ مزید تفصیلات کے لیے گنو کا عمومی عوامی اجازہ GNU GPL دیکھیں۔"
+
+msgid "You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA"
+msgstr "فائل رولر کے ساتھ آب کو جنرل پبلک لائسنس کی ایک کاپی ضرور ملی ہوگی، اگر نہیں ملی تو اس پتہ پر لکھیے: Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA"
+
+msgid "Copyright © 2001-2007 Free Software Foundation, Inc."
+msgstr "کاپی رائٹ © 2001-2007 فری سوفٹ ویئر فاؤنڈیشن، Inc."
+
+msgid "An archive manager for GNOME."
+msgstr "محفوظہ منیجر برائے گنوم"
+
+msgid "translator-credits"
+msgstr ""
+"محمد علی مکی\n"
+"makki.ma@gmail.com\n"
+"اردو کوڈر لینکس فورم\n"
+"www.urducoder.com"
+
+msgid "Could not add the files to the archive"
+msgstr "محفوظہ میں فائلیں شامل نہیں کی جاسکتیں"
+
+msgid "You don't have the right permissions to read files from folder \"%s\""
+msgstr "آپ کے پاس فولڈر \"%s\" سے فائلیں پڑھنے کا اجازہ نہیں ہے"
+
+msgid "Add Files"
+msgstr "فائلیں شامل کریں"
+
+msgid "Add only if newer"
+msgstr "اگر نئی ہوں تو شامل کریں"
+
+msgid "Add a Folder"
+msgstr "فولڈر شامل کریں"
+
+msgid "Include subfolders"
+msgstr "بشمول ذیلی فولڈرز"
+
+msgid "Exclude folders that are symbolic links"
+msgstr "وہ فولڈر مستثنی کریں جو رمزی روابط ہیں"
+
+msgid "example: *.o; *.bak"
+msgstr "مثال: *.o; *.bak"
+
+msgid "Include files:"
+msgstr "شامل فائلیں:"
+
+msgid "Exclude files:"
+msgstr "مستثنی فائلیں:"
+
+msgid "Save Options"
+msgstr "اختیارات محفوظ کریں"
+
+msgid "Options Name:"
+msgstr "اختیارات نام:"
+
+msgid "Enter the password for the archive '%s'."
+msgstr "محفوظہ '%s' کے لیے پاس ورڈ لکھیں."
+
+msgid ""
+"The name \"%s\" is not valid because it cannot contain the characters: %s\n"
+"\n"
+"%s"
+msgstr ""
+"نام \"%s\" موزوں نہیں ہے کیونکہ اس میں یہ رموز نہیں ہونے چاہئیں: %s\n"
+"\n"
+"%s"
+
+msgid "Please use a different name."
+msgstr "برائے مہربانی مختلف نام استعمال کریں."
+
+msgid "You don't have the right permissions to create an archive in the destination folder."
+msgstr "آپ کے پاس سمت فولڈر میں محفوظہ بنانے کا درست اجازہ نہیں ہے."
+
+msgid ""
+"Destination folder \"%s\" does not exist.\n"
+"\n"
+"Do you want to create it?"
+msgstr ""
+"سمت فولڈر \"%s\" موجود نہیں ہے.\n"
+"\n"
+"کیا آپ اسے بنانا چاہتے ہیں؟"
+
+msgid "Create Folder"
+msgstr "فولڈر بنائیں"
+
+msgid "Could not create the destination folder: %s."
+msgstr "سمت فولڈر %s نہیں بنایا جاسکتا."
+
+msgid "Archive not created"
+msgstr "محفوظہ نہیں بنائی گئی"
+
+msgid "The archive is already present.  Do you want to overwrite it?"
+msgstr "محفوظہ پہلے ہی موجود ہے. کیا آپ اس کے اوپر لکھنا چاہتے ہیں؟"
+
+msgid "Extraction not performed"
+msgstr "نکالنا عمل میں نہیں لایا گیا"
+
+msgid "You don't have the right permissions to extract archives in the folder \"%s\""
+msgstr "آپ کے پاس محفوظات کو فولڈر \"%s\" میں نکالنے کے درست اجازے نہیں ہیں"
+
+msgid "Files"
+msgstr "فائلیں"
+
+msgid "Actions"
+msgstr "عمل"
+
+msgid "Re-create folders"
+msgstr "فولڈرز پھر بنائیں"
+
+msgid "Overwrite existing files"
+msgstr "سابقہ فائلوں پر لکھیں"
+
+msgid "Do not extract older files"
+msgstr "پرانی فائلیں مت نکالیں"
+
+msgid "Open destination folder after extraction"
+msgstr "نکالنے کے بعد سمت فولڈر کھولیں"
+
+msgid "Extract"
+msgstr "نکالیں"
+
+msgid "Path:"
+msgstr "پاتھ:"
+
+msgid "Name:"
+msgstr "نام:"
+
+msgid "%s Properties"
+msgstr "%s خصوصیات"
+
+msgid "Modified on:"
+msgstr "تبدیل شدہ:"
+
+msgid "Archive size:"
+msgstr "محفوظہ حجم:"
+
+msgid "Content size:"
+msgstr "مواد حجم:"
+
+msgid "Compression ratio:"
+msgstr "دباؤ کا ریشو:"
+
+msgid "Number of files:"
+msgstr "فائلوں کی تعداد:"
+
+msgid "Update the file \"%s\" in the archive \"%s\"?"
+msgstr "فائل \"%s\" کو محفوظہ \"%s\" میں تجدید کریں؟"
+
+msgid "Update the files in the archive \"%s\"?"
+msgstr "محفوظہ \"%s\" میں فائلوں کی تجدید کریں؟"
+
+msgid "Unknown type"
+msgstr "نامعلوم قسم"
+
+msgid "Symbolic link"
+msgstr "رمزی ربط"
+
+msgid "You don't have the right permissions."
+msgstr "آپ کے پاس درست اجازہ نہیں ہے."
+
+msgid "You can't add an archive to itself."
+msgstr "آپ محفوظہ کو اپنے آپ میں شامل نہیں کرسکتے."
+
+msgid "Adding file: "
+msgstr "فائلیں شامل کریں:"
+
+msgid "Removing file: "
+msgstr "فائل حذف کی جارہی ہے:"
+
+msgid "Deleting files from archive"
+msgstr "محفوظہ سے فائلیں حذف کی جارہی ہیں"
+
+msgid "Extracting file: "
+msgstr "فائل نکالی جارہی ہے:"
+
+msgid "Recompressing archive"
+msgstr "محفوظہ پھر دبائی جارہی ہے"
+
+msgid "Decompressing archive"
+msgstr "محفوظہ پھر نکالی جارہی ہے"
+
+msgid "Add"
+msgstr "شامل کریں"
+
+msgid "View File"
+msgstr "فائل دیکھیں"
+
+msgid "%d object (%s)"
+msgid_plural "%d objects (%s)"
+msgstr[0] "%d عنصر (%s)"
+msgstr[1] "%d عناصر (%s)"
+
+msgid "%d object selected (%s)"
+msgid_plural "%d objects selected (%s)"
+msgstr[0] "%d عنصر منتخب کردہ (%s)"
+msgstr[1] "%d عناصر منتخب کردہ (%s)"
+
+msgid "Folder"
+msgstr "فولڈر"
+
+msgid "[read only]"
+msgstr "[صرف پڑھنے کے لیے]"
+
+msgid "Creating archive"
+msgstr "محفوظہ بنائی جارہی ہے"
+
+msgid "Loading archive"
+msgstr "محفوظہ لوڈ کی جارہی ہے"
+
+msgid "Reading archive"
+msgstr "محفوظہ پڑھی جارہی ہے"
+
+msgid "Testing archive"
+msgstr "محفوظہ ٹیسٹ کی جارہی ہے"
+
+msgid "Getting the file list"
+msgstr "فائل فہرست حاصل کی جارہی ہے"
+
+msgid "Copying the file list"
+msgstr "فائل فہرست کاپی کی جارہی ہے"
+
+msgid "Adding files to archive"
+msgstr "محفوظہ میں فائلیں شامل کی جارہی ہیں"
+
+msgid "Extracting files from archive"
+msgstr "محفوظہ سے فائلیں نکالی جارہی ہیں"
+
+msgid "Saving archive"
+msgstr "محفوظہ محفوظ کی جارہی ہے"
+
+msgid "wait please..."
+msgstr "انتظار فرمائیں..."
+
+msgid "Could not display the folder \"%s\""
+msgstr "فولڈر \"%s\" نہیں دکھایا جاسکتا"
+
+msgid "An error occurred while extracting files."
+msgstr "فائلیں نکالتے وقت غلطی."
+
+msgid "Could not open \"%s\""
+msgstr "\"%s\" نہیں کھولی جاسکتی"
+
+msgid "An error occurred while loading the archive."
+msgstr "محفوظہ لوڈ کرنے کے دوران غلطی."
+
+msgid "An error occurred while deleting files from the archive."
+msgstr "محفوظہ سے فائلیں حذف کرنے کے دوران غلطی."
+
+msgid "An error occurred while adding files to the archive."
+msgstr "محفوظہ میں فائلیں شامل کرنے کے دوران غلطی."
+
+msgid "An error occurred while testing archive."
+msgstr "محفوظہ کو ٹیسٹ کرنے کے دوران غلطی."
+
+msgid "Command not found."
+msgstr "کمانڈ نہیں پائی گئی."
+
+msgid "Command exited abnormally."
+msgstr "کمانڈ غیر متوقع طور پر برخاست ہوگئی."
+
+msgid "Test Result"
+msgstr "ٹیسٹ کا نتیجہ"
+
+msgid "Could not perform the operation"
+msgstr "عمل ادا نہیں کیا جاسکتا"
+
+msgid "Do you want to add this file to the current archive or open it as a new archive?"
+msgstr "کیا آپ یہ فائل حالیہ محفوظہ میں شامل کرنا چاہتے ہیں یا اسے بطور نیا محفوظہ کھولنا چاہتے ہیں؟"
+
+msgid "Do you want to create a new archive with these files?"
+msgstr "کیا آپ ان فائلوں سے محفوظہ بنانا چاہتے ہیں؟"
+
+msgid "Folders"
+msgstr "فولڈرز"
+
+msgid "Size"
+msgstr "حجم"
+
+msgid "Type"
+msgstr "قسم"
+
+msgid "Date Modified"
+msgstr "تاریخِ تبدیلی"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Go to the previous visited location"
+msgstr "سابقہ دیکھے گئے مقام پر جائیں"
+
+msgid "Go to the next visited location"
+msgstr "اگلے دیکھے گئے مقام پر جائیں"
+
+msgid "Go up one level"
+msgstr "ایک درجہ اوپر جائیں"
+
+msgid "Go to the home location"
+msgstr "مرکزی مقام پر جائیں"
+
+msgid "Find:"
+msgstr "تلاش:"
+
+msgid "Close the folders pane"
+msgstr "بغلی پٹی بند کریں"
+
+msgid "Open archive"
+msgstr "محفوظہ کھولیں"
+
+msgid "Open a recently used archive"
+msgstr "حالیہ استعمال شدہ محفوظہ کھولیں"
+
+msgid "Could not save the archive \"%s\""
+msgstr "محفوظہ \"%s\" محفوظ نہیں کی جاسکتی"
+
+msgid "The new name is void."
+msgstr "نیا نام خالی ہے."
+
+msgid "The new name is equal to the old one."
+msgstr "نیا نام پرانے سے مشابہ ہے."
+
+msgid ""
+"A folder named \"%s\" already exists.\n"
+"\n"
+"%s"
+msgstr ""
+"فولڈر بنام \"%s\" پہلے ہی موجود ہے.\n"
+"\n"
+"%s"
+
+msgid ""
+"A file named \"%s\" already exists.\n"
+"\n"
+"%s"
+msgstr ""
+"فائل بنام \"%s\" پہلے ہی موجود ہے.\n"
+"\n"
+"%s"
+
+msgid "Rename"
+msgstr "نام بدلیں"
+
+msgid "New folder name"
+msgstr "فولڈر کا نیا نام"
+
+msgid "New file name"
+msgstr "فائل کا نیا نام"
+
+msgid "Could not rename the folder"
+msgstr "فولڈر کا نام نہیں بدلا جاسکتا"
+
+msgid "Could not rename the file"
+msgstr "فائل کا نام نہیں بدلا جاسکتا"
+
+msgid "Paste Selection"
+msgstr "انتخاب پیسٹ کریں"
+
+msgid "Destination folder"
+msgstr "سمت فولڈر"
+
+msgid "Add files to an archive"
+msgstr "محفوظہ میں فائلیں شامل کریں"
+
+msgid "Extract archive"
+msgstr "محفوظہ نکالیں (کھولی)"
+
+msgid "%d %B %Y, %H:%M"
+msgstr "%d %B %Y, %H:%M"
+
+msgid "Command Line Output"
+msgstr "کمانڈ لائن ما حاصل"
+
+msgid "Could not display help"
+msgstr "ہدایات نہیں دکھائی جاسکتی"
+
+msgid "Ace (.ace)"
+msgstr "Ace (.ace)"
+
+msgid "Ar (.ar)"
+msgstr "Ar (.ar)"
+
+msgid "Arj (.arj)"
+msgstr "Arj (.arj)"
+
+msgid "Ear (.ear)"
+msgstr "Ear (.ear)"
+
+msgid "Self-extracting zip (.exe)"
+msgstr "خوکار کھلنے والا zip محفوظہ (exe.)"
+
+msgid "Jar (.jar)"
+msgstr "Jar (.jar)"
+
+msgid "Lha (.lzh)"
+msgstr "Lha (.lzh)"
+
+msgid "Rar (.rar)"
+msgstr "Rar (.rar)"
+
+msgid "Tar uncompressed (.tar)"
+msgstr "Tar نکالی ہوئی (.tar)"
+
+msgid "Tar compressed with bzip (.tar.bz)"
+msgstr "Tar دبا ہوا بمع bzip (.tar.bz)"
+
+msgid "Tar compressed with bzip2 (.tar.bz2)"
+msgstr "Tar دبا ہوا بمع bzip2 (.tar.bz2)"
+
+msgid "Tar compressed with gzip (.tar.gz)"
+msgstr "Tar دبا ہوا بمع gzip (.tar.gz)"
+
+msgid "Tar compressed with lzma (.tar.lzma)"
+msgstr "Tar دبا ہوا بمع lzma (.tar.lzma)"
+
+msgid "Tar compressed with lzop (.tar.lzo)"
+msgstr "Tar دبا ہوا بمع lzop (.tar.lzo)"
+
+msgid "Tar compressed with compress (.tar.Z)"
+msgstr "Tar دبا ہوا بمع دباؤ (.tar.Z)"
+
+msgid "War (.war)"
+msgstr "War (.war)"
+
+msgid "Zip (.zip)"
+msgstr "Zip (.zip)"
+
+msgid "Zoo (.zoo)"
+msgstr "Zoo (.zoo)"
+
+msgid "7-Zip (.7z)"
+msgstr "7-Zip (.7z)"
+
+msgid "Add files to the specified archive and quit the program"
+msgstr "معین کردہ محفوظہ میں فائلیں شامل کرکے پروگرام بند کریں"
+
+msgid "ARCHIVE"
+msgstr "محفوظہ"
+
+msgid "Add files asking the name of the archive and quit the program"
+msgstr "محفوظہ کا نام پوچھتے ہوئے فائلیں شامل کریں اور پروگرام برخاست کریں"
+
+msgid "Extract archives to the specified folder and quit the program"
+msgstr "محفوظہ متعین کردہ فولڈر میں نکالیں اور پروگرام برخاست کریں"
+
+msgid "FOLDER"
+msgstr "فولڈر"
+
+msgid "Extract archives asking the destination folder and quit the program"
+msgstr "سمت فولڈر کا پوچھتے ہوئے محفوظہ نکالیں اور پروگرام برخاست کریں"
+
+msgid "Extract archives using the archive name as destination folder and quit the program"
+msgstr "محفوظہ کا نام بطور سمت فولڈر استعمال کرتے ہوئے محفوظہ نکالیں اور پروگرام برخاست کریں"
+
+msgid "Default folder to use for the '--add' and '--extract' commands"
+msgstr "طے شدہ فولڈر برائے '--add' اور '--extract' کمانڈز کے استعمال کے لیے"
+
+msgid "Create destination folder without asking confirmation"
+msgstr "تصدیق کا پوچھے بغیر سمت فولڈر بنائیں"
+
+msgid "- Create and modify an archive"
+msgstr "- محفوظہ بنائیں اور مدون کریں"
+
+msgid "File Roller"
+msgstr "فائل رولر"
+
+msgid "Archive"
+msgstr "محفوظہ"
+
+msgid "Edit"
+msgstr "تدوین"
+
+msgid "View"
+msgstr "منظر"
+
+msgid "Help"
+msgstr "ہدایات"
+
+msgid "Arrange Files"
+msgstr "فائلیں مرتب کریں"
+
+msgid "Open Recent"
+msgstr "حالیہ کھولیں"
+
+msgid "Information about the program"
+msgstr "پروگرام کے بارے میں معلومات"
+
+msgid "Add Files..."
+msgstr "فائلیں شامل کریں..."
+
+msgid "Add files to the archive"
+msgstr "محفوظہ میں فائلیں شامل کریں"
+
+msgid "Add a Folder..."
+msgstr "فولڈر شامل کریں..."
+
+msgid "Add a folder to the archive"
+msgstr "محفوظہ میں فولڈر شامل کریں"
+
+msgid "Add Folder"
+msgstr "فولڈر شامل کریں"
+
+msgid "Close the current archive"
+msgstr "حالیہ محفوظہ بند کریں"
+
+msgid "Contents"
+msgstr "ہدایات کے موضوعات"
+
+msgid "Display the File Roller Manual"
+msgstr "فائل رولر کی ہدایات کھولیں"
+
+msgid "Copy the selection"
+msgstr "انتخاب کاپی کریں"
+
+msgid "Cut the selection"
+msgstr "انتخاب کٹ کریں"
+
+msgid "Paste the clipboard"
+msgstr "کلپ بورڈ پیسٹ کریں"
+
+msgid "Rename..."
+msgstr "نام بدلیں..."
+
+msgid "Rename the selection"
+msgstr "انتخاب کا نام بدلیں"
+
+msgid "Delete the selection from the archive"
+msgstr "انتخاب محفوظہ سے حذف کریں"
+
+msgid "Deselect All"
+msgstr "نا منتخب تمام"
+
+msgid "Deselect all files"
+msgstr "تمام فائلیں نا منتخب کریں"
+
+msgid "Extract..."
+msgstr "نکالیں..."
+
+msgid "Extract files from the archive"
+msgstr "محفوظہ سے فائلیں نکالیں"
+
+msgid "View the output produced by the last executed command"
+msgstr "آخری چلائی گئی کمانڈ کا ما حاصل دیکھیں"
+
+msgid "Create a new archive"
+msgstr "نیا محفوظہ بنائیں"
+
+msgid "Open With..."
+msgstr "کھولیں بذریعہ..."
+
+msgid "Open selected files with an application"
+msgstr "منتخب فائلیں کسی اطلاقیہ سے کھولیں"
+
+msgid "Password..."
+msgstr "پاس ورڈ..."
+
+msgid "Specify a password for this archive"
+msgstr "اس محفوظہ کے لیے پاس ورڈ متعین کریں"
+
+msgid "Show archive properties"
+msgstr "محفوظہ کی خصوصیات دیکھیں"
+
+msgid "Reload current archive"
+msgstr "حالیہ محفوظہ پھر لوڈ کریں"
+
+msgid "Save the current archive with a different name"
+msgstr "حالیہ محفوظہ دوسرے نام سے محفوظ کریں"
+
+msgid "Select All"
+msgstr "منتخب تمام"
+
+msgid "Select all files"
+msgstr "تمام فائلیں منتخب کریں"
+
+msgid "Stop current operation"
+msgstr "حالیہ عمل کاری روکیں"
+
+msgid "Test Integrity"
+msgstr "درستگی ٹیسٹ کریں"
+
+msgid "Test whether the archive contains errors"
+msgstr "دیکھیں کہ کیا محفوظہ میں کوئی غلطیاں تو نہیں"
+
+msgid "View the selected file"
+msgstr "منتخب فائل دیکھیں"
+
+msgid "Open the selected folder"
+msgstr "منتخب کردہ فولڈر کھولیں"
+
+msgid "Toolbar"
+msgstr "اوزار پٹی"
+
+msgid "View the main toolbar"
+msgstr "مین اوزار پٹی دیکھیں"
+
+msgid "Statusbar"
+msgstr "حالت پٹی"
+
+msgid "View the statusbar"
+msgstr "حالت پٹی دیکھیں"
+
+msgid "Reversed Order"
+msgstr "عکسی ترتیب"
+
+msgid "Reverse the list order"
+msgstr "فہرست کی ترتیب عکسی کریں"
+
+msgid "View the folders pane"
+msgstr "بغلی پٹی دیکھیں"
+
+msgid "View All Files"
+msgstr "تمام فائلیں دیکھیں"
+
+msgid "View as a Folder"
+msgstr "دکھائیں بطور فولڈر"
+
+msgid "by Name"
+msgstr "نام سے"
+
+msgid "Sort file list by name"
+msgstr "فائلیں نام کے حساب سے ترتیب دیں"
+
+msgid "by Size"
+msgstr "حجم سے"
+
+msgid "Sort file list by file size"
+msgstr "فائیں حجم کے حساب سے ترتیب دیں"
+
+msgid "by Type"
+msgstr "قسم سے"
+
+msgid "Sort file list by type"
+msgstr "فائلیں قسم کے حساب سے ترتیب دیں"
+
+msgid "by Date modified"
+msgstr "تاریخِ تبدیلی سے"
+
+msgid "Sort file list by modification time"
+msgstr "فائلیں تاریخِ تبدیلی سے ترتیب دیں"
+
+msgid "by Location"
+msgstr "مقام سے"
+
+
+msgid ""
+"- In the 'Boards' section you can change the list of activities. Just "
+"untoggle them in the treeview. You can change the language used for reading, "
+"for example, then the language used for saying the names of colors.\n"
+"- You can save multiple configurations, and switch between them easily. In "
+"the 'Profile' section add a profile, then in the 'Board' section select the "
+"profile in the combobox, then select the boards you want to be active. You "
+"can add multiple profiles, with different lists of boards, and different "
+"languages. You set the default profile in the 'Profile' section, by choosing "
+"the profile you want, then clicking on the 'Default' button. You can also "
+"choose a profile from the command line.\n"
+"- You can add users, classes and for each class, you can create groups of "
+"users. Note that you can import users from a comma-separated file. Assign "
+"one or more groups to a profile, after which those new logins will appear "
+"after restarting GCompris. Being able to identify individual children in "
+"GCompris means we can provide individual reports. It also recognizes the "
+"children as individuals; they can learn to type in and recognize their own "
+"usernames (login is configurable)."
+msgstr "بورڈز ، سيکشن ميں آپ سر گرميو ں کي  هرست ميں تبديل کر سکتے هيں انھيں ٹري و ئيو ميں صرف ان ٹا گل کريں آپ پڑھنے کے ليے استعمال کي گئي زبان تبديل کر سکتے هيں مثا ل کے طور پر رنگوں کے نام بتا نے کے ليے استعمال کي گئي زبان  آپ متعدد هئتيں محفوظ کر سکتے هيں اور انکے درميان به آساني سو يئچ کر سکتے هيں پرو فا ئل ،  سيکشن ميں پر وفائل شامل کريں ، پھر بورڈ سيکشن سے کو مبو با کس ميں پروفا ئل منتخب کريں ، پھر بورڈز منتخب کريں جو آپ فعال کر نا چاهتے هيں آپ مختلف بورڈز کي فهرستوں اور مختلف زبانوں کے ساتھ متعدد پرو فا ئلز شامل کر سکتے هيں آپ اپني مطلو به پر و فا ئل کاانتخاب کر کے پھر ڈي فالٹ بٹن پر کلک کر کے پر و فا ئل سيکشن ميں ڈي فالٹ پرو فا ئل سيٹ کريں آپ کما نڈ لا ئن سے بھي پرو فا ئل منتخب کر سکتے هيں آپ صارفين ، کلا سيس شا مل کر سکتے هيں اور هر کلاس کے ليے آپ صارفين کا گر وه منتخب کر سکتے هو دھيان رکھيں ،آپ کو ما سيپرٹيڈ فا ئل سے صارفين کو امپورٹ کر سکتے هيں پروفا ئل کے ليے ايک يا ايک سے زائد پروفا ئل منتقل کريں جسکے بعد G کمپرائزشروع کر نے کے بعد وه نئے لا گ ان ظا هر هو نگے  G  کمپر ائز ميں بچوں کي انفرادي شناخت کر نے مطلب هے که هم انفرادي رپورٹس فراهم کر سکتے هيں يه بچوں کو انفرادي طور پر بھي پهنچا نتا هے بچے خود ٹا ئب کر نا اور اپنے خود صارفين کے نام پهنچان سکتے هيں  (لا گ ان قابل هيئت هے)"
+
+msgid "GCompris Administration Menu"
+msgstr " Gکمپرائز Administration مينو"
+
+msgid ""
+"If you want to fine tune GCompris to your needs, you can use the "
+"administration module here. The ultimate goal is to provide child-specific "
+"reporting for parents and teacher who want to monitor the progress, "
+"strengths and needs of their children."
+msgstr "اگر آپ اپني ضرورتوں کے ليے اچھي   G   کمپر ائز ٹيون چا هتے هيں تو آپ يهاں انتظاميه موڈيو ل استعمال کر سکتے هيں آ خر کا راسکا مقصد هے بچوں کي واضح رپورٹنگ والدين اور اسا تذه کو فراهم کر نا جو اپنے بچوں کي تر قي ، استعداد اور ضروريات جانچنا چاهتے هين"
+
+msgid "Left-Click with the mouse to select an activity"
+msgstr "سر گرمي منتخب کر نے کے ليے ما ٶ س سے با ئيں کلک کريں ايڈوانسڈرنگ"
+
+msgid "Advanced colors"
+msgstr "جديد رنگ"
+
+msgid "Can read"
+msgstr "پڑھ سکتا هے"
+
+msgid "Click on the correct color"
+msgstr "صحيح رنگ پر کلک کريں"
+
+msgid "Click on the correct colored box."
+msgstr "رنگے هو ئے صحيح با کس پر کلک کريں"
+
+msgid "Learn to recognize unusual colors."
+msgstr "غير معمو لي رنگوں کو وپهچاننا سيکھيں"
+
+msgid "almond"
+msgstr "بدام"
+
+msgid "chestnut"
+msgstr "سرخي ما ئل بھور ا"
+
+msgid "claret"
+msgstr "شرابي سرخ"
+
+msgid "cobalt"
+msgstr "کو بالٹ"
+
+msgid "coral"
+msgstr "کورل"
+
+msgid "corn"
+msgstr "مکئي"
+
+msgid "cyan"
+msgstr "نيلا نيلگوں  "
+
+msgid "sienna"
+msgstr "سي ايننا"
+
+msgid "lime"
+msgstr "يمو کلر"
+
+msgid "sage"
+msgstr "سيج"
+
+msgid "salmon"
+msgstr "سالمن"
+
+msgid "sapphire"
+msgstr "هلکا نيلا"
+
+msgid "sepia"
+msgstr "سرخي مائل"
+
+msgid "sulphur"
+msgstr "سلفر"
+
+msgid "tea"
+msgstr "چا ئے"
+
+msgid "turquoise"
+msgstr "فيروزي"
+
+msgid "absinthe"
+msgstr "لکڑي کا رنگ"
+
+msgid "alabaster"
+msgstr "سنگ مرمر کے جيساسفيد رنگ"
+
+msgid "amber"
+msgstr "عنبر"
+
+msgid "amethyst"
+msgstr "نيلم "
+
+msgid "anise"
+msgstr "سونپ کا رنگ"
+
+msgid "aquamarine"
+msgstr "نيلگو ں سبز"
+
+msgid "mahogany"
+msgstr "سخت سرخ رنگ"
+
+msgid "vermilion"
+msgstr "شنگرفي"
+
+msgid "aubergine"
+msgstr "سنهري بھور"
+
+msgid "ceruse"
+msgstr "سفيده"
+
+msgid "chartreuse"
+msgstr "هلکا سبز رنگ "
+
+msgid "emerald"
+msgstr "زمرد"
+
+msgid "fawn"
+msgstr "هرن کے بچے کا رنگ"
+
+msgid "fuchsia"
+msgstr "پھول پتوں کا رنگ"
+
+msgid "glaucous"
+msgstr "بي هلکاسبز"
+
+msgid "ruby"
+msgstr "يا قوت"
+
+msgid "auburn"
+msgstr "سرخي ما ئل بھورا"
+
+msgid "azure"
+msgstr "نيلگو ه"
+
+msgid "bistre"
+msgstr "بيسکٹ"
+
+msgid "celadon"
+msgstr "سيليڈان"
+
+msgid "cerulean"
+msgstr "آسماني رنگ"
+
+msgid "crimson"
+msgstr "قرمزي"
+
+msgid "greyish-brown"
+msgstr "خاکستري بھورا"
+
+msgid "dove"
+msgstr "کبوتر کا رنگ"
+
+msgid "garnet"
+msgstr "يا قوتي رنگ"
+
+msgid "indigo"
+msgstr "يگهرا نيلا"
+
+msgid "ivory"
+msgstr "ها تھي کے دانت جيسا سفيد رنگ"
+
+msgid "jade"
+msgstr "دودھيا سبز"
+
+msgid "lavender"
+msgstr "لو ينڈر"
+
+msgid "lichen"
+msgstr "لو ينڈر"
+
+msgid "wine"
+msgstr "شراب"
+
+msgid "larch"
+msgstr "ديودار درخت کا رنگ"
+
+msgid "lilac"
+msgstr "هلکا گلابي رنگ"
+
+msgid "magenta"
+msgstr "مياگنيٹا۔لال کريم رنگ"
+
+msgid "malachite"
+msgstr "malachite"
+
+msgid "mimosa"
+msgstr "شر ميلے پودے کا رنگ"
+
+msgid "navy"
+msgstr "گهرا نيلا رنگ"
+
+msgid "ochre"
+msgstr "هلکا بادامي"
+
+msgid "olive"
+msgstr "زيتون"
+
+msgid "greyish blue"
+msgstr "خاکستري نيلا"
+
+msgid "mauve"
+msgstr "هلکا ارغواني"
+
+msgid "opaline"
+msgstr "دودھيا"
+
+msgid "pistachio"
+msgstr "سيشے کا رنگ"
+
+msgid "platinum"
+msgstr "پلا ٹينيم"
+
+msgid "purple"
+msgstr "گهرانيلا رنگ"
+
+msgid "ultramarine"
+msgstr "گهرا اودا"
+
+msgid "dark purple"
+msgstr "جا موني"
+
+msgid "plum"
+msgstr "بير کا رنگ"
+
+msgid "prussian blue"
+msgstr "هرا نيلا رنگ"
+
+msgid "rust"
+msgstr "زنگ"
+
+msgid "saffron"
+msgstr "زعفراني"
+
+msgid "vanilla"
+msgstr "وينيلا پو دے کا رنگ"
+
+msgid "verdigris"
+msgstr "تا بنے جيسا رنگ"
+
+msgid "veronese"
+msgstr "نيلے، سفيد،  جا موني پھولو ں کے پودوں کا رنگ"
+
+msgid "Answer some algebra questions"
+msgstr "کچھ الجبرا ئي سوالات کے جوابا ت ديں"
+
+msgid "In a limited time, give the product of two numbers"
+msgstr "مختصر وقت ميں دو نمبرات کا ضرب کيجئے"
+
+msgid "Multiplication table"
+msgstr "ضربي پهاڑه"
+
+msgid "Practice the multiplication operation"
+msgstr "ضربي عمل کي مشق کريں"
+
+msgid "Go to Algebra activities"
+msgstr "الجبرا ئي سر گرميوں ميں جا ئين"
+
+msgid "Left-click the mouse on an activity to select it."
+msgstr "سرگرمي کا انتخاب کر نے کے ليے اس پر ماٶ س رکھ کر با ئيں  کلک کريں"
+
+msgid ""
+"Animal pictures come from the Animal Photography Page of Ralf Schmode "
+"(http://schmode.net/). Ralf has kindly permitted Gcompris to include his "
+"pictures. Thanks a lot, Ralf."
+msgstr "Ralf Schmode نے جا نوروں کي فوٹو گرافي صفحا ت سے جانوروں کي تصاوير دي گئي هينRalf Schmode نے   G کمپر ئز کو اسکي تصا وير شامل کر نے کي اجازت دے دي هے ۔ شکريه "
+
+msgid ""
+"At the top of the board area, choose the numbers and arithmetic operators "
+"that give the specified result. You can deselect a number or operator by "
+"clicking on it again."
+msgstr "بورڈ اپريا کے اوپر ، نمبرات اور حسابي عمل منتخب کريں جو قطعي نتيجه ديتا هے آپ اس پر دوباره کلک کر کے نمبر يا آپريٹر کو غير منتخب بھي کر سکتے هيں"
+
+msgid ""
+"Deploy a strategy to arrange a set of arithmetic operations to match a given "
+"value."
+msgstr "دي گئي قيمت سے حسابي عمل کا سيٹ ملا نے کے ليے اسٹر ئٹجي ڈپلا ئي کريں"
+
+msgid "Find the series of correct operations that matches the given answer"
+msgstr "صحيح عمل کي سير يز تلا ش کريں جو دئيے گئے جواب سے ميل کھا تي هے"
+
+msgid "The four arithmetic operations. Combine several arithmetic operations."
+msgstr "چار حسابي عمل متعددحسابي عمل کو ملا ئيں"
+
+msgid ""
+"Work out the right combination of numbers and operations to match the given "
+"value"
+msgstr "دي گئي قيمت سے ملا پ کر نے کے ليے نمرات اور عمل کے صحيح امتراج پر کام کريں"
+
+msgid ""
+"A subtraction problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the difference. Use the left and right arrows "
+"to modify your answer and press the Enter key to check if you've got it "
+"right. If not, just try again."
+msgstr "دو نمبرات کے ساتھ تقسيمي حساب ديکھا يا گيا هے برابرکي علا مت کے دائيں جانب نتم کا جواب ديجئے آپکے جواب ميں تر ميم کر نے کے لئے دائيں اور با ئيں تيروں کا استعمال کريں اور صحيح جواب ملا هے يا نهيں جاننے کے لئے   Enter بٹن دبا ئيں اگر نهيں تو دوبارو کوشش کريں"
+
+msgid "In a limited time, find the difference between two numbers"
+msgstr "مختصر وقت ميں دو نمبرات کے درميان فرق معلوم کرين"
+
+msgid "Practice the subtraction operation"
+msgstr "تقسيمي آپريشن عمل کي مشق کريں"
+
+msgid "Simple subtraction"
+msgstr "ساده تقسيم"
+
+msgid ""
+"An addition problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the sum. Use the left and right arrows to "
+"modify your answer and press the Enter key to check if you've got it right. "
+"If not, just try again."
+msgstr "جمع کے حساب دو نمبرات کے ساتھ ديکھا گيا هے برابر کي علا مت کے دائيں جا نب جمع کا جواب ديجئے اپنے جواب ميں ترميم کر نے کے لئے دائيں اور با ئيں تيروں کا استعمال کريں اور صحيح جواب ملا هے يا نهيں جا ننے کے لئے      Enter   بٹن دبا ئيں اگر نهيں تو دوباره کو شش کريں"
+
+msgid ""
+"In a limited time, find the sum of of two numbers. Introduction to simple in-"
+"line addition."
+msgstr "مختصر وقت ميں دونمبرات کي کل جمع تلاش کريں ساده ان   لائن ايڈيشن کا تعارف"
+
+msgid "Practice the addition operation"
+msgstr "جمع کے عمل کي مشق کريں"
+
+msgid "Simple addition. Can recognize written numbers"
+msgstr "سادي جمع   لکھے هو ئے نمبرات پهچان سکتا هے"
+
+msgid "Go to calculation activities"
+msgstr "شما ريا ت کي سر گرمي ميں جا ئيں"
+
+msgid "Various calculation activities."
+msgstr "متعدد شمار يا تي سر گرمي"
+
+msgid "Complete a list of symbols"
+msgstr "علامتوں کي فهرست مکمل کريں"
+
+msgid "Find the next symbol in a list."
+msgstr "فهرست ميں اگلي علا مت تلاش کريں"
+
+msgid "Logic training activity"
+msgstr "منطقه تر بيت سر گرمي"
+
+msgid "Move and click the mouse"
+msgstr "ماٶ س هٹاٶ اور کلک کريں"
+
+msgid "algorithm"
+msgstr "الگارتھم"
+
+msgid "Create a drawing or an animation"
+msgstr "ڈرائينگگ ياا اينميشن تخليق کرين"
+
+msgid "Free drawing and animation tool."
+msgstr "ڈرائينگ يا اينيميشن ٹول"
+
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines. To give children a wider range of choices, a set of images can also "
+"be used."
+msgstr "اس کھيل ميں  بچے آزادي سے بنا سکتے هيں اسکا مقصد هے که کسطرح بنيادي بناو ٹوں پر منحصر پرکشش ڈرائينکس تخليق کريں مستطيل، بيضو ي شکل ، لکريں بچوں کو بڑے پيمانے پر انتخابات کر نے دينا  اميجيز کا سيٹ بھي استعمال کيا جا سکتا هے"
+
+msgid "Needs to be capable of moving and clicking the mouse easily"
+msgstr "ضرورت هے که وه انکو با آساني سے ماٶ س کو گھمانے اور کلک کرنے ميں مها رت هو"
+
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom. Then click "
+"and drag in the white area to create a new shape. Once you've completed a "
+"drawing, you can take a snapshot of it with the 'camera' button. This "
+"creates a new image with the same content, a copy of your image. You can "
+"then edit it by moving objects a little bit or adding/deleting objects. When "
+"you create several drawings and then click on the 'film' button, you will "
+"see all your images in a continuous slide-show (an infinite loop pattern). "
+"You can also change the viewing speed in this mode. In viewing mode, click "
+"on the 'drawing' button to return to drawing mode. You can then edit each "
+"image in your animation, by using the image selector in the bottom-left "
+"corner of the screen. You can also save and reload your animations with the "
+"'floppy disk' and 'folder' buttons."
+msgstr "بائيں جانب ڈرائينگ ٹول کا اور نيچے سے رنگ کا انتخاب کريں پھر کلک کر کے نئي شکل بنا نے کے ليے سفيد رقبے ميں کھنيچيں ايک با ر آپ نے ڈرائينگ مکمل کر لي تو آپ ''کيمره'' بٹن سے اسکي سرسري تصو ير يں لے سکتے هيں يه اسي کنيٹنٹ کے ساتھ نئي اميج  آپ کے اميج کي نقل کے ساتھ تخليق کر تا هے اسکے بعد آپ اسے شئے کو تھوڑا بهت هلا کر ياشئے کوشامل خارج کر کے مرتب کرسکتے هيں جب آپ بهت ساري ڈرائينگس بنا ليتے هيں اور اسکے بعد 'فلم ' بٹن پر کلک کر تے هيں تو آپ اپني تمام اميجيز سلا ئڈ  شو ميں لگا تار ديکھيں گے (لا محدودلو پ پيٹرن)  آپ اس مو ڈ ميں ديکھنے کي رفتا ر کو بھي کم کر سکتے هيں ويو ينگ موڈ ميں ڈرائينگ موڈ ميں دو با ره لو ٹنے کے ليے ڈرا ئينگ بٹن پر کلک کريں اسکے بعد آپ اسکرين کے نيچے کے با ئيں کو نے سے اميج سليکڑکا استعمال کر کے اپنے اينميشن ميں اميج  Image Edit    کر سکتے هيں آپ اپني اينميشن فلا پي ڈسک اور رفو لڈر بٹن کے ساتھ محفو ظ بھي کر سکتے هيں اور دوبا رو لوڈ بھي کر سکتے هيں"
+
+msgid ""
+"At the beginning of the game four seeds are placed in each house. Players "
+"take turns moving the seeds. In each turn, a player chooses one of the six "
+"houses under his or her control. The player removes all seeds from this "
+"house, and distributes them, dropping one in each house counter-clockwise "
+"from the original house, in a process called sowing. Seeds are not "
+"distributed into the end scoring houses, nor into the house drawn from. That "
+"is, the starting house is left empty; if it contained 12 seeds, it is "
+"skipped, and the twelfth seed is placed in the next house. After a turn, if "
+"the last seed was placed into an opponent's house and brought its total to "
+"two or three, all the seeds in that house are captured and placed in the "
+"player's scoring house (or set aside if the board has no scoring houses). If "
+"the previous-to-last seed also brought the total seeds in an opponent's "
+"house to two or three, these are captured as well, and so on. However, if a "
+"move would capture all an opponent's seeds, the capture is forfeited, and "
+"the seeds are instead left on the board, since this would prevent the "
+"opponent from continuing the game. The proscription against capturing all an "
+"opponent's seeds is related to a more general idea, that one ought to make a "
+"move that allows the opponent to continue playing. If an opponent's houses "
+"are all empty, the current player must make a move that gives the opponent "
+"seeds. If no such move is possible, the current player captures all seeds in "
+"his/her own territory, ending the game. (Source Wikipedia lt;http://en."
+"wikipedia.org/wiki/Owaregt;)"
+msgstr "کھيل کي ابتداء ميں هر گھر ميں چار بيچيں رکھي گئيں هيں کھلا ڑي بيج کي حرکت سے مو ڑ ليتے هيں هر موڑ ميں کھلاڑي چھ گھروں ميں سے ايک  گھر اپنے کنڑول ميں ليتا هے کھلا ڑي اس گھر سے تمام بيج نکالتا هے اور انھيں تقسيم کر تا هے اصلي گھر سے هر ايک گھر ميں کا ٶ نٹر کلاک وائس گراتے هو ئے ،يه طر يقه بيج بو نا کهلا تا هے بيج آخر کے اسکور ينگ گھر ميں تقسيم نهيں کئے  ئے هيں اور نه هي ڈراٶن گھر ميں   اسکا مطلب، شروع کا گھر خالي چھوڑا گيا هے اگر اسميں  ۲۱  بيج هيں تو اسکيپڈ کيا گيا هے اور با رهواں بئج اگلے ¯گھر ميں رکھا گيا هے موڑ لينے کے بعد   اگر آخري بيج سامنے والے فريق کے گھر ميں رکھا گيا تھا اور اسکي ٹوٹل دو يا تيں لا ئي گئي تو سبھي بيج ليجئے اور انھيں کھلا ڑي کے اسکور رينگ ها و س ميں جمع کيجئے ( يا ايک طرف جمع کيجئے اگر بورڈ پر کو ئي اسکور ينگ ها وس نه هو تو ) اگر پهلے سے آخر تک کے بھي بيج  هيں تو کل بيج مخالف ها وس ميں دو يا تين ميں جمع کيجئے اور يهي عمل دورا ئيےاگر سبھي بيج مخالف ها وس ميں نهيں تو يه جر ما نه کے طور پر  اور بيج بورڈ کے با ئيں جانب هو نگے چونکه يه کھيل آگے بڑھنے سے روکتا هے مخا لف سے جلا وطني کے لئے بهت سے ايڈيا نهيں ليکن ايک هي کھيل کو جا ري رکھنے کے لئے ضروريؠ هے اگر مخالف کے ها وس خالي نهيں تو کھلا ڑي کو چا ئيے کے اس مييں بيج دلے اگر وه ايسا نهيں کر تا تو کھلا ڑي سبھي بيج اپنے علا قے ميں لے ليتا هے اور کھيل ختم هو جا تا هے Tux کے خلا ف Oware اسٹر ئٹجي کھيل کھيلو اس کھيل کا مقصد هے اپنے فر يق کے مقابلے ميں زياده سے زياده بيج حاصل کريں اس کھيل ميں صرف  ۴۸  بيج هيں کھيل کو مکمل کر نے کے ليے  ۲۵  بيج حاصل کر نا کا في هے جبکه يها ں بيج جفت اعداد ميں هيں سامنے والے فر يق کے برابر رهنے کے ليے هر کھلا ڑي کو  ۲۴  بيج  حاصل کر نا ضروري هے اور يه کھيل ختم کر نے کے ليے ممکن هے کھيل ختم هو تا هے جب کھلا ڑي  ۲۵  يا اس سے زائد پتھر جمع کر ليتا هے يا جب دو نوں کھلا ڑي ۲۴  پتھر  ليتے هيں اگر دونوں کھلا ڑي اس بات پر متفق هوتے هيں که کھيل ختم هو نے والے دور گھٹ گيا هے تو هر کھلا ڑي اپنے طرف کے بورڈ کے پتھر پر قبضه کر تا هے"
+
+msgid "Oware"
+msgstr "Oware"
+
+msgid "Play the Oware strategy game against Tux"
+msgstr "Tux کے خلا ف Oware اسٹر ئٹجي کھيل کھيلو"
+
+msgid ""
+"The object of the game is to capture more seeds than one's opponent. Since "
+"the game has only 48 seeds, capturing 25 is sufficient to accomplish this. "
+"Since there are an even number of seeds, it is possible for the game to end "
+"in a draw, where each player has captured 24. The game is over when one "
+"player has captured 25 or more stones, or both players have taken 24 stones "
+"each (draw). If both players agree that the game has been reduced to an "
+"endless cycle, each player captures the stones on their side of the board."
+msgstr "اس کھيل کا مقصد هے اپنے فر يق کے مقابلے ميں زياده سے زياده بيج حاصل کريں اس کھيل ميں صرف  ۴۸  بيج هيں کھيل کو مکمل کر نے کے ليے  ۲۵  بيج حاصل کر نا کا في هے جبکه يها ں بيج جفت اعداد ميں هيں سامنے والے فر يق کے برابر رهنے کے ليے هر کھلا ڑي کو  ۲۴  بيج  حاصل کر نا ضروري هے اور يه کھيل ختم کر نے کے ليے ممکن هے کھيل ختم هو تا هے جب کھلا ڑي  ۲۵  يا اس سے زائد پتھر جم  کر ليتا هے يا جب دو نوں کھلا ڑي ۲۴  پتھر  ليتے هيں اگر دونوں کھلا ڑي اس بات پر متفق هوتے هيں که کھيل ختم هو نے والے دور گھٹ گيا هے تو هر کھلا ڑي اپنے طرف کے بورڈ کے پتھر پر قبضه کر تا هے"
+
+msgid "Drag and Drop the items to make them match"
+msgstr "آئٹمس  کو ميچ کر نے کے ليے آئٹمس کو کھينچيں اور گرا ئيں"
+
+msgid ""
+"In the main board area, a set of objects is displayed. In the vertical box "
+"(at the left of the main board) another set of objects is shown, each object "
+"in the group on the left matching exactly one object in the main board area. "
+"This game challenges you to find the logical link between these objects. How "
+"do they fit together? Drag each object to the correct red space in the main "
+"area."
+msgstr "اهم بورڈ اير يا ميں ثئے کا سيٹ ديکھا يا گيا هے عمودي با کس ميں (اوم بورڈ کے با ئيں جانب ميں )  شئے کا ايک اور سيٹ دکھا يا گيا هے بائيں جانب کے گروپ کو اهم بور  اير ياکي شئے سے جوڈي لگا ئيے يه کھيل آپکو ان شئے کے درميان لا ج کل تعلق تلا ش کر نے کے ليے چيلنچ کر تا هے کسطرح وه آپسميں فٹ هو تے هيں هر آ بجيکٹ کو مر کزي ايريا ميں صحيح سرخ جگه پر کھنچين"
+
+msgid "Matching Items"
+msgstr "متما ثل اشيا ء"
+
+msgid "Motor coordination. Conceptual matching."
+msgstr "موٹر مطا بقت ،  تصوري متما ثلث"
+
+msgid "Mouse manipulation: movement, drag and drop. Cultural references."
+msgstr "ما ٶ س سليقه مندي  :  حرکت ، کھينچو اور گراٶ تهذيبي حوا لے"
+
+msgid "Complete the puzzle"
+msgstr "معمه مکمل کريں"
+
+msgid ""
+"Complete the puzzle by dragging each piece from the set of pieces on the "
+"left, to the matching space in the puzzle."
+msgstr "بائيں جانب کے ٹکڑوں کے سيٹ سے هر ٹکڑا کھنچ کر معمه مکمل کريں، معمه کي جگه پر جوڑنے کے ليے "
+
+msgid "Drag and Drop the shapes on their respective targets"
+msgstr "شکلوں کو انکے نشانے پر کھينچو اور گراٶ "
+
+msgid "Good mouse-control"
+msgstr "اچھا ما ٶ س  کنڑول"
+
+msgid "The dog is provided by Andre Connes and released under the GPL"
+msgstr "کتے کو  Andre Connesے فراهم کيا اور GPLکے ما تحت ريليزهوا"
+
+msgid "Hello ! My name is Lock."
+msgstr "هيلو !  ميرا نام Lockهے "
+
+msgid "Lock on the grass."
+msgstr "Lock گھاس پر هے"
+
+msgid "Lock with colored shapes."
+msgstr "Lock رنگين شکلوں کے ساتھ"
+
+msgid "Make the ball go to Tux"
+msgstr "گيند بنا ٶ اور  کے پاس جا ٶ  Tux"
+
+msgid ""
+"Press the two shift keys at the same time, to make the ball go in a straight "
+"line."
+msgstr "گيند سيدھے لا ئن ميں جا نے کے ليے ،  ايک hift  هي وقت ميں دو شفٹ بٹن دبا ئيں"
+
+msgid "Brain"
+msgstr "دما غ"
+
+msgid "Don't use the last ball"
+msgstr "آ خري گيند  استعما ل مت کر و"
+
+msgid "Logic-training activity"
+msgstr "منطق  تر بيت سر گرمي"
+
+msgid ""
+"Place balls in the holes. You win if the computer has to place the last "
+"ball. If you want Tux to begin, just click on him."
+msgstr "گيندوں کو سورا خو ں ميں ڈالو آ پ جيت جا تے هے  اگر کمپييوٹر آخرري گيند رکھتا هے تو اگر آ  چا هتے هيں که      Tux  کھيل کي شر و عات کريں تو صرف اس پرر کلک کرين؟"
+
+msgid "bar game"
+msgstr "ستو ني کھيل"
+
+msgid "Kick the ball into the black hole on the right"
+msgstr "گيند کو دائيں جا نب کے سياه سوراخ ميں ما رو"
+
+msgid "Kick the ball into the goal"
+msgstr "گيند کو گول ميں ما رو "
+
+msgid "Mouse-manipulation"
+msgstr "ما ٶ س   دستکا ري"
+
+msgid ""
+"Point the mouse and click on the ball, to set the speed and direction of the "
+"ball. The closer you click to the centre, the slower the ball moves."
+msgstr "گيند کي رفتا ر اور سمت سيٹ کر نے کے ليے ما ٶ س کو پو ائنٹ کر کے گيند پر کلک کريں '' جتنے نززديک آپ مر کز پر کلک کريں گے اتنيے آهسته گيند حرکت کرے گا "
+
+msgid "The football game"
+msgstr "فٹ بال کا کھيل"
+
+msgid "Operate a canal lock"
+msgstr "کينل لا ک آ پر يٹ"
+
+msgid ""
+"Tux is in trouble, and needs to take his boat through a lock. Help Tux and "
+"find out how a canal lock works."
+msgstr " Tuxمشکل ميں هے اور اسے اپني کشتي سے لاک کھولنا هے   Tux   کي مدد کريں اور تلاش کريں که لاک کسطرح کام کر تا هے"
+
+msgid ""
+"You are in charge of the canal lock. Open the gates and the locks in the "
+"right order, so Tux can travel through the gates in both directions."
+msgstr "آپ کنال لاک کے انچارج هيں گيٹ اور لا کس کو دا ئيں سے کھو ليں ،  تاکه  Tux   گيٹ سے دو نوں سمت سفر کر سکے "
+
+msgid "Chat with your friends"
+msgstr "اپنے دو ستوں سے بات کريں "
+
+msgid "This chat activity only works on the local network"
+msgstr "يه گفتگو کا کام صرف لوکل نيٹ و رک پر کام کرتا هے"
+
+msgid ""
+"This chat activity will only work with other GCompris users on your local "
+"network, not on the Internet. To use it, just type in your message and hit "
+"Enter. Your message is then broadcast on the local network, and any GCompris "
+"program running the chat activity on that local network will receive and "
+"display your message."
+msgstr "يه گفتگو سرگرمي   آپکے لو کل نيٹ ورک پر صرف ديگر G  کمپرائزصارفين کے ساتھ کا م کر ے گي ،  انڑنيٹ پر نهيں اسے استعمال کر نے کے ليے آپکے پيغام ميں ٹا ئپ کريں اور هٹ  ENTER  کريں اسکے بعد آپکا پيغام لوکل نيٹ ورک پر نشر کيا جا تا هے اور اس لو کل نيٹ ورک پر گفتگو کو چلا نے والا کو ئي بھي  G  کمپرائز آ پکا پيغام مو صول اور ديکھايا کر ے گا"
+
+msgid "Play chess against the computer in a learning mode"
+msgstr "لر نينگ موڈ ميں کمپيوٹر کے مخالف ميں شطرنج کھيليں"
+
+msgid "Practice chess"
+msgstr "شطرنج کھلينے کي مشق کريں"
+
+msgid "Learning chess"
+msgstr "شطرنج سيکھنا"
+
+msgid "The chess engine is from gnuchess."
+msgstr "شطرنج کي تر بيت کمپيوٹر کے پيا دے پکڑ و"
+
+msgid "Chess training. Catch the computer's pawns."
+msgstr "شطرنج کي تر بيت کمپيوٹر کے پيا دے پکڑ و"
+
+msgid "Play the end of the chess game against the computer"
+msgstr "شطرنج کا آ خري کھيل کمپيوٹر کے ساتھ کھيليں"
+
+msgid "Chronos"
+msgstr "होकायंत्र"
+
+msgid "Drag and Drop the items to organize the story"
+msgstr "کهاني بنا نے کے ليے اشيا ء کھينچيں اور گرائيں "
+
+msgid ""
+"Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
+"Vegastrike which are released under the GPL license. The transportation "
+"images are copyright Franck Doucet. Dates of Transportation are based on "
+"those found in lt;http://www.wikipedia.orggt;."
+msgstr "چا ند کي تصوير وں کا حق اشا عت NASA  کو هے خلا کي آ وازيں   ےTuxpaint آني هيں جو GPL لا ئسنس کے زير شا ئع هو ئيں هيں نقل و حمل کي اميجز کا حق اشا عت Franck Doucet کو هے نقل و حمل کي تاريخ منحصر هيں جو  http://www.wikipedia.org ميں پائيں گئيں تھين"
+
+msgid "Pick from the pictures on the left and put them on the red dots"
+msgstr "دائيں جا نب سے تصوير يں اٹھا ئيں اور انھيں سرخ نقطوں پر رکھيں"
+
+msgid "Sort the pictures into the order that tells the story"
+msgstr "تصوير وں  کواسطرح الگ کريں کو وه کهاني بتا تي هيں"
+
+msgid "Tell a short story"
+msgstr "مختصر کها ني سنا ٶ"
+
+msgid "Moonwalker"
+msgstr "چاند پر چلنے والا"
+
+msgid "Autumn"
+msgstr "بها ر"
+
+msgid "Spring"
+msgstr "بها ر"
+
+msgid "Summer"
+msgstr "بها ر"
+
+msgid "The 4 Seasons"
+msgstr "چار موسم"
+
+msgid "Winter"
+msgstr "چار موسم"
+
+msgid "Gardening"
+msgstr "چار موسم"
+
+msgid "Tux and the apple tree"
+msgstr "Tux اور سيب کا درخت  "
+
+msgid "1769 Cugnot's fardier"
+msgstr "fardier Cugnot's  ۱۷۶۹"
+
+msgid ""
+"1829 Stephenson's Rocket\n"
+"Steam locomotive"
+msgstr "Stephenson's Rocket\n ۱۸۲۹  بھاپ سے چلنے والا ريل کا انجن"
+
+msgid ""
+"Place each image in the order and\n"
+"on the date it was invented.\n"
+"If not sure, research online at wikipedia:\n"
+"lt;http://www.wikipedia.orggt;"
+msgstr "هر تصوير کو اس کے دريافت کييگے تاريخ سے لگايے۔ اس کي معلومات کے ليے http://www.wikipedia.org پر جايں"
+
+msgid "Transportation"
+msgstr "نقل و حمل"
+
+msgid ""
+"1783 Montgolfier brothers'\n"
+"hot air balloon"
+msgstr "1783 Montg lfier brothers'\nگرم هوا ئي غبا رو"
+
+msgid "1880 Clement Ader's Eole"
+msgstr "۱۸۸۰ Clement Ader's Eole"
+
+msgid ""
+"1906 Paul Cornu\n"
+"First helicopter flight"
+msgstr "۱۹۰۶ ''Paul Cornu\n'' پهلے بالا پر از  (هيلي کا پڑ)  کي پر وا ز"
+
+msgid ""
+"1791 Comte de Sivrac's\n"
+"Celerifere"
+msgstr "۱۷۹۱  ''Comte de Sivrac's"
+
+msgid "1903 The Wright brothers' Flyer III"
+msgstr "۱۹۰۳ The Wright brother's Flyer III"
+
+msgid ""
+"1909 Louis Bleriot crosses\n"
+"the English Channel"
+msgstr "۱۹۰۹ Louis Bleriot crosses\n"
+"''انگريزي چينل"
+
+msgid "Aviation"
+msgstr "هوا با زي"
+
+msgid ""
+"1927 Charles Lindbergh\n"
+"crosses the Atlantic Ocean"
+msgstr "۱۹۲۷ ميں Charles Lindbergh\n  نے بحر اوقيا نو س پار کيا"
+
+msgid ""
+"1934 Helene Boucher's\n"
+"speed record of 444km/h"
+msgstr "۱۹۳۴ ميں Helene Boucher's\n  نے km۴۴۴ کي ر فتا ر ر يکارڈ کي"
+
+msgid ""
+"1947 Chuck Yeager\n"
+"breaks the sound-barrier"
+msgstr "۱۹۴۷ ميں   Chuck Yeager\n  ے آواز ۔ رکاوٹ کو تو ڑا "
+
+msgid "1878 Leon Bolles \"La Mancelle\""
+msgstr "۱۸۷۸  يں ''Leon Bolles \"La Mancelle\""
+
+msgid ""
+"1885 The first petrol\n"
+"car by Benz"
+msgstr "۱۸۸۵ ميں پهلي پڑول ''\n''کار Benz نے بنا ئي"
+
+msgid "The car"
+msgstr "کار"
+
+msgid "1899 Renault \"voiturette\""
+msgstr "۱۸۹۹ Renault \"voiturette\""
+
+msgid "1923 Lancia Lambda"
+msgstr "۱۹۲۳ Lamba Lancia"
+
+msgid "1955 Citroen ds 19"
+msgstr "۱۹۵۵ Citroen ds ۱۹"
+
+msgid "Cars"
+msgstr "کار"
+
+msgid ""
+"A letter is spoken. Click on the matching letter in the main area. You can "
+"listen to the letter again, by clicking on the mouth icon in the bottom box."
+msgstr "حرف کها گيا هے اهم اير يا مين اسي کے متما ثل حرف پر کلک کريں آپ نيچے کے با کس ميں ما ٶ تھ آ ئيکن پر کلک کر کے ، حرف دوبا ره بھي سن سکتے هين"
+
+msgid "Click on a letter"
+msgstr "حرف پر کلک کريں"
+
+msgid "Letter-name recognition"
+msgstr "حرف ۔  نام پهچا ننا"
+
+msgid "Listen to a letter and click on the right one"
+msgstr "حرف سنو اور صحيح حرف پر کلک کرو"
+
+msgid "Visual letter-recognition. Can move the mouse."
+msgstr "بصري حرف په چا ننا  ما ٶ س   هلا سکتے هيں "
+
+msgid "Click On Me"
+msgstr "مجھ پر کلک کرو"
+
+msgid ""
+"Fish are taken from the Unix utility xfishtank. All image credits belong to "
+"Guillaume Rousse."
+msgstr "مچھلياں يونيکس يوٹيلٹي  فش ٹينک سے لي گئييں هيں تمام اميج کا سهرا   Guillaume Rousse     کو جا تا هے"
+
+msgid ""
+"Left-Click with the mouse on all the swimming fish before they leave the "
+"fishtank"
+msgstr "تمام مچھلياں کو فش ٹيينک چھوڑ نے سے پهلے ان پر ما ٶ س کو با ئيں کلک کرين"
+
+msgid "Motor coordination: moving and clicking the mouse."
+msgstr "مو ٹر مطا بقت ما ٶ س کو گھمانا اور کلک کر نا"
+
+msgid "Use the left mouse button to click on the moving fish."
+msgstr "متحرک مچھلي پر  کلک کر نے کے ليے ما ٶ س کا با يا ںؠ بٹن کلک کريں"
+
+msgid ""
+"Distinguish between time-units (hour, minute and second). Set and display "
+"time on a clock."
+msgstr "وقت   اکا ئي ں  ( گھنٹه ،  منٹ اور سيکنڈ )  ميں فرق کريں گھڑ ي پر ھقت ٹھيک ک يں اور ڈسپلے کريں "
+
+msgid "Learn how to tell the time"
+msgstr "سيکھيں که ھقت کطرح بتا يا جا تا هے"
+
+msgid "Learning Clock"
+msgstr "گھڑي سيکھنا"
+
+msgid ""
+"Set the clock to the time given, in the time-units shown (hours:minutes or "
+"hours:minutes:seconds). Click on the different arrows, and move the mouse, "
+"to make the numbers go up or down."
+msgstr "دئيے گئے وقت کے مطا بق گھڑي ٹھيک کر يں بتا ئے گئے وقت  اکا ئيوں   (  گھنٹے   :  منٹس يا گھنٹے   :  منٹس  : سيکنڈ س )  ميں مختلف تيروں پر کلک کريں اور ما ٶ س کو  چلا ئيے ،  نمبرات بنا نے کے ليے بنيچے يا اوپر جا ئيں "
+
+msgid "The concept of time. Reading the time."
+msgstr "وقت کا تصور۔وقت پڑھنا"
+
+msgid "Can move the mouse."
+msgstr "ما ٶ س گھما سکتے هيں"
+
+msgid "Click on the right color"
+msgstr "صحيح رنگ پر کلک کريں"
+
+msgid "Colors"
+msgstr "رنگ"
+
+msgid "Listen to the color and click on the matching duck."
+msgstr "رنگ کا نام سنا ئيے اور اسي رنگ کے بطخ پر کلک کريں "
+
+msgid ""
+"This board teaches you to recognize different colors. When you hear the name "
+"of the color, click on the duck wearing it."
+msgstr " مختلف رنگ کي پهچان سکھا تا هے  جب آپ رنگ کا نام سنتے هيں ، اسي رنگ کے بطخ پر کلک کريں"
+
+msgid "Colors based activities."
+msgstr "رنگوں پر منحصر سر گرمياں"
+
+msgid "Go to Color activities"
+msgstr "رنگوں کي سر گرميوں ميں جا ئيں"
+
+msgid "Discover the Computer"
+msgstr "کمپيوٹر کي د ر يافت کريں"
+
+msgid "Play with computer peripherals."
+msgstr "کمپيوٹر   peripheralسے کھيليں"
+
+msgid "Arrange four coins in a row"
+msgstr "ٹکڑوں 4 کي لا ئن تخليق کريں"
+
+msgid ""
+"Click the position in the line where you want to drop a piece. You can also "
+"use the arrow keys to move the piece left or right, and the down or space "
+"key to drop a piece."
+msgstr " ٹکڑے کو دائيں يا با ئيں اور نيچے هٹا نے کے ليے تير کليدوں کا استعمال کريں يا ٹکڑے کو گرانے کے ليے  کليد کا استعمال کريں"
+
+msgid "Connect 4"
+msgstr "۴ جوڈو"
+
+msgid ""
+"Create a line of 4 pieces either horizontally (lying down), vertically "
+"(standing up) or diagonally."
+msgstr "۴  ٹکڑوں کي لا ئن تخليق کريں افقي طور پر نيچے رکھ کر"
+
+msgid ""
+"Laurent Lacheny. Images and Artificial Intelligence taken from project "
+"4stattack by Jeroen Vloothuis. The original project can be found on lt;"
+"http://forcedattack.sourceforge.netgt;"
+msgstr "Laurent Lacheny اميجيز 'اور مصنو عي ذها نت  ''   '' Jeroen Vloothuis   کے stack ۴ project  سے ليا گيا هے اصلي پروجيکٹ     http://forcedattack.sourceforge.net      پر مل سکتا هے "
+
+msgid "Connect 4 (2 Players)"
+msgstr "جوڈو ۴ (دو کھلاڈي("
+
+msgid ""
+"Create a line of 4 pieces either horizontally (lying down) or vertically "
+"(standing up) or diagonally."
+msgstr "۴  ٹکڑوں کي لائن يا تو عمودي (نيچے رک ي هو ئي ) افقي (کھڑي) يا دا ئروں طور پر تخليق کرين"
+
+msgid ""
+"The original code was written in 2005 by Laurent Lacheny. In 2006, Miguel de "
+"Izarra made the two players game. Images and Artificial Intelligence taken "
+"from project 4stattack by Jeroen Vloothuis. The original project can be "
+"found on lt;http://forcedattack.sourceforge.netgt;"
+msgstr "اصلي کو ڈ  نے  ۲۰۰۵ ميں لکھا تھا  ۲۰ ۶ ميں Laurent Lacheny نے دو کھلا ڑيوں کا کھيل بنا يا اميجيز اور مصنو عي ذها نت  Jeroen Vloothuisکےstack ۴  پروجيکٹ سے لي گئيں هيں ۔اصلي پروجيکٹ  http://forcedattack.sourceforge.net   پر مل سکتا هے "
+
+msgid "Build the same model"
+msgstr "ايسا هي ماڈل بنا ئين "
+
+msgid "Drive the crane and copy the model"
+msgstr "کرين چلا ٶ اور ما ڈل کي نقل کرو"
+
+msgid "Motor-coordination"
+msgstr "موٹر ۔ مطا بقت"
+
+msgid "Mouse manipulation"
+msgstr "ما ٶ س دستکا ري"
+
+msgid ""
+"Move the items in the bottom left frame to copy their position in the top "
+"right model. Below the crane itself, you will find four arrows that let you "
+"move items. To select the item to move, just click on it."
+msgstr " دائيں جانب کے اوپر کے ماڈل ميں اشيا ء کے فريم کا مقام نقل کر نے کے ليے اشيا ء کو نيچے کے با ئيں فر يم ميں هٹا ئيں ۔کرين هي کے نيچے ، آپ کو چار تير ملے گے جو آپکو اشيا ء هٹا نے ديتے هيں ۔ ائٹم کي حرکت کو منتخب کر نے کے ليے صرف اس پر کلک کرين"
+
+msgid "Colors, sounds, memory..."
+msgstr "..........رنگ ، آوازيں ، يادداشت"
+
+msgid "Go to discovery activities"
+msgstr "دريا فتي سر گرميوں ميں جا ئيں"
+
+msgid "Basic counting skills"
+msgstr "بنيا دي شما ريا تي مها رت"
+
+msgid "Double-entry table"
+msgstr "دو با ر ۔ ادخال ٹيبل"
+
+msgid "Drag and Drop each proposed item on its destination"
+msgstr "هر تجو يز کئے گئے آئٹم کو اسکي منزل پر کھينچيں  اور گرائيں"
+
+msgid "Drag and Drop the items in the double-entry table"
+msgstr "کو ڈبل ۔ اينڑي ٹيبل ميں کھينچيں اور گرا ئينس"
+
+msgid ""
+"Move the items on the left to their proper position in the double-entry "
+"table."
+msgstr "ڈبل ۔اينٹري ٹيبل ميں کو با ئيں جانب   انکے صحيح مقام پر هٹا ئيں"
+
+msgid "Click on an item and listen to its target position"
+msgstr "ائٹم پر کلک کريں اور اسکے ٹارگيٹ مقام   کو سنيں"
+
+msgid "A creative board where you can draw freely"
+msgstr "تخليقي بورڈ جهاں آپ ازادي سے ڈراٶ   کر سکتے هيں"
+
+msgid "A simple vector-drawing tool"
+msgstr "ساده ويکڑ۔ ڈرائينگ ٹول"
+
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines."
+msgstr "اس کھل ميں بچے آزادي سے ڈراٶ کر سکتے هيں۔اسکا مقصد هے که بنياد ي شکلوں پر منحصر پر کشش ڈرا ئينگس کسطرح بنا ئيں جا ئيں : مثلث ، بيضو ي مشکليں اور لا ئز"
+
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom, then click "
+"and drag in the white area to create a new shape. To save time, you can "
+"click with the middle mouse button to delete an object."
+msgstr "با ئيں جانب سے ڈرائينگ ٹول اور نيچے سے رنگ منتکب کرين اس کے بعد نئي شکل بنا نے کے ليے سفيد اير يا ميں کھينچين ٹائم بچا نے کے ليے ، آپ آ جيکٹ کو درميانني ما ٶس بٹن دبا کر کارج بھي کر سکتے هيں "
+
+msgid "Create and simulate an electric schema"
+msgstr "بر قي تخليق کريں اور نقل کريں "
+
+msgid ""
+"Drag electrical components from the selector and drop them in the working "
+"area. Create wires by clicking on a connection spot, dragging the mouse to "
+"the next connection spot, and letting go. You can also move components by "
+"dragging them. You can delete wires by clicking on them. To delete a "
+"component, select the deletion tool on top of the component selector. You "
+"can click on the switch to open and close it. You can change the rheostat "
+"value by dragging its wiper. In order to simulate what happens when a bulb "
+"is blown, you can blown it by right-clicking on it. The simulation is "
+"updated in real time by any user action."
+msgstr "اليکڑ ليکس مر کبات کو سليکڑ سے  کھينچيں اور ورکينگ اير يا ميں گرا ئيں ۔ کينکشن اسپاٹ پر کلک کر کے ، کنيکشن کو دو سرے اسپاٹ پر کھينچيں کر جا نے دے وائرس تخليق کريں ۔آپ ان پر کلک کر کے وائرس خارج بھي کر سکتے هيں ۔ عناصر خارج کر نے کے ليے ، عنا صر سليکڑ کيے اوپري جا نب اکراجي ٹول منتخب کريں ۔آپ اسے  کھو لنے اور بند کر نے کے ليے سو نچ پر کلک کر سکتے هيں آپ   rheasta  کو کھينچ کر اور اسکے وائپر پر کلک کر کے اسکي قيمت تبديل کر سکتے هيں بلب جلاا نے کے بعد کيا هو تا هے جا ننے کے ليے ،آپ اسے داياں کلک کر کے جلا سکتے هينsimulation  کسي بھي صارف کے عمل کے ذريعے اصل وقت ميں اپ ڈيٹ کيا گيا هے"
+
+msgid "Electricity"
+msgstr "بجلي"
+
+msgid "Freely create an electric schema with a real time simulation of it."
+msgstr "آزادي سے برقي  schema   اسکے اصل وقتي بنا وٹ کے سات تخليق کريں"
+
+msgid ""
+"GCompris uses the Gnucap electric simulator as a backend. You can get more "
+"information on gnucap at lt;http://geda.seul.org/tools/gnucap/gt;."
+msgstr "G  کمپرائز    گن کيپ بر قي simulator  کو بيک اينڈ کے طور پر استعما ل کر تا هے۔ آپ گن کيپ پر مزيد معلو ما ت http://geda.seul.org/tools/gnucap/  پر مل سکتي هے "
+
+msgid "Requires some basic understanding of the concept of electricity."
+msgstr "بجلي کے متعلق کچھ بنيادي با تيں سمجھنے کي ضرورت هے"
+
+msgid "Basic enumeration"
+msgstr "بنيادي گنتي"
+
+msgid "Count the items"
+msgstr "آئٹمس شمار کرو"
+
+msgid ""
+"First, properly organize the items so that you can count them. Then, select "
+"the item you want to answer in the bottom right area. Enter the answer with "
+"the keyboard and press the OK button or the 'Enter' key."
+msgstr "پهلے ، آئٹمس کو ٹھيک سے منظم کريں تا که آپ انھينگن سکيں ۔ پھر آپکا مطلوبه آئٹم منتخب کريں جسکا جواب آپ نيچے دا ئيں اير يا ميں دينا چا هتے هيں جواب کي بورڈ سے ديں اور   OK  بٹن دبا ئيں يا    ENTER    کليد دبا ئيں  "
+
+msgid "Numeration training"
+msgstr "گنتي سيکھنا"
+
+msgid "Place the items in the best way to count them"
+msgstr "اشيا ء کو گننے کے ليے انھيں بهترين طر يقے سے رکھيں"
+
+msgid ""
+"Animal pictures are taken from the Animal Photography Page of Ralf Schmode "
+"(lt;http://schmode.net/gt;) and from LE BERRE Daniel. These people kindly "
+"gave GCompris the authorization to include their pictures. Thanks a lot, "
+"both of you."
+msgstr "جانوروں کي تصاوير Ralf Schmode  کي جانوروں کي فو ٹو گرامي صفحات سے اور LE BERRE Daniel (http://schmode.net/  )سے لي گئيں هيں ان لوگوں نے G کمپرائز کو انکي تصاوير شامل کر نے کي اجازت دے دي هے آپ دونوں کا بهت بهت شکريه "
+
+msgid "Move the mouse"
+msgstr "ماوس گھما ئيں"
+
+msgid "Move the mouse to erase the area and discover the background"
+msgstr "اير يا مٹا نے کے ليے اوررنگ بدلنے کے ليے ما ٶس کو گھما ئيں"
+
+msgid "Move the mouse until all the blocks disappear."
+msgstr "ماٶ س کو تب تک گھما ئيں جب تک تمام بلا کس غائب نهيں هو جا ئے"
+
+msgid "Click the mouse"
+msgstr "ما ٶ س کلک کريں"
+
+msgid "Click the mouse on rectangles until all the blocks disappear."
+msgstr "ما ٶس کو تب مثلث پر کلک کر تے رهے جب تک تمام بلاکس غائب نهيں هو جا تے "
+
+msgid "Click the mouse to erase the area and discover the background"
+msgstr "اير يا کو مٹا نے کے ليے اور پس منظر کو تبديلکر نے کے ليے ما ٶ س کلک کريں "
+
+msgid "Go to experiential activities"
+msgstr "متعددتجر با تي سر گرمياں"
+
+msgid "Various activities based on physical movement."
+msgstr "جسماني حرکت پر مضتمل هيں"
+
+msgid "Go to Experimental activities"
+msgstr "تجر با تي سر گرميوں ميں جا ئيں"
+
+msgid "Run gcompris --experimental to see this menu."
+msgstr "اس مينو کو ديکھنے کے ليےG کمپرائز تجربا تي چلائيں "
+
+msgid ""
+"Click on any item that has a free block beside it, and it will be swapped "
+"with the empty block."
+msgstr "بڑھتي هو ئي سير يز بنا نے کے ليے هر آ يٹم هٹا ئيں سب سے چھو ٹے سے سب سے بڑے تک "
+
+msgid ""
+"Move each item to make an increasing series: from the smallest to the largest"
+msgstr "چڑھتي ترتيب ميں لگانے کے ليے هر آ يٹم هٹا ئيں"
+
+msgid "Original code taken from the libgnomecanvas demo"
+msgstr "اصلي کو ڈlibgnomecanvasسے لي ليا گے"
+
+msgid "The fifteen game"
+msgstr "پندر هواں کھيل"
+
+msgid "Control the hose-pipe"
+msgstr "پا ني کے پا ئيپ کو کننڑول کر يں"
+
+msgid "Fine motor coordination"
+msgstr " فا ئن مو ٹر ربط"
+
+msgid ""
+"Move the mouse over the red part of the hose-pipe. This will move it, "
+"bringing it, part by part, up to the flowers. Be careful, if you move off "
+"the hose, the red part will go back down."
+msgstr "  کےؠ پا ئپ کے  اوپري سرخ حصے پر ما ٶ س کو هٹا ئيں"
+
+msgid "Tux needs to water the flowers, but the hose is blocked."
+msgstr "Tux  کو پھولوں  و پاني دينا هے ليکن پ  ئپ بلا ک هو گيا هے"
+
+msgid "Go to Amusement activities"
+msgstr "تفريحي سر گرميوں ميںں جا ئيں"
+
+msgid "Various fun activities."
+msgstr "مختلف تفريحي سر گرميوں"
+
+msgid "gcompris animation"
+msgstr "G کمپرائز اينميشن "
+
+msgid "gcompris drawing"
+msgstr "`G  کمپرا ئز ڈرا ئينگ"
+
+msgid "svg drawing"
+msgstr "SVGڈرائينگ"
+
+msgid "svg mozilla animation"
+msgstr "SVGمو زيلا اينميشن"
+
+msgid "wordprocessor text"
+msgstr "رڈ پر وسيسر متن"
+
+msgid "Drag and Drop the items to redraw the whole map"
+msgstr "پورا نقشه دو با ره بنا نے کے ليے آ ئٹمس کو کھينچيں اور گرا ئيں"
+
+msgid "Locate the countries"
+msgstr "ممالک کا محل و قوع بتا"
+
+msgid "Mouse manipulation: movement, drag and drop"
+msgstr "ما ٶ س دستکا ري (مها رت)  گھمانا ، کھينچنا ،  گر انا"
+
+msgid "Africa"
+msgstr "افر يقه"
+
+msgid "America"
+msgstr "امريکه"
+
+msgid "Antartica"
+msgstr "انٹارٹکا"
+
+msgid "Asia"
+msgstr "ايشيا"
+
+msgid "Continents"
+msgstr "براعظم"
+
+msgid "Europe"
+msgstr "يورپ"
+
+msgid "Oceania"
+msgstr "اوشينيا"
+
+msgid "Alaska"
+msgstr "الا سکا"
+
+msgid "Bahamas"
+msgstr "بها مار"
+
+msgid "Canada"
+msgstr "کينيڈا"
+
+msgid "Cuba"
+msgstr "کيو با"
+
+msgid "Dominican Republic"
+msgstr "حا کما نه جمهوريت"
+
+msgid "Greenland"
+msgstr "گرين ليينڈ"
+
+msgid "Haiti"
+msgstr "ها يتي"
+
+msgid "Iceland"
+msgstr "آئس لينڈ"
+
+msgid "Jamaica"
+msgstr "جميکا"
+
+msgid "Mexico"
+msgstr "ميکسيکو"
+
+msgid "North America"
+msgstr "شما لي امريکه"
+
+msgid "United States of America"
+msgstr "رياست با ئے متحد ه امريکه"
+
+msgid "Argentina"
+msgstr "ارجنٹينا"
+
+msgid "Bolivia"
+msgstr "بو ليو يا"
+
+msgid "Brazil"
+msgstr "برازيل"
+
+msgid "Chile"
+msgstr "چلي"
+
+msgid "Colombia"
+msgstr "کو لمبيا"
+
+msgid "Ecuador"
+msgstr "اکو لڈر"
+
+msgid "French Guiana"
+msgstr "فر انسيس"
+
+msgid "Guyana"
+msgstr "اگو يا نا"
+
+msgid "Panama"
+msgstr "ينا ما"
+
+msgid "Paraguay"
+msgstr "پرا گو ئے"
+
+msgid "Peru"
+msgstr "پرا گو ئے"
+
+msgid "South America"
+msgstr "جنو بي امريکه"
+
+msgid "Suriname"
+msgstr "جنو بي امريکه"
+
+msgid "Uruguay"
+msgstr "اُرگو ئے"
+
+msgid "Venezuela"
+msgstr "ويني زويلا"
+
+msgid "Austria"
+msgstr "آسڑ يا"
+
+msgid "Belgium"
+msgstr "آسڑ يا"
+
+msgid "Denmark"
+msgstr "ڈنمارک"
+
+msgid "Finland"
+msgstr "فنِ لينڈ"
+
+msgid "France"
+msgstr "فر انس"
+
+msgid "Germany"
+msgstr "فر انس"
+
+msgid "Ireland"
+msgstr "آئر لينڈ"
+
+msgid "Italy"
+msgstr "اٹلي"
+
+msgid "Luxembourg"
+msgstr "لگزمبرک"
+
+msgid "Norway"
+msgstr "لگزمبرک"
+
+msgid "Portugal"
+msgstr "لگزمبرک"
+
+msgid "Spain"
+msgstr "اندس"
+
+msgid "Sweden"
+msgstr "سو يڈن"
+
+msgid "Switzerland"
+msgstr "سو ئزر لينڈ"
+
+msgid "The Netherlands"
+msgstr "نيدر لينڈس"
+
+msgid "United Kingdom"
+msgstr "بر طا نيه اعظمي"
+
+msgid "Western Europe"
+msgstr "مغربي يورپ"
+
+msgid "Albania"
+msgstr "البا نيه"
+
+msgid "Belarus"
+msgstr "بيلا رس"
+
+msgid "Bosnia Herzegovina"
+msgstr "بو سنيا هر زيگو وينا"
+
+msgid "Bulgaria"
+msgstr "بلغا ريه"
+
+msgid "Croatia"
+msgstr "کرو شيا"
+
+msgid "Cyprus"
+msgstr "سا ئپر س"
+
+msgid "Czech Republic"
+msgstr "سا ئپر س"
+
+msgid "Eastern Europe"
+msgstr "مشرقي يورپ"
+
+msgid "Estonia"
+msgstr "ايسٹو نيا"
+
+msgid "Greece"
+msgstr "يو نان"
+
+msgid "Hungary"
+msgstr "هنگري"
+
+msgid "Latvia"
+msgstr "لٹو يا"
+
+msgid "Lithuania"
+msgstr "لتھو نيا"
+
+msgid "Macedonia"
+msgstr "ميکيڈ ونيا"
+
+msgid "Moldova"
+msgstr "مو لڈوا"
+
+msgid "Poland"
+msgstr "پو لينڈ"
+
+msgid "Romania"
+msgstr "رومينيا"
+
+msgid "Russia"
+msgstr "رشيا"
+
+msgid "Serbia Montenegro"
+msgstr "سر بيا "
+
+msgid "Slovak Republic"
+msgstr "سکو اکيه جمهوريت"
+
+msgid "Slovenia"
+msgstr "سلو وينيا"
+
+msgid "Turkey"
+msgstr "ترکي"
+
+msgid "Ukraine"
+msgstr "يو کرين"
+
+msgid "Algeria"
+msgstr "يو کرين"
+
+msgid "Benin"
+msgstr "سينين"
+
+msgid "Burkina Faso"
+msgstr "بر کينا فاسو"
+
+msgid "Cameroon"
+msgstr "کيميرون"
+
+msgid "Central African Republic"
+msgstr "مرکزي افر يقي جمهوريت"
+
+msgid "Chad"
+msgstr "چاڈ"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Egypt"
+msgstr "مصر"
+
+msgid "Equatorial Guinea"
+msgstr "استو ائي گو وينا"
+
+msgid "Eritrea"
+msgstr "ايريڑي"
+
+msgid "Ethiopia"
+msgstr "ايتھيو پيا"
+
+msgid "Gabon"
+msgstr "ايتھيو پيا"
+
+msgid "Gambia"
+msgstr "گيميا"
+
+msgid "Ghana"
+msgstr "گھانا"
+
+msgid "Guinea"
+msgstr "گوو ينيا"
+
+msgid "Guinea Bissau"
+msgstr "Guinea Bissau"
+
+msgid "Ivory Coast"
+msgstr "آئيو ري سا حل"
+
+msgid "Liberia"
+msgstr "ليبريا"
+
+msgid "Libya"
+msgstr "ليبيا"
+
+msgid "Mali"
+msgstr "ما لي"
+
+msgid "Mauritania"
+msgstr "ما ريٹينيا"
+
+msgid "Morocco"
+msgstr "مو رو کو"
+
+msgid "Niger"
+msgstr "نا ئجر"
+
+msgid "Nigeria"
+msgstr "نا ئجير يا"
+
+msgid "Northern Africa"
+msgstr "شما لي افريقه"
+
+msgid "Rwanda"
+msgstr "روا نڈا"
+
+msgid "Senegal"
+msgstr "سينيگل"
+
+msgid "Sierra Leone"
+msgstr "سيريا ليون"
+
+msgid "Somalia"
+msgstr "سو مليا"
+
+msgid "Sudan"
+msgstr "سو مليا"
+
+msgid "Togo"
+msgstr "ٹو گو"
+
+msgid "Tunisia"
+msgstr "تو نيشيا"
+
+msgid "Uganda"
+msgstr "يو گا نڈا"
+
+msgid "Western Sahara"
+msgstr "مغربي صحارا"
+
+msgid "Angola"
+msgstr "اينجولا"
+
+msgid "Botswana"
+msgstr "بو تسو انا"
+
+msgid "Burundi"
+msgstr "بو ر ه ندي"
+
+msgid "Democratic Republic of Congo"
+msgstr "کو نگو کا نظام جمهو ري حکو مت"
+
+msgid "Kenya"
+msgstr "کينيا"
+
+msgid "Lesotho"
+msgstr "کينيا"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Malawi"
+msgstr "ما لو ي"
+
+msgid "Mozambique"
+msgstr "مو زمبيک"
+
+msgid "Namibia"
+msgstr "نميبيا"
+
+msgid "Republic of Congo"
+msgstr "کو نگو کو جمهوريت"
+
+msgid "South Africa"
+msgstr "جنو بي افريقه"
+
+msgid "Southern Africa"
+msgstr "جنو بي افريقه"
+
+msgid "Swaziland"
+msgstr "سو ئز ي لينڈ"
+
+msgid "Tanzania"
+msgstr "تنز انيه"
+
+msgid "Zambia"
+msgstr "تنز انيه"
+
+msgid "Zimbabwe"
+msgstr "زمبا بو ے"
+
+msgid "Drag and Drop the regions to redraw the whole country"
+msgstr "علا قے کينچ کر ر کھو جس سے پورا ملک تيار هو جا ئے"
+
+msgid "Locate the region"
+msgstr "علا قے کا محل و قو ع بتا ئيں"
+
+msgid ""
+"The map of Germany comes from Wikipedia and is released under the GNU Free "
+"Documentation License. Olaf Ronneberger and his children Lina and Julia "
+"Ronneberger created the German level."
+msgstr "جر مني کا نقشه  Wikipediaسے آتا هے اور مري ڈا کيو مينٹيشن لا ئسنس کے تحت شا ئع کيا گيا هے Olaf Ronneberger اور اسکے بچوں LinaاورJulia نے جرمن ليول تخليق کيا "
+
+msgid "Regions of France"
+msgstr "فرا نس کے علا قے"
+
+msgid "Deutschland Bundesländer"
+msgstr "Deutschland Bundesländer"
+
+msgid "Counties of Norway"
+msgstr "نا روے کے بر طا نو ي ضلع"
+
+msgid "Geometry"
+msgstr "جيو ميڑي"
+
+msgid "Geometry activities."
+msgstr "جيو ميڑي"
+
+msgid "Keyboard manipulation"
+msgstr "کي بورڈ پر مها رت"
+
+msgid "Letter association between the screen and the keyboard"
+msgstr "کي بورڈ اور اسکرين کے درميان متعلقه حرف"
+
+msgid "Simple Letters"
+msgstr "آ سان حر وف"
+
+msgid "Type the falling letters before they reach the ground"
+msgstr "گر تے هو ئے حروف کو زمين پر پهنچے سے پهلے ٹائپ کريں"
+
+msgid "Equality Number Munchers"
+msgstr "گر تے هو ئے حروف کو زمين پر پهنچے سے پهلے ٹائپ کريں"
+
+msgid ""
+"Guide the Number Muncher to the expressions that equal the number at the top "
+"of the screen."
+msgstr "ايکسپريشن کے ليے نمبرمنچر کي رهنما ئي کريں جو اسکرين کے اوپري نمبر کے مسا وي هے"
+
+msgid "Practice addition, multiplication, division and subtraction."
+msgstr "جمع ، ضرب،  تقسيم اور تفريق کي مشق کريں"
+
+msgid ""
+"Use the arrow keys to navigate around the board and to avoid the Troggles. "
+"Press the spacebar to eat a number."
+msgstr "بورڈ کے اطراف بيويگيٹ  کر نے کے ليے اور Troggles کو نظرانداز انداز کر نے کے ليے تير کليد وں کا استعمال کريں نمبر کھانے کے ليے اسپيس بار دبا ئيں"
+
+msgid "Factor Number Munchers"
+msgstr "اجزا ئے ضربي"
+
+msgid ""
+"Guide the Number Muncher to all the factors of the number at the top of the "
+"screen."
+msgstr "اسکرين کے اوپري نمبر کے تمام اجزا ئے ضربي کے ليے نمبر منچر کي رهنما ئي کريں"
+
+msgid "Learn about factors and multiples."
+msgstr "اجزائے ضربي اور ضرب کرنا سيکھيں"
+
+msgid ""
+"The factors of a number are all the numbers that divide that number evenly. "
+"For example, the factors of 6 are 1, 2, 3 and 6. 4 is not a factor of 6 "
+"because 6 cannot be divided into 4 equal pieces. If one number is a multiple "
+"of a second number, then the second number is a factor of the first number. "
+"You can think of multiples as families, and factors are the people in those "
+"families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
+"another family. Use the arrow keys to navigate around the board and to avoid "
+"the Troggles. Press the spacebar to eat a number."
+msgstr "نمبر کے اجزا ئے ضربي تمام وه نمبر هيں جو اس نمبر کو جفتا تقسيم کر تے هيں مثلا ۶ کے اجزائے حضربي ۱،۲،۳ اور ۶ هيں ۴ ، ۶ کا فيکڑنهيں هے کيو نکه ۶،۴ مسا وي ٹکڑوں ميں تقسيم نهيں هو تا اگر ايک نمبر دوسرے نمبر کا ملٹي پل نمبر هے تو پھر دوسرا نمبر پهلے نمبر کا فيکٹر هو تا هے آ پ ملٹي پلز کو ايک خاندان تصوير کر سکتے هيں اور فيکٹر اس خاندان کے ٹوک هيں اس ليے ۱،۲،۳،اور ۶ تمام ۶ کے خاندان ميں فٹ آتے هيں ليکن ۴ دوسرے خاندان سے تعلق رکھتا هے بورڈ کے اطراف نيو يگيٹ کر نے کے ليے اور Troggles   کو نظر انداز کر نے کے ليے تير کليدوں کا استعمال کريں نمبر کھا نے کے ليے اسيس با ر دبا ئيں"
+
+msgid ""
+"Guide the Number Muncher to the all the expressions that do not equal the "
+"number at the top of the screen."
+msgstr "تمام ايکسپريشن کے ليے نمبر منچر کي رهنما ئي کريں۔ جو اسکرين  کے  اوپري  نمبر کے غير مسا و ي هے۔ "
+
+msgid "Inequality Number Munchers"
+msgstr "غير مسا وي نمبر منچر"
+
+msgid "Practice addition, subtraction, multiplication and division."
+msgstr "جمع ، ضرب ، تقسيم اور تفريق کي مشق کريں"
+
+msgid ""
+"Guide the Number Muncher to all the multiples of the number at the top of "
+"the screen."
+msgstr "اسکرين کے اوپر نمبر کے تمام ملٹي پلز کے ليے منچر کي ر هنما ي کر يں۔"
+
+msgid "Learn about multiples and factors."
+msgstr "ضرب اور اجزا ئے تر کيبي کے با رے ميں سيکھيں"
+
+msgid "Multiple Number Munchers"
+msgstr "متعددنمبر منچر"
+
+msgid ""
+"The multiples of a number are all the numbers that are equal to the original "
+"number times another number. For example, 24, 36, 48 and 60 are all "
+"multiples of 12. 25 is not a multiple of 12 because there isn't any number "
+"that can be multiplied by 12 to get 25. If one number is a factor of a "
+"second number, then the second number is a multiple of the first number. "
+"Again, you can think of multiples as families, and factors are the people "
+"who belong to those families. The factor 5, has parents 10, grandparents 15, "
+"great-grandparents 20, great-great-grandparents 25, and every extra step of "
+"5 is another great- in front! But the number 5 does not belong in the 8 or "
+"23 families. You can't fit any number of 5s into 8 or 23 with nothing left "
+"over. So '8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
+"multiples (or families or steps) of 5. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr "نمبر کے ملٹي پلز تمام وه نمبر ز هيں جو ديگر نمبر کے اصل نمبر کے مسا وي مثلا  ۴۲، ۶۳، ۴۸ اور ۶۰ تمام ۱۲ کے ملٹي پلز هيں ۲، ۱۲  کا ملٹي پل نهيں هے کيو نکو کو ئي دوسرا نمبر نهيں هے ، تاکو دوسرا نمبر پهلے نمبر کا ملٹيپل هو سکے دوبا رو تصوير کيجئے کو ملٹيپل ايک خاندان هے۔ اجزاے ضربي اس خاندان کے لو گ هيں ۵ کے والدين ۱۰ اور ۱۵ دادا دادي هے اور پردادا ۲۰ اور پڑ پر دادا ۲۵ هے اور ۵ کا هر زائد قدم اسکا greatهو گا ليکن عدد ۵، ۸ يا ۲۳ کے خاندان سے تعلق نهيں رکھتا ، آ پ عدد ۵ کے کسي اور نمبر کو جب کچھ نهيں بچتا هے تو ۸ اور ۲۳ ميں فٹ نهيں کر سکتے اسلئے نه تو ۸ ، ۵ کاملٹي پل هے اور نه هي ۲۳ ،  صرف ۵، ۱۰ ، ۵۱، ۵۲، ۵ سے ضرب هو سکتے هيں(خاندان يا قدم هيں )Troggles   کو نظر انداز کر نے کے ليے يا بو رڈ کے اطراف نيو يگيٹ کر نے کے ليے  تير کليدوں کا استعمال کريں اور نمبر کھا نے کے ليے اسپپس با ر دبا ئيں"
+
+msgid "Guide the Number Muncher to all the prime numbers."
+msgstr "نمبر منچر کي تمام مفرد اعداد کے ليے رهنما ئي کر يں"
+
+msgid "Learn about prime numbers"
+msgstr "مفرد اعداد کے متعلق سيکھيں"
+
+msgid "Prime Number Munchers"
+msgstr "مفرد اعداد منچر"
+
+msgid ""
+"Prime numbers are numbers that are only divisible by themselves and 1. For "
+"example, 3 is a prime number, but 4 isn't (because 4 is divisible by 2). You "
+"can think of prime numbers as very small families: they only ever have two "
+"people in them! Only themselves and 1. You can't fit any other numbers into "
+"them with nothing left over. 5 is one of these lonely numbers (only 5 × 1 = "
+"5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 × "
+"3 = 6). So 6 is not a prime number. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr "مفرد اعداد وه اعداد هيں جو خود اپنے عدد سے هي تقسيم هو تے هيں ۰ اور ۱ هے مثلا : ۳ مفرد عداد هے ليکن ۴ مفرد عدد نهيں هے ( کيو نکو ۴ کو ۲ سے تقسيم دي جا سکتي هے ) آپ سمجھ سکتے هيں که مفرد اعداد کا خاندان بهت هي چھو ٹا هو تا هے يه صرف دو هي لو گ هوتے هيں ايک خود وه عدد اور دوسرا  آپ ان ميں کو ئي دوسرا آپ ان ميں کو ئي دوسرا نمبر فٹ نهيں کر سکتے ۵ ان ميں سے ايک اکيلا نمبر هے (صرف ۵= ۱۔   ۵) ليکن آپ ديکھتے هيں که ۶ کے خاندان ميں ۲ اور ۳ بھي هيں (۶=۳۔  ۲،   ۶= ۱   ۶) اسليے  ۶ مفر د عداد هے او بورڈ کے اطراف نيو يگيٹ  کر نے کے ليے اور  Troggles   کو نظر انداز کر نے کے ليے تير کليدوں کا استعمال کريں"
+
+msgid "Go to Number Munchers activities"
+msgstr "منچر سر گرميونميں جا ئيں"
+
+msgid "Number Munchers are games to play with arithmetic."
+msgstr "منچر ايک طرح کا حسابي کھيل هے نمبر پهچا نئے"
+
+msgid "Guess a number"
+msgstr "نمبر پهچانوں"
+
+msgid "Help Tux escape the cave. Tux hides a number for you to find."
+msgstr "غار سے نکلنے ميں  Tuxکي مدد کريں Tuxآپ کو تلا ش کر نے والے  نمرا ت  چھپا تا هے"
+
+msgid "Numbers from 1 to 1000 for the last level."
+msgstr "آ خري سطح کے ليے  ۱  سے  ۱۰۰۰ تک نمبرات"
+
+msgid ""
+"Read the instructions that give you the range of the number to find. Enter a "
+"number in the top right blue entry box. Tux will tell you if your number is "
+"higher or lower. Then enter another number. The distance between Tux and the "
+"escape area on the right represents how far you are from the correct number. "
+"If Tux is over or under the escape area, it means your number is over or "
+"under the correct number."
+msgstr "هدا يا ت پڑھيں جو آپ کو تلاش کرنے کے ليے ر ينج ديتي هيں اوپري دا ئيں جانب کے نيلے، نيڑي ، ڈ بے ميں نمبر داخل کريں ۔ Tux  آپ کو بتا يگا که آپ کانمبر بڑا هے يا چھوٹا ۔پھر دوسرا دايں  جانب داخل کريں۔ Tuxاور  فرار کے علا قے کے درميان کا فا صله بتاتا هے  که آپ صحيح نمبر سے کتنے دور هيں ۔ اگر Tux فرار علا قے کے اوپر يا نيچے هے تو اسکا مطلب هے آپکا نمبر صحيح نمبر کے اوپر يا نيچے هے"
+
+msgid "Concept taken from EPI games."
+msgstr "نظر يه EPIکھيلوں سے ليا گيا هے"
+
+msgid ""
+"Drag and Drop one top piece at a time, from one peg to another, to reproduce "
+"the tower on the right in the empty space on the left."
+msgstr "با ئيں جانب کي خالي جگه ميں دائيں ٹاورجانب دوباره بنا نے کے ليے، ايک ھقت ميں ايک ٹکڑا ايک پيج سے دوسرے ميں کھينچيں اور رکھيں۔"
+
+msgid "Reproduce the given tower"
+msgstr "ديا گيا  ٹاور دوبا ره بنا ئيں"
+
+msgid "Reproduce the tower on the right in the empty space on the left"
+msgstr "دائيں جانب اور با ئيں جانب کي خالي جگه ميں ٹا ور دو با ره بنا ئيں"
+
+msgid "Simplified Tower of Hanoi"
+msgstr "آسان کيا هوا هنو ئي ٹا ور"
+
+msgid ""
+"Drag and Drop the top pieces only from one peg to another, to reproduce the "
+"tower on the right in the empty space on the left."
+msgstr "با ئيں جانب کي خا لي جگه ميں دا ئيں جانب ٹاور دو با ره بنا نے کے ليے اوپر کے ٹکڑے ايک pegسے دوسرے ميں کھينچيں اور رکھيں۔"
+
+msgid "Reproduce the tower on the right side"
+msgstr "دا ئيں جانب  ٹاور دوبا ره بنايں"
+
+msgid "The Tower of Hanoi"
+msgstr "هنو ئي کا ٹاور"
+
+msgid ""
+"The object of the game is to move the entire stack to another peg, obeying "
+"the following rules:\n"
+"* only one disc may be moved at a time\n"
+"* no disc may be placed atop a smaller disc"
+msgstr "اس کھيل کا مقثد مندرجه ذيل اصو لوں پر عمل کر کے پورا اسٹاک دوسرے پيگ ميں هٹا نا هے 1. ٭ايک وقت ميں صرفايک هي تشت ٭ چھٹے تشت هر اس سے بڑي تضت نه رکھئے 2. "
+
+msgid ""
+"The puzzle was invented by the French mathematician Edouard Lucas in 1883. "
+"There is a legend about a Hindu temple whose priests were constantly engaged "
+"in moving a set of 64 discs according to the rules of the Tower of Hanoi "
+"puzzle. According to the legend, the world would end when the priests "
+"finished their work. The puzzle is therefore also known as the Tower of "
+"Brahma puzzle. It is not clear whether Lucas invented this legend or was "
+"inspired by it. (source Wikipedia lt;http://en.wikipedia.org/wiki/"
+"Towerofhanoigt;)"
+msgstr " يه پز ل فرا نسيس رياÊÊÊض دانEdouard Lucasنے ۱۸۸۳ ميں ايجاد کيا۔ هندوٶ ں کے مندر کے متعلق يه داستان هے که انکے پيشوا هنو ئي کے ٹاور کے اصولوں کے مطا بق لگا تا ر  ۴۶ ڈسکس کا سيٹ هٹا نے ميں مصروف رهتے تھے داستا  کے مطا بق جب يه پيشوا اپنا کام ختم کر ے گے تو دنيا ختم هو جا ئے گي ٫ اس ليے يه پزل بر يمه پزبي کے ٹاور کے نام سے بھي جا نا جا تا هے يه با ت واضح نهيں هے که Lucasے خود نے يه داستان بنا ئي يا وه اس داستان سے متا ثر هوا     http://en.wikipedia.org/wiki/Towerofhonoi"
+
+msgid "Find the strawberry by clicking on the blue fields"
+msgstr "نيلے کھيتوں پر کلک کر کے ستا بري تلا ض کريں"
+
+msgid ""
+"Try to find the strawberry under the blue fields. The fields become redder "
+"as you get closer."
+msgstr "نيلے کھيتوں کے نيچے سٹا بري تلا ش کر نے کي کو شش کر نے کريں ۔ جيسے جيسے آپ نزديک پههنچے گے کھيت لال هو جا تے هيں "
+
+msgid "hexagon"
+msgstr "مسدس"
+
+msgid "Click on the word corresponding to the printed image."
+msgstr "پرنٹ کئے هو ئے اميج سے متعلقه لفظ پر کلک کريں"
+
+msgid "Practice reading by finding the word matching an image"
+msgstr "تصيو ر سے متعلقه لفظ ڈھو نڈ کر پڑھنے کي مشق کريں"
+
+msgid "Reading"
+msgstr "پڑھنا"
+
+msgid "Reading practice"
+msgstr "پڑھنے کي مشق"
+
+msgid "apple"
+msgstr "سيب"
+
+msgid "back"
+msgstr "پيچھے"
+
+msgid "bag"
+msgstr "بيگ / تھيلا"
+
+msgid "ball"
+msgstr "گيند"
+
+msgid "banana"
+msgstr "موز"
+
+msgid "bed"
+msgstr "پلنگ"
+
+msgid "boat"
+msgstr "نا ٶ"
+
+msgid "book"
+msgstr "کتا ب"
+
+msgid "bottle"
+msgstr "بوٹل"
+
+msgid "cake"
+msgstr "کيک"
+
+msgid "camel"
+msgstr "اونٹ"
+
+msgid "car"
+msgstr "موٹر"
+
+msgid "cat"
+msgstr "بلي"
+
+msgid "catch"
+msgstr "پکڑ و  ۔ جھيلو"
+
+msgid "cheese"
+msgstr "پنير"
+
+msgid "cow"
+msgstr "گا ے"
+
+msgid "dog"
+msgstr "کتا"
+
+msgid "finish"
+msgstr "ختم"
+
+msgid "fish"
+msgstr "مچھلي"
+
+msgid "house"
+msgstr "مچھلي"
+
+msgid "pear"
+msgstr "نا شياپتي"
+
+msgid "plane"
+msgstr "هو ائي جها ز"
+
+msgid "satchel"
+msgstr "بستهؠ"
+
+msgid "Drag and Drop each item onto its name"
+msgstr "چيزوں کے نام پر چيزيں کھينچو اور رکھو"
+
+msgid ""
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
+msgstr "با ئيں جانب کے (عمودي) با کس (ڈبے) سے تصوير کے نام اسکے دا ئيں جانب (متعلقه ) کے نام پر کھينچيں اور رکھيں  اپنا جو اب جا نچے کے لئےOKبٹن پر کلک کريں"
+
+msgid "Image Name"
+msgstr "تصوير کانام"
+
+msgid "Vocabulary and reading"
+msgstr "فر هنگ اور پڑھنا"
+
+msgid "bulb"
+msgstr "بلب"
+
+msgid "fishing boat"
+msgstr "مچھلي  پکڑنے کي نا ٶ"
+
+msgid "lamp"
+msgstr "ليمپ (قنديل )"
+
+msgid "mail box"
+msgstr "ميل با کس"
+
+msgid "postcard"
+msgstr " پو سٹ کا رڈ (خط)"
+
+msgid "sailing boat"
+msgstr "باد با ني کشتي"
+
+msgid "egg"
+msgstr "انڈا"
+
+msgid "eggcup"
+msgstr "انڈا کا کپ"
+
+msgid "flower"
+msgstr "پھول"
+
+msgid "glass"
+msgstr "گلاس"
+
+msgid "vase"
+msgstr "گلدان (گملا )"
+
+msgid "light house"
+msgstr "بجلي گھر"
+
+msgid "rocket"
+msgstr "راکٹ"
+
+msgid "sofa"
+msgstr " صوفه"
+
+msgid "star"
+msgstr "ستا ره"
+
+msgid "bicycle"
+msgstr " سا ئيکل"
+
+msgid "carrot"
+msgstr "گا جر"
+
+msgid "grater"
+msgstr "کدوکش"
+
+msgid "tree"
+msgstr "درخت"
+
+msgid "pencil"
+msgstr "پنسل"
+
+msgid "spruce"
+msgstr "صنو بر"
+
+msgid "truck"
+msgstr "ٹرک"
+
+msgid "van"
+msgstr "وين "
+
+msgid "castle"
+msgstr "قلعه"
+
+msgid "crown"
+msgstr "تاج"
+
+msgid "flag"
+msgstr "پر چم ،  جھنڈا "
+
+msgid "racket"
+msgstr "ريکيٹ"
+
+msgid "Discover the keyboard."
+msgstr "کي بورڈ دريا فت کر يں"
+
+msgid "Keyboard-manipulation boards"
+msgstr "کي بورڈ دستکا ري کي بورڈ"
+
+msgid "Determine if a hand is a right or a left hand"
+msgstr "نعيتں کريں که ها تھ داباں هے يا با ياں"
+
+msgid ""
+"Distinguish right and left hands from different points of view. Spatial "
+"representation"
+msgstr "مختلف نکتئه نظريات سے دائيں اور با ئيں ها تھ کا فرق بتا ئيں مکاني نما ئندگي"
+
+msgid "Find your left and right hands"
+msgstr "اپنا دا ياں اور با ياں ها تھ پهنچا نيے"
+
+msgid "None"
+msgstr "کو ئي نهيں"
+
+msgid ""
+"You can see a hand: is it a left hand or a right hand? Click on the red "
+"button on the left, or the green button on the right."
+msgstr "آ پ ايک ها تھ ديکھو سکتے هيں يه دا ياں ها تھ هے يا با ياں اگر باياں ها تھ هے سر خ بٹن پر کلک کريں اور اگر دا ياں هے تو سبز بٹن پر"
+
+msgid ""
+"GCompris identifies each child, so we can provide child-specific reports."
+msgstr "`G کمپرائز هر بچے کي شنا خت کر تا هے اسلئے هم بچے کي مخصوصربورٹ فراهمکر سکتے هيں "
+
+msgid "GCompris login screen"
+msgstr " Gکمپرائز لاگ ان اسکرين"
+
+msgid ""
+"In order to activate the login screen, you must \n"
+"first add users in the administration part of GCompris. \n"
+"You access Administration by running 'gcompris -a'.\n"
+"In Administration, you can create different profiles. In each profile,\n"
+"you can have a different set of users and select which activities are "
+"available to them.\n"
+"To run GCompris for a specific profile, you use 'gcompris -p profile' where "
+"'profile'\n"
+"is the name of a profile as you created it in Administration."
+msgstr "لا گ  ان سکرين کو فعال کر نے کے ليے پهلے آپ کو صارف کوG کمپرائزکے انتظا ميه حصے ميں شامل کر نا چا هيے آپ G کمپرائز کو چلا کر انتظا ميه ميں پهنچے هيں انتظاميه ميں آپ مختلف پر وفا ئلز تخليق کر سکتے هيں هر پروفا ئل ميں آ پ کے پاس مختلف صارفين هو سکتے هيں اور جو سر گرمياں ان کے پاس دستياب هيں آپ اسے منتخيب کر سکتے هيں مخصو ص  پرو فا ئل کے لئے  G کمپرائز چلا نے کے لئے آپ پر وفا ئلG کمپرائز استعما ل کريں جهاں پرو فا ئل اس پرو فا ئل کا نام هے جسے آپ نے انتظا ميه ميں تخليق کيا تھا"
+
+msgid "Select or enter your name to log in to GCompris"
+msgstr "G کمپرائز ميں لاگ ان کر نے کے لئے اپنا نام منتخيب کريں يا داخل کريں"
+
+msgid "Addition"
+msgstr "G کمپرائز ميں لاگ ان کر نے کے لئے اپنا نام منتخيب کريں يا داخل کريں"
+
+msgid ""
+"Click on the hat to open or close it. Under the hat, how many stars can you "
+"see moving around? Count carefully. :) Click in the bottom-right area to "
+"input your answer."
+msgstr "هيٹ کو شروع کر نے يا بند کر نے کے لئے اس پر کلک کريں هيٹ کے اطراف آپ کتنے ستا رے گردش کرتے هو ئے ديکھ سکتے هيں ؟دھيان سے گنيں اپنا جواب داخل کر نے کے لئے نيچے کے دائيں ايريا ميں کلک کريں"
+
+msgid "Count how many items are under the magic hat"
+msgstr "جا دوئي ٹو پي کے زير تحت کتني چيزيں هيں گنيں "
+
+msgid "Learn addition"
+msgstr "جمع کرنا سيکھيں"
+
+msgid "The magician hat"
+msgstr "جا دو ئي ٹو پي"
+
+msgid "Count how many items are under the magic hat after some have got away"
+msgstr "کچھ چيزينجا دوئي ٹو پي سے دور جا نے کے بعد اسکے اطراف کتني چيزيں رهتي هيں شمار کرو"
+
+msgid "Learn subtraction"
+msgstr "تفريق کر نا سيکھيں"
+
+msgid ""
+"Look at the magician, he tells the number of stars that are under his magic "
+"hat. Then, click on the hat to open it. A few stars escape. Click again on "
+"the hat to close it. You have to count how many are still under the hat. "
+"Click on the bottom right area to answer."
+msgstr "جا دو گر کي طرف ديکھو ، وه ستا روں کي تعداد بتا تا هے جو اسکي جادوئي ٹو پي کے اندر هے پھر کھولنے کے ليے ٹو پي پر کلک کريں۔ کچھ ستا رے چلے جا تے هيں ٹو پي کو دوباره بند کر نے لے ليے اس پر دو باره کلک کريں آپ کو شمار کرنا هے که ٹوپي ميں اور کتنے ستا رے هے جواب کے ليے نيچے دائيں ايريا ميں کلک کريں"
+
+msgid "Subtraction"
+msgstr "تفريق"
+
+msgid "Mathematical activities."
+msgstr "جسماني سرگرمياں"
+
+msgid "Mathematics"
+msgstr "حساب"
+
+msgid "Can use the keyboard arrow to move an object."
+msgstr "آبجيکٹ کو حرکت دينے کے ليے کي بورڈ کے تير کااستعمال کر سکتے هيں"
+
+msgid "Find your way out of the maze"
+msgstr "بھول بھلياں سے با هر نکلنے کے ليے راسته تلاش کريں"
+
+msgid "Help Tux get out of this maze."
+msgstr "اس بھول بھلياں سے با هر نکلنے ميں ٹکس کي مدد کريں "
+
+msgid "Maze"
+msgstr "بھول بھلياں "
+
+msgid "Use the keyboard arrows to move Tux up to the door."
+msgstr "بھول بھلياں سے باهر نکلنے کے ليے اپنا راسته تلاش کريں (حرکت متعلقه هے) "
+
+msgid "Find your way out of the maze (Move is relative)"
+msgstr "اس بھول بھلياں سے با هر نکلنے ميں ٹکس کي مدد کريں"
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. In this maze, the move "
+"is relative (first person). Use the up arrow to go forward. The other arrow "
+"let you turn Tux in another direction."
+msgstr "  Tuxکو دروازے تک هٹانے کے ليے کي بورڈ کے تيروں کا استعمال کريں ۔اس بھول بھلياں ميں حرکت متعلقه هے (پهلا شخص) آگے جا نے کے ليے اوپري تير کا استعمال کريں ديگر تير آپکو Tux  کو دوسري سمت ميں موڑنے ديتے هيں "
+
+msgid "3D Maze"
+msgstr "3Dبھول بھليان"
+
+msgid "Find your way out of the 3D maze"
+msgstr "3D بھول بھلياں سے باهر نکلنے کے ليے اپنا راسته تلاش کريں"
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between 2D and 3D modes. 2D mode just gives you an indication of your "
+"position, like a map. You cannot move Tux in 2D mode."
+msgstr "Tuxکو دروازے تک لے جانے کے ليے کي بورڈ کے تيروں کا استعمال کرين2Dاور3Dموڈ کے درميان سو ئچ کر نے کے ليے اسپيس بار کا استعمال کريں"
+
+msgid "Find your way out of the invisible maze"
+msgstr "نه نظر آ نے والے بھول بھلياں سے باهر نکلنے کے ليے اپنا راسته تلاش کريں "
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between invisible and visible modes. Visible mode just gives you an "
+"indication of your position, like a map. You cannot move Tux in visible mode."
+msgstr "Tuxکو دروازے تک لے جانے کے ليے کي بورڈ کي تيروں کا استعمال کريں۔نظر آ نے والي اور نه نظر آنے والي موڈز کے درميان سو ئچ کر نے کے ليے اسپيس بار کا استعمال کريں نظر آنے والا موڈ آپکو صرف پکا مقام بتا تا هے جس طرح کے نقشه بتاتا هے آپTux کو نظر آنے والے موڈ ميں نهيں هٹا سکتے هيں "
+
+msgid "Find your way out of different types of mazes"
+msgstr "مختلف قسم کي بھول بھلياں سے باهر نکلنے کے ليے اپنا راسته تلاش کريں"
+
+msgid "Go to Maze activities"
+msgstr "بھول بھلياں کي سر گرميوں ميں جا ئيں"
+
+msgid "Ear-training activity"
+msgstr "کان کي تربيتي سر گر مي"
+
+msgid ""
+"Listen to the sound sequence played, and repeat it by clicking on the "
+"elements. You can listen again by clicking on the repeat button."
+msgstr "تر تيب وار آواز کوسنيں اور پھر عناصر پر کلک کر کے انھيں  دهرائيں  بٹن کو دوباره کلک کر کے آپ دوباره سن سکتے هيں "
+
+msgid "Melody"
+msgstr "شريں نغمه"
+
+msgid "Repeat a melody"
+msgstr "نغمے کو دهراهيں"
+
+msgid ""
+"A set of blank cards is shown. Each card has a picture on the other side, "
+"and each picture card has a twin exactly the same. Click on a card to see "
+"its hidden picture, and try to match the twins. You can only turn over two "
+"cards at once, so you need to remember where a picture is, while you look "
+"for its twin. When you turn over the twins, they both disappear."
+msgstr "کو رے کا رڈز کا سيٹ دکھا يا گيا هے هر کارڈ کے دوسرے رخ پر تصوير هے اور هر تصوير ي کارڈ کي هو بهو نقل بھي هے ۔کارڈ کي چھپي هو ئي تصوير ديکھنے کے ليے کارڈ پر کلک کريناور اسکي جو ڑي ملانے کي کو شش کريں ايک وقت ميں آپ صرف دو هي کارڈ زکھول سکتے هيں اس ليے آپکو ياد رکھنا چا هيے که صحيح تصوير کهاں هے جب آپ اس کا رڈ کا جو ڑي دار کھو لتے هيں تو وه دونوں کارڈ غايب هو جا تے هيں"
+
+msgid "Flip the cards to find the matching pairs"
+msgstr "ايک جيسي جو ڑياں ڈھونڈنے کے لييکارڈز پلٹيس"
+
+msgid "Memory Game with images"
+msgstr "تصويرونسے ذهني کھيل"
+
+msgid "Train your memory and remove all the cards"
+msgstr " اپني ياداشت کو تربيت ديں اور تمام کارڈز نکاليں "
+
+msgid "Addition memory game"
+msgstr "جمع کا ذهني کھيل"
+
+msgid "Practise adding up, until all the cards are gone."
+msgstr "جمع کي مشق تب کريں جب تک تمام کارڈز چلے نهيں جا تے"
+
+msgid ""
+"Turn the cards over to find two numbers which add up the same, until all the "
+"cards are gone."
+msgstr "دو نمبرات ز تلاش کر نے کے ليے کارڈز کھوليں جو وهي نمبرملاتے هيں جب تمام کارڈز چلے جا تے هيں"
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an adding-up sum, or the answer to the sum.\n"
+"An adding-up sum looks like this: 2 + 2 = 4\n"
+"The numbers on one side of the equals sign (=) have to be the same as the "
+"number on the other side. So 2 (1, 2) and 2 more (3, 4) makes 4. Count aloud "
+"when you work this out, and count on your fingers, because the more ways you "
+"do something, the better you remember it. You can also use blocks, or "
+"buttons, or anything you can count. If you have lots of brothers and "
+"sisters, you can count them! Or the kids in your class at school. Sing "
+"counting songs. Count lots of things, for practice, and you'll be very good "
+"at adding-up!\n"
+"\n"
+"In this game, these cards are hiding the two parts of an adding-up sum (also "
+"called an addition sum). You need to find the two parts of the sum, and "
+"bring them together again. Click on a card to see what number it's hiding, "
+"then try to find the other card that goes with it, to make a whole sum. You "
+"can only turn over two cards in one go, so you need to remember where the "
+"numbers are hiding, then you can match them when you find their other half. "
+"You're doing the job of the equals sign, and the numbers need you to put "
+"them together and make a proper sum. When you do that, both those cards "
+"disappear! When you've made them all disappear, found all the sums, you've "
+"won the game! :)"
+msgstr "آپ کچھ کارڈ ز ديکھ سکتے هيں ،ليکن آپ يه نهيں ديکھ سکتے که کارڈ کے دوسرے طرف کيا هے هر کارڈ ميں ايک جمع کا حساب چھپا هوا هے يا حساب کا جواب جمع کا حساب اسطرح دکھا ئي ديتا هے ۲+۲=۴ ايک جا نب کي برابر علا مت کي جانب کا عدد دوسرے جا نب کا عدد ايک هي هونا چا ئيے ٫ اسلئے  ۲(۲،۱) اور  ۲ (۴،۳) چار هو تے هيں ۔زھر سے گنو جب آپ يه کر تے هيں اور آپ اپني انگليوں پر گنتے هيں ، کيونکه جتنے طر يقوں سے آپ کرے گے اتني اچھي طرح سے آپ ياد رکھ سکتے هيں آپ بلاکس يا بٹش کا استعمال کر سکتے هيں يا کو ئي بھي چيزجسے آپ گن سکتے هيں اگر آپ کي بهت سي بهنيں اور بهت سے بھا ئي هيں تو آپ انھيں گن سکتے هيں يا آپ کے مدرسے ميں آپکے جما عت کے بچے بھي گن سکتے هيں ۔گنتي گنے کا گيت گا يۂ مضق کر نے کے ليے بهت سي چيزوں کے گنيں اور ديکھيے که آپ جمع کر نے ميں بهت هي بهتر هو جا ئے گے ۔ اس کھيل ميں يه کارڈز جمع کے حساب کے دو حصے چھپا ئے هو ئے هيں آپ کو حساب کے دونھں حصے ڈھونڈنے هيں اور انھيں دوبا ره ايک ساتهھ لانا هے هے ديکھنے کے ليے که کارڈ کنسا نمبر چھپا ئے هو ئے هے کارڈ پر کلک کريں پھر اسکے بعد اس کارڈ کے ساتھ جا نے والے دوسرا کارڈ تلاش کريں پورا حساب مکمل کر نے کے ليے آپ ايک با ر ميں صرف دو کارڈز کھول سکتے هيں اسليے آپ کو ياد رکھنا چا ئيے که کو نسے کارڈپر کونسا نمبر چھپا هوا هے پھر آپ ان کارڈ کو ان کا نصف حصه ڈھونڈ کر جوڑ سکتے هيں آپ برابرکي علا مت کاکام کرت هيں اور نمبر ز ايک ساتهھ لکھنے کي اور اسے مکمل طور پر حسابي شکل دينے کي ضرورت هے جب آپ وه کر ليتے هيں تو دونوں کارڈ غائب هو جا تے هيں جب آپ تمام کارڈز کو غائب کر ليتے هيں اسکا مطلب هے که آپ نے تمام حساب ڈھونڈ ليے اور آپ نے يه کھيل جيت ليا :"
+
+msgid "Addition and subtraction memory game"
+msgstr "جمع اور تفريق کا ذهني کھيل"
+
+msgid "Practise addition, subtraction, until all the cards are gone."
+msgstr "جمع اور تفريق کي مشق تب تک کريں جب تک تمام کارڈز چلے نهيں جا تے"
+
+msgid ""
+"Turn the cards over to find two numbers which add or subtract the same, "
+"until all the cards are gone."
+msgstr "عدد کي تالش کے ليے کارڈز کھو ليے جو جمع اور تفريق کرتے هيں جب تک تمام کارڈز چلے نهيں جا تے "
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an operation, or the answer to it.\n"
+"\n"
+"In this game, these cards are hiding the two parts of an operation. You need "
+"to find the two parts of the operation, and bring them together again. Click "
+"on a card to see what number it's hiding, then try to find the other card "
+"that goes with it, to make a whole operation. You can only turn over two "
+"cards in one go, so you need to remember where the numbers are hiding, then "
+"you can match them when you find their other half. You're doing the job of "
+"the equals sign, and the numbers need you to put them together and make a "
+"proper equality. When you do that, both those cards disappear! When you've "
+"made them all disappear, found all the operations, you've won the game! :)"
+msgstr "آپ يهاں کچھ کارڈز ديکھ سکتے هيں ليکن آپ يه نهيں ديکھ سکے که کارڈ کي دوسري جانب کيا هے هر کارڈ ميں ايک آپريشن  يا جو اب چھپا هوا هے اس کھيل ميں يه کارڈز کے دو حصے چھپا ئے هو ئے هيں آپ کو آپريشن کے دونوں حصے ڈھو نڈتے هيں اور انھيں دوباره ايک ساتھ لا نا هے يه ديکھنے کے ليے که کارڈ کونسا نمبر چھپا ئے هو ئے هے کا رڈ پر کلک کريں پھر اس کارڈ کے ساتهھ جا نے والا دوسرا کارڈ تلا ش کريں پورا آپريشن مکمل کر نے کے ليے آپ ايک بار نيں صرف دو کارڈ کقول سکتے هيں اسليے آپ کو يا د رکھنا چا ئيے که کو نسے کارڈ پر کو نسا عدد چھپا هوا هے پھر آپ ان کارڈز کو ان کا نصف هصه ڈھونڈ کر جوڑ سکتے هيں آپ برابر کي علا مت کاکام کر تے هيں اور نمبرز کو ايکساتھ لکھنے اور انھيں برابر مسا وات کي ضکل دينے کي ضرورت هے جب آپ يه کر ليتے هيں تو يه دو نوں کا رڈ ز غا ئب هو جا تے هيں جب آپ تمام کارڈز غا ئب کر ديتے هيں تو آپ کو تمام آپريشنس مل جا تے هيں اور آپ يه کھيل جيت جا تے هيں "
+
+msgid "Addition, subtraction, multiplication, division"
+msgstr "جمع ،  تفريق،   ضرب ،  تقسيم"
+
+msgid "All operations memory game"
+msgstr "سبھي عمل ذهني کھيل"
+
+msgid ""
+"Practise addition, subtraction, multiplication, division, until all the "
+"cards are gone."
+msgstr "جمع ،  تفريق ،  ضرب ،  تقسيم کي مشق تب تک کريں جب تک تمام کارڈز چلے نهيں جا تے"
+
+msgid ""
+"Turn the cards over to find a matching operation, until all the cards are "
+"gone."
+msgstr "متما ثل آپريشن ڈھونڈ نے کے ليے کارڈ تب کھو ليے جب تک تمام کارڈ چلے نهيں جا تے"
+
+msgid "All operations memory game against Tux"
+msgstr "تمام عملي يادداشت کھيلTuxکے مخالف هے"
+
+msgid "Addition and subtraction memory game against Tux"
+msgstr "جمع اور تفريق کا يا دداشتي کھيلTuxکے مخالف"
+
+msgid "Addition memory game against Tux"
+msgstr "جمع کا يادداشتي کھيلTuxے مخلاف"
+
+msgid "Additions"
+msgstr "جمع "
+
+msgid "Division"
+msgstr "تقسيم"
+
+msgid "Division memory game"
+msgstr "تقسيم کا ذهني کھيل"
+
+msgid "Practise division, until all the cards are gone."
+msgstr "تقسيم کي مشق  تب تک کريں جب تک تمام کارڈز چليے نهيں جاتے "
+
+msgid "Division memory game against Tux"
+msgstr "`Tuxکے مخالف ميں تقسيم  کا يا ذهني کھيل "
+
+msgid "Go to Memory activities"
+msgstr "يا دداشتي سر گر مياں کي مشق سر گرميوں مے جا ئيں "
+
+msgid "Various memory activities (images, letters, sounds)."
+msgstr "مختلف يا دداشتي سر گر مياں (تصويريں ،  حروف آوازيں ) "
+
+msgid "Practise subtraction, until all the cards are gone."
+msgstr "تمام کارڈ ز چلے جا نے تک تفريق کي مشق کريں "
+
+msgid "Subtraction memory game"
+msgstr "تفريق کا يادداشتي کھيل"
+
+msgid ""
+"Turn the cards over to find two numbers which subtract the same, until all "
+"the cards are gone."
+msgstr "تمام کارڈ ز چلے جا نے تک دو عيد تلا ش کر نے کے ليے کارڈ ز کھو ليے جو اسي کو تفريق کر تے هيں "
+
+msgid "Subtraction memory game against Tux"
+msgstr "Tuxکے مخالف ميں تفريق کا يا ذهني کھيل "
+
+msgid "Multiplication"
+msgstr "ضرب"
+
+msgid "Multiplication memory game"
+msgstr "ضرب کا ذهني کھيل"
+
+msgid "Practise multiplication, until all the cards are gone."
+msgstr "تمام کارڈز چلے جا نے تک ضرب کي مشق کريں"
+
+msgid ""
+"Turn the cards over to find two numbers which multiply the same, until all "
+"the cards are gone."
+msgstr "تمام کارڈز چلے جا نے تک دو عدد تلا ش کر نے کے ليے کارڈ کھو ليے جو اسي کو ضرب کر تے هيں "
+
+msgid "Multiplication and division memory game"
+msgstr "ضرب اور تقسيم کا ذهني کھيل "
+
+msgid "Multiplication, division"
+msgstr "ضرب ،  تقسيم "
+
+msgid "Practise multiplication, division, until all the cards are gone."
+msgstr "تمام کارڈز چلے جانے تک ،  ضرب اور تقسيم کي مشق کريں "
+
+msgid "Multiplication and division memory game against Tux"
+msgstr "Tuxکے مخالف ميں ضرب اور تقسيم  کي مشق کريں "
+
+msgid "Multiplication memory game against Tux"
+msgstr "Tuxکے مخالف ميں ضرب کي مشق کريں "
+
+msgid "Practise multiplication until all the cards are gone."
+msgstr "ضرب کي مشق  تب تک کريں جب تک تمام کارڈز چليے نهيں جاتے "
+
+msgid "Go to mathematics memory activities"
+msgstr "ذهني حسابي سر گرميوں ميں جا ئيں"
+
+msgid "Memory activities based on operations"
+msgstr "آپر يشنس پر منحصر ذهني سر گرمياں"
+
+msgid "Go to mathematics memory activities against Tux"
+msgstr "Tuxکے خلاف ذهني حسابي سر گرميوں ميں جا ئيں"
+
+msgid ""
+"A set of violinist Tux is shown. Each Tux has an associated sound, and each "
+"sound has a twin exactly the same. Click on a Tux to see its hidden sound, "
+"and try to match the twins. You can only activate two Tux at once, so you "
+"need to remember where a sound is, while you listen to its twin. When you "
+"turn over the twins, they both disappear."
+msgstr "وائلن نواز Tux کا سيٹ دکھا يا گيا هے هر Tuxکے پاس متعلقه آواز هے اور هر آواز کي هو بهو ايک اور آواز هے  Tuxکي پو شيده آواز سننے کے ليےTuxپر کلک کريں  اور اس کي هو بهو آواز ملا نے کي کو شش کريں آپ ايک وقت ميں صرف دوTuxکو فعال کر سکتے هيں  ملتي جلتي آوازسونتے وقت آپکو ياد رکھنا چائيے که وه آپکو يا د رکھ نا چا ئيے که وھ آواز کهاں هے جب دونوں ايک جيسي آواز يں هوتے هيں تو غا نب هو جاتي هيں"
+
+msgid "Audio memory game"
+msgstr "آواز کا ذهني کھيل"
+
+msgid "Click on Tux the violinist and listen to find the matching sounds"
+msgstr "وائلن نوازTuxپر کلک کريں اور هو بهو آواز پهنچا ننے کے ليے سنيں "
+
+msgid "Mouse manipulation, Brain."
+msgstr "ما ٶ س دستکاري ، دماغ "
+
+msgid "Train your audio memory and remove all the violonists Tux."
+msgstr "آپ کي سماعي يادداشت کو تربيت ديں اور تمام وائلن نوازTuxکو با هر نکا ليں "
+
+msgid "Audio memory game against Tux"
+msgstr "Tuxکے مخالف ميں سماعي يادداشت کا کھيل "
+
+msgid "Play the audio memory game against Tux"
+msgstr "Tuxکے مخالف ميں سما عي يادداشت کھيل کھيليں "
+
+msgid "Have a memory competition with Tux."
+msgstr "Tuxکے ساتھ زهني آزما ئش کا مقابله کريں"
+
+msgid "Memory Game with images, against Tux"
+msgstr "Tuxکے مخالف تصويروں کے ساتھ ذهني کھيل"
+
+msgid ""
+"You can see a set of cards that all look the same. Each card has a picture "
+"on the other side, and each picture has a twin somewhere in the set. You can "
+"only turn over two cards at once, so you need to remember where the pictures "
+"are until you can find the twin. When you turn over twins, they disappear! "
+"You take turns with Tux, and to win the game, you have to find more pairs of "
+"twins than he does."
+msgstr "آپ ديکھ سکتے هيں که يهاں کچھ کارڈز کا سيٹ هے جو نا م ايک جيسے نظر آتے هيں ۔ هر کارڈکے دوسري جانب صنوبر هے اور هر تصوير کي هو بهو تصو ير سيٹ ميں کهي رکھي هو ئي هے آپ ايک وقت ميں صرف دو کارڈز کھول سکتے هيں اس ليے آپ کو ياد رکھنا چا ئيے که تصوير ميں کهاں هے جب تک آپ کو تصو ير کي جو ڑي نهيں مل جا تي ۔جب تک آپ کو تصوير والے دو کارڈز کھو لتے هيں تو وه غائب هو جا تے هيں آپ Tuxکے ساتھ دانو کھيلتے هيں اور کھيل جيتنے کے ليے آپ کو زياده سے زياده کارڈز کي جو ڑياں ڈھو نڈني هو نگي"
+
+msgid ""
+"A simple click on an icon brings you to an activity or a menu of "
+"activities.\n"
+"At the bottom of the screen is the gcompris control bar.\n"
+"The following icons are displayed from right to left.\n"
+"(note that each icon is displayed only if available in the current "
+"activity)\n"
+"    Home - Exit an activity, go back to menu\n"
+"    Thumb - OK. Confirm your answer\n"
+"    Dice - Display the current level. Click to select another level\n"
+"    Lips - Repeat the question\n"
+"    Question Mark - Help\n"
+"    Tool - The configuration menu\n"
+"    Tux Plane - About GCompris\n"
+"    Night - Quit GCompris\n"
+"The stars show suitable age groups for each game:\n"
+"    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
+"    1, 2 or 3 complex stars - 7 years and up"
+msgstr "آئيکون پر ايک ساده سا کلک آپ کو سر گرمي ميں مينو کي سر گرميوں ميں  لے جا تا هے اسکرين کے نيچے G کمپرائز کنڑول بار هے مندرجه ذيل آئيکون دائيں سے با ئيں جانب ڈسپلے کئے گئے هيں (دھيان رکھيں که هر آئيکون اسي ھقت ڈسپلے کيا جا تا هے اگر وه جا ري يه سر گر مي ميں دستياب هو )\nهوم(گھر )  ۔   سر گرمي ختم کر نا هے اور مينو ميں لو ٹتا هے\n"
+"عصمب  (انگو ٹھا )  ۔OK   آپکے جواب کي تصدتق کر تا هے  \n"
+"ڈس (پا نسه)   ۔  حا ليه ليول ڈسليے کر تا هے دوسرا ليولمنتخب کر نے کے ليے کلک کر نا\n"
+"Lips(هونٹ)  ۔  سوال دهر انا هے\n"
+" سواليه نشان   ۔   مدد(Help)\n"
+"(Tool)اوزار  ۔  هيتي مينو\n"
+"G-Tux Planeکمپرائز کے متعلق\n"
+"Nightرات  ۔Gکمپرائز چھو ڑتا هے:\n"
+" رکھيل کے ليے ستا رے مناسب عمر کا گروپ دکھا تے هيں ۱،  ۲،  يا   ۳  ستا رے  ۔  ۲  سے  ۶   سال کي عمر\n"
+"۱، ۲ يا ۳ پيچيده ستا رے  ۔  ۷ سال اور اسکے اوپر"
+
+msgid "GCompris Main Menu"
+msgstr " Gکمپرائز   اهم  ۔  مينو"
+
+msgid ""
+"GCompris is a collection of educational games that provides different "
+"activities for children aged 2 and up."
+msgstr "Gکمپرائز تعليمي کھيلوں کا ذخيره هے جو  ۲  سال  اور اسکے اوپر کے بچوں کے ليے مختلف سر گرمياں فراهم کر تا هے"
+
+msgid ""
+"The goal of gcompris is to provide a free alternative to popular proprietary "
+"edutainment software"
+msgstr "Gکمپرائز کا مقصد مشهور proprietary edutainment softwareکے ليے آزاد متابدل فراهم کر نا هے"
+
+msgid "Miscellaneous activities"
+msgstr "متفريق سر گر مياں"
+
+msgid "Time, Geography, ..."
+msgstr "وقت ،  جغرافيه,..........."
+
+msgid ""
+"An object is displayed in the main area, and an incomplete word is printed "
+"under the picture. Select the missing letter to complete the word."
+msgstr "اهم علا قے ميں تصوير دکھا ئي گئي هے اور اس تصوير کے نيچے نا مکمل لفظ پرنٹ کيا گيا هے۔ لفظ مکمل کر نے کے لييکو خا نه پري ميں حرف مکمل کريں"
+
+msgid "Fill in the missing letter"
+msgstr "لفظ مکمل کر نے کے لييکو خا نه پري ميں حرف مکمل کريں"
+
+msgid "Missing Letter"
+msgstr "گمشده حرف"
+
+msgid "Training reading skills"
+msgstr "پڑھنے کي صلاحيت بڑھا نے کے ليے تر بيت"
+
+msgid "Word reading"
+msgstr "حرف تلا ش کريں"
+
+msgid "apple/pple/a/i/o"
+msgstr "سيب /۔۔يب/س/ب/ص"
+
+msgid "apple/appe/l/h/n"
+msgstr "سيب /س ۔۔ب/ے/ت/ي"
+
+msgid "apple/appl/e/h/a"
+msgstr "سيب /سے۔۔/ب/ت/ٹ "
+
+msgid "ball/all/b/p/d"
+msgstr "گيند/۔۔يند/گ/ک/ت"
+
+msgid "ball/bll/a/u/o"
+msgstr "گيند/گے۔۔د/ين/ں/ع"
+
+msgid "ball/bal/l/h/s"
+msgstr "گيند/گين/د/ڈ/ر"
+
+msgid "banana/anana/b/p/d"
+msgstr "موز/مو۔۔/ز/م/س"
+
+msgid "banana/bnana/a/o/i"
+msgstr "موز/ز/مو/خ/پ"
+
+msgid "banana/baana/n/m/b"
+msgstr "موز/مو۔۔/ز/م/س"
+
+msgid "bed/ed/b/l/f"
+msgstr "پلنگ/۔۔لنگ/پ/م/گا"
+
+msgid "bed/bd/e/a/i"
+msgstr "پلنگ/پ۔۔ گ/لن/ڈ/پ"
+
+msgid "bed/be/d/p/b"
+msgstr "پلنگ/پلن۔۔/گ/ڈ/گا"
+
+msgid "bottle/ottle/b/t/p"
+msgstr "بوٹل/۔۔ٹل/با/چا/وا"
+
+msgid "bottle/bttle/o/u/d"
+msgstr "بوٹل/بو۔۔ل/ٹ/ٹا/پ"
+
+msgid "bottle/botte/l/y/r"
+msgstr "بوٹل/۔۔ٹل/با/چا/وا"
+
+msgid "cake/ake/c/p/d"
+msgstr "کيک /۔۔ک/کے/ٹي/ٹ"
+
+msgid "cake/cke/a/o/e"
+msgstr "کيک /کے۔۔/ک/ٹي/ٹ"
+
+msgid "cake/cae/k/q/c"
+msgstr "کيک /۔۔ک/کے/ٹي/ٹ"
+
+msgid "car/ar/c/k/b"
+msgstr "موٹر/۔۔ٹر/مو/غ/م"
+
+msgid "car/cr/a/k/o"
+msgstr "موٹر/مو۔۔ر/ٹ/چا/د"
+
+msgid "car/ca/r/w/k"
+msgstr "موٹر/موٹ/ر/ٹ/د"
+
+msgid "dog/og/d/p/q"
+msgstr "کتا/۔۔تا/کو/ک/ت"
+
+msgid "dog/dg/o/g/a"
+msgstr "کتا/ک۔۔/تا/ٹا/ج"
+
+msgid "dog/do/g/p/q"
+msgstr "کتا/۔۔تا/کو/ک/ت"
+
+msgid "fish/ish/f/h/l"
+msgstr "مچھلي/مچ۔۔/ھلي/ما/يس"
+
+msgid "fish/fsh/i/u/l"
+msgstr "مچھلي/۔۔ھلي/مچ/سا/دا"
+
+msgid "fish/fis/h/o/i"
+msgstr "مچھلي/مچ۔۔/ھلي/ما/يس  "
+
+msgid "house/ouse/h/e/j"
+msgstr "گھر/۔۔ھر/گ/ک/ت"
+
+msgid "house/huse/o/f/u"
+msgstr "گھر/۔۔ر/گھ/کھ/تھ"
+
+msgid "house/hous/e/a/i"
+msgstr "گھر/۔۔ھر/گ/ک/ت"
+
+msgid "plane/lane/p/g/d"
+msgstr "هوائي جها ز/۔۔ جها ز/هوائ/هدائ/دواي"
+
+msgid "plane/pane/l/j/i"
+msgstr "هوائي جها ز/ هواء۔۔ جها ز/ئ/هدا/ ي"
+
+msgid "plane/plne/a/o/s"
+msgstr "هوائي جها ز/وائي جها۔۔۔/ز/ر/د"
+
+msgid "satchel/atchel/s/c/l"
+msgstr "تھيلا/۔۔ھھيلا/ت/ٹ/پ"
+
+msgid "satchel/stchel/a/o/i"
+msgstr "تھيلا/تھ۔۔لا/ے/ي/ھ"
+
+msgid "satchel/sachel/t/p/c"
+msgstr "تھيلا/تھے/لا/لي/ي"
+
+msgid "Can count"
+msgstr "گن سکتے هيں"
+
+msgid ""
+"Click on the coins or paper money at the bottom of the screen to pay. If you "
+"want to remove a coin or note, click on it on the upper screen area."
+msgstr " کھيلنے کے ليے اسکرين کے نتيجے کے سکوں پر يا کا غذ کے رو پيوں پر کلک کريں۔ اگر آپ کو سکه يا نوٹ نکا لني هے تو اس پر اسکرين کے اوپري حصے پر کلک کريں"
+
+msgid "Money"
+msgstr "پيسه"
+
+msgid "Practice money usage"
+msgstr "پيسوں کا استعما ل کر نا سيکھيں"
+
+msgid ""
+"You must buy the different items and give the exact price. At higher levels, "
+"several items are displayed, and you must first calculate the total price."
+msgstr "آپکو مختلف اشيا ء خريد کر اسکي وهي قيمت ادا کر ني چا ئيے اوپري سطح پر مختلف اشيا ء دکھائي گئيں هيں آپکو پهلے پوري قيمت شمار ک  ني چا هيے"
+
+msgid "Practice money usage including cents"
+msgstr "سکوں کو ملا کر پيسوں کا استعما ل کر نا سيکھيں"
+
+msgid "Rebuild the mosaic"
+msgstr "بچي کاري کو دوباره بنا ئيں"
+
+msgid "Mouse-manipulation activities."
+msgstr "ما ٶ س استعما ل کر نے کے لئے دستکا ري عمليا ت"
+
+msgid "Various mouse-based activities (clicking, moving)"
+msgstr " ما ٶ س پر منحصر مختلف عمليا ت  (کلک کر نا ،  گھما نا )"
+
+msgid "Choose brush and colors and draw. have fun!"
+msgstr "برش اور رنگوں کا انتخاب کر کے ڈرا ٶ کريں اور مزه اٹھا ئيے"
+
+msgid "MyPaint"
+msgstr "ميرا پينٹ"
+
+msgid "Painting activity. Uses pressure device if any."
+msgstr "پينٹنگ کا عمل"
+
+msgid "Painting application"
+msgstr "پينٹنگ درخواست"
+
+msgid "mouse manipulation"
+msgstr "ما ٶ س دستکا ري"
+
+msgid "Numeration"
+msgstr "گنتي"
+
+msgid "Numeration activities."
+msgstr "گنتي کا عمل "
+
+msgid "Improve reading skill and the ability to understand what is read."
+msgstr "پڑھنے کي صلاحيت اور قابليت ميں اصلا ح کريں اور جا نيے که پڑه ا کيا هو *تا هے"
+
+msgid "Read and play with the story"
+msgstr "کها ني کو  ڑھيں اور کھيليں"
+
+msgid "The story of Oscar and friend"
+msgstr "آسکر اور دوست کيي کها ني"
+
+msgid "reading"
+msgstr "پڑھنا"
+
+msgid "Assemble the puzzle"
+msgstr "پزل جمع کريں"
+
+msgid "Drag and Drop the items to rebuild the original paintings"
+msgstr "اصلي  ينٹنگ دوباره بنا نے کے ليے چيزووں کو کھينچيں اور گرا ئيں"
+
+msgid ""
+"Drag the image parts from the box on the left to create a painting on the "
+"main board."
+msgstr "مرکزي بورڈپرپينٹنگ تخليق کر نے کے ليے با ئيں جانب کے با کس سے تصو ير کے حصوں کو کھينچيں"
+
+msgid "Mouse-manipulation: movement, drag and drop"
+msgstr "ماٶس ۔ دستکا ري (مهارت حرکت ،  کھينچنا ،  گرانا"
+
+msgid "Spatial representation"
+msgstr "مکاني نما ئندگيي"
+
+msgid "Edgar Degas, The Dancing Class - 1873-75"
+msgstr "Edgar Degas, The Dancing Class - 1873-75"
+
+msgid "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+msgstr "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+
+msgid "Pierre-Auguste Renoir, Girls At The Piano - 1892"
+msgstr "Pierre-Auguste Renoir, Girls At The Piano - 1892"
+
+msgid "Kandinsky, Wassily, Composition VIII - 1923"
+msgstr "Kandinsky, Wassily, Composition VIII - 1923"
+
+msgid "Oil on canvas, 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+msgstr "Oil on canvas, 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+
+msgid "Bazille, The Ramparts at Aigues-Mortes - 1867"
+msgstr "Bazille, The Ramparts at Aigues-Mortes - 1867"
+
+msgid "Cassatt, Mary - Summertime - 1894"
+msgstr "Cassatt, Mary - Summertime - 1894"
+
+msgid "Vincent Van Gogh, Village Street in Auvers - 1890"
+msgstr "Vincent Van Gogh, Village Street in Auvers - 1890"
+
+msgid "Help Tux the parachutist land safely"
+msgstr "Tux هواي غبارے کو زمين پر حفا ظت سے اتر نے ميں مدد کريں"
+
+msgid ""
+"Hit any key or click on the plane to make Tux jump. Hit another key or click "
+"on Tux to open the parachute."
+msgstr "Tuxکود نے لگا نے کے ليے کو ئي بهي کليد دبا ئيں يا هوائي جها ز پر کلک کريں "
+
+msgid ""
+"In this game, Tux the parachutist needs help to land safely on the fishing "
+"boat. He needs to allow for the wind direction and speed."
+msgstr " اس کھيل مينTux هواي  چھتري کو به حفا ظت فشنگ نا ٶ ميں اتر نے کے ليے مدد کي ضرورت هے اس سے هوا ئي سمت اور رفتار کو اجا زت دينے کي ضرورت هے"
+
+msgid "Parachutist"
+msgstr "Parachutistهواي  چھتري والا (پير اشوٹ چلا نے والا )"
+
+msgid "This board is game-oriented. No specific skills are needed to play."
+msgstr "کي بو رڈ کھيل کے ليے وقف کيا گيا هے ٫ اسے کھيلنے کے ليے اس خاص سلا هيت کي ضرورت نهيں هے"
+
+msgid ""
+"Catch the numbers in increasing order, using the up, down, right and left "
+"arrows on the keyboard to move the helicopter."
+msgstr "عداد کو چڑھتي ترتيب ميں پکڑ يں ، کي بو رڈ کے دائيں ،  با ئيں اوپر اور نيچے کے تيروں کا استعما ل کر کے هيلي کا پڑ کو هلا ئيے"
+
+msgid "Move the helicopter to catch the clouds in the correct order"
+msgstr "صحيح ترتيب ميں با دلوں کو پکڑ نے کے ليے هيلي کاپڑ کو حرکت ديں"
+
+msgid "Number"
+msgstr "عدد"
+
+msgid "Numbers in Order"
+msgstr "اعداد ترتيب ميں"
+
+msgid "Puzzles"
+msgstr "پز لز (معمه)"
+
+msgid "Various puzzles."
+msgstr "مختلف يز لز (معمه )"
+
+msgid "Add a language-binding to gcompris."
+msgstr "Gکمپرائز کے ليے لا زمي ۔زبان شامل کريں"
+
+msgid "Advanced Python Programmer :)"
+msgstr "ايڈو اننسڈ پا ئتھو ن پر و گرامر"
+
+msgid "Python Test"
+msgstr "پا ئتھو ن ٹيسٹ"
+
+msgid "Test board for the python plugin"
+msgstr "پا ئتھون پلگ ان کے ليے ٹيسٹ بو رڈ "
+
+msgid ""
+"Thanks to Guido van Rossum and the python team for this powerful language!"
+msgstr "س مضبو ط زبان کے ليے  Guido van Rossum اور پا ئتھون ٹيم کا شکر يه"
+
+msgid "A memory game based on trains"
+msgstr "ريل پر منحصر ذهني کھيل"
+
+msgid ""
+"A train - a locomotive and carriage(s) - is displayed at the top of the main "
+"area for a few seconds. Rebuild it at the top of the screen by selecting the "
+"appropriate carriages and locomotive. Deselect an item by clicking on it "
+"again. Check your construction by clicking on the hand at the bottom."
+msgstr "يل ۔ ريل کا انجن اور کيريج ۔ مرکزي ايريا کے اوپر کچھ سيکنڈ س کے ليے ڈسپلے کيا گيا هے مناسب ريل کا انجن اور کيريج منتخب کر کے اسے اسکرين کے اوپري هصے ميں دوباره بنا ئيے آئٹم وغيره منتخب کر نے کے ليے اسي آئٹم پر دو با ره کلک کريں نتيجے ها تھ پر کلک کر کے آپ کي تعمير چيک کريں"
+
+msgid "Memory-training"
+msgstr "ذهني ۔ تربيت"
+
+msgid "Railway"
+msgstr "ريلو ے (ريل۔ پڑي)"
+
+msgid "Click on the correct colored object."
+msgstr "صحيح رنگين آبجيکٹ پر کلک کريں"
+
+msgid "Click on the matching color"
+msgstr "ايک جيسے رنگون پر کلک کريں"
+
+msgid "Read the names of colors"
+msgstr "رنگون کے نام پڑھئيے"
+
+msgid "This board teaches basic colors."
+msgstr "يه بورڈ بنياد ي رنگ سکھا تا هے"
+
+msgid "black"
+msgstr "سياه"
+
+msgid "blue"
+msgstr "نيلا"
+
+msgid "brown"
+msgstr "بھورا"
+
+msgid "green"
+msgstr "سبز"
+
+msgid "grey"
+msgstr "خاکستري"
+
+msgid "orange"
+msgstr "نا رنگي"
+
+msgid "pink"
+msgstr "گلابي"
+
+msgid "red"
+msgstr "سرخ"
+
+msgid "violet"
+msgstr "بنفشي"
+
+msgid "white"
+msgstr "سفيد"
+
+msgid "yellow"
+msgstr "زرد"
+
+msgid "Go to the Reading activities"
+msgstr "پڑھنے کي سر گرميوں جا ئيں"
+
+msgid "Reading activities."
+msgstr "پڑھئے کي سر گرميان"
+
+msgid ""
+"A word is shown at the top right of the board. A list of words will appear "
+"and disappear on the left. Does the given word belong to the list?"
+msgstr "بورڈ کے اوپري دا ئيں جانب ميں ايک لفظ دکھا يا گيا هے با ئيں جا نب ميں لفظوں کي فهرست نظر آئي هے اور غائب هو جا تي هے ديا گيا لفظ فهرست کے کسي لفظ سے ملتا هے?"
+
+msgid "Horizontal reading practice"
+msgstr "افقي پڑھنے کي مشق"
+
+msgid "Read a list of words and work out if a given word is in it"
+msgstr "الفاظ کي عمودي فهرست پرھے اور ديکھئے که ديا گيا لفظ اسميں هے يا نهيں"
+
+msgid "Reading training in a limited time"
+msgstr "مختصروقت ميں پڑھنے کي تربيت"
+
+msgid "Read a vertical list of words and work out if a given word is in it"
+msgstr "عموي پڑھنے کي مشق"
+
+msgid "Read training in a limited time"
+msgstr "مختصروقت ميں پڑھنے کي تربيت"
+
+msgid "Vertical-reading practice"
+msgstr "پڑھنے کي مشق Vertical"
+
+msgid "Copy a drawing from the box on the right into the box on the left."
+msgstr "دائيں جانب کے باکس سے با ئيں جانب کے با کس ميں ڈرائينگ کي نقل کريں"
+
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. Errors will be "
+"marked with a little red cross. The order of objects (above/under) is not "
+"important but be careful not to end up with unwanted objects under others."
+msgstr "پهلے ،  ٹول بار سے مناسب ٹول منتکب کريں ۔ پھر آبجيکٹس تخليق کر نے کے ليے ما ٶ س کھينچيں ۔ جب يه ختم هو جا ئے توOKبٹن پر کلک کريں غلطيوں کو هلکے سرخ کر اس شان سے نشا نزد کيا جا ئے گا ۔ آ بجيکٹس کي تربيت  ( اوپر / نيچے)  اهم نهينهے ليکن دھيان رکھيں کهان چا هيے آبجيکٹس کے ساتھ ختم نه کريں"
+
+msgid "Redraw the given item"
+msgstr "دئيے گئے آئٹ  دو با ره ڈراٶ  کريں"
+
+msgid ""
+"Copy the mirror image of an object from the box on the right into the box on "
+"the left."
+msgstr "دائيں جانب کے باکس سے با ئيں جانب کے باکس ميں آبجيکٹ کا عکس اميج نقل کريں"
+
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. A little red "
+"cross will show you where something isn't right yet. The order of objects "
+"(above/under) is not important but be careful not to end up with unwanted "
+"objects under others."
+msgstr "پهلے ٹول بار سے مناسب ٹول منتخب کريں ۔ پھر آبجيکٹس تخليق کر نے کے لئے ما ٶس کھينچيں۔جب آپ يه کر ليتے هيں  توOKبٹن پر کلک کريں ۔ايک جھو ٹا سا سرخ کر اس آپ کو بتا ئے گا که کهاں اب تک کچھ کيا غلطا هے آبجيکٹس کي تربيت (اوپر/ نيچے) اهم نهيں هے ليکن دھيان رکھئے که ان چا هيے ديگر آبجيکٹس سے ختم نه کريں"
+
+msgid "Mirror the given item"
+msgstr "ديا گيا آئٹم مر  کريں"
+
+msgid ""
+"Can move the mouse, can read numbers and subtract numbers up to 10 for the "
+"first level"
+msgstr "ما ٶ س هلا سکتے هيں نمبرات پڑھ سکتے هيں اور پهلے ليول کے ليے   ۱۰    تک نمبررات تفريق کر سکتے هيں"
+
+msgid ""
+"Click on the dice to show how many ice spots there are between Tux and the "
+"fish. Click the difce with the right mouse button to count backwards. When "
+"done, click on the OK button or hit the Enter key."
+msgstr "Tux اور مچھلي کے درميان کتنے بر فاني جگهيں هيں دکھانے کے ليے پا نسے پر کلک کريں جب هو جا ئے تتوOKبٹن پر کلک کريں ياEnter ک يد دبا ئيں"
+
+msgid "Practice subtraction with a fun game"
+msgstr "مزيد ارکھيل سے تفريق کي مشق کريں"
+
+msgid "Tux is hungry. Help him find fish by counting to the correct ice spot."
+msgstr " Tuxبھو کا هے صحيح بر فاني جگهيں گن کر مچھلي ڈھونڈے ميں اسکي مدد کريں"
+
+msgid "Balance the scales properly"
+msgstr "اسليکس کو برابر توازن کريں "
+
+msgid "Drag and Drop masses to balance the scales"
+msgstr "اسليکس کا توازن بر قراار رکھے کے ليے لوگوں کو کھينچيناور گرا ئيں"
+
+msgid "Mental calculation, arithmetic equality"
+msgstr "ذهني شمار يا ت حسابي مسا وات"
+
+msgid ""
+"The painting is an original painting created by Virginie MOREAU (virginie."
+"moreau@free.fr) in 2001. Its name is 'Spices Seller in Egypt'. It is "
+"released under the GPL licence."
+msgstr "پينٹينگ ايک اصلي پينٹينگ هے جو Virginie MOREAUنے ۲۰۰۱ ميں بنا ئي تھي ۔اسکا نامSpices Seller in Egyptهے يه GPLلا ئسنس کے تحت شا ئع کي گئي هے"
+
+msgid ""
+"To balance the scales, move the masses on the left or the right side. The "
+"masses can be arranged in any order."
+msgstr "اسليکس کا توازن بر قرار رکھنے کے ليے لو گوں کو دا ئيں با ئيں هٹا ئيں لو گوں کوکسي بھي آرڈ ر ميں اريتج کيا جا سکتا هے"
+
+msgid "Direct your boat accurately to win the race."
+msgstr "دوڑ جيتنے کے ليے اپني نا ٶ کو بالکل صحيح Gهدايت ديں "
+
+msgid ""
+"In the text entry, enter one command per line, to control your boat. "
+"Commands supported are displayed between the two entry areas. The 'left' and "
+"'right' commands must be followed by an angle in degrees. The angle value is "
+"also called a 'parameter' to the left or right command. By default 45 "
+"degrees is used. The 'forward' command accepts a distance parameter. By "
+"default 1 is used. For example: left 90 => Make a perpendicular left turn "
+"forward 10 => Go forward for 10 units (as displayed on the ruler). The goal "
+"is to reach the right of the screen (the red line). When done, you can try "
+"to improve your program and start a new race with the same weather "
+"conditions by using the retry button. You can click and drag your mouse "
+"anywhere on the map to get a measurement in distance and angle. Going to the "
+"next level will give you more complex weather conditions."
+msgstr " اگلي اينٹري ميں آپکي نا ٶ کو کنڑول کر نے کے ليے هر س ر پر ايک کما نڈ داخل کريں ، کمانڈس پھر رئڈ دو اينڑي ايرياز کے درميان ڈسپلے کئے گئے هيں دائيں اور با ئيں کمانڈز زاويوں کے درجوں سے عمل ميں آنے چا ئيے زاويه کي قيمت ائيں اور با ئيں کمانڈ کے ليے پيراميٹر   کے نام سے بھي جاني جا تي هے ڈيفا عت کے ذريعے ۴۵ درج استعما ل کئے گئے هيں   آگے   کمانڈپيراميٹر فا صله قبول کرتا هے ۔ڈيفا عٹ     استعمال کيا گيا هے مثلاً با ياں"
+
+msgid ""
+"In this activity, you will learn how to enter commands into a computer. Even "
+"if the language is extremely basic, you learn here how to think ahead and "
+"construct a program. This activity can be used to introduce the programming "
+"concept to children."
+msgstr "اس عمل ميں  آپ کمپيوٹر ميں کما نڈ س کسطرح داخل کر تے هيں سيکھے گے۔ اگر زبان با لکل هي بنيادي کيوں نه هو يهاں آپ آگے کسطر ح سو چيں اور پروگرام کسطرح بنا يا جا تا هے سيکھيں گے يه عمل بچوں کے ليے پروگرامنگ اصطلا ح کے تعارف کے طور پر استعمال کيا جا سکتا هے"
+
+msgid "Sea race (2 Players)"
+msgstr "سمندري دو ڑ  (۲  کھلا ڑي )"
+
+msgid "Give good instructions to your ship in order to be first in the race."
+msgstr "دوڈ ميں پهلا مقام حاصل کرنے ليے کثيي هدايات ديں"
+
+msgid "Sea race (Single Player)"
+msgstr "سمندري دو ڑ  (ايک  کھلا ڑي )"
+
+msgid "Count the number of dots on dice before they reach the ground"
+msgstr "پا نسے کو زمين پر پهچنے سے پهلے اسکے سوراخونکي تعداد گنيں"
+
+msgid "Counting skills"
+msgstr " گننے کي صلا حيتيں"
+
+msgid "In a limited time, count the number of dots"
+msgstr "مختصر وقت ميں سور اخوں کي تعداد گنيں"
+
+msgid "Numbers With Dice"
+msgstr "پانسے کے ساتهھ نمبرات "
+
+msgid "With the keyboard, type the number of dots you see on the falling dice."
+msgstr "کي بورڈ کے ساتھ ،  گرتے هو ئے پانسے کے سوراخ جو آپ ديکھتے هيں انکي تعداد ٹائپ کريں"
+
+msgid "Numbers with pairs of dice"
+msgstr "پانسے کي جو ڑيوں کے ساتھ  نمبرات"
+
+msgid "Go to Sound activities"
+msgstr "آواز کي سر گرميوں ميں جا ئيں"
+
+msgid "Sound based activities."
+msgstr "آواز پر منحصر سر گرمياں"
+
+msgid "Strategy games"
+msgstr "حکمت عملي کے کھيل"
+
+msgid "Strategy games like chess, connect4, ..."
+msgstr "حکمت عملي کے کھيل جيسے شطرنج ،  کنيکٹ  ۴"
+
+msgid ""
+"Click on different active elements : engine, rudders and air tanks, in order "
+"to navigate to the required depth. There is a gate on the right. Pass "
+"through it to reach the next level."
+msgstr "مطو به گهرائي سے نيو يگيٹ کر نے کے ليے مختلف فعال عناصر پر کلک کرينانجن،  يتوار،  هوا ئي ٹينکس ۔دائيںجانب ايکک گيٹ هے دوسرے ليول پر پهنچے کے ليے اسے پار کريں"
+
+msgid "Learn how a submarine works"
+msgstr "آبدوز کشتي کيسے کام کر تي هے سيکھيں"
+
+msgid "Physics basics"
+msgstr "بنيادي طبيعات"
+
+msgid "Pilot a submarine"
+msgstr "آبدوز کشتي کي رهنما ئي کريں"
+
+msgid "Pilot a submarine using air tanks and dive rudders"
+msgstr "هوائي ٹينکس اور غو طه دار پتوار کا استعمال کر کے آبدوزؠ کشتي کي رهنما ئي کريں"
+
+msgid "Completing the puzzle requires patience and logical ability"
+msgstr "پزل مکمل کر نے کے ليے صبر وسکون اور منطق کي قابليت هو نا ضروري هے"
+
+msgid ""
+"For the first level with colored symbols, drag symbols on the left to their "
+"target position. For the higher levels, click on an empty square to give it "
+"the keyboard focus. Then enter a possible letter or number. GCompris will "
+"not let you enter invalid data."
+msgstr "رنگين علا متوں کے ساتھ پهلے ليول کے ليے، علامتوں کو انکے تر گيٹ مقام تک کھينچيں اور آگے کے ليول کے ليے مربعوں کي بورڈ فوکس دينے کے ليے خالي مربع پر کلک کريں ۔ پھر ممکنه نمبر يا حرف داخل کريں"
+
+msgid "Sudoku, place unique symbols in a square."
+msgstr "sudokuمربع ميں منفرد علامتيں رکھيں"
+
+msgid ""
+"Symbols must be unique in a row, in a column, and (if defined) each region."
+msgstr "sudokuمربع ميں منفرد علامتيں رکھيں"
+
+msgid ""
+"The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+"each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
+"(called 'regions'), starting with various symbols or numerals given in some "
+"cells (the 'givens'). Each row, column and region must contain only one "
+"instance of each symbol or numeral (Source lt;http://en.wikipedia.org/wiki/"
+"Sudokugt;)."
+msgstr "يزل کا مقصدگريڈ کے هر سيل ميں اسے  ۹  تک اعداد يا علامت داخل کر نا هے اکثر9x9 گريڈ3x3کے ذيلي گريڈ س بنتا هے (ريجس کے نام سے جا تا هے )شروعات دئے گئے سيلس ميں مختلف علا مات اور اعداد سے کي گئي هے هر سطر، کالم اور ريجن صرف ايک سے وابسته هونا چا ئيے مثلا هر غير يا عدد سے۔ htthttp://en.wikipedia.org/wiki/Sudoku"
+
+msgid ""
+"Click on the items until you find what you think is the correct answer. "
+"Then, click on the OK button in the control bar. In the lower levels, Tux "
+"gives you an indication if you found a hiding place by marking the item with "
+"a black box. You can use the right mouse button to flip the colors in the "
+"opposite order."
+msgstr "آئٹمس پر تب تک کلک کرينجب تک آپکو لگتا نهيں که صحيح جواب ملگ گيا هے پھر کنڑول بار ميں   بٹن پر کلک کريں ۔نجلے ليو يز ميں ، اگر آپکو آئٹم کو سيا ه با کس سے نشان کر کے چھپي هو ئي جگه مل جا تي هے تو     آپ اشاره ديتا هے ۔متضاد آرڈر ميں رنگ قلب کر نے کے ليے آپ ما ٶ س کا داياں بٹن استعمال کرر س تے هيں"
+
+msgid "Super Brain"
+msgstr "تيز دماغ"
+
+msgid "Tux has hidden several items. Find them again in the correct order"
+msgstr "Tuxنے مختلف آئٹمس چھپا ليے هيں انھيں صحيح ترتيب ميں دوبا ره ڈھونڈ يں"
+
+msgid ""
+"From Wikipedia, the free encyclopedia. Tangram (Chinese: literally \"seven "
+"boards of cunning\") is a Chinese puzzle. While the tangram is often said to "
+"be ancient, its existence has only been verified as far back as 1800. It "
+"consists of 7 pieces, called tans, which fit together to form a square; "
+"taking the square as the unit:\n"
+"\t* 5 right isosceles triangles\n"
+"\t\to 2 small (legs of 1)\n"
+"\t\to 1 medium size (legs of square root of 2)\n"
+"\t\to 2 large size (legs of 2)\n"
+"\t* 1 square (side of 1)\n"
+"\t* 1 parallelogram (sides of 1 and square root of 2)"
+msgstr "Wikipediaسے آزاد انسا ئيکلو پيڈيا(Tangram) (چيني : واقعي حسات بورڈز کي عيا ري ) چيني پزل هےTangramاکثر بهت مانا جا تا هے اسکي مو جودگي کي تصديق  ۱۸۰۰ ميں کئي گئي ۔ اسميں   ۷  ٹکٹر ے هو تے هيں جوtansکهلا ئے جا تے هيں ، جن يں مربع کي شکل ميں جوڑنا هو تا هےمربع کوپو نٹ کي طرح بسا:\n"
+"\t* 5 دائيں مسا وي الساقين مثلث"
+"\t\t0 ۲  ھوٹے"
+"\t\t0 ۱ بڑي سا ئز کا"
+"\t\t0 ۱ بڑي سا ئز ے کے (  ۲  کے ليگس ميں ) "
+"\t* ۱ مربع  (۱  کے سا ئڈ ميں )"
+"\t* ۱  متوازي الاضلاع  (۱  کي سائڈ اور  ۲ کا جذرالمربع )"
+
+msgid ""
+"Select the tangram to form. Move a piece by dragging it. Right-click on it "
+"to create a symmetrical item. Select an item and drag around it to show the "
+"rotation you want. Once you've shown what shape you want, the computer will "
+"create it. If you need help, click on the shape button, and the border of "
+"the shape will be drawn."
+msgstr "فارم کر نے کے ليےTangramمنتخب کريں۔ ٹکڑے کو کھينچ کر حرکت ديں متناسب آئٹم تخليق کر نے کے ليے دا ياں کلک کريں۔آئٹم منتخب کريں اور اسے اپنے مطلو به rotationکے مطا بق اطراف ميں کھينچيں۔ ايک با ر آپ نے کھا ديا که آپ کو نسا شيپ چا ئيے تو کمپيوٹر ے تخليق کر ے گا ۔ اگر آپ کو مدد کي ضرورت هو تو شيپ بٹن پر کلک کريں اور اسي شيپ کي بارڈر ڈراٶ کي جا ئے گي"
+
+msgid "The objective is to form a given shape with seven pieces"
+msgstr "مقصد سات ٹکڑوں سے ديا گيا شيپ بنا نا هے"
+
+msgid ""
+"The original code was written by Philippe Banwarth in 1999. It was ported to "
+"GCompris by Yves Combe in 2005."
+msgstr "اصلي کو ڈPhilippe Banwarthنے  ۱۹۹۹ ميں لکھا تھا اسےYves Combeنے    G کمپرايز کے ليے پور ٹيڈکيا تھا"
+
+msgid "The tangram puzzle game"
+msgstr "کھيل کو ڈ  tangram"
+
+msgid ""
+"Can move the mouse, can read numbers and count up to 15 for the first level"
+msgstr "ما ٶ س هلا سکتے هے ۔اعداد پڑ ھ سکتا هے اور پهلے ليول کے ليے  ۱۵ تک گن سکتا هے"
+
+msgid ""
+"Check the wind speed and direction, and then click on the target to launch a "
+"dart. When you all your darts are thrown, a window appears asking you to "
+"count your score. Enter the score with the keyboard then press the Enter key "
+"or the OK button."
+msgstr "هو  کي رفتار اور رخ جا نچنے اور پھر بر چھي چھوڑ نے کے ليے هدف  (نشا نے )  پر کلک کريں ۔جب آپ اپني تمام بر چھياں پھينک ديتے هيں تو ايک ونڈو نظر آتا هے جو آپ سے پو چھتا هے که آ  کا اسکور گنتا هے کي بورڈ سے اپنا اسکور داليں پھرEnterکليد دبا ئيں ياOKبٹن کلک کريں"
+
+msgid "Hit the target and count your points"
+msgstr " نشانے پر ماريں اور اپنے نمبرات (پوائٹس) گنيں"
+
+msgid "Practice addition with a target game"
+msgstr "نشانيه کھيل سے جمع کي مشق کريں"
+
+msgid "Throw darts at a target and count your score."
+msgstr "برچھيوں کو نشانے پر پھينکيں اور اپنا اسکور گنيں"
+
+msgid "A sliding-block puzzle game"
+msgstr "سلا ئيڈ  ينگ بلاک پڑ ل گيم"
+
+msgid ""
+"Each car can only move either horizontally or vertically. You must make some "
+"room in order to let the red car move through the gate on the right."
+msgstr "پر کار يا تو عمودي سمت يا افقي سمت ميں هر حرکت کر سکتي هے ۔سرخ کارر کو داياں گيٹ پار کرا نے کے ليے کچھ روم بنا ئيے"
+
+msgid "Remove the red car from the parking lot through the gate on the right"
+msgstr "سرخ کا ر کو پا رکنگ لاٹ سے دا ئيں گيٹ سے نکا ليے"
+
+msgid "Drawing activity (pixmap)"
+msgstr "ڈرائينگکا عمل"
+
+msgid "Launch Tuxpaint"
+msgstr "Tuxpaintجا ري کرو"
+
+msgid "Tuxpaint"
+msgstr "ٹکس پينسٹ(Tuxpaint)"
+
+msgid "Use Tuxpaint to draw. When Tuxpaint is finished this board will end."
+msgstr "ڈراٶ کر نے کے ليے ٹکس پينٹ کا استعمال کريں ۔ جب ٹکسپينٹ ختم هو جا تا هے بورڈ ختم هو جا ئے گا"
+
+msgid "mouse and keyboard manipulation"
+msgstr "ما ٶ س اور کي بورڈ دستکاري  ( مها رت )"
+
+msgid ""
+"Click on different active elements : sun, cloud, water pump station, and "
+"water cleanup station, in order to reactivate the entire water system. When "
+"the system is back up and Tux is in the shower, push the shower button for "
+"him."
+msgstr "پھرے پا ني کے نظام کو دو باره متحرک کر نے کے ليے متحرک عناصر پر ککلک کريں : سورج ،  با دل ، پا ني کے پمپ کا اسٹيشنن ، پا ني صاف کر نے کا اسٹيشنجب نظام ٹھيک هو جا ئے اورTuxشاور ميں هو تو اس کے ليے شاور بٹن دبا ئيں"
+
+msgid "Learn about the water cycle"
+msgstr "آبي جکر کے متعلق سيکھيں"
+
+msgid "Learn the water cycle"
+msgstr "آبي چکر سيکھيں"
+
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the water "
+"system back up so he can take a shower."
+msgstr "Tuxاپني کشتي پر دي گئي طو يلfishingپارٹي سے لو ٹ آيا هے ۔ آبي نظام لا ئيے تا که وه شاور لے سکے"
+
+msgid "Falling Words"
+msgstr "گر تے هو ئے الفاظ"
+
+msgid "Keyboard training"
+msgstr "کي بورڈ کو تر بيت"
+
+msgid "Type the complete word as it falls, before it reachs the ground"
+msgstr "جيسے هي الفاظ گر تے هيں انھيں زمين پر پهنچے سے پهلے ٹائپ کريں"
+
+msgid "Type the falling words before they reach the ground"
+msgstr "گر تے هو ئے الفاظ کو نيچے گر نے سے پهلے تائپ کريں"
+
+msgid "A simple word processor to enter and save any text"
+msgstr "کو ئي بھي متنenter کر نے اور محفو ظ کر نے کے ليے آسان ورڈ پرو سيسر"
+
+msgid ""
+"In this wordprocessor you can type the text you want, save and get it back "
+"later. You can add some style to your text by using the buttons on the left. "
+"The first 4 buttons let you select the style of the line on which your "
+"insert cursor is. The 2 others buttons with multiple choices let you select "
+"from a predefined document and color theme."
+msgstr "اس ورڈ پروسيسر ميں آپ اپني مطلو به متن ٹائپ اور مهفو ظ کر سکتے هيں اور اسے بعد متن دوباره حاصل کر سکتے هيں آپ با هيں بٹن کا استعمال کر کے اپنے متن کے ليے کچھ اسٹائل کچھ اسٹائل شامل کر سکتے هيں ۔ پهلے چار بٹنس آپکو لا ئن کا اسٹا ئل منتخب کر نے ديتے هيں ۔جسميں پر آپ انسرٹکر سر هے ۔متعدد انتخاب کے ساتھ ديگر ۲  بٹنس آپکو پهلے سے متعينه دستا ويز اورکلر سے انتخاب کر نے ديتے هيں "
+
+msgid ""
+"Learn how to enter text in a wordprocessor. This wordprocessor is special in "
+"that it enforces the use of styles. This way, the children will understand "
+"their benefit when moving to more feature full wordprocessor like OpenOffice."
+"org."
+msgstr "ورڈ پروسيسر ميں متن کسطرح داخل کر تے هيں سيکھيں ۔ يه ورڈ پر و سيسر ميں خاص هے يه اسٹا ئلز کا استعمالenforcesکر تا هے ۔ اسطرح ، جب بچےOpenOfficeکيطرح زيا ده فا ئده مند ھرڈ پروسيسر ميں جا ئيں گے تو ھو اپنا فا ئده اور اچھي طرح سو چيں گے"
+
+msgid "The children can type their own text or copy one given by the teacher."
+msgstr "بچے اپنا متن خود ٹا ئپ کر سکتے هيں يا نقل کر سکتے هيں جو انکے استاد نے ديا هو"
+
+msgid "Your word processor"
+msgstr "آپ کا ورڈ پروسيسر"
+
+msgid "Administration for gcompris"
+msgstr "Gکمپرا ئز کے ليے انتظا ميه"
+
+msgid "Educational game for ages 2 to 10"
+msgstr "۲   سے  ۱۰  سال کے ليے تعليمي کھيل"
+
+msgid "Educational suite GCompris"
+msgstr " منا سب تعليميGکمپرائز"
+
+msgid "Multi-activity educational game"
+msgstr " متر جمين : آپکي زبان کے ليے يهاں پر حسابي آپر بٹر ز رکھيں متعدد عملي تعليمي کھيل"
+
+msgid "+-×÷"
+msgstr "+-×÷"
+
+msgid "NORTH"
+msgstr "شمال"
+
+msgid "SOUTH"
+msgstr "جنوب"
+
+msgid "Choose a house"
+msgstr "گھر منتخب کريں "
+
+msgid "Your turn to play ..."
+msgstr "اب آپکي با ري کھيلنے کي......."
+
+msgid "Not allowed! Try again !"
+msgstr "اجازت نهيں دي گئي ! دو باره کو شش کريں"
+
+msgid "Error: The external program gnuchess died unexpectedly"
+msgstr " غلطي : بيروني پروگرام کاgnuchessغير متو قع طور پر مر گيا"
+
+msgid ""
+"Error: The external program gnuchess is required\n"
+"to play chess in gcompris.\n"
+"Find this program on http://www.rpmfind.net or in your\n"
+"GNU/Linux distribution\n"
+"And check it is located here: "
+msgstr "غلطي :  بيروني پروگرام کےgnuchessکوgکمپرائز ميں شطرنج کھيلنے کے ضرورت هے اس پروگرام کوhttp://www.rpmfind.netيا اپنےGNU/Linux distributionپر تلا ش کريں اور چيک کريں که يه يهاں لو کيٹيڈهے:"
+
+msgid ""
+"Error: The external program gnuchess is mandatory\n"
+"to play chess in gcompris.\n"
+"First install it, and check it is in "
+msgstr "غلطي  :gکمپرائز ميں شطر نج کھيلنے کے ليے بيروني پروگرامgnuchessلا زمي هے ۔ پهلے انسٹال کريں اور ديکھيے که اسميں يه هے يا نهيں"
+
+msgid "White's Turn"
+msgstr "سفيد کي با ري "
+
+msgid "Black's Turn"
+msgstr "سيا ه کي با ري"
+
+msgid "White checks"
+msgstr "سيا ه  جيکس  (مربع )"
+
+msgid "Black checks"
+msgstr "سفيد جيکس  (مربع )"
+
+msgid "Black mates"
+msgstr "سنيد ميٹس (سيا ه  پيا دے کو مات )"
+
+msgid "White mates"
+msgstr "سنيد ميٹس (سفيد پيا دے کو مات )"
+
+msgid "Drawn game"
+msgstr "برابري کا کھيل"
+
+msgid "Error: The external program gnuchess died unexpectingly"
+msgstr "غلطي : بير وني پر وگرام gnuchessغير متوقعا مر گيا"
+
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialog to\n"
+"enable the sound"
+msgstr "گلطي : يه ايکٹيويٹين نا گا ره کي گئي آوازوں کے اثرات  کے ساتھ بجا ئي نهيں جا سکتي ۔\n آ وازوں کو قابل بنا نے کے ليے هئيني ڈائيلا گ ميں جا ئيں"
+
+msgid "abcdefghijklmnopqrstuvwxyz"
+msgstr "abcdefghijklmnopqrstuvwxyz"
+
+msgid ""
+"Error: this activity requires that you first install\n"
+"the packages with gcompris voices for the locale '%s' or '%s'"
+msgstr "غلطي : اس عمل کو ضرورت هے که پهلے آپ'%s'هے يا'%s'لو کيل کے ليےGکمپرائز وائسس کے ساتھ پيکجيس اسٹال کر نے کي!"
+
+msgid ""
+"Error: this activity requires that you first install\n"
+"the packages with GCompris voices for the locale '%s' ! Fallback to english, "
+"sorry!"
+msgstr "غلطي : اس عمل کو ضرورت هے که پهلے آپ'%s'لو کيل کے ليےGکمپرائز و ائسس کے ساتھ پيکيجس اسٹال کريں  انگريزي کے ليے فال بيک ،  معذرت"
+
+msgid "Uppercase only text"
+msgstr "اپرکيس صرف متن ( ٹيکسٹ )"
+
+msgid "Set the watch to:"
+msgstr "گھڑي سيٹ کريں برائے:"
+
+msgid "Click on the blue duck"
+msgstr "نيلے بطخ پر کلک کريں"
+
+msgid "Click on the brown duck"
+msgstr "بھورے بطخ پر کلک کريں"
+
+msgid "Click on the green duck"
+msgstr "هرے بطخ پر کلک کريں"
+
+msgid "Click on the grey duck"
+msgstr "گرے بطخ پر کلک کريں "
+
+msgid "Click on the orange duck"
+msgstr "نا رنگي بطخ پر کلک کريں"
+
+msgid "Click on the purple duck"
+msgstr "اٶ دے رنگ کے بطخ پر کلک کريں"
+
+msgid "Click on the red duck"
+msgstr "سرخ بطخ پر کلک کريں"
+
+msgid "Click on the yellow duck"
+msgstr "پيلے رنگ کے بطخ پر کلک کريں"
+
+msgid "Click on the black duck"
+msgstr "سيا ه  بطخ پر کلک کريں"
+
+msgid "Click on the white duck"
+msgstr "سفيد بطخ پر کلک کريں"
+
+msgid "0123456789"
+msgstr "0123456789"
+
+msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+msgid ""
+"Build the same tower in the empty area as the one you see on the right-hand "
+"side."
+msgstr "دائيں ها تھ کے جانب کے ٹور کيطرح هي خالي اپر يا ميں ويسا وي ٹاور بنا ئيں"
+
+msgid "Tower of Hanoi"
+msgstr "هنو ئي کا ٹاور"
+
+msgid "Move the entire stack to the right peg, one disc at a time"
+msgstr "پورے ڈھير کو دائيں پيک کي طرف هٹا ئيں ايک وقت ميں ايک هي ڈسک"
+
+msgid "Learn how to read"
+msgstr "سيکھيں پڑ ھاکيسے جا تا هے"
+
+msgid "left"
+msgstr "بائيں"
+
+msgid "right"
+msgstr "دائيں"
+
+msgid ""
+"Look at your position, then switch back to invisible mode to continue your "
+"moves"
+msgstr "اپنے مقام کو ديکھو ، پھر اسکے بعد اپني حرکت جا ري رکھنے کے ليے نه نظر آنے والے مو ڈ ميں پھر سو ئچ کريں"
+
+msgid ""
+"Look at your position, then switch back to 3D mode to continue your moves"
+msgstr "اپنے مقام کو ديکھو ، پھر اپني حرکت کو جا ري رکھنے کے ليے 3Dمو ڈ ميں دو باره سو ئچ کريں"
+
+msgid "Memory"
+msgstr "يادداشت"
+
+msgid "Find the matching pair"
+msgstr "ايک جيسي جو ڑياں تلا ش کريں"
+
+msgid "Main Menu Second Version"
+msgstr "اهم مينو دو سرا ورژن"
+
+msgid "Select a Board"
+msgstr "بورڈ منتخب کريں"
+
+msgid "$ %.2f"
+msgstr "$ %.2f"
+
+msgid "$ %.0f"
+msgstr "$ %.0f"
+
+msgid "Control fall speed with up and down arrow keys."
+msgstr "گر نے کي رفتار کو اوپر کي اور نيچے کي تير کليدوں سے کنڑول ک يں"
+
+msgid "Move the plane to catch the clouds in the correct order"
+msgstr "با دلوں کو صحيح ترتيب ميں پکڑ نے کے ليے هو ائي جهاز کو حرکت ديں"
+
+msgid "Python Board"
+msgstr "پا ئتھون بورڈ"
+
+msgid "Special board that embeds python into gcompris."
+msgstr "خاص بورڈ جو پا ئتھون کوgکمپرائز ميں مضبو طي سے جماديتا هے"
+
+msgid "Select a profile:"
+msgstr "پرو فا ئل منتخب کريں:"
+
+msgid "Filter"
+msgstr " چھانيے"
+
+msgid "Select all"
+msgstr "تمام منتخب کريں"
+
+msgid "Unselect all"
+msgstr "تمام کو غير منتخب کريں"
+
+msgid "Locales"
+msgstr "لو کيل"
+
+msgid "Locales sound"
+msgstr "لو کيلز سا ٶ نڈ"
+
+msgid "Wordlist"
+msgstr "لفظ کي فهرست"
+
+msgid "Login"
+msgstr "لاگ ان"
+
+msgid "Main menu"
+msgstr "اهم مينو"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Board title"
+msgstr "بورڈ کا عنوان"
+
+msgid ""
+"%s configuration\n"
+" for profile %s"
+msgstr "%s %s پر وفاؠ ئل کے ليے"
+
+msgid "Select sound locale"
+msgstr "(sound locale)سا ٶ نڈ لو کيل منتخب کريں "
+
+msgid "Editing a Class"
+msgstr "کلاس مدون کر نا"
+
+msgid "Editing class: "
+msgstr "کلا س مدون کر نا"
+
+msgid "Editing a new class"
+msgstr "نئي کلا س مدون کر رها هے"
+
+msgid "Class:"
+msgstr "کلاس:"
+
+msgid "Teacher:"
+msgstr "استاد:"
+
+msgid "Assign all the users belonging to this class"
+msgstr "اس کلاس سے وابسته تمام صارفين کو منتقل کريں"
+
+msgid "First Name"
+msgstr "پهلا نام"
+
+msgid "Last Name"
+msgstr "اخري نام"
+
+msgid "You need to provide at least a name for your class"
+msgstr "آپ کو اپني کلا س کے ليے کم سے کم دينے کي ضرورت هے"
+
+msgid "There is already a class with this name"
+msgstr "اس نام کي کلا س پهلے سے موجود هے"
+
+msgid "Class"
+msgstr "کلا س"
+
+msgid "Teacher"
+msgstr "استاد"
+
+msgid "Editing a Group"
+msgstr "گروپ ايڈ ٹ کرر هيا هے"
+
+msgid "Editing group: "
+msgstr " گروپ ايڈٹ کرنا:"
+
+msgid " for class: "
+msgstr "کلاس کے ليے:"
+
+msgid "Editing a new group"
+msgstr "نيا گروپ ايڈٹ کر رها هے"
+
+msgid "Group:"
+msgstr "گروپ:"
+
+msgid "Description:"
+msgstr "وضا حت:"
+
+msgid "Assign all the users belonging to this group"
+msgstr "اس گر وپ سے وابسته تمام صا رفين کو منتقل کريں"
+
+msgid "You need to provide at least a name for your group"
+msgstr "آپکو اپنے گروپپ کو کم از کم نام دينے کي ضرورت هے"
+
+msgid "There is already a group with this name"
+msgstr "اس نام کا گروپ پهلے هي سے مو جود هے"
+
+msgid "Select a class:"
+msgstr "کلاس منتخب کريں:"
+
+msgid "Group"
+msgstr "گروپ"
+
+msgid "Description"
+msgstr "وضا حت"
+
+msgid "You must first select a group in the list"
+msgstr "آپکو پهلے فهرست سے گروپ منتخب کر نا چا هيے"
+
+msgid "Birth Date"
+msgstr "تاريخ پيدائش"
+
+msgid "Select a user:"
+msgstr "صارفين متخب کريں:"
+
+msgid "All users"
+msgstr "تمام صا رفين "
+
+msgid "Default"
+msgstr "ڈيفا لٹ"
+
+msgid "Reset"
+msgstr "دو با ره سيٹ کريں"
+
+msgid "Date"
+msgstr "تا ريخ"
+
+msgid "User"
+msgstr "صا رف"
+
+msgid "Board"
+msgstr "بورڈ"
+
+msgid "Level"
+msgstr "ليول"
+
+msgid "Sublevel"
+msgstr "ذيلي ليول"
+
+msgid "Duration"
+msgstr "مدت"
+
+msgid "Status"
+msgstr "اسٹيٹس (مرتبه / رتبه )"
+
+msgid "Boards"
+msgstr "بورڈذ"
+
+msgid "Groups"
+msgstr "گر وپس"
+
+msgid "Profiles"
+msgstr "پروفا ئلز"
+
+msgid "Reports"
+msgstr "رپورٹس"
+
+msgid "Users"
+msgstr "صارفين"
+
+msgid "Classes"
+msgstr "کلاسيس"
+
+msgid "Editing a Profile"
+msgstr "پرو فا ئل ايڈٹ کررهاهے"
+
+msgid "Editing profile: "
+msgstr "پرو فا ئل ايڈٹ کر نا"
+
+msgid "Editing a new profile"
+msgstr "نيا پرو فا ئل ايڈٹ کر رها هے"
+
+msgid "Profile:"
+msgstr "پرو فا ئل:"
+
+msgid "Assign all the groups belonging to this profile"
+msgstr " اس پروفا ئل سے وابسته تمام گروپس منتقل کريں"
+
+msgid "You need to provide at least a name for your profile"
+msgstr "آپکو اپنے پروفا ئل کو کم از کم نام دينے کي ضرورت هے"
+
+msgid "There is already a profile with this name"
+msgstr "اس نام کا پرو فا ئل پهلے سے هي مو جو د هے"
+
+msgid "Profile"
+msgstr "پروفا ئل"
+
+msgid "[Default]"
+msgstr "[ڈا يفا لٹ]"
+
+msgid "Editing a User"
+msgstr "صارف ايڈٹ کر رها هے"
+
+msgid "Editing a User "
+msgstr "صارف ايڈٹ کر رها هے"
+
+msgid "Editing a new user"
+msgstr "نيے صارف کو ايڈٹ کر رها هے"
+
+msgid "Login:"
+msgstr "لا گ ان:"
+
+msgid "First name:"
+msgstr "پهلا نام:"
+
+msgid "Last name:"
+msgstr "آخري نام:"
+
+msgid "Birth date:"
+msgstr "تا ريخ پيدائش:"
+
+msgid ""
+"You need to provide at least a login, first name and last name for your users"
+msgstr "آپکو کم ازکم لا گ ان دينے کي ضرورت هے آپکے صارفين کے ليے ابتدا ئي نا م اور آخري نام"
+
+msgid "There is already a user with this login"
+msgstr "اس لا گ ان کا صا رف پهلے هي سے مو جو د هے"
+
+msgid ""
+"To import a user list from a file, first select a class.\n"
+"FILE FORMAT: Your file must be formatted like this:\n"
+"login;First name;Last name;Date of birth\n"
+"The separator is autodetected and can be one of ',', ';' or ':'"
+msgstr "فا ئل سے صا رف فهرست امپورٹ کر نے کے ليے پهلے کلاس منتخب کريں فا ئل فارميٹ  : آپکي فا ئل اسطرح سے فارميٹ هو ني چا هيے لا گ ان، ابتدا ئي نا م ،  آخري نام ،  پيدا ئش کي تا ريخ  عليحده کر نے والا خود کاري سے پکڑ ا گيا هے اور',', ';'يا ':' ان ميں ايک هو سکتا هے"
+
+msgid ""
+"One or more logins are not unique !\n"
+"You need to change them: %s !"
+msgstr "ايک يا زائد لا گ انس منفرد نهيں هے! آپ کو انھيں تبديل کر نے کي ضرورت هے : %s !"
+
+msgid "SVG is disabled. Install python xml module to enable it"
+msgstr "SVGکو نا کاره کيا گيا هے ٫ اسے قابل بنا نے کے ليے پا ئتھونxmlمو ڈ يول اسٹال کريں"
+
+msgid "Warning: the following images cannot be accessed on your system.\n"
+msgstr "آگا هي  :  مندرجه ذيل تصوير يں اپکے سسٹم پر رسا ئي حا صل نهيں کر سکتي\n"
+
+msgid "The corresponding items have been skipped."
+msgstr "متعلقه آئٹمس خاريج هو چکے هيں"
+
+msgid "All messages will be displayed here.\n"
+msgstr "تمام پيغام يهاں پر ڈسپلے کئے جا ئيں گے\n"
+
+msgid "Your Friends"
+msgstr "آپ کے دوست"
+
+msgid "Your Channel"
+msgstr "آپکا چينيل"
+
+msgid ""
+"Type your message here, to send to other GCompris users on your local "
+"network."
+msgstr "آپکے لوکل نيٹ ورک پر ديگرGکمپرائز صارفين کو پيغام بھيجنے کے ليے ، اپنا پيگام يهاں ٹائپ کريں"
+
+msgid "You must set a channel in your channel entry box first.\n"
+msgstr "اپکو پهلے اپنے چينيل اينٹري با کس ميں جينل سيٹ کر نا چا هيے\n"
+
+msgid "Your friends must set the same channel in order to communicate with you"
+msgstr "آپ سے رابطه کر نے کے ليے آپکے دوست کو بھي وهي چينيل سيٹ کر نا چا هيے"
+
+msgid ""
+"Cannot find the 'gnucap' electric simulator.\n"
+"You can download and install it from:\n"
+"<http://geda.seul.org/tools/gnucap/>\n"
+"To be detected, it must be installed in\n"
+"/usr/bin/gnucap or /usr/local/bin/gnucap.\n"
+"You can still use this activity to draw schematics without computer "
+"simulation."
+msgstr "گن،  کيپ ،  اليکڑکsimulatorتلا ش نهيں کر سکتا آپ اسے http://geda.seul.org/tools/gnucap/ سے اسٹالاور ڈاٶ ن لو ڈ کر سکتے هيں پته لگا نے کے ليے اسے/usr/bin/gnucapيا/usr/local/bin/gnucapپر انسٹال کر نا چا هيے پھر کمپيوٹرsimulationکےschematicsدراٶ  کر نے کے يے آپ اب بھي اس  سرگرمي کا استعمال کر سکتے هيں"
+
+msgid ", %d"
+msgstr ", %d"
+
+msgid " and %d"
+msgstr "%dاور"
+
+msgid "1 is not a prime number."
+msgstr "1 يه مفرد عدد نهيں هے"
+
+msgid "Primes less than %d"
+msgstr "مفرد%d سے چھو ٹا هے "
+
+msgid "Factors of %d"
+msgstr "%dکي ا زاائے تر کيبي"
+
+msgid "Multiples of %d"
+msgstr "%dکے ملٹيپل"
+
+msgid "%s = %d"
+msgstr "%s = %d"
+
+msgid "%d + %d"
+msgstr "%d + %d"
+
+msgid "%d − %d"
+msgstr "%d − %d"
+
+msgid "%d × %d"
+msgstr "%d × %d"
+
+msgid "%d ÷ %d"
+msgstr "%d ÷ %d"
+
+msgid "Equal to %d"
+msgstr "%dکے مسا وي هے"
+
+msgid "Not equal to %d"
+msgstr "%dے مسا وي نهيں هے"
+
+msgid ""
+"You were eaten by a Troggle.\n"
+"Press <Return> to continue."
+msgstr "آپ ٹرا گل کے زريعے کھا ئے گئے تھےجا ري رکھے کے ليے Return دبا ئيں"
+
+msgid "You ate a wrong number.\n"
+msgstr "آپ نے غلط نمبر کھا ليا \n"
+
+msgid ""
+"\n"
+"Press <Return> to continue."
+msgstr
+"\n"
+"جا ري رکھنے کے ليے<Return>دبا ئيں"
+
+msgid ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"G\n"
+"L\n"
+"E"
+msgstr ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"G\n"
+"L\n"
+"E"
+
+msgid "Guess a number between %d and %d"
+msgstr "%dاور%dکے درميان کا نمبر پهچالو"
+
+msgid "Please enter a number between %d and %d"
+msgstr "برا ئے کرم%dاور %d کے درميان کا نمبر داخل کريں"
+
+msgid "Out of range"
+msgstr "حد کے باهر"
+
+msgid "Too high"
+msgstr "بهت انچ"
+
+msgid "Too low"
+msgstr "بهت نچلا"
+
+msgid "Profile: "
+msgstr "پروفا ئل:"
+
+msgid "Login: "
+msgstr "لاگ ان :"
+
+msgid "Enter login to log in"
+msgstr "لاگ ان کر نے کے ليے لاگ ان داخل کريں"
+
+msgid "Rebuild the same mosaic on the right area"
+msgstr "دائيں ايريا ميں وهي پچي کا ري دو باره بنا ئيں"
+
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialogue to\n"
+"enable the sound"
+msgstr "غلطي  :  يه سرگرمي نا کاره سا ٶ نڈ اثرات کے ساتھ پلے نهيں کي جا سکتي ۔ سا ٶنڈ کو قابل بنا نے کے ليے هيئتي ڈائيلاگ ميں جا ئيں"
+
+msgid ""
+"Below the surface, Oscar the octopus and his friends sat on a rock,\n"
+"watching the bad weather above them."
+msgstr " سمندرکے سطح کے نيچے اکٹو پس (Oscar)اور اس کے کے دوست پتھر پر بيٹھ کر خراب آبو هوا  کا منظرديکھا رهے هيں"
+
+msgid ""
+"They were all happy that the storms never reached all the way down to them."
+msgstr "وه سب خوش تھے که طو فان انکے راست تک با لکل نهيں پهنچا"
+
+msgid ""
+"No matter how bad it was up there, the bottom was always calm and quiet."
+msgstr "اوپر کتنا برا تھا اسکي کو ئي پرواه نهيں ، نچلا حصه هميشه هي دے پر سکو ن تھا"
+
+msgid "Oscar's best friends were Charlie the crab and Sandy the sea-star."
+msgstr "آسکر کے گهر ے دوست چا رلي(Charlie) کيکڑا اور ساندي(Sandy) سمندري ستا ره تھے"
+
+msgid ""
+"This is the first plugin in gcompris coded in the Python\n"
+"Programming language."
+msgstr "پا ئتھون پرو گرامنگ زبان مينg کمپرائز کو ڈيڈ هيں پهلا پلگ ان هے"
+
+msgid ""
+"It is now possible to develop gcompris activities in C or in Python.\n"
+"Thanks to Olivier Samys who makes this possible."
+msgstr "(C)سي  يا پا ئتھون ميں gکمپرائز سر گرميياں ڈيولپ کر نا ممکن ههے۔Olivier Samys کا شکر يه جس سے ممکن بنا يا"
+
+msgid "This activity is not playable, just a test"
+msgstr "يه سرگرمي کھيلنے کے لا ئن نهيں هے صرف ايک سيٹ هے"
+
+msgid "Disable line drawing in circle"
+msgstr "دا ئرے ميں لا ئن ڈرا ئينگ کو نا اهل بنا  يں"
+
+msgid "Color of the line"
+msgstr "لا ئن کا رنگ "
+
+msgid "Distance between circles"
+msgstr "دا ئروں کے درمين فا صله"
+
+msgid "Use circles"
+msgstr "دائرے استعمال کريں"
+
+msgid "Use rectangles"
+msgstr "مستطيل استعمال کريں"
+
+msgid "Choice of pattern"
+msgstr "مطا بقت"
+
+msgid "Coordinate"
+msgstr "نقط"
+
+msgid "The race is already being run"
+msgstr "ريس پهلے هي سے دوڑي جا رهي هے"
+
+msgid "forward"
+msgstr "آگے کي جانب"
+
+msgid "COMMANDS ARE"
+msgstr "آگے کے حکم"
+
+msgid "This is a draw"
+msgstr "يه اس طرح نکالا گيا هے"
+
+msgid "The Red boat has won"
+msgstr "سرخ کشتي جيت گئ"
+
+msgid "The Green boat has won"
+msgstr "سبز کشتي جيت گئي"
+
+msgid "Angle:"
+msgstr "زاويه:"
+
+msgid "Wind:"
+msgstr "هوا:"
+
+msgid "Syntax error at line"
+msgstr "لا ئن ميں ترکيب کلام کي غلطي"
+
+msgid "The command"
+msgstr "کما نڈ (حکم)"
+
+msgid "Unknown command at line"
+msgstr "لائن ميں نه معلوم کمانڈ"
+
+msgid "Distance:"
+msgstr "فا صله:"
+
+msgid ""
+"Cannot find Tuxpaint.\n"
+"Install it to use this activity !"
+msgstr "ٹکس پينٹ تلا ش نهيں کيا جا سکتا ۔ اس سرگرمي استعمال کر نے کے ليے اسے اسٹال کيجئ"
+
+msgid "Waiting for Tuxpaint to finish"
+msgstr "ٹکس پينٹ کے ختم کر نے کا انتظار کر رها هے"
+
+msgid "Inherit fullscreen setting from GCompris"
+msgstr "Gکمپرائز سے پو ري اسکرين سيٹينگ ان هيرٹ کريں"
+
+msgid "Inherit size setting from GCompris (800x600, 640x480)"
+msgstr "Gکمپرا ئز (800x600, 640x480)سے سا ئز سيٹنگ ان هيرٹ(Inherit)  کريں "
+
+msgid "Disable shape rotation"
+msgstr "شکلوں کي گردش ن اهل کريں"
+
+msgid "Show Uppercase text only"
+msgstr "صرف اوپري کيس متن دکھا ئيے=="
+
+msgid "Disable stamps"
+msgstr "اسٹيمپس نا اهل کريں"
+
+msgid "Memory game"
+msgstr "ذههني کھيل"
+
+msgid "Build a train according to the model"
+msgstr "ماڈل کے مطا بق ريل بنا ٶ"
+
+msgid ""
+"Error: We can't find\n"
+"a list of words to play this game.\n"
+msgstr "غلطي ؛ اس کھيل کو کھيلنے کے ليے هم الفاظ کي فهرستنهيں ڈھونڈ سککتے هيں\n"
+
+msgid "Please, check if the word"
+msgstr "برا ئے کرم ،  ديکھئے که لفظ"
+
+msgid "is being displayed"
+msgstr "ڈسپلے کيا جا رها هے يا نهيں"
+
+msgid "I am Ready"
+msgstr "ميں تيار هوں"
+
+msgid "Yes, I saw it"
+msgstr "جي هان، ميں نے اسے ديکھا"
+
+msgid "No, it was not there"
+msgstr "نهيں ، نهيں تھا"
+
+msgid "The word to find was '%s'"
+msgstr " ڈھونڈ لفظ'%s' "
+
+msgid "But it was not displayed"
+msgstr "ليکن وه ڈسپلے نههيں کيا گيا تھا"
+
+msgid "And it was displayed"
+msgstr "اور وه ڈسپلے کيا گيا تھا"
+
+msgid "Weight = %s"
+msgstr "وزن=%s"
+
+msgid "Take care, you can drop masses on both sides of the scale."
+msgstr "خيال رکھيں ، که آپ لو گو ں کو اسکيل کے دونوں جانب گرا سکتے هيں"
+
+msgid "Points = %s"
+msgstr "نمبرات = %s"
+
+msgid ""
+"Wind speed = %d\n"
+"kilometers/hour"
+msgstr "هوا کي رفتار = %d گھنٹے / کلو ميٹر ز"
+
+msgid "Distance to target = %d meters"
+msgstr "رگيٹ سے فا صله %dميٹر"
+
+msgid "Research"
+msgstr "تحقيق"
+
+msgid "Sentimental"
+msgstr "حساس"
+
+msgid "Official"
+msgstr "قانو ني"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Flyer"
+msgstr "فلا ئر"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Heading 1"
+msgstr "عنوان1"
+
+msgid "Heading 2"
+msgstr "عنوان2"
+
+msgid ""
+"Author: Bruno Coudoin\n"
+"Contribution: Pascal Georges, Jose Jorge, Yves Combe\n"
+"Graphics: Renaud Blanchard, Franck Doucet\n"
+"Intro Music: Djilali Sebihi\n"
+"Background Music: Rico Da Halvarez\n"
+msgstr ""
+"مصنف :Bruno Coudoin\n"
+"امداد: Pascal Georges, Jose Jorge, Yves Combe\n"
+"گرافکس :Renaud Blanchard, Franck Doucet\n"
+"انٹر و ميو زک:Djilali Sebihi\n"
+"بيک گراٶنڈ ميوزک: Rico Da Halvarez.\n"
+
+msgid "translatorcredits"
+msgstr "مترجم ۔ سهرا"
+
+msgid "About GCompris"
+msgstr "Gکمپرائز کے متعلق"
+
+msgid "Translators:"
+msgstr "مترجم:"
+
+msgid ""
+"GCompris Home Page\n"
+"http://gcompris.net"
+msgstr "Gکمپرائز هو م پيج http://svs.org.in/Downloads.html"
+
+msgid ""
+"This software is a GNU Package and is released under the GNU General Public "
+"License"
+msgstr "يه سا فٹ و ئير GNUپيکيج هے  اور GNU جنل پبلک لا ئسنس کے تحت شائع کيا گيا هے"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "GCompris confirmation"
+msgstr "يقينGکمپرائز"
+
+msgid "Are you sure you want to quit?"
+msgstr "?کيا آپ واقعي چھوڑ نا چا هتے هيں"
+
+msgid "Yes, I am sure!"
+msgstr "!جي هاں ، مجھے يقين هے"
+
+msgid "No, I want to keep going"
+msgstr "جي نهيں ، ميں جا ري رکھنا چا هتا هوں"
+
+msgid "Dynamic module loading is not supported. gcompris cannot load.\n"
+msgstr "Dynamicما ڈييول لو ڈينگ کو تعا ون نهيں ديا گيا هےG کمپرائز لو ڈ نهيں کيا جا سکتا\n"
+
+msgid ""
+"Select the language\n"
+" to use in the board"
+msgstr "بورڈ ميں استعمال کي جا نے والي زبان منتخب کر ں"
+
+msgid "Global GCompris mode"
+msgstr "گلو بلGکمپرائز مو ڈ"
+
+msgid "Normal"
+msgstr "نارمل  (عام )"
+
+msgid "2 clicks"
+msgstr "۲  کلکس"
+
+msgid "both modes"
+msgstr "دونوں موڈز"
+
+msgid ""
+"Select the drag and drop mode\n"
+" to use in the board"
+msgstr "بورڈ ميں استعمال کيا جا نے والا کھينچنے اور گرانے والاموڈ انتخاب کريں"
+
+msgid "Your system default"
+msgstr "آپ کا سٹم ڈيفا لٹ"
+
+msgid "Amharic"
+msgstr "Amharic(آميارک)"
+
+msgid "Arabic"
+msgstr "عربي"
+
+msgid "Turkish (Azerbaijan)"
+msgstr "تر کي (آذر بائيجا ن)"
+
+msgid "Bulgarian"
+msgstr "بلغا ري"
+
+msgid "Catalan"
+msgstr "Catalan(  کو للن)"
+
+msgid "Danish"
+msgstr "دانش"
+
+msgid "German"
+msgstr "جرمني"
+
+msgid "Greek"
+msgstr "يو نان"
+
+msgid "English (Canada)"
+msgstr "Canada- انگريزي"
+
+msgid "English (Great Britain)"
+msgstr "انگريزي (بر طا نيه اعظمي)"
+
+msgid "English (United States)"
+msgstr "انگريزي (رياست متحده )"
+
+msgid "Spanish"
+msgstr "اندلس"
+
+msgid "Basque"
+msgstr "باسک"
+
+msgid "Dzongkha"
+msgstr "Dzongkha(زو نگها)"
+
+msgid "Finnish"
+msgstr "فينيش"
+
+msgid "French"
+msgstr "فرانس"
+
+msgid "Irish (Gaelic)"
+msgstr "آئرش(Irish (Gaelic))"
+
+msgid "Hebrew"
+msgstr "هيبرو"
+
+msgid "Hindi"
+msgstr "هندي"
+
+msgid "Indonesian"
+msgstr "انڈونيشيا ئ"
+
+msgid "Japanese"
+msgstr "جاپاني"
+
+msgid "Gujarati"
+msgstr "گجراتي"
+
+msgid "Punjabi"
+msgstr "پنجابي"
+
+msgid "Hungarian"
+msgstr "هنگيرين"
+
+msgid "Croatian"
+msgstr "کرو شين"
+
+msgid "Italian"
+msgstr "اطا لو ي"
+
+msgid "Georgian"
+msgstr "جا رجين"
+
+msgid "Korean"
+msgstr "کو ريا ئ"
+
+msgid "Lithuanian"
+msgstr "لتھو نين"
+
+msgid "Macedonian"
+msgstr "ميسيڈ ونين"
+
+msgid "Malayalam"
+msgstr "مليا لم"
+
+msgid "Marathi"
+msgstr "مراهٹي"
+
+msgid "Malay"
+msgstr "ملے"
+
+msgid "Nepal"
+msgstr "نيپال"
+
+msgid "Dutch"
+msgstr "ڈچ"
+
+msgid "Norwegian Bokmal"
+msgstr "نورجين بوکمل"
+
+msgid "Norwegian Nynorsk"
+msgstr "نورجين نينورکس"
+
+msgid "Polish"
+msgstr "پالش"
+
+msgid "Portuguese"
+msgstr "پرتگا لي"
+
+msgid "Portuguese (Brazil)"
+msgstr "پرتگا ل"
+
+msgid "Romanian"
+msgstr "رو ما نين"
+
+msgid "Russian"
+msgstr "رشين"
+
+msgid "Kinyarwanda"
+msgstr "(Kinyarwanda)کنيا رواڈا"
+
+msgid "Slovak"
+msgstr "سلواک"
+
+msgid "Slovenian"
+msgstr "سلواکيه"
+
+msgid "Somali"
+msgstr "سو ما لي"
+
+msgid "Albanian"
+msgstr "البا تو ي"
+
+msgid "Serbian (Latin)"
+msgstr "(Latin)سر بيا ئ"
+
+msgid "Serbian"
+msgstr "سر بيا ئ"
+
+msgid "Swedish"
+msgstr "سو ڈا ني"
+
+msgid "Thai"
+msgstr "تھايو"
+
+msgid "Turkish"
+msgstr "تر کي"
+
+msgid "Vietnamese"
+msgstr "ويتنامي"
+
+msgid "Walloon"
+msgstr "ولون"
+
+msgid "Chinese (Simplified)"
+msgstr " (Simplified) چيني"
+
+msgid "Chinese (Traditional)"
+msgstr " (Traditional) چيني"
+
+msgid "No time limit"
+msgstr "کوئي وقت کي پا بند ي نهيں"
+
+msgid "Slow timer"
+msgstr "آهسته ٹا ئمر"
+
+msgid "Normal timer"
+msgstr "نارمل ٹائمر"
+
+msgid "Fast timer"
+msgstr "تيز ٹا ئمر"
+
+msgid "800x600 (Default for gcompris)"
+msgstr "gکمپرائز کے ليے ڈيفا لٹ 800x600"
+
+msgid ""
+"Use Gcompris administration module\n"
+"to filter boards"
+msgstr "بورڈ ز کو چھانے کے ليےg کمپرائز انتظاميه ما ڈيول استعمال کريں"
+
+msgid "GCompris Configuration"
+msgstr "g  کمپرائز هيئت"
+
+msgid "Fullscreen"
+msgstr "پوري اسکريين"
+
+msgid "Music"
+msgstr "موسيقي"
+
+msgid "Effect"
+msgstr "اثر"
+
+msgid "Couldn't open skin dir: %s"
+msgstr "اسکن dir: %s  کھول نهيں سکا"
+
+msgid "Skin : %s"
+msgstr "اسکين:%s "
+
+msgid "SKINS NOT FOUND"
+msgstr "اسکيس نهيں ملي"
+
+msgid "English (United State)"
+msgstr "انگريزي  (رياست متحده)"
+
+msgid "CANCEL"
+msgstr "(CANCEL)تنسيخ"
+
+msgid "LOAD"
+msgstr "(LOAD)لوڈ"
+
+msgid "SAVE"
+msgstr "(SAVE)محفو ظ"
+
+msgid "Couldn't find or load the file"
+msgstr "فا ئل ڈھونڈ يا لو ڈ نهيں کرسکا"
+
+msgid "This activity is incomplete."
+msgstr "يه سرگرمي نا مکمل هے"
+
+msgid ""
+"Exit it and report\n"
+"the problem to the authors."
+msgstr "اسے چھو ڑ ئيے اور اس مسئلے کي مسنف کو رپورٹ کريں"
+
+msgid "run gcompris in fullscreen mode."
+msgstr "پوري اسکرين موڈ ميں gکمپرائز چلا ٶ"
+
+msgid "run gcompris in window mode."
+msgstr "gکمپرائز کو ونڈ و موڈ ميں چلا ٶ"
+
+msgid "run gcompris with sound enabled."
+msgstr "gکمپرائز کو نا اهل کئے گئے سا ٶ نڈ کے ساتھ چلا ٶ"
+
+msgid "run gcompris without sound."
+msgstr "gکمپرائز کو بغير آواز کے ساتھ چلا ٶ"
+
+msgid "run gcompris with the default gnome cursor."
+msgstr "gکمپرائز کو ديفا لٹgnome کرسر کے ساتھ چلا ٶ"
+
+msgid "display only activities with this difficulty level."
+msgstr "اس مشکل ليول کے ساتھ صرف سرگرميوں ڈسپلے کريں"
+
+msgid "display debug informations on the console."
+msgstr "کنسول پر ڈي بگ معلو مات ڈسپلے کريں"
+
+msgid "Print the version of "
+msgstr "کا ورژن پنٹ کرو"
+
+msgid "Use the antialiased canvas (slower)."
+msgstr "canvas (آهسته)"
+
+msgid "Disable XF86VidMode (No screen resolution change)."
+msgstr "XF86VidModeکو نا هل کريں (اسکرين کي قرار دار ميں کو ئي تبديلي نهيں"
+
+msgid ""
+"Run gcompris with local menu (e.g -l /reading will let you play only "
+"activities in the reading directory, -l /strategy/connect4 only the connect4 "
+"activity)"
+msgstr "لو کل مينو کے ساتھgکمپرائز چلا ٶ  (مثلا ۱۔-l /strategy/connect4 ريڈينگ آپکو صرف ريڈ ينگ ڈا ئر يکڑي ميں سرگرميوں پلے کرنے دے گي۔"
+
+msgid "Run GCompris with local activity directory added to menu"
+msgstr "اپني مادري زبان کوGکم رس کے مينو ميں دال کر اس چلا ئے"
+
+msgid "Run GCompris in administration and user-management mode"
+msgstr "انتظاميه اور صارف ۔ انتظام مو ڈ مينGکمپرائزچلا ٶ"
+
+msgid ""
+"Use alternate database for profiles [$HOME/.config/gcompris/gcomprissqlite."
+"db]"
+msgstr "پر وفا ئلز کے ليے ايک کے بعد دوسرا ڈيٹا بيس استعمال کرو[$HOME/.config/gcompris/gcomprissqlite.db]"
+
+msgid "Create the alternate database for profiles"
+msgstr "پروفا ئلز کے ليے ايک کے بعد دوسراڈيٹا بيس تخليق کريں"
+
+msgid "Re-read XML Menus and store them in the database"
+msgstr "XMLمينوزکو دو با ره ۔ پڑھيں اور انهيں ڈيٹا بيس ميں اسٹور کريں"
+
+msgid "Set the profile to use. Use 'gcompris -a' to create profiles"
+msgstr "استعمال کر نے ے ليے پروفا ئل سيٹ کريں۔پروفا ئلز تخخليق کر نے کے ليے'gcompris -a'استععما ل کرييں"
+
+msgid "List all available profiles. Use 'gcompris -a' to create profiles"
+msgstr "تمام دستياب پروففا ئلز کي فهر ست بنا ئيں ۔۔ پر و فا ئلز تخليق کر نے کے ليے'gcompris -a'استعمال کريں"
+
+msgid ""
+"Config directory location: [$HOME/.config/gcompris]. Alternate is to set "
+"$XDGCONFIGHOME."
+msgstr "هئيتي ڈائر يکڑي لو کيشن [$HOME/.config/gcomppris]  دوسرا مقام $XDGCONFIGHOME."
+
+msgid "The location of user directories: [$HOME/My GCompris]"
+msgstr "صارف کي ڈائر يکڑيز کامقام: [$HOME/My GCompris]"
+
+msgid "Run the experimental activities"
+msgstr "تجربا تي سرگرميوں کو چلا ٶ "
+
+msgid "Disable the quit button"
+msgstr "quitبٹن  کو نا اهل کرو"
+
+msgid "Disable the config button"
+msgstr "هئيتي(config) بٹن کو نا اهل کرو"
+
+msgid "Display the resources on stdout based on the selected activities"
+msgstr "منتخب رگرميوں پر منحصر stdoutپرresources (ذريعے ) ڈس لے کريں"
+
+msgid ""
+"GCompris will get images, sounds and activity data from this server if not "
+"found locally."
+msgstr "اگر لو کلي نهيں ملا توGکمپرائز اس سرور سے تصويريں،  آواز يں سرگرميوں ڈيٹا لے گا"
+
+msgid ""
+"Only when --server is provided, disable check for local resource first. Data "
+"are always taken from the web server."
+msgstr "صرف تب۔ جب سرور فراهم کيا گيا هو ، پهلے لو کل (يسورس کے Dليے ايک نا اهل کريں۔ڈيٹا هميشه ويب سرور سے ليے جاتے هيں"
+
+msgid ""
+"In server mode, specify the cache directory used to avoid useless downloads."
+msgstr "سرور  وڈ مں ،  بے کارڈ اٶ ن لو ڈز کو نظر انداز کر نے کے  يے گيش ڈا ئر يکڑي کا تعين کريں"
+
+msgid ""
+"Global drag and drop mode: normal, 2clicks, both. Default mode is normal."
+msgstr "  گلو ب  کھينچے اور گرا ن  والاا موڈ : نارمل ، ۲ کلکس دونوں ديفا لٹ موڈ نارمل هے"
+
+msgid "Do not display the background images of activities."
+msgstr "سرگرمي کے پيچھے کي تصوير مت ديکھاے"
+
+msgid ""
+"GCompris is free software released under the GPL License. In order to "
+"support its development, the Windows version provides only %d of the %d "
+"activities. You can get the full version for a small fee at\n"
+"<http://gcompris.net>\n"
+"The GNU/Linux version does not have this restriction. Note that GCompris is "
+"being developed to free schools from monopolistic software vendors. If you "
+"also believe that we should teach freedom to children, please consider using "
+"GNU/Linux. Get more information at FSF:\n"
+"<http://www.fsf.org/philosophy>"
+msgstr "Gکمپرائز آزاد سا فٹ وئير هے هو  GPL لا ئسنس کے تحت شائع هوا اسکے ڈيو ليمنٹ کو تعا ون دينے کے لييھنڈ وز ورژن صرف %d کا%d سرگرمي فراهم کر نا هے ۔آپ معمو لي فيس مين<http://gcompris.net>سے پورا ور ژ ن پا سکتے هيں GNU/Linux ورژن ميں يه پابندي نهيں هے دھيان رکھے کهGکمپرائز monopolistic software vendorsسے آزاد اسکولس کے ليے ڈيولپ کيا جا رها هے ۔اگر آپ اسميں بهي يقين رکھتے هيں که هميں بچوں کو آزادي سکھا ني چا هيے تو ، براهِ کرمGNU/Linuxاستعمال کر نے پر زور ديں مزيد معلومات FSFسے حاصل کرينGکمپرائز\n"
+" پرحاصل کرين<http://www.fsf.org/philosophy>"
+
+msgid ""
+"GCompris\n"
+"Version: %s\n"
+"Licence: GPL\n"
+"More info at http://gcompris.net\n"
+msgstr ""
+"Gکمپرائز\n"
+"ورژن : %s\n"
+"لا ئسنس :GPL\n"
+" پرحاصل کرين http://svs.org.in/Downloads.html مزيد معلومات\n"
+
+msgid "Use -l to access an activity directly.\n"
+msgstr "سرگرمي ميں براه راست پنهچنے کے ليے -l کا استعمال کريں\n"
+
+msgid "The list of available activities is :\n"
+msgstr "دستياب سرگرميوں کي فهرست هے:\n"
+
+msgid "The list of available profiles is:\n"
+msgstr "دستياب پروفا ئلز کي فهرست هے:\n"
+
+msgid "Unaffected"
+msgstr "کوئي اثر نهيں"
+
+msgid "Users without a class"
+msgstr "صارفين بغير کلاس کے"
+
+msgid "Prerequisite"
+msgstr "اولين"
+
+msgid "Goal"
+msgstr "مقصد"
+
+msgid "Manual"
+msgstr "کتا ب هئيتي"
+
+msgid "Credit"
+msgstr "سهرا"
+
+msgid "readme"
+msgstr "مجھے پڈھو"
+
+msgid ""
+"This directory contains the files you create with the GCompris educational "
+"suite\n"
+msgstr "ڈائر يکڑي وه فايل رکھتيں هيں جو آپ   Gکمپرائز کے ساتھ محليق کرتے هيں\n"
+
+msgid ""
+"Put any numer of images in this directory.\n"
+"You can include these images in your drawings and animations.\n"
+"The image format supported are jpeg, png and svg.\n"
+msgstr ""
+"آپ اس ڈائر يکڑي  ميں کوئي بھي  تصوير رکھيں۔ پھر اس  تصوير کو آپ اپنے ڈراينگ اور اينميثن ميں داخل سکتے هيں۔آپ صرف  jpeg, png اورsvgوالي  تصوير هي داخل سکتے هيں۔\n"
+
+msgid "Time Elapsed"
+msgstr "وقت گذرگيا"
+
+
+msgid "The Mysterious GEGL"
+msgstr "پراسرار GEGL  "
+
+msgid "News"
+msgstr "خبریں"
+
+msgid "Software"
+msgstr "سافٹ وئیر"
+
+msgid "No name"
+msgstr "کوئی نام نہیں"
+
+msgid "Application"
+msgstr "Application"
+
+msgid "Link"
+msgstr "لنک"
+
+msgid "MIME Type"
+msgstr "٘MIME TYPEُؑ"
+
+msgid "Run in terminal"
+msgstr "ٹرمینل میں چلائیںe"
+
+msgid "Basic"
+msgstr "بنیادی"
+
+
+msgid "NAME"
+msgstr "نام"
+
+msgid "Opening %d Item"
+msgid_plural "Opening %d Items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "default:LTR"
+msgstr "default:RTL"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Job"
+msgstr "کام"
+
+msgid "Advanced"
+msgstr "اعلٰی ترین"
+
+msgid "Print"
+msgstr "پرنٹ"
+
+msgid "Disabled"
+msgstr "بند"
+
+
+msgid "Control your network connections"
+msgstr "اپنے نیٹ ورک اتصال کی ادارت کریں"
+
+msgid "Network Manager"
+msgstr "نیٹ ورک منیجر"
+
+msgid "Disable WiFi Create"
+msgstr "WiFi کو بنانا معطل کریں"
+
+msgid "Disable connected notifications"
+msgstr "متصل اطلاعات کو معطل کریں"
+
+msgid "Disable disconnected notifications"
+msgstr "غیر متصل اطلاعات کو معطل کریں"
+
+msgid "Set this to TRUE to disable notifications when connecting to a network."
+msgstr "نیٹ ورک سے اتصال کے دوران اطلاعات کو معطل کرنے کے لیے اسے TRUE کردیں."
+
+msgid "Set this to TRUE to disable notifications when disconnecting from a network."
+msgstr "نیٹ ورک سے اتصال منقطع کرنے کے دوران اطلاعات کو معطل کرنے کے لیے اسے TRUE کردیں."
+
+msgid "Set this to TRUE to disable notifications when wireless networks are available."
+msgstr "وائیرلیس نیٹ ورک کی دستیابی پر اطلاعات کو معطل کرنے کے لیے اسے TRUE کردیں."
+
+msgid "Set to TRUE to disable creation of adhoc networks when using the applet."
+msgstr "ایپلیٹ کے استعمال کے دوران adhoc نیٹ ورک کو بننے سے روکنے کے لیے اسے TRUE کردیں."
+
+msgid "Stamp"
+msgstr "مہر"
+
+msgid "Suppress networks available notifications"
+msgstr "زیریں نیٹ ورکس دستیابی اطلاعات"
+
+msgid "Used to determine whether settings should be migrated to a new version."
+msgstr "یہ جاننے کے لیے استعمال ہوتا ہے کہ آیا ترتیبات نئے نسخے پر منتقل کی جانی چاہئیں یا نہیں."
+
+msgid "Manage and change your network connection settings"
+msgstr "اپنے نیٹ ورک اتصال کی تبدیلی اور ادارت کریں"
+
+msgid "Network Connections"
+msgstr "نیٹ ورک اتصال"
+
+msgid "An instance of nm-applet is already running.\n"
+msgstr "ایک nm-applet پہلے ہی چل رہا ہے.\n"
+
+msgid "Could not acquire the %s service. (%d)\n"
+msgstr "سروس %s حاصل نہیں کی جاسکتی. (%d)\n"
+
+msgid "Available"
+msgstr "دستیاب"
+
+msgid "You are now connected to '%s'."
+msgstr "آپ '%s' سے متصل ہیں."
+
+msgid "Connection Established"
+msgstr "اتصال قائم ہوگیا"
+
+msgid "You are now connected to the mobile broadband network."
+msgstr "آپ اس وقت موبائل براڈ بینڈ نیٹ ورک سے متصل ہیں."
+
+msgid "Preparing mobile broadband connection '%s'..."
+msgstr "موبائل براڈ بینڈ اتصال '%s' تیار کیا جارہا ہے..."
+
+msgid "Configuring mobile broadband connection '%s'..."
+msgstr "موبائل براڈ بینڈ اتصال '%s' وضع کیا جارہا ہے..."
+
+msgid "User authentication required for mobile broadband connection '%s'..."
+msgstr "موبائل براڈ بینڈ اتصال '%s' کے لیے صارف کی توثیق درکار ہے..."
+
+msgid "Requesting a network address for '%s'..."
+msgstr "درخواست برائے نیٹ ورک '%s' بھیجی جارہی ہے..."
+
+msgid "Mobile broadband connection '%s' active"
+msgstr "موبائل براڈ بینڈ اتصال '%s' فعال ہے"
+
+msgid "CDMA"
+msgstr "CDMA"
+
+msgid "New Mobile Broadband (CDMA) connection..."
+msgstr "نیا موبائل براڈ بینڈ (CDMA) اتصال..."
+
+msgid "Mobile Broadband (%s)"
+msgstr "موبائل براڈ بینڈ (%s)"
+
+msgid "Mobile Broadband"
+msgstr "موبائل براڈ بینڈ"
+
+msgid "You are now connected to the CDMA network."
+msgstr "اب آپ CDMA نیٹ ورک سے متصل ہیں."
+
+msgid "Mobile broadband network password"
+msgstr "موبائل براڈ بینڈ نیٹ ورک پاس ورڈ"
+
+msgid "A password is required to connect to '%s'."
+msgstr "نیٹ ورک '%s' سے اتصال قائم کرنے کے لیے پاس ورڈ درکار ہے."
+
+msgid "GSM"
+msgstr "GSM"
+
+msgid "New Mobile Broadband (GSM) connection..."
+msgstr "نیا موبائل براڈ بینڈ (GSM) اتصال..."
+
+msgid "You are now connected to the GSM network."
+msgstr "اب آپ جی ایس ایم (GSM) نیٹ ورک سے متصل ہیں."
+
+msgid "PIN code required"
+msgstr "پِن PIN کوڈ درکار ہے"
+
+msgid "PUK code required"
+msgstr "پَک PUK کوڈ درکار ہے"
+
+msgid "PIN code is needed for the mobile broadband device"
+msgstr "موبائل براڈ بینڈ ڈیوائس کے لیے پِن PIN کوڈ درکار ہے"
+
+msgid "PUK code is needed for the mobile broadband device"
+msgstr "موبائل براڈ بینڈ ڈیوائس کے لیے پَک PUK کوڈ درکار ہے"
+
+msgid "Auto Ethernet"
+msgstr "خودکار ایتھرنیٹ (Ethernet)"
+
+msgid "Wired Networks (%s)"
+msgstr "وائیرڈ نیٹ ورکس (%s)"
+
+msgid "Wired Network (%s)"
+msgstr "وائیرڈ نیٹ ورک (%s)"
+
+msgid "Wired Networks"
+msgstr "وائیرڈ نیٹ ورکس"
+
+msgid "Wired Network"
+msgstr "وائیرڈ نیٹ ورک"
+
+msgid "disconnected"
+msgstr "غیر متصل"
+
+msgid "You are now connected to the wired network."
+msgstr "اب آپ وائیرڈ نیٹ ورک سے متصل ہیں."
+
+msgid "Preparing wired network connection '%s'..."
+msgstr "وائیرڈ نیٹ ورک اتصال '%s' تیار کیا جارہا ہے..."
+
+msgid "Configuring wired network connection '%s'..."
+msgstr "وائیرڈ نیٹ ورک اتصال '%s' وضع کیا جارہا ہے..."
+
+msgid "User authentication required for wired network connection '%s'..."
+msgstr "وائیرڈ نیٹ ورک اتصال '%s' کے لیے صارف کی توثیق درکار ہے..."
+
+msgid "Requesting a wired network address for '%s'..."
+msgstr "وائیرڈ نیٹ ورک پتہ کی درخواست برائے '%s' کی جارہی ہے..."
+
+msgid "Wired network connection '%s' active"
+msgstr "وائیرڈ نیٹ ورک اتصال '%s' فعال ہے"
+
+msgid "DSL authentication"
+msgstr "ڈی ایس ایل DSL توثیق"
+
+msgid "Connect to Hidden Wireless Network..."
+msgstr "پوشیدہ وائیرلیس نیٹ ورک سے متصل ہوں..."
+
+msgid "Create New Wireless Network..."
+msgstr "نیا وائیرلیس نیٹ ورک بنائیں..."
+
+msgid "Wireless Networks (%s)"
+msgstr "وائیرلیس نیٹ ورکس (%s)"
+
+msgid "Wireless Network (%s)"
+msgstr "وائیرلیس نیٹ ورک (%s)"
+
+msgid "Wireless Network"
+msgid_plural "Wireless Networks"
+msgstr[0] "وائیرلیس نیٹ ورک"
+msgstr[1] "وائیرلیس نیٹ ورکس"
+
+msgid "wireless is disabled"
+msgstr "وائیرلیس معطل ہے"
+
+msgid "More networks"
+msgstr "مزید نیٹ ورک"
+
+msgid "Wireless Networks Available"
+msgstr "وائیرلیس نیٹ ورک دستیاب ہیں"
+
+msgid "Click on this icon to connect to a wireless network"
+msgstr "وائیرلیس نیٹ ورک سے متصل ہونے کے لیے اس آئکن پر کلک کریں"
+
+msgid "Don't show this message again"
+msgstr "یہ پیغام دوبارہ مت دکھائیں"
+
+msgid "You are now connected to the wireless network '%s'."
+msgstr "اب آپ وائیرلیس نیٹ ورک '%s' سے متصل ہیں."
+
+msgid "(none)"
+msgstr "(کچھ نہیں)"
+
+msgid "Preparing wireless network connection '%s'..."
+msgstr "وائیرلیس نیٹ ورک اتصال '%s' تیار کیا جارہا ہے..."
+
+msgid "Configuring wireless network connection '%s'..."
+msgstr "وائیرلیس نیٹ ورک اتصال '%s' وضع کیا جارہا ہے..."
+
+msgid "User authentication required for wireless network '%s'..."
+msgstr "وائیرلیس نیٹ ورک '%s' کے لیے صارف کی توثیق درکار ہے..."
+
+msgid "Requesting a wireless network address for '%s'..."
+msgstr "وائیرلیس نیٹ ورک پتہ کی درخواست برائے '%s' بھیجی جارہی ہے..."
+
+msgid "Wireless network connection '%s' active: %s (%d%%)"
+msgstr "وائیرلیس نیٹ ورک اتصال '%s' فعال ہے: %s (%d%%)"
+
+msgid "Wireless network connection '%s' active"
+msgstr "وائیرلیس نیٹ ورک اتصال '%s' فعال ہے"
+
+msgid "Error displaying connection information:"
+msgstr "اتصال کی معلومات دکھانے میں غلطی:"
+
+msgid "LEAP"
+msgstr "LEAP"
+
+msgid "Dynamic WEP"
+msgstr "حرکی WEP"
+
+msgid "WPA/WPA2"
+msgstr "WPA/WPA2"
+
+msgid "WEP"
+msgstr "WEP"
+
+msgid "Unknown"
+msgstr "نامعلوم"
+
+msgid "%u Mb/s"
+msgstr "%u م.ب/s"
+
+msgid "Ethernet (%s)"
+msgstr "ایتھرنیٹ (%s)"
+
+msgid "802.11 WiFi (%s)"
+msgstr "802.11 WiFi (%s)"
+
+msgid "GSM (%s)"
+msgstr "GSM (%s)"
+
+msgid "CDMA (%s)"
+msgstr "CDMA (%s)"
+
+msgid "Interface:"
+msgstr "مواجہ:"
+
+msgid "Hardware Address:"
+msgstr "ہارڈویئر پتہ:"
+
+msgid "Driver:"
+msgstr "ڈرائیور:"
+
+msgid "Speed:"
+msgstr "رفتار:"
+
+msgid "Security:"
+msgstr "سیکورٹی:"
+
+msgid "IP Address:"
+msgstr "آئی پی پتہ:"
+
+msgid "Broadcast Address:"
+msgstr "نشریہ پتہ:"
+
+msgid "Subnet Mask:"
+msgstr "سب-نیٹ ماسک:"
+
+msgid "Default Route:"
+msgstr "طے شدہ راؤٹ:"
+
+msgid "Primary DNS:"
+msgstr "ابتدائی DNS:"
+
+msgid "Secondary DNS:"
+msgstr "ثانوی DNS:"
+
+msgid "No valid active connections found!"
+msgstr "کوئی موزوں فعال اتصال نہیں پائے گئے!"
+
+msgid ""
+"Copyright © 2004-2008 Red Hat, Inc.\n"
+"Copyright © 2005-2008 Novell, Inc."
+msgstr ""
+"حق اشاعت © 2004-2008 ریڈ ہیٹ, Inc.\n"
+"حق اشاعت © 2005-2008 نوویل, Inc."
+
+msgid "Notification area applet for managing your network devices and connections."
+msgstr "آپ کے نیٹ ورک آلوں اور اتصال کی ادارت کے لیے اطلاعی علاقہ ایپلیٹ"
+
+msgid "NetworkManager Website"
+msgstr "نیٹ ورک منیجر ویب سائٹ"
+
+msgid "Missing resources"
+msgstr "مفقود وسائل"
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the network connection was interrupted."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ نیٹ ورک اتصال میں مداخلت کی گئی."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the VPN service stopped unexpectedly."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ وی پی این سروس غیر متوقعہ طور پر بند ہوگئی."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the VPN service returned invalid configuration."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ وی پی این سروس نے ناموزوں وضع کاری لوٹائی ہے."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the connection attempt timed out."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ اتصال قائم کرنے کی کوششوں کا وقت تمام ہوگیا."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the VPN service did not start in time."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ وی پی این سروس وقت پر نہیں چلی."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the VPN service failed to start."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ وی پی این سروس چلنے میں ناکام ہوگئی."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because there were no valid VPN secrets."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ کوئی موزوں وی پی این سیکرٹس نہیں ہیں."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because of invalid VPN secrets."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا جی کی وجہ نا موزوں وی پی این سیکرٹس ہیں."
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا."
+
+msgid ""
+"\n"
+"The VPN connection '%s' disconnected because the network connection was interrupted."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' منقطع ہوگیا کیونکہ نیٹ ورک اتصال میں مداخلت کی گئی."
+
+msgid ""
+"\n"
+"The VPN connection '%s' disconnected because the VPN service stopped."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' منقطع کردیا گیا کیونکہ وی پی این سروس رک گئی ہے."
+
+msgid ""
+"\n"
+"The VPN connection '%s' disconnected."
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' منقطع کردیا گیا."
+
+msgid "VPN Login Message"
+msgstr "وی پی این لاگ ان پیغام"
+
+msgid "VPN Connection Failed"
+msgstr "وی پی این اتصال ناکام"
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed because the VPN service failed to start.\n"
+"\n"
+"%s"
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' ناکام ہوگیا کیونکہ وی پی این سروس چلنے میں ناکام ہوگئی.\n"
+"\n"
+"%s"
+
+msgid ""
+"\n"
+"The VPN connection '%s' failed to start.\n"
+"\n"
+"%s"
+msgstr ""
+"\n"
+"وی پی این اتصال '%s' چلنے میں ناکام.\n"
+"\n"
+"%s"
+
+msgid "device not ready"
+msgstr "ڈیوائس تیار نہیں ہے"
+
+msgid "Disconnect"
+msgstr "غیر متصل"
+
+msgid "device not managed"
+msgstr "ڈیوائس کی ادارت نہیں کی گئی"
+
+msgid "No network devices available"
+msgstr "کوئی نیٹ ورک ڈیوائس دستیاب نہیں ہے"
+
+msgid "VPN Connections"
+msgstr "وی پی این اتصال"
+
+msgid "Configure VPN..."
+msgstr "وی پی این وضع کریں..."
+
+msgid "Disconnect VPN..."
+msgstr "وی پی این منقطع کریں..."
+
+msgid "NetworkManager is not running..."
+msgstr "نیٹ ورک منیجر نہیں چل رہا..."
+
+msgid "Networking disabled"
+msgstr "نیٹ ورکنگ معطل ہے"
+
+msgid "Enable Networking"
+msgstr "نیٹ ورکنگ فعال کریں"
+
+msgid "Enable Wireless"
+msgstr "وائیرلیس فعال کریں"
+
+msgid "Enable Mobile Broadband"
+msgstr "موبائل براڈ بینڈ فعال کریں"
+
+msgid "Enable Notifications"
+msgstr "اطلاعات فعال کریں"
+
+msgid "Connection Information"
+msgstr "اتصال کی معلومات"
+
+msgid "Edit Connections..."
+msgstr "اتصال مدون کریں..."
+
+msgid "About"
+msgstr "بابت"
+
+msgid "Disconnected"
+msgstr "غیر متصل"
+
+msgid "The network connection has been disconnected."
+msgstr "نیٹ ورک اتصال منقطع کردیا گیا ہے."
+
+msgid "Preparing network connection '%s'..."
+msgstr "نیٹ ورک اتصال '%s' تیار کیا جارہا ہے..."
+
+msgid "User authentication required for network connection '%s'..."
+msgstr "نیٹ ورک اتصال '%s' کے لیے صارف کی توثیق درکار ہے."
+
+msgid "Network connection '%s' active"
+msgstr "نیٹ ورک اتصال '%s' فعال ہے"
+
+msgid "Starting VPN connection '%s'..."
+msgstr "وی پی این اتصال '%s' چلایا جارہا ہے..."
+
+msgid "User authentication required for VPN connection '%s'..."
+msgstr "وی پی این اتصال '%s' کے لیے صارف کی توثیق درکار ہے..."
+
+msgid "Requesting a VPN address for '%s'..."
+msgstr "'%s' کے لیے وی پی این پتہ کی درخواس کی جارہی ہے..."
+
+msgid "VPN connection '%s' active"
+msgstr "وی پی این اتصال '%s' فعال ہے"
+
+msgid "No network connection"
+msgstr "کوئی نیٹ ورک اتصال نہیں"
+
+msgid "The NetworkManager applet could not find some required resources.  It cannot continue.\n"
+msgstr "نیٹ ورک منیجر ایپلیٹ کچھ درکار وسائل تلاش نہیں کر پا رہا. یہ جاری نہیں رہ سکتا.\n"
+
+msgid "NetworkManager Applet"
+msgstr "نیٹ ورک منیجر ایپلیٹ"
+
+msgid "The NetworkManager Applet could not find some required resources (the glade file was not found)."
+msgstr "نیٹ ورک منیجر ایپلیٹ کچھ درکار وسائل تلاش نہیں کر پا رہا (گلیڈ glade فائل نہیں مل سکی)."
+
+msgid ""
+"1 (Default)\n"
+"2\n"
+"3\n"
+"4"
+msgstr ""
+"1 (طے-شدہ)\n"
+"2\n"
+"3\n"
+"4"
+
+msgid "<span size=\"larger\" weight=\"bold\">Active Network Connections</span>"
+msgstr "<span size=\"larger\" weight=\"bold\">فعال نیٹ ورک اتصال</span>"
+
+msgid "Anonymous identity:"
+msgstr "نامعلوم پہچان:"
+
+msgid ""
+"Automatic\n"
+"Version 0\n"
+"Version 1"
+msgstr ""
+"خودکار\n"
+"نسخہ 0\n"
+"نسخہ 1"
+
+msgid "CA certificate:"
+msgstr "CA سند:"
+
+msgid "Connect"
+msgstr "متصل ہوں"
+
+msgid "Connection:"
+msgstr "اتصال:"
+
+msgid "Don't warn me again"
+msgstr "مجھے دوبارہ متنبہ مت کریں"
+
+msgid "Identity:"
+msgstr "شناخت:"
+
+msgid "Inner authentication:"
+msgstr "داخلی توثیق:"
+
+msgid "No"
+msgstr "نہیں"
+
+msgid ""
+"Open System\n"
+"Shared Key"
+msgstr ""
+"کھلا نظام\n"
+"شیئرڈ کلید"
+
+msgid "Other Wireless Network..."
+msgstr "دوسرے وائیرلیس نیٹ ورک..."
+
+msgid "Private key:"
+msgstr "نجی کلید:"
+
+msgid "Select A File"
+msgstr "فائل منتخب کریں"
+
+msgid "Show key"
+msgstr "کلید دکھائیں"
+
+msgid "Show password"
+msgstr "پاس ورڈ دکھائیں"
+
+msgid "WEP index:"
+msgstr "WEP index:"
+
+msgid "Wireless adapter:"
+msgstr "وائیرلیس اڈاپٹر:"
+
+msgid "Yes"
+msgstr "ہاں"
+
+msgid "Authentication:"
+msgstr "توثیق:"
+
+msgid "Key:"
+msgstr "کلید:"
+
+msgid "Network name:"
+msgstr "نیٹ ورک کا نام:"
+
+msgid "PEAP version:"
+msgstr "PEAP نسخہ:"
+
+msgid "Private key password:"
+msgstr "نجی کلید پاس ورڈ:"
+
+msgid "Type:"
+msgstr "نوعیت:"
+
+msgid "User certificate:"
+msgstr "صارف سند:"
+
+msgid "Username:"
+msgstr "صارف کا نام:"
+
+msgid "Wireless security:"
+msgstr "وائیرلیس سیکورٹی:"
+
+msgid "automatic"
+msgstr "خودکار"
+
+msgid "Failed to update connection secrets due to an unknown error."
+msgstr "نا معلوم غلطی کی وجہ سے اتصال کے سیکرٹس کی تجدید نہیں ہوسکتی."
+
+msgid "Service:"
+msgstr "سروس:"
+
+msgid "Addresses"
+msgstr "پتے"
+
+msgid ""
+"Automatic\n"
+"Automatic with manual DNS settings\n"
+"Manual\n"
+"Link-Local\n"
+"Shared to other computers"
+msgstr ""
+"خودکار\n"
+"خودکار بمع دستی DNS ترتیبات\n"
+"دستی\n"
+"ربط-لوکلl\n"
+"دوسرے کمپیوٹروں سے شیئر کردہ"
+
+msgid "DHCP client ID:"
+msgstr "DHCP موکل آئی ڈی:"
+
+msgid "Domains used when resolving host names. Use commas to separate multiple domains."
+msgstr "ڈومین نام جو ہوسٹ ناموں کو حل کرنے کے لیے استعمال ہوں گے. متعدد ڈومینوں کو کوما سے الگ کریں."
+
+msgid "IP addresses identify your computer on the network.  Click the \"Add\" button to add an IP address."
+msgstr "آئی پی پتے نیٹ ورک پر آپ کے کمپیوٹر کی پہچان ہوتے ہیں.  کوئی آئی پی پتہ شامل کرنے کے لیے \"شامل کریں\" کے بٹن پر کلک کریں"
+
+msgid "IP addresses of domain name servers used to resolve host names. Use commas to separate multiple domain name server addresses."
+msgstr "ڈومین نیم سروروں کے آئی پی پتے ہوسٹ ناموں کو حل کرنے کے لیے استعمال ہوتے ہیں. متعدد ڈومین نیم سرور پتوں کو کوما سے الگ کریں."
+
+msgid "If enabled, this connection will never be used as the default network connection."
+msgstr "اگر فعال کیا گیا تو یہ اتصال کبھی بھی طے شدہ نیٹ ورک اتصال کے طور پر استعمال نہیں کیا جائے گا."
+
+msgid "Ignore automatically obtained routes"
+msgstr "خودکار حاصل ہونے والے روٹ نظر انداز کریں"
+
+msgid "The DHCP client identifier allows the network administrator to customize your computer's configuration.  If you wish to use a DHCP client identifier, enter it here."
+msgstr "ڈی ایچ سی پی DHCP موکل شناخت کنندہ نیٹ ورک کے مدیر کو اجازت دیتا ہے کہ وہ آپ کے کمپیوٹر کی وضع کاری کر سکے. اگر آپ DHCP موکل شناخت کنندہ استعمال کرنا چاہیں تو اسے یہاں داخل کریں."
+
+msgid "Use this connection only for resources on its network"
+msgstr "یہ اتصال صرف اس کے اپنے نیٹ ورک کے وسائل کے لیے استعمال کریں"
+
+msgid "DNS servers:"
+msgstr "ڈی این ایس سرور:"
+
+msgid "Method:"
+msgstr "اسلوب:"
+
+msgid "Routes…"
+msgstr "روٹس..."
+
+msgid "Search domains:"
+msgstr "تلاش کے ڈومین:"
+
+msgid "Routes#x2026;"
+msgstr "روٹس#x2026;"
+
+msgid ""
+"Any\n"
+"3G (UMTS/HSPA)\n"
+"2G (GPRS/EDGE)\n"
+"Prefer 3G (UMTS/HSPA)\n"
+"Prefer 2G (GPRS/EDGE)"
+msgstr ""
+"کوئی\n"
+"3G (UMTS/HSPA)\n"
+"2G (GPRS/EDGE)\n"
+"ترجیحاً 3G (UMTS/HSPA)\n"
+"ترجیحاً 2G (GPRS/EDGE)"
+
+msgid "Change..."
+msgstr "تبدیل کریں..."
+
+msgid "Network:"
+msgstr "نیٹ ورک:"
+
+msgid "Number:"
+msgstr "نمبر:"
+
+msgid "PIN:"
+msgstr "PIN:"
+
+msgid "Show passwords"
+msgstr "پاس ورڈ دکھائیں"
+
+msgid "APN:"
+msgstr "APN:"
+
+msgid "Band:"
+msgstr "بینڈ:"
+
+msgid "Allowed Authentication Methods"
+msgstr "جائز توثیقی طریقے"
+
+msgid "Authentication"
+msgstr "توثیق"
+
+msgid "Compression"
+msgstr "دباؤ"
+
+msgid "Echo"
+msgstr "ایکو"
+
+msgid "In most cases, the provider's PPP servers will support all authentication methods.  If connections fail, try disabling support for some methods."
+msgstr "بیشتر حالتوں میں، PPP سرور کا فراہم کار تمام نوعیت کے توثیقی اسلوب کی معاونت کرے گا.  اگر اتصال ناکام ہوجائے، تو کچھ اسلوبوں کی معاونت معطل کر کے دیکھیں."
+
+msgid "Allow BSD data compression"
+msgstr "بی ایس ڈی BSD ڈیٹا دباؤ"
+
+msgid "Allow Deflate data compression"
+msgstr "ڈیفلیٹ Deflate ڈیٹا دباؤ کی اجازت دیں"
+
+msgid "Allowed methods:"
+msgstr "مجاز اسلوب:"
+
+msgid "CHAP"
+msgstr "CHAP"
+
+msgid "Challenge Handshake Authentication Protocol"
+msgstr "چلینج ہینڈ شیک توثیقی پروٹوکول"
+
+msgid "Configure Methods…"
+msgstr "اسلوب وضع کریں..."
+
+msgid "Extensible Authentication Protocol"
+msgstr "وسعت پذیر توثیقی پروٹوکول"
+
+msgid "MSCHAP v2"
+msgstr "MSCHAP v2"
+
+msgid "Microsoft Challenge Handshake Authentication Protocol"
+msgstr "مائکروسوفٹ چیلنج ہینڈ شیک توثیقی پروٹوکول"
+
+msgid "Microsoft Challenge Handshake Authentication Protocol version 2"
+msgstr "مائکروسوفٹ چیلنج ہینڈ شیک توثیقی پروٹوکول نسخہ 2"
+
+msgid "Password Authentication Protocol"
+msgstr "پاس ورڈ توثیقی پروٹوکول"
+
+msgid "Send PPP echo packets"
+msgstr "پی پی پی ایکو پیکٹ ارسال کریں"
+
+msgid "Use TCP header compression"
+msgstr "ٹی سی پی TCP ہیڈر دباؤ استعمال کریں"
+
+msgid "Use stateful MPPE"
+msgstr "stateful MPPE استعمال کریں"
+
+msgid "EAP"
+msgstr "EAP"
+
+msgid "MSCHAP"
+msgstr "MSCHAP"
+
+msgid "PAP"
+msgstr "PAP"
+
+msgid "Require 128-bit encryption"
+msgstr "128-بِٹ رمز نگاری درکار"
+
+msgid "Use point-to-point encryption (MPPE)"
+msgstr "پوائینٹ ٹو پوائینٹ رمز نگاری (MPPE) استعمال کریں"
+
+msgid "Autonegotiate"
+msgstr "خودکار-فیصلہ"
+
+msgid ""
+"Automatic\n"
+"10 Mb/s\n"
+"100 Mb/s\n"
+"1 Gb/s\n"
+"10 Gb/s"
+msgstr ""
+"خودکار\n"
+"10 م.ب/س\n"
+"100 م.ب/س\n"
+"1 گ.ب/س\n"
+"10 گ.ب/س"
+
+msgid ""
+"Automatic\n"
+"Twisted Pair (TP)\n"
+"Attachment Unit Interface (AUI)\n"
+"BNC\n"
+"Media Independent Interface (MII)"
+msgstr ""
+"خودکار\n"
+"گتھے ہوئے پیئر (TP)\n"
+"منسلکاتی اکائی مواجہ (AUI)\n"
+"BNC\n"
+"میڈیا مستقل مواجہ (MII)"
+
+msgid "Full duplex"
+msgstr "بھرپور دو جُزی"
+
+msgid "MTU:"
+msgstr "MTU:"
+
+msgid "MAC address:"
+msgstr "میک MAC پتہ:"
+
+msgid "Port:"
+msgstr "پورٹ:"
+
+msgid "bytes"
+msgstr "بائٹس"
+
+msgid ""
+"Automatic\n"
+"A (5 GHz)\n"
+"B/G (2.4 GHz)"
+msgstr ""
+"خودکار\n"
+"A (5 GHz)\n"
+"B/G (2.4 GHz)"
+
+msgid "Channel:"
+msgstr "چینل:"
+
+msgid ""
+"Infrastructure\n"
+"Ad-hoc"
+msgstr ""
+"ڈھانچہ\n"
+"Ad-hoc"
+
+msgid "Mode:"
+msgstr "انداز:"
+
+msgid "Mb/s"
+msgstr "م.ب/س"
+
+msgid "Transmission power:"
+msgstr "ترسیلی قوت:"
+
+msgid "BSSID:"
+msgstr "BSSID:"
+
+msgid "Rate:"
+msgstr "ریٹ:"
+
+msgid "SSID:"
+msgstr "SSID:"
+
+msgid "mW"
+msgstr "mW"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Choose a VPN Connection Type</span>\n"
+"\n"
+"Select the type of VPN you wish to use for the new connection.  If the type of VPN connection you wish to create does not appear in the list, you may not have the correct VPN plugin installed."
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">وی پی این VPN اتصال کی نوعیت منتخب کریں</span>\n"
+"\n"
+"نئے اتصال کے لیے وی پی این کی نوعیت منتخب کریں.  اگر جو اتصال آپ بنانا چاہیں فہرست میں موجود نہ ہو تو ممکنہ طور پر آپ کے پاس درست وی پی این پلگ ان نصب نہیں ہے."
+
+msgid "Create…"
+msgstr "بنائیں..."
+
+msgid "Address"
+msgstr "پتہ"
+
+msgid "Netmask"
+msgstr "نیٹ ماسک"
+
+msgid "Gateway"
+msgstr "گیٹ وے"
+
+msgid "Metric"
+msgstr "میٹرک"
+
+msgid "Prefix"
+msgstr "پریفکس"
+
+msgid "Could not load DSL user interface."
+msgstr "ڈی ایس ایل DSL صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "DSL"
+msgstr "DSL"
+
+msgid "DSL connection %d"
+msgstr "ڈی ایس ایل اتصال %d"
+
+msgid "Automatic (VPN)"
+msgstr "خودکار (VPN)"
+
+msgid "Automatic (VPN) addresses only"
+msgstr "خودکار (VPN) صرف پتے"
+
+msgid "Automatic (PPP)"
+msgstr "خودکار (PPP)"
+
+msgid "Automatic (PPP) addresses only"
+msgstr "خودکار (PPP) صرف پتے"
+
+msgid "Automatic (PPPoE)"
+msgstr "خودکار (PPPoE)"
+
+msgid "Automatic (PPPoE) addresses only"
+msgstr "خودکار (PPPoE) صرف پتے"
+
+msgid "Automatic (DHCP)"
+msgstr "خودکار (DHCP)"
+
+msgid "Automatic (DHCP) addresses only"
+msgstr "خودکار (DHCP) صرف پتے"
+
+msgid "Link-Local Only"
+msgstr "صرف لنک-لوکل"
+
+msgid "Shared to other computers"
+msgstr "دوسرے کمپوٹروں سے شیئر کردہ"
+
+msgid "Editing IPv4 routes for %s"
+msgstr "تدوین IPv4 روٹس برائے %s"
+
+msgid "Could not load IPv4 user interface."
+msgstr "IPv4 صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "IPv4 Settings"
+msgstr "IPv4 ترتیبات"
+
+msgid "Automatic, addresses only"
+msgstr "خودکار، صرف پتے"
+
+msgid "Ignore"
+msgstr "نظر انداز کریں"
+
+msgid "Editing IPv6 routes for %s"
+msgstr "تدوین IPv6 روٹس برائے %s"
+
+msgid "Could not load IPv6 user interface."
+msgstr "IPv6 صارف مواجہ لوڈ نہیں ہوسکتا"
+
+msgid "IPv6 Settings"
+msgstr "IPv6 ترتیبات"
+
+msgid "Could not load mobile broadband user interface."
+msgstr "موبائل براڈ بینڈ صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "Unsupported mobile broadband connection type."
+msgstr "موبائل براڈ بینڈ اتصال کی نوعیت معاونت شدہ نہیں ہے."
+
+msgid "Select Mobile Broadband Provider Type"
+msgstr "موبائل براڈ بینڈ فراہم کُنندہ کی نوعیت منتخب کریں"
+
+msgid "Select the technology your mobile broadband provider uses.  If you are unsure, ask your provider."
+msgstr "وہ ٹیکنالوجی منتخب کریں جو آپ کا موبائل براڈ بینڈ فراہم کُنندہ استعمال کرتا ہے. اگر آپ پُر یقین نہیں ہیں، اپنے فراہم کُنندہ سے رابطہ کریں."
+
+msgid "My provider uses GSM-based technology (i.e. GPRS, EDGE, UMTS, HSDPA)"
+msgstr "میرا فراہم کُنندہ جی ایس ایم پر مبنی ٹیکنالوجی استعمال کرتا ہے (جیسے GPRS, EDGE, UMTS, HSDPA)"
+
+msgid "My provider uses CDMA-based technology (i.e. 1xRTT, EVDO)"
+msgstr "میرا فراہم کُنندہ سی ڈی ایم اے پر مبنی ٹیکنالوجی استعمال کرتا ہے (جیسے 1xRTT, EVDO)"
+
+msgid "MSCHAPv2"
+msgstr "MSCHAPv2"
+
+msgid "none"
+msgstr "کچھ نہیں"
+
+msgid "Editing PPP authentication methods for %s"
+msgstr "تدوین PPP توثیقی اسلوب برائے %s"
+
+msgid "Could not load PPP user interface."
+msgstr "پی پی پی PPP صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "PPP Settings"
+msgstr "PPP ترتیبات"
+
+msgid "VPN"
+msgstr "VPN"
+
+msgid "Could not find VPN plugin service for '%s'."
+msgstr "'%s' کے لیے وی پی این پلگ ان سروس نہیں پائی گئی."
+
+msgid "VPN connection %d"
+msgstr "وی پی این اتصال %d"
+
+msgid "Could not load wired user interface."
+msgstr "وائیرڈ صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "Wired"
+msgstr "وائیرڈ"
+
+msgid "Wired connection %d"
+msgstr "وائیرڈ اتصال %d"
+
+msgid "802.1x Security"
+msgstr "802.1x سیکورٹی"
+
+msgid "Use 802.1X security for this connection"
+msgstr "اس اتصال کے لیے 802.1X سیکورٹی استعمال کریں"
+
+msgid "default"
+msgstr "طے شدہ"
+
+msgid "%u (%u MHz)"
+msgstr "%u (%u MHz)"
+
+msgid "Could not load WiFi user interface."
+msgstr "WiFi صارف مواجہ لوڈ نہیں ہوسکتا"
+
+msgid "Wireless"
+msgstr "وائیرلیس"
+
+msgid "Wireless connection %d"
+msgstr "وائیرلیس اتصال %d"
+
+msgid "WEP 40/128-bit Key"
+msgstr "WEP 40/128-bit Key"
+
+msgid "WEP 128-bit Passphrase"
+msgstr "WEP 128-bit Passphrase"
+
+msgid "Dynamic WEP (802.1x)"
+msgstr "حرکی WEP (802.1x)"
+
+msgid "WPA  WPA2 Personal"
+msgstr "WPA  WPA2 ذاتی"
+
+msgid "WPA  WPA2 Enterprise"
+msgstr "WPA  WPA2 انٹرپرائز"
+
+msgid "Could not load WiFi security user interface; missing WiFi setting."
+msgstr "وائی فائی WiFi سیکورٹی صارف مواجہ لوڈ نہیں ہوسکتا، WiFi ترتیاب مفقود ہے."
+
+msgid "Could not load WiFi security user interface."
+msgstr "وائی فائی WiFi سیکورٹی صارف مواجہ لوڈ نہیں ہوسکتا."
+
+msgid "Wireless Security"
+msgstr "وائیرلیس سیکورٹی"
+
+msgid "Editing %s"
+msgstr "تدوین %s"
+
+msgid "Editing un-named connection"
+msgstr "بغیر-نام کے اتصال کی تدوین"
+
+msgid "The connection editor could not find some required resources (the NetworkManager applet glade file was not found)."
+msgstr "اتصال مدون کو کچھ درکار وسائل نہیں مل رہے (نیٹ ورک منیجر ایپلیٹ کی گلیڈ glade فائل نہیں پائی گئی)."
+
+msgid "The connection editor could not find some required resources (the glade file was not found)."
+msgstr "اتصال مدون کو کچھ درکار وسائل نہیں مل رہے (گلیڈ glade فائل نہیں ملی)."
+
+msgid "Error creating connection editor dialog."
+msgstr "اتصال مدون کا ڈائیلاگ بنانے میں غلطی."
+
+msgid "Apply"
+msgstr "اطلاق"
+
+msgid "Save this connection for all users of this machine."
+msgstr "اس مشین کے تمام صارفین کے لیے یہ اتصال محفوظ کریں."
+
+msgid "Apply..."
+msgstr "اطلاق..."
+
+msgid "Authenticate to save this connection for all users of this machine."
+msgstr "اس اتصال کو اس مشین کے تمام صارفین کے لیے محفوظ کرنے کی تصدیق."
+
+msgid "Available to all users"
+msgstr "دستیاب برائے تمام صارفین"
+
+msgid "Connect automatically"
+msgstr "خودکار متصل ہوں"
+
+msgid "Connection name:"
+msgstr "اتصال کا نام:"
+
+msgid "Export"
+msgstr "برآمد"
+
+msgid "Import"
+msgstr "درآمد"
+
+msgid "never"
+msgstr "کبھی نہیں"
+
+msgid "now"
+msgstr "ابھی"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d منٹ پہلے"
+msgstr[1] "%d منٹ پہلے"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d گھنٹہ پہلے"
+msgstr[1] "%d گھنٹے پہلے"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d دن پہلے"
+msgstr[1] "%d دنوں پہلے"
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] "%d مہینہ پہلے"
+msgstr[1] "%d مہینوں پہلے"
+
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] "%d سال پہلے"
+msgstr[1] "%d سال پہلے"
+
+msgid "Connection add failed"
+msgstr "اتصال کا اضافہ ناکام ہوگیا"
+
+msgid "Error editing connection: property '%s' / '%s' invalid: %d"
+msgstr "اتصال کی تدوین میں غلطی: خصوصیت '%s' / '%s' ناموزوں: %d"
+
+msgid "An unknown error ocurred."
+msgstr "نامعلوم غلطی ہوئی ہے."
+
+msgid "Error initializing editor"
+msgstr "مدون کی تیاری میں غلطی"
+
+msgid "The connection editor dialog could not be initialized due to an unknown error."
+msgstr "نامعلوم غلطی کی بناء پر اتصال مدون ڈائیلاگ تیار نہیں ہوسکا."
+
+msgid "Could not create new connection"
+msgstr "نیا اتصال نہیں بنایا جاسکتا"
+
+msgid "Could not edit new connection"
+msgstr "نیا اتصال مدون نہیں ہوسکتا"
+
+msgid "Could not edit connection"
+msgstr "اتصال مدون نہیں ہوسکتا"
+
+msgid "Connection delete failed"
+msgstr "اتصال حذف کرنے میں ناکامی"
+
+msgid "Are you sure you wish to delete the connection %s?"
+msgstr "کیا آپ واقعی اتصال %s کو حذف کرنا چاہتے ہیں؟"
+
+msgid "Cannot import VPN connection"
+msgstr "وی پی این اتصال درآمد نہیں ہوسکتا"
+
+msgid ""
+"The VPN plugin failed to import the VPN connection correctly\n"
+"\n"
+"Error: no VPN service type."
+msgstr ""
+"وی پی این پلگ ان وی پی این اتصال کو درست طور پر درآمد کرنے میں ناکام ہوگیا\n"
+"\n"
+"غلطی: کوئی وی پی این سروس نوعیت نہیں."
+
+msgid "Could not edit imported connection"
+msgstr "درآمد کردہ اتصال مدون نہیں ہوسکتے"
+
+msgid "Last Used"
+msgstr "آخری استعمال"
+
+msgid "Edit the selected connection"
+msgstr "منتخب کردہ اتصال مدون کریں"
+
+msgid "Edit..."
+msgstr "تدوین..."
+
+msgid "Authenticate to edit the selected connection"
+msgstr "منتخب کردہ اتصال کی تدوین کی توثیق"
+
+msgid "Delete the selected connection"
+msgstr "منتخب کردہ اتصال حذف کریں"
+
+msgid "Delete..."
+msgstr "حذف..."
+
+msgid "Authenticate to delete the selected connection"
+msgstr "منتخب کردہ اتصال کو حذف کرنے کی توثیق"
+
+msgid ""
+"The file '%s' could not be read or does not contain recognized VPN connection information\n"
+"\n"
+"Error: %s."
+msgstr ""
+"فائل '%s' نہیں پڑھی جاسکتی یا اس میں جانی پہچانی وی پی این اتصال کی معلومات نہیں ہیں\n"
+"\n"
+"غلطی: %s."
+
+msgid "Select file to import"
+msgstr "درآمد کرنے کے لیے فائل منتخب کریں"
+
+msgid "A file named \"%s\" already exists."
+msgstr "فائل \"%s\" پہلے ہی موجود ہے."
+
+msgid "Replace"
+msgstr "بدل دیں"
+
+msgid "Do you want to replace %s with the VPN connection you are saving?"
+msgstr "کیا آپ %s کو اس وی پی این اتصال سے بدلنا چاہتے ہیں جسے آپ محفوظ کرنے جارہے ہیں؟"
+
+msgid "Cannot export VPN connection"
+msgstr "وی پی این اتصال برآمد نہیں ہوسکتا"
+
+msgid ""
+"The VPN connection '%s' could not be exported to %s.\n"
+"\n"
+"Error: %s."
+msgstr ""
+"وی پی این اتصال '%s' برآمد نہیں کیا جاسکتا تا %s\n"
+"\n"
+"غلطی: %s."
+
+msgid "Export VPN connection..."
+msgstr "وی پی این اتصال برآمد کریں..."
+
+msgid "Access the Internet using your mobile phone"
+msgstr "اپنے موبائل فون سے انٹرنیٹ تک رسائی حاصل کریں"
+
+msgid "Usage:"
+msgstr "استعمال:"
+
+msgid "This program is a component of NetworkManager (http://projects.gnome.org/NetworkManager)."
+msgstr "یہ اطلاقیہ نیٹ ورک منیجر کا ایک جُز ہے (http://projects.gnome.org/NetworkManager)."
+
+msgid "It is not intended for command-line interaction but instead runs in the GNOME desktop environment."
+msgstr "اسے کمانڈ لائن تعامل میں چلانا مقصود نہیں، اس کے برعکس یہ گنوم ڈیسک ٹاپ ماحول میں چلانے کے لیے ہے."
+
+msgid "Your mobile broadband connection is configured with the following settings:"
+msgstr "آپ کا موبائل براڈ بینڈ اتصال مندرجہ ذیل ترتیبات کے ساتھ وضع کیا گیا ہے:"
+
+msgid "Your Device:"
+msgstr "آپ کی ڈیوائس:"
+
+msgid "Your Provider:"
+msgstr "آپ کا فراہم کُنندہ:"
+
+msgid "Your Plan:"
+msgstr "آپ کا پلان:"
+
+msgid "A connection will now be made to your mobile broadband provider using the settings you selected.  If the connection fails or you cannot access network resources, double-check your settings.  To modify your mobile broadband connection settings, choose \"Network Connections\" from the System >> Preferences menu."
+msgstr "اب آپ کی منتخب کردہ ترتیبات کو استعمال کرتے ہوئے آپ کے براڈ بینڈ فراہم کُنندہ سے اتصال قائم کیا جائے گا. اگر تصال ناکام ہوجائے یا آپ نیٹ ورک وسائل تک رسائی حاصل نہ کرسکیں تو اپنی ترتیبات دوبارہ چیک کریں. اپنے موبائل براڈ بینڈ اتصال میں تبدیلی کے لیے نظام >> ترجیحات کی فہرست سے \"نیٹ ورک اتصال\" منتخب کریں."
+
+msgid "Confirm Mobile Broadband Settings"
+msgstr "موبائل براڈ بینڈ کی ترتیبات کی تصدیق کریں"
+
+msgid "Unlisted"
+msgstr "غیر درج شدہ"
+
+msgid "Select your plan:"
+msgstr "اپنا پلان منتخب کریں:"
+
+msgid "Selected plan APN (Access Point Name):"
+msgstr "منتخب کردہ پلان APN (Access Point Name):"
+
+msgid ""
+"Warning: Selecting an incorrect plan may result in billing issues for your broadband account or may prevent connectivity.\n"
+"\n"
+"If you are unsure of your plan please ask your provider for your plan's APN."
+msgstr ""
+"انتباہ: غلط پلان کے انتخاب سے آپ کے براڈ بینڈ اتصال سے بِلِنگ کے مسائل پیدا ہوسکتے ہیں یا ممکنہ طور پر آپ کی متصلی بند کی جاسکتی ہے\n"
+"\n"
+"اگر آپ اپنے پلان کے حوالے سے تذبذب کا شکار ہیں تو اپنے فراہم کُنندہ سے اپنے پلان کے APN کے لیے کہیں."
+
+msgid "Choose your Billing Plan"
+msgstr "اپنا بِلِنگ پلان منتخب کریں"
+
+msgid "My plan is not listed..."
+msgstr "میرا پلان درجِ فہرست نہیں ہے..."
+
+msgid "Select your provider from a list:"
+msgstr "اپنا فراہم کُنندہ فہرست میں سے منتخب کریں:"
+
+msgid "Provider"
+msgstr "فراہم کُنندہ"
+
+msgid "I can't find my provider and I wish to enter it manually:"
+msgstr "میں اپنا فراہم کُنندہ تلاش نہیں کر سکا چنانچہ میں اسے دستی طور پر شامل کرنا چاہتا ہوں:"
+
+msgid "Provider:"
+msgstr "فراہم کُنندہ:"
+
+msgid "My provider uses GSM technology (GPRS, EDGE, UMTS, HSPA)"
+msgstr "میرا فراہم کُنندہ GSM ٹیکنالوجی استعمال کرتا ہے (GPRS, EDGE, UMTS, HSPA)"
+
+msgid "My provider uses CDMA technology (1xRTT, EVDO)"
+msgstr "میرا فراہم کُنندہ CDMA ٹیکنالوجی استعمال کرتا ہے (1xRTT, EVDO)"
+
+msgid "Choose your Provider"
+msgstr "اپنا فراہم کُنندہ منتخب کریں"
+
+msgid "Country List:"
+msgstr "ممالک فہرست:"
+
+msgid "Country"
+msgstr "ملک"
+
+msgid "My country is not listed"
+msgstr "میرا ملک فہرست میں نہیں ہے"
+
+msgid "Choose your Provider's Country"
+msgstr "اپنے فراہم کُنندہ کا ملک منتخب کریں"
+
+msgid "Installed GSM device"
+msgstr "نصب شدہ GSM ڈیوائس"
+
+msgid "Installed CDMA device"
+msgstr "نصب شدہ CDMA ڈیوائس"
+
+msgid "This assistant helps you easily set up a mobile broadband connection to a cellular (3G) network."
+msgstr "یہ مددگار سیلولر (3G) نیٹ ورک سے موبائل براڈ بینڈ اتصال مرتب کرنے میں آپ کی مدد کرے گا."
+
+msgid "You will need the following information:"
+msgstr "آپ کو ذیل کی معلومات درکار ہوں گی:"
+
+msgid "Your broadband provider's name"
+msgstr "آپ کے براڈ بینڈ فراہم کُنندہ کا نام"
+
+msgid "Your broadband billing plan name"
+msgstr "آپ کے فراہم کُنندہ کے بِلِنگ پلان کا نام"
+
+msgid "(in some cases) Your broadband billing plan APN (Access Point Name)"
+msgstr "(کچھ صورتوں میں) آپ کا براڈ بینڈ بِلِنگ پلان APN (Access Point Name)"
+
+msgid "Create a connection for this mobile broadband device:"
+msgstr "اس موبائل براڈ بینڈ ڈیوائس کے لیے اتصال بنائیں:"
+
+msgid "Any device"
+msgstr "کوئی بھی ڈیوائس"
+
+msgid "Set up a Mobile Broadband Connection"
+msgstr "موبائل براڈ بینڈ اتصال مرتب کریں"
+
+msgid "New Mobile Broadband Connection"
+msgstr "نیا موبائل براڈ بینڈ اتصال"
+
+msgid "Cannot start VPN connection '%s'"
+msgstr "وی پی این اتصال '%s' شروع نہیں کیا جاسکا"
+
+msgid "Could not find the authentication dialog for VPN connection type '%s'. Contact your system administrator."
+msgstr "وی پی این اتصال نوعیت '%s' کے لیے توثیقی ڈائیلاگ نہیں مل سکا. خشبو لگا کر اپنے نظام کے مدیر سے رابطہ کریں."
+
+msgid "There was a problem launching the authentication dialog for VPN connection type '%s'. Contact your system administrator."
+msgstr "توثیقی ڈائیلاگ برائے وی پی این اتصال نوعیت '%s' کے لیے چلانے میں مسائل درپیش ہیں. اپنے نظام کے مدیر سے رابطہ کریں."
+
+msgid "Wired 802.1X authentication"
+msgstr "وائیرڈ 802.1X توثیق"
+
+msgid "New..."
+msgstr "نیا..."
+
+msgid "Passwords or encryption keys are required to access the wireless network '%s'."
+msgstr "وائیرلیس نیٹ ورک '%s' تک رسائی کے لیے پاس ورڈ یا ترمیزی کلیدیں درکار ہیں."
+
+msgid "Wireless Network Authentication Required"
+msgstr "وائیرلیس نیٹ ورک توثیق درکار"
+
+msgid "Authentication required by wireless network"
+msgstr "توثیق درکار از وائیرلیس نیٹ ورک"
+
+msgid "Create New Wireless Network"
+msgstr "نیا وائیرلیس نیٹ ورک بنائیں"
+
+msgid "New wireless network"
+msgstr "نیا وائیرلیس نیٹ ورک"
+
+msgid "Enter a name for the wireless network you wish to create."
+msgstr "نئے وائیرلیس نیٹ ورک کا نام لکھیں جو آپ بنانا چاہتے ہیں."
+
+msgid "Connect to Hidden Wireless Network"
+msgstr "پوشیدہ وائیرلیس نیٹ ورک سے اتصال قائم کریں"
+
+msgid "Hidden wireless network"
+msgstr "پوشیدہ وائیرلیس نیٹ ورک"
+
+msgid "Enter the name and security details of the hidden wireless network you wish to connect to."
+msgstr "اس پوشیدہ وائیرلیس نیٹ ورک کا نام اور سیکورٹی تفصیلات داخل کریں جس سے آپ متصل ہونے چاہتے ہیں."
+
+msgid "No Certificate Authority certificate chosen"
+msgstr "کوئی سند اتھارٹی سند منتخب نہیں کی گئی"
+
+msgid "Not using a Certificate Authority (CA) certificate can result in connections to insecure, rogue wireless networks.  Would you like to choose a Certificate Authority certificate?"
+msgstr "سند اتھارٹی (CA) کی سند استعمال نہ کرنے کا نتیجہ غیر محفوظ اتصال یا وائیرلیس نیٹ ورک کی دھوکہ دہی کی صورت میں نکل سکتا ہے. کیا آپ سند اتھارٹی کی سند منتخب کرنا چاہتے ہیں؟"
+
+msgid "Choose CA Certificate"
+msgstr "CA سند منتخب کریں"
+
+msgid "DER, PEM, or PKCS#12 private keys (*.der, *.pem, *.p12)"
+msgstr "DER, PEM, or PKCS#12 نجی کلیدیں (*.der, *.pem, *.p12)"
+
+msgid "DER or PEM certificates (*.der, *.pem, *.crt, *.cer)"
+msgstr "DER یا PEM اسناد (*.der, *.pem, *.crt, *.cer)"
+
+msgid "MD5"
+msgstr "MD5"
+
+msgid "GTC"
+msgstr "GTC"
+
+msgid "Choose a Certificate Authority certificate..."
+msgstr "سند اتھارٹی سند منتخب کریں..."
+
+msgid "Unencrypted private keys are insecure"
+msgstr "غیر رمز شدہ نجی کلیدیں غیر محفوظ ہیں"
+
+msgid ""
+"The selected private key does not appear to be protected by a password.  This could allow your security credentials to be compromised.  Please select a password-protected private key.\n"
+"\n"
+"(You can password-protect your private key with openssl)"
+msgstr ""
+"معلوم ہوتا ہے کہ منتخب کردہ نجی کلید پاس ورد سے محفظ نہیں ہے. یہ آپ کی حفاظت کے لیے خطرناک ثابت ہوسکتا ہے. براہ مہربانی پاس ورڈ سے محفوظ کردہ نجی کلید منتخب کریں.\n"
+"\n"
+"(آپ openssl کے ذریعے اپنی نجی کلید کو پاس ورڈ سے محفوظ بنا سکتے ہیں)"
+
+msgid "Choose your personal certificate..."
+msgstr "اپنی ذاتی سند منتخب کریں..."
+
+msgid "Choose your private key..."
+msgstr "اپنی نجی کلید منتخب کریں..."
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "Tunneled TLS"
+msgstr "Tunneled TLS"
+
+msgid "Protected EAP (PEAP)"
+msgstr "محفوظ EAP (PEAP)"
+
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+msgstr[1] ""
+
+

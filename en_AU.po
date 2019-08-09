@@ -1,0 +1,3893 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:40:20 CDT 2013 ---
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2002-2012.
+# Robert Brady <rwb197@ecs.soton.ac.uk>, 1999-2002.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2005-09-11 17:30+0200\n"
+"PO-Revision-Date: 2000-10-22 16:19+0100\n"
+"Last-Translator: Michael Zucchi <notzed@ximian.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "It has %d event."
+msgid_plural "It has %d events."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d %B %Y"
+msgstr "%m/%d/%Y"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "ZIP Code:"
+msgstr "Post Code:"
+
+msgid "Organization"
+msgstr "Organisation"
+
+msgid ""
+"Opening %d contact will open %d new window as well.\n"
+"Do you really want to display this contact?"
+msgid_plural ""
+"Opening %d contacts will open %d new windows as well.\n"
+"Do you really want to display all of these contacts?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Could not initialize Bonobo"
+msgstr "Could not initialise Bonobo"
+
+msgid "Color for tasks due today"
+msgstr "Colours for display"
+
+msgid "Pick a color"
+msgstr "Pick a colour"
+
+msgid "%d Attachment"
+msgid_plural "%d Attachments"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d day before appointment"
+msgid_plural "%d days before appointment"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d hour before appointment"
+msgid_plural "%d hours before appointment"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d minute before appointement"
+msgid_plural "%d minutes before appointment"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Organizer:"
+msgstr "Organiser:"
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%a %m/%d/%Y %H:%M:%S"
+msgstr "%a %d/%m/%Y %H:%M:%S"
+
+msgid "%a %m/%d/%Y %I:%M:%S %p"
+msgstr "%a %d/%m/%Y %I:%M:%S %p"
+
+msgid "Every day"
+msgid_plural "Every %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Every week"
+msgid_plural "Every %d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Every week on "
+msgid_plural "Every %d weeks on "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "every month"
+msgid_plural "every %d months"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Every year"
+msgid_plural "Every %d years"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "a total of %d time"
+msgid_plural " a total of %d times"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%a %m/%d/%Y"
+msgstr "%a %d/%m/%Y"
+
+msgid "%m/%d/%Y"
+msgstr "%d/%m/%Y"
+
+msgid "%a %m/%d/%Y %I:%M %p"
+msgstr "%a %d/%m/%Y %I:%M %p"
+
+msgid "%a %m/%d/%Y %H:%M"
+msgstr "%a %d/%m/%Y %H:%M"
+
+msgid "%a %m/%d/%Y %I %p"
+msgstr "%a %d/%m/%Y %I:%M %p"
+
+msgid "%a %m/%d/%Y %H"
+msgstr "%a %d/%m/%Y %H:%M"
+
+msgid "%m/%d/%Y %I:%M:%S %p"
+msgstr "%a %d/%m/%Y %I:%M:%S %p"
+
+msgid "%m/%d/%Y %H:%M:%S"
+msgstr "%a %d/%m/%Y %H:%M:%S"
+
+msgid "%m/%d/%Y %I:%M %p"
+msgstr "%a %d/%m/%Y %I:%M %p"
+
+msgid "%m/%d/%Y %H:%M"
+msgstr "%a %d/%m/%Y %H:%M"
+
+msgid "%m/%d/%Y %I %p"
+msgstr "%a %d/%m/%Y %I:%M %p"
+
+msgid "%m/%d/%Y %H"
+msgstr "%d/%m/%Y"
+
+msgid "1 second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 year ago"
+msgid_plural "%d years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d deleted"
+msgid_plural "%d deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d junk"
+msgid_plural "%d junk"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d draft"
+msgid_plural "%d drafts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ", %d unread"
+msgid_plural ", %d unread"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Storing folder '%s'"
+msgstr "Synchronising \"%s\""
+
+msgid "%d/%m/%Y"
+msgstr "%m/%d/%Y"
+
+msgid "Close"
+msgstr "Close"
+
+
+msgid "Syncing folders"
+msgstr "Synchronising folders"
+
+msgid "Cannot open message"
+msgstr "Can not open message"
+
+msgid "Syncing folder"
+msgstr "Synchronising folder"
+
+msgid ""
+"Cannot parse search expression: %s:\n"
+"%s"
+msgstr ""
+"Can not parse search expression: %s\n"
+"%s"
+
+msgid "Cannot build locking helper pipe: %s"
+msgstr "Can not build locking helper pipe: %s"
+
+msgid "Cannot fork locking helper: %s"
+msgstr "Can not fork locking helper: %s"
+
+msgid "Cannot get folder: Invalid operation on this store"
+msgstr "Can not get folder: Invalid operation on this store"
+
+msgid "Cannot create folder: Invalid operation on this store"
+msgstr "Can not create folder: Invalid operation on this store"
+
+msgid "Cannot delete folder: %s: Invalid operation"
+msgstr "Can not delete folder: %s: Invalid operation"
+
+msgid "Cannot rename folder: %s: Invalid operation"
+msgstr "Can not rename folder: %s: Invalid operation"
+
+msgid "Cannot delete folder: %s: No such folder"
+msgstr "Can not delete folder: %s: No such folder"
+
+msgid "Cannot rename folder: %s: No such folder"
+msgstr "Can not rename folder: %s: No such folder"
+
+msgid ""
+"Cannot get message: %s\n"
+"  %s"
+msgstr ""
+"Can not get message: %s\n"
+"  %s"
+
+msgid "Cannot get folder: %s: %s"
+msgstr "Can not get folder: %s: %s"
+
+msgid "Cannot append message to maildir folder: %s: %s"
+msgstr "Can not append message to maildir folder: %s: %s"
+
+msgid ""
+"Cannot get message: %s from folder %s\n"
+"  %s"
+msgstr ""
+"Can not get message: %s from folder %s\n"
+"  %s"
+
+msgid "Cannot open maildir directory path: %s: %s"
+msgstr "Can not open maildir directory path: %s: %s"
+
+msgid "Storing folder"
+msgstr "Synchronising folder"
+
+msgid "Cannot create folder lock on %s: %s"
+msgstr "Can not create folder lock on %s: %s"
+
+msgid "Cannot open mailbox: %s: %s\n"
+msgstr "Can not open mailbox: %s: %s\n"
+
+msgid "Cannot append message to mbox file: %s: %s"
+msgstr "Can not append message to mbox file: %s: %s"
+
+msgid "Cannot check folder: %s: %s"
+msgstr "Synchronising folder failed: %s: %s"
+
+msgid "Could not close temp folder: %s"
+msgstr "Could not close temporary folder: %s"
+
+msgid "Error writing to temp mailbox: %s"
+msgstr "Error writing to temporary mailbox: %s"
+
+msgid "Writing to tmp mailbox failed: %s: %s"
+msgstr "Writing to temporary mailbox failed: %s: %s"
+
+msgid "Cannot append message to mh folder: %s: %s"
+msgstr "Can not append message to mh folder: %s: %s"
+
+msgid "Cannot open MH directory path: %s: %s"
+msgstr "Can not open MH directory path: %s: %s"
+
+msgid "Spool folders cannot be deleted"
+msgstr "Spool folders can not be deleted"
+
+msgid "Organization:"
+msgstr "Organisation:"
+
+msgid "Could not initialize gnome-vfs"
+msgstr "Could not initialise gnome-vfs"
+
+msgid "Change Organizer"
+msgstr "Change Organiser"
+
+msgid "Cannot access the Ximian Evolution shell."
+msgstr "Can not initialise the Ximian Evolution shell."
+
+msgid "Reconfiguring folder"
+msgstr "Synchronising folder"
+
+msgid "Reconfigure /%s"
+msgstr "Synchronising \"%s\""
+
+msgid "Cannot initialize Evolution's mail config component."
+msgstr "Cannot initialise Evolution's mail config component."
+
+msgid "Cannot initialize Evolution's folder info component."
+msgstr "Cannot initialise Evolution's folder info component."
+
+msgid "Executive summary component could not initialize Bonobo.\n"
+msgstr "Could not initialise Bonobo.\n"
+
+msgid "Cannot initialize the Bonobo component system."
+msgstr "Can not initialise the Bonobo component system."
+
+msgid "setupvfs(): could not initialize GNOME-VFS"
+msgstr "Could not initialise GNOME-VFS"
+
+msgid "initcorba(): could not initialize GNOME"
+msgstr "Could not initialise GNOME"
+
+msgid "initbonobo(): could not initialize Bonobo"
+msgstr "Could not initialise Bonobo"
+
+msgid "Other Organizer"
+msgstr "Other Organiser"
+
+msgid "Cannot sign this message: no plaintext to sign"
+msgstr "Can not sign this message: no plaintext to sign"
+
+msgid "Cannot sign this message: no password provided"
+msgstr "Can not sign this message: no password provided"
+
+msgid "Cannot sign this message: couldn't create pipe to GPG/PGP: %s"
+msgstr "Can not sign this message: could not create pipe to GPGP/PGP: %s"
+
+msgid "Cannot sign this message: no plaintext to clearsign"
+msgstr "Can not sign this message: no plaintext to clearsign"
+
+msgid "Cannot verify this message: no plaintext to verify"
+msgstr "Can not verify this message: no plaintext to verify"
+
+msgid "Cannot verify this message: couldn't create pipe to GPG/PGP: %s"
+msgstr "Can not verify this message: could not create pipe to GPGP/PGP: %s"
+
+msgid "Cannot encrypt this message: no plaintext to encrypt"
+msgstr "Can not encrypt this message: no plaintext to encrypt"
+
+msgid "Cannot encrypt this message: no password provided"
+msgstr "Can not encrypt this message: no password provided"
+
+msgid "Cannot encrypt this message: couldn't create pipe to GPG/PGP: %s"
+msgstr "Can not encrypt this message: could not create pipe to GPGP/PGP: %s"
+
+msgid "Cannot decrypt this message: no ciphertext to decrypt"
+msgstr "Can not decrypt this message: no ciphertext to decrypt"
+
+msgid "Cannot decrypt this message: no password provided"
+msgstr "Can not decrypt this message: no password provided"
+
+msgid "Cannot decrypt this message: couldn't create pipe to GPG/PGP: %s"
+msgstr "Can not decrypt this message: could not create pipe to GPGP/PGP: %s"
+
+msgid "Cannot append message to spool file: %s: %s"
+msgstr "Can not append message to spool file: %s: %s"
+
+msgid ""
+"EMail: %s\n"
+"Common Name: %s\n"
+"Organization Unit: %s\n"
+"Organization: %s\n"
+"Locality: %s\n"
+"State: %s\n"
+"Country: %s"
+msgstr ""
+"EMail: %s\n"
+"Common Name: %s\n"
+"Organisational Unit: %s\n"
+"Organisation: %s\n"
+"Locality: %s\n"
+"State: %s\n"
+"Country: %s"
+
+msgid "Summarising folder"
+msgstr "Synchronising folder"
+
+msgid "Cannot initialize Evolution's Executive Summary component."
+msgstr "Can not initialise Evolution's Executive Summary component."
+
+msgid "KBOS:EGAA:RJTT"
+msgstr "YPAD:YBBN:YSCB:YMML:YPPH:YSSY"
+
+msgid "Synchronize"
+msgstr "Synchronise"
+
+msgid "Synchronize Action"
+msgstr "Synchronise Action"
+
+msgid ""
+"Enter your name and email address to be used in outgoing mail. You may "
+"also, optionally, enter the name of your organization, and the name of a "
+"file to read your signature from."
+msgstr ""
+"Enter your name and email address to be used in outgoing mail. You may "
+"also, optionally, enter the name of your organisation, and the name of a "
+"file to read your signature from."
+
+msgid "Querying authorization capabilities of \"%s\""
+msgstr "Querying authorisation capabilities of \"%s\""
+
+msgid "Query authorization at \"%s\""
+msgstr "Query authorisation at \"%s\""
+
+
+
+msgid "<span weight=\"bold\">List Filtering</span>"
+msgstr "<span weight=\"bold\">List Filtering</span>"
+
+msgid "Channel Name"
+msgstr "Channel Name"
+
+msgid "Channel Topic"
+msgstr "Channel Topic"
+
+msgid "Connect"
+msgstr "Connect"
+
+msgid "File Transfers"
+msgstr "File Transfers"
+
+msgid "<span weight=\"bold\">Automatically Join Channels</span>"
+msgstr "<span weight=\"bold\">Automatically Join Channels</span>"
+
+msgid "<span weight=\"bold\">User Info</span>"
+msgstr "<span weight=\"bold\">User Info</span>"
+
+msgid "Accept invalid SSL certificate"
+msgstr "Accept invalid SSL certificate"
+
+msgid "Character encoding:"
+msgstr "Character encoding:"
+
+msgid "Cycle until connected"
+msgstr "Cycle until connected"
+
+msgid "Network Settings"
+msgstr "Network Settings"
+
+msgid "Nickserv password:"
+msgstr "Nickserv password:"
+
+msgid "Server password:"
+msgstr "Server password:"
+
+msgid "Servers"
+msgstr "Servers"
+
+msgid "Use global user settings"
+msgstr "Use global user settings"
+
+msgid "Use these user settings:"
+msgstr "Use these user settings:"
+
+msgid "User and Channels"
+msgstr "User and Channels"
+
+msgid "Automatically connect to network"
+msgstr "Automatically connect to network"
+
+msgid "Name:"
+msgstr "Name:"
+
+msgid "Nick name:"
+msgstr "Nick name:"
+
+msgid "Real Name:"
+msgstr "Real Name:"
+
+msgid "Use secure connection (SSL)"
+msgstr "Use secure connection (SSL)"
+
+msgid "<span size=\"small\" style=\"italic\">Opaque</span>"
+msgstr "<span size=\"small\" style=\"italic\">Opaque</span>"
+
+msgid "<span size=\"small\" style=\"italic\">Transparent</span>"
+msgstr "<span size=\"small\" style=\"italic\">Transparent</span>"
+
+msgid "<span weight=\"bold\">Background</span>"
+msgstr "<span weight=\"bold\">Background</span>"
+
+msgid "<span weight=\"bold\">DCC Settings</span>"
+msgstr "<span weight=\"bold\">DCC Settings</span>"
+
+msgid "<span weight=\"bold\">Extra Colors</span>"
+msgstr "<span weight=\"bold\">Extra Colours</span>"
+
+msgid "<span weight=\"bold\">File Transfers</span>"
+msgstr "<span weight=\"bold\">File Transfers</span>"
+
+msgid "<span weight=\"bold\">General</span>"
+msgstr "<span weight=\"bold\">General</span>"
+
+msgid "<span weight=\"bold\">Highlighting</span>"
+msgstr "<span weight=\"bold\">Highlighting</span>"
+
+msgid "<span weight=\"bold\">Text Colors</span>"
+msgstr "<span weight=\"bold\">Text Colours</span>"
+
+msgid "<span weight=\"bold\">Throttling</span>"
+msgstr "<span weight=\"bold\">Throttling</span>"
+
+msgid "<span weight=\"bold\">User Interface</span>"
+msgstr "<span weight=\"bold\">User Interface</span>"
+
+msgid "<span weight=\"bold\">mIRC Colors</span>"
+msgstr "<span weight=\"bold\">mIRC Colours</span>"
+
+msgid "Away message:"
+msgstr "Away message:"
+
+msgid "Auto-accept DCC chat"
+msgstr "Auto-accept DCC chat"
+
+msgid "Auto-accept DCC file transfers"
+msgstr "Auto-accept DCC file transfers"
+
+msgid "Background mark:"
+msgstr "Background mark:"
+
+msgid "Built-in schemes:"
+msgstr "Built-in schemes:"
+
+msgid "Convert spaces to underscores in filenames"
+msgstr "Convert spaces to underscores in filenames"
+
+msgid "Display a red line after the last read text"
+msgstr "Display a red line after the last read text"
+
+msgid "Enter extra words to trigger highlighting"
+msgstr "Enter extra words to trigger highlighting"
+
+msgid "Foreground mark:"
+msgstr "Foreground mark:"
+
+msgid "Get IP address from server"
+msgstr "Get IP address from server"
+
+msgid "Global receive KB/s: "
+msgstr "Global receive KB/s: "
+
+msgid "Image file:"
+msgstr "Image file:"
+
+msgid "Individual send KB/s: "
+msgstr "Individual send KB/s: "
+
+msgid "Individual receive KB/s: "
+msgstr "Individual receive KB/s: "
+
+msgid "Move completed files to:"
+msgstr "Move completed files to:"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "Real name:"
+msgstr "Real name:"
+
+msgid "Save sender nickname in filenames"
+msgstr "Save sender nickname in filenames"
+
+msgid "Select A File"
+msgstr "Select A File"
+
+msgid "Select Completed Files Directory"
+msgstr "Select Completed Files Directory"
+
+msgid "Select Download Directory"
+msgstr "Select Download Directory"
+
+msgid "Show timestamps"
+msgstr "Show timestamps"
+
+msgid "Show marker line"
+msgstr "Show marker line"
+
+msgid ""
+"To edit a shortcut key, click on the corresponding row and type a new "
+"accelerator, or press backspace to clear."
+msgstr ""
+"To edit a shortcut key, click on the corresponding row and type a new "
+"accelerator, or press backspace to clear."
+
+msgid "Use system terminal font"
+msgstr "Use system terminal font"
+
+msgid "Use this IP address:"
+msgstr "Use this IP address:"
+
+msgid "Use this font:"
+msgstr "Use this font:"
+
+msgid "Background color:"
+msgstr "Background colour:"
+
+msgid "Background image"
+msgstr "Background image"
+
+msgid "Download files to:"
+msgstr "Download files to:"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Foreground color:"
+msgstr "Foreground colour:"
+
+msgid "Global send KB/s: "
+msgstr "Global send KB/s: "
+
+msgid "Log conversations"
+msgstr "Log conversations"
+
+msgid "Nickname:"
+msgstr "Nickname:"
+
+msgid "None (use solid color)"
+msgstr "None (use solid colour)"
+
+msgid "Part message:"
+msgstr "Part message:"
+
+msgid "Quit message:"
+msgstr "Quit message:"
+
+msgid "Show colors"
+msgstr "Show colours"
+
+msgid "Transparent background"
+msgstr "Transparent background"
+
+msgid "spell checking"
+msgstr "spell checking"
+
+msgid "XChat-GNOME Setup"
+msgstr "XChat-GNOME Setup"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "Chat with people using IRC"
+msgstr "Chat with people using IRC"
+
+msgid "IRC Chat"
+msgstr "IRC Chat"
+
+msgid "XChat-GNOME IRC Chat"
+msgstr "XChat-GNOME IRC Chat"
+
+msgid "Apply on all servers"
+msgstr "Apply on all servers"
+
+msgid "Change nickname to:"
+msgstr "Change nickname to:"
+
+msgid "Mark as away"
+msgstr "Mark as away"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "nickname"
+msgstr "nickname"
+
+msgid "Auto Away"
+msgstr "Auto Away"
+
+msgid "Automatically go away / come back"
+msgstr "Automatically go away / come back"
+
+msgid "Network Monitor"
+msgstr "Network Monitor"
+
+msgid "NetworkManager connection monitor"
+msgstr "NetworkManager connection monitor"
+
+msgid "%s loaded successfully\n"
+msgstr "%s loaded successfully\n"
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "A notification area plugin."
+msgstr "A notification area plugin."
+
+msgid "Notification plugin loaded.\n"
+msgstr "Notification plugin loaded.\n"
+
+msgid "Notification plugin unloaded.\n"
+msgstr "Notification plugin unloaded.\n"
+
+msgid "Level of the messages that require a notification"
+msgstr "Level of the messages that require a notification"
+
+msgid ""
+"Messages are classified according to their importance. Select level of "
+"messages above which the notification icon will be displayed. Valid values "
+"are: \"0\" (always displayed), \"1\" (all messages including information), "
+"\"2\" (all channel messages), \"3\" (only private or highlighted messages)."
+msgstr ""
+"Messages are classified according to their importance. Select level of "
+"messages above which the notification icon will be displayed. Valid values "
+"are: \"0\" (always displayed), \"1\" (all messages including information), "
+"\"2\" (all channel messages), \"3\" (only private or highlighted messages)."
+
+msgid "On-screen display"
+msgstr "On-screen display"
+
+msgid ""
+"Pops up notification of important messages when XChat-GNOME doesn't have the "
+"focus"
+msgstr ""
+"Pops up notification of important messages when XChat-GNOME doesn't have the "
+"focus"
+
+msgid "Error closing notification: %s\n"
+msgstr "Error closing notification: %s\n"
+
+msgid "Failed to send notification: %s\n"
+msgstr "Failed to send notification: %s\n"
+
+msgid "Message in %s"
+msgstr "Message in %s"
+
+msgid "Message from %s"
+msgstr "Message from %s"
+
+msgid "Private Message from %s"
+msgstr "Private Message from %s"
+
+msgid "OSD loaded\n"
+msgstr "OSD loaded\n"
+
+msgid "OSD initialization failed\n"
+msgstr "OSD initialisation failed\n"
+
+msgid "xchat URL scraper"
+msgstr "xchat URL scraper"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Nick"
+msgstr "Nick"
+
+msgid "Channel"
+msgstr "Channel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL Scraper"
+msgstr "URL Scraper"
+
+msgid "Grabs URLs and puts them in a separate window for easy viewing."
+msgstr "Grabs URLs and puts them in a separate window for easy viewing."
+
+msgid "URL Scraper failed to load: couldn't compile URL regex.\n"
+msgstr "URL Scraper failed to load: couldn't compile URL regex.\n"
+
+msgid "URL Scraper failed to load: couldn't compile e-mail regex.\n"
+msgstr "URL Scraper failed to load: couldn't compile e-mail regex.\n"
+
+msgid "URL Scraper loaded.\n"
+msgstr "URL Scraper loaded.\n"
+
+msgid "URL Scraper unloaded.\n"
+msgstr "URL Scraper unloaded.\n"
+
+msgid "URL Scraper history length"
+msgstr "URL Scraper history length"
+
+msgid "URL Scraper show timestamps"
+msgstr "URL Scraper show timestamps"
+
+msgid "Sound Notification"
+msgstr "Sound Notification"
+
+msgid ""
+"Play a sound when you receive a private message or your nick is highlighted."
+msgstr ""
+"Play a sound when you receive a private message or your nick is highlighted."
+
+msgid "Sound-notification plugin loaded.\n"
+msgstr "Sound-notification plugin loaded.\n"
+
+msgid "Sound-notification plugin unloaded.\n"
+msgstr "Sound-notification plugin unloaded.\n"
+
+msgid "Cannot create ~/.xchat2"
+msgstr "Cannot create ~/.xchat2"
+
+msgid "I'm busy"
+msgstr "I'm busy"
+
+msgid "Leaving"
+msgstr "Leaving"
+
+msgid ""
+"* Running IRC as root is stupid! You should\n"
+"  create a User Account and use that to login.\n"
+msgstr ""
+"* Running IRC as root is stupid! You should\n"
+"  create a User Account and use that to login.\n"
+
+msgid "Waiting"
+msgstr "Waiting"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Failed"
+msgstr "Failed"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Aborted"
+msgstr "Aborted"
+
+msgid "Cannot access %s\n"
+msgstr "Cannot access %s\n"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "%s is offering \"%s\". Do you want to accept?"
+msgstr "%s is offering \"%s\". Do you want to accept?"
+
+msgid "No active DCCs\n"
+msgstr "No active DCCs\n"
+
+msgid "YES  "
+msgstr "YES  "
+
+msgid "NO   "
+msgstr "NO   "
+
+msgid "You are being CTCP flooded from %s, ignoring %s\n"
+msgstr "You are being CTCP flooded from %s, ignoring %s\n"
+
+msgid "You are being MSG flooded from %s, setting guiautoopendialog OFF.\n"
+msgstr "You are being MSG flooded from %s, setting guiautoopendialog OFF.\n"
+
+msgid "  %-20s online\n"
+msgstr "  %-20s online\n"
+
+msgid "  %-20s offline\n"
+msgstr "  %-20s offline\n"
+
+msgid "No channel joined. Try /join #<channel>\n"
+msgstr "No channel joined. Try /join #<channel>\n"
+
+msgid "Not connected. Try /server <host> [<port>]\n"
+msgstr "Not connected. Try /server <host> [<port>]\n"
+
+msgid "I need /bin/sh to run!\n"
+msgstr "I need /bin/sh to run!\n"
+
+msgid "Commands Available:"
+msgstr "Commands Available:"
+
+msgid "User defined commands:"
+msgstr "User defined commands:"
+
+msgid "Plugin defined commands:"
+msgstr "Plugin defined commands:"
+
+msgid "Type /HELP <command> for more information, or /HELP -l"
+msgstr "Type /HELP <command> for more information, or /HELP -l"
+
+msgid "Unknown arg '%s' ignored."
+msgstr "Unknown arg '%s' ignored."
+
+msgid "No such plugin found.\n"
+msgstr "No such plugin found.\n"
+
+msgid "That plugin is refusing to unload.\n"
+msgstr "That plugin is refusing to unload.\n"
+
+msgid "ALLCHAN <cmd>, sends a command to all channels you're in"
+msgstr "ALLCHAN <cmd>, sends a command to all channels you're in"
+
+msgid "ALLCHANL <cmd>, sends a command to all channels you're in"
+msgstr "ALLCHANL <cmd>, sends a command to all channels you're in"
+
+msgid "ALLSERV <cmd>, sends a command to all servers you're in"
+msgstr "ALLSERV <cmd>, sends a command to all servers you're in"
+
+msgid "AWAY [<reason>], sets you away"
+msgstr "AWAY [<reason>], sets you away"
+
+msgid ""
+"BAN <mask> [<bantype>], bans everyone matching the mask from the current "
+"channel. If they are already on the channel this doesn't kick them (needs "
+"chanop)"
+msgstr ""
+"BAN <mask> [<bantype>], bans everyone matching the mask from the current "
+"channel. If they are already on the channel this doesn't kick them (needs "
+"chanop)"
+
+msgid "CLEAR [ALL|HISTORY], Clears the current text window or command history"
+msgstr "CLEAR [ALL|HISTORY], Clears the current text window or command history"
+
+msgid "CLOSE, Closes the current window/tab"
+msgstr "CLOSE, Closes the current window/tab"
+
+msgid "COUNTRY [-s] <code|wildcard>, finds a country code, eg: au = australia"
+msgstr "COUNTRY [-s] <code|wildcard>, finds a country code, eg: au = australia"
+
+msgid ""
+"CTCP <nick> <message>, send the CTCP message to nick, common messages are "
+"VERSION and USERINFO"
+msgstr ""
+"CTCP <nick> <message>, send the CTCP message to nick, common messages are "
+"VERSION and USERINFO"
+
+msgid "CYCLE, parts current channel and immediately rejoins"
+msgstr "CYCLE, parts current channel and immediately rejoins"
+
+msgid ""
+"\n"
+"DCC GET <nick>                      - accept an offered file\n"
+"DCC SEND [-maxcps=#] <nick> [file]  - send a file to someone\n"
+"DCC PSEND [-maxcps=#] <nick> [file] - send a file using passive mode\n"
+"DCC LIST                            - show DCC list\n"
+"DCC CHAT <nick>                     - offer DCC CHAT to someone\n"
+"DCC PCHAT <nick>                    - offer DCC CHAT using passive mode\n"
+"DCC CLOSE <type> <nick> <file>         example:\n"
+"         /dcc close send johnsmith file.tar.gz"
+msgstr ""
+"\n"
+"DCC GET <nick> - accept an offered file\n"
+"DCC SEND [-maxcps=#] <nick> [file] - send a file to someone\n"
+"DCC PSEND [-maxcps=#] <nick> [file] - send a file using passive mode\n"
+"DCC LIST - show DCC list\n"
+"DCC CHAT <nick> - offer DCC CHAT to someone\n"
+"DCC PCHAT <nick> - offer DCC CHAT using passive mode\n"
+"DCC CLOSE <type> <nick> <file> example:\n"
+"         /dcc close send johnsmith file.tar.gz"
+
+msgid ""
+"DEHOP <nick>, removes chanhalf-op status from the nick on the current "
+"channel (needs chanop)"
+msgstr ""
+"DEHOP <nick>, removes chanhalf-op status from the nick on the current "
+"channel (needs chanop)"
+
+msgid ""
+"DEOP <nick>, removes chanop status from the nick on the current channel "
+"(needs chanop)"
+msgstr ""
+"DEOP <nick>, removes chanop status from the nick on the current channel "
+"(needs chanop)"
+
+msgid ""
+"DEVOICE <nick>, removes voice status from the nick on the current channel "
+"(needs chanop)"
+msgstr ""
+"DEVOICE <nick>, removes voice status from the nick on the current channel "
+"(needs chanop)"
+
+msgid "DISCON, Disconnects from server"
+msgstr "DISCON, Disconnects from server"
+
+msgid "DNS <nick|host|ip>, Finds a users IP number"
+msgstr "DNS <nick|host|ip>, Finds a users IP number"
+
+msgid "ECHO <text>, Prints text locally"
+msgstr "ECHO <text>, Prints text locally"
+
+msgid ""
+"EXEC [-o] <command>, runs the command. If -o flag is used then output is "
+"sent to current channel, else is printed to current text box"
+msgstr ""
+"EXEC [-o] <command>, runs the command. If -o flag is used then output is "
+"sent to current channel, else is printed to current text box"
+
+msgid "EXECCONT, sends the process SIGCONT"
+msgstr "EXECCONT, sends the process SIGCONT"
+
+msgid ""
+"EXECKILL [-9], kills a running exec in the current session. If -9 is given "
+"the process is SIGKILL'ed"
+msgstr ""
+"EXECKILL [-9], kills a running exec in the current session. If -9 is given "
+"the process is SIGKILL'ed"
+
+msgid "EXECSTOP, sends the process SIGSTOP"
+msgstr "EXECSTOP, sends the process SIGSTOP"
+
+msgid "EXECWRITE, sends data to the processes stdin"
+msgstr "EXECWRITE, sends data to the processes stdin"
+
+msgid "FLUSHQ, flushes the current server's send queue"
+msgstr "FLUSHQ, flushes the current server's send queue"
+
+msgid "GATE <host> [<port>], proxies through a host, port defaults to 23"
+msgstr "GATE <host> [<port>], proxies through a host, port defaults to 23"
+
+msgid "GHOST <nick> <password>, Kills a ghosted nickname"
+msgstr "GHOST <nick> <password>, Kills a ghosted nickname"
+
+msgid "HOP <nick>, gives chanhalf-op status to the nick (needs chanop)"
+msgstr "HOP <nick>, gives chanhalf-op status to the nick (needs chanop)"
+
+msgid "ID <password>, identifies yourself to nickserv"
+msgstr "ID <password>, identifies yourself to nickserv"
+
+msgid ""
+"IGNORE <mask> <types..> <options..>\n"
+"    mask - host mask to ignore, eg: *!*@*.aol.com\n"
+"    types - types of data to ignore, one or all of:\n"
+"            PRIV, CHAN, NOTI, CTCP, DCC, INVI, ALL\n"
+"    options - NOSAVE, QUIET"
+msgstr ""
+"IGNORE <mask> <types..> <options..>\n"
+"    mask - host mask to ignore, eg: *!*@*.aol.com\n"
+"    types - types of data to ignore, one or all of:\n"
+"            PRIV, CHAN, NOTI, CTCP, DCC, INVI, ALL\n"
+"    options - NOSAVE, QUIET"
+
+msgid ""
+"INVITE <nick> [<channel>], invites someone to a channel, by default the "
+"current channel (needs chanop)"
+msgstr ""
+"INVITE <nick> [<channel>], invites someone to a channel, by default the "
+"current channel (needs chanop)"
+
+msgid "JOIN <channel>, joins the channel"
+msgstr "JOIN <channel>, joins the channel"
+
+msgid "KICK <nick>, kicks the nick from the current channel (needs chanop)"
+msgstr "KICK <nick>, kicks the nick from the current channel (needs chanop)"
+
+msgid ""
+"KICKBAN <nick>, bans then kicks the nick from the current channel (needs "
+"chanop)"
+msgstr ""
+"KICKBAN <nick>, bans then kicks the nick from the current channel (needs "
+"chanop)"
+
+msgid "LAGCHECK, forces a new lag check"
+msgstr "LAGCHECK, forces a new lag check"
+
+msgid "LASTLOG <string>, searches for a string in the buffer"
+msgstr "LASTLOG <string>, searches for a string in the buffer"
+
+msgid "LOAD [-e] <file>, loads a plugin or script"
+msgstr "LOAD [-e] <file>, loads a plugin or script"
+
+msgid ""
+"MDEHOP, Mass deop's all chanhalf-ops in the current channel (needs chanop)"
+msgstr ""
+"MDEHOP, Mass deop's all chanhalf-ops in the current channel (needs chanop)"
+
+msgid "MDEOP, Mass deop's all chanops in the current channel (needs chanop)"
+msgstr "MDEOP, Mass deop's all chanops in the current channel (needs chanop)"
+
+msgid ""
+"ME <action>, sends the action to the current channel (actions are written in "
+"the 3rd person, like /me jumps)"
+msgstr ""
+"ME <action>, sends the action to the current channel (actions are written in "
+"the 3rd person, like /me jumps)"
+
+msgid ""
+"MKICK, Mass kicks everyone except you in the current channel (needs chanop)"
+msgstr ""
+"MKICK, Mass kicks everyone except you in the current channel (needs chanop)"
+
+msgid "MOP, Mass op's all users in the current channel (needs chanop)"
+msgstr "MOP, Mass op's all users in the current channel (needs chanop)"
+
+msgid "MSG <nick> <message>, sends a private message"
+msgstr "MSG <nick> <message>, sends a private message"
+
+msgid "NAMES, Lists the nicks on the current channel"
+msgstr "NAMES, Lists the nicks on the current channel"
+
+msgid "NCTCP <nick> <message>, Sends a CTCP notice"
+msgstr "NCTCP <nick> <message>, Sends a CTCP notice"
+
+msgid "NEWSERVER [-noconnect] <hostname> [<port>]"
+msgstr "NEWSERVER [-noconnect] <hostname> [<port>]"
+
+msgid "NICK <nickname>, sets your nick"
+msgstr "NICK <nickname>, sets your nick"
+
+msgid ""
+"NOTICE <nick/channel> <message>, sends a notice. Notices are a type of "
+"message that should be auto reacted to"
+msgstr ""
+"NOTICE <nick/channel> <message>, sends a notice. Notices are a type of "
+"message that should be auto reacted to"
+
+msgid "OP <nick>, gives chanop status to the nick (needs chanop)"
+msgstr "OP <nick>, gives chanop status to the nick (needs chanop)"
+
+msgid ""
+"PART [<channel>] [<reason>], leaves the channel, by default the current one"
+msgstr ""
+"PART [<channel>] [<reason>], leaves the channel, by default the current one"
+
+msgid "PING <nick | channel>, CTCP pings nick or channel"
+msgstr "PING <nick | channel>, CTCP pings nick or channel"
+
+msgid "QUERY [-nofocus] <nick>, opens up a new privmsg window to someone"
+msgstr "QUERY [-nofocus] <nick>, opens up a new privmsg window to someone"
+
+msgid "QUIT [<reason>], disconnects from the current server"
+msgstr "QUIT [<reason>], disconnects from the current server"
+
+msgid "QUOTE <text>, sends the text in raw form to the server"
+msgstr "QUOTE <text>, sends the text in raw form to the server"
+
+msgid ""
+"RECONNECT [-ssl] [<host>] [<port>] [<password>], Can be called just as /"
+"RECONNECT to reconnect to the current server or with /RECONNECT ALL to "
+"reconnect to all the open servers"
+msgstr ""
+"RECONNECT [-ssl] [<host>] [<port>] [<password>], Can be called just as /"
+"RECONNECT to reconnect to the current server or with /RECONNECT ALL to "
+"reconnect to all the open servers"
+
+msgid ""
+"RECONNECT [<host>] [<port>] [<password>], Can be called just as /RECONNECT "
+"to reconnect to the current server or with /RECONNECT ALL to reconnect to "
+"all the open servers"
+msgstr ""
+"RECONNECT [<host>] [<port>] [<password>], Can be called just as /RECONNECT "
+"to reconnect to the current server or with /RECONNECT ALL to reconnect to "
+"all the open servers"
+
+msgid ""
+"RECV <text>, send raw data to xchat, as if it was received from the irc "
+"server"
+msgstr ""
+"RECV <text>, send raw data to xchat, as if it was received from the irc "
+"server"
+
+msgid "SAY <text>, sends the text to the object in the current window"
+msgstr "SAY <text>, sends the text to the object in the current window"
+
+msgid "SEND <nick> [<file>]"
+msgstr "SEND <nick> [<file>]"
+
+msgid "SERVCHAN [-ssl] <host> <port> <channel>, connects and joins a channel"
+msgstr "SERVCHAN [-ssl] <host> <port> <channel>, connects and joins a channel"
+
+msgid "SERVCHAN <host> <port> <channel>, connects and joins a channel"
+msgstr "SERVCHAN <host> <port> <channel>, connects and joins a channel"
+
+msgid ""
+"SERVER [-ssl] <host> [<port>] [<password>], connects to a server, the "
+"default port is 6667 for normal connections, and 9999 for ssl connections"
+msgstr ""
+"SERVER [-ssl] <host> [<port>] [<password>], connects to a server, the "
+"default port is 6667 for normal connections, and 9999 for ssl connections"
+
+msgid ""
+"SERVER <host> [<port>] [<password>], connects to a server, the default port "
+"is 6667"
+msgstr ""
+"SERVER <host> [<port>] [<password>], connects to a server, the default port "
+"is 6667"
+
+msgid "SETCURSOR [-|+]<position>"
+msgstr "SETCURSOR [-|+]<position>"
+
+msgid ""
+"TOPIC [<topic>], sets the topic if one is given, else shows the current topic"
+msgstr ""
+"TOPIC [<topic>], sets the topic if one is given, else shows the current topic"
+
+msgid "UNBAN <mask> [<mask>...], unbans the specified masks."
+msgstr "UNBAN <mask> [<mask>...], unbans the specified masks."
+
+msgid "UNIGNORE <mask> [QUIET]"
+msgstr "UNIGNORE <mask> [QUIET]"
+
+msgid "UNLOAD <name>, unloads a plugin or script"
+msgstr "UNLOAD <name>, unloads a plugin or script"
+
+msgid "URL <url>, opens a URL in your browser"
+msgstr "URL <url>, opens a URL in your browser"
+
+msgid ""
+"USELECT [-a] [-s] <nick1> <nick2> etc, highlights nick(s) in channel userlist"
+msgstr ""
+"USELECT [-a] [-s] <nick1> <nick2> etc, highlights nick(s) in channel userlist"
+
+msgid "VOICE <nick>, gives voice status to someone (needs chanop)"
+msgstr "VOICE <nick>, gives voice status to someone (needs chanop)"
+
+msgid "WALLCHAN <message>, writes the message to all channels"
+msgstr "WALLCHAN <message>, writes the message to all channels"
+
+msgid ""
+"WALLCHOP <message>, sends the message to all chanops on the current channel"
+msgstr ""
+"WALLCHOP <message>, sends the message to all chanops on the current channel"
+
+msgid "Usage: %s\n"
+msgstr "Usage: %s\n"
+
+msgid ""
+"\n"
+"No help available on that command.\n"
+msgstr ""
+"\n"
+"No help available on that command.\n"
+
+msgid "No such command.\n"
+msgstr "No such command.\n"
+
+msgid "Bad arguments for user command.\n"
+msgstr "Bad arguments for user command.\n"
+
+msgid "Too many recursive usercommands, aborting."
+msgstr "Too many recursive usercommands, aborting."
+
+msgid "Unknown Command. Try /help\n"
+msgstr "Unknown Command. Try /help\n"
+
+msgid "No xchatplugininit symbol; is this really an xchat plugin?"
+msgstr "No xchatplugininit symbol; is this really an xchat plugin?"
+
+msgid "Are you sure this is a SSL capable server and port?\n"
+msgstr "Are you sure this is a SSL capable server and port?\n"
+
+msgid ""
+"Cannot resolve hostname %s\n"
+"Check your IP Settings!\n"
+msgstr ""
+"Cannot resolve hostname %s\n"
+"Check your IP Settings!\n"
+
+msgid "Proxy traversal failed.\n"
+msgstr "Proxy traversal failed.\n"
+
+msgid "Cycling to next server in %s...\n"
+msgstr "Cycling to next server in %s...\n"
+
+msgid ""
+"Warning: \"%s\" character set is unknown. No conversion will be applied for "
+"network %s."
+msgstr ""
+"Warning: \"%s\" character set is unknown. No conversion will be applied for "
+"network %s."
+
+msgid "**** ENDING LOGGING AT %s\n"
+msgstr "**** ENDING LOGGING AT %s\n"
+
+msgid "**** BEGIN LOGGING AT %s\n"
+msgstr "**** BEGIN LOGGING AT %s\n"
+
+msgid ""
+"* Can't open log file(s) for writing. Check the\n"
+"  permissions on %s/xchatlogs"
+msgstr ""
+"* Can't open log file(s) for writing. Check the\n"
+"  permissions on %s/xchatlogs"
+
+msgid "Left message"
+msgstr "Left message"
+
+msgid "Right message"
+msgstr "Right message"
+
+msgid "The nick of the joining person"
+msgstr "The nick of the joining person"
+
+msgid "The channel being joined"
+msgstr "The channel being joined"
+
+msgid "The host of the person"
+msgstr "The host of the person"
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "The action"
+msgstr "The action"
+
+msgid "Mode char"
+msgstr "Mode char"
+
+msgid "The text"
+msgstr "The text"
+
+msgid "Identified text"
+msgstr "Identified text"
+
+msgid "The message"
+msgstr "The message"
+
+msgid "Old nickname"
+msgstr "Old nickname"
+
+msgid "New nickname"
+msgstr "New nickname"
+
+msgid "Nick of person who changed the topic"
+msgstr "Nick of person who changed the topic"
+
+msgid "Topic"
+msgstr "Topic"
+
+msgid "The nickname of the kicker"
+msgstr "The nickname of the kicker"
+
+msgid "The person being kicked"
+msgstr "The person being kicked"
+
+msgid "The channel"
+msgstr "The channel"
+
+msgid "The reason"
+msgstr "The reason"
+
+msgid "The nick of the person leaving"
+msgstr "The nick of the person leaving"
+
+msgid "The time"
+msgstr "The time"
+
+msgid "The creator"
+msgstr "The creator"
+
+msgid "Reason"
+msgstr "Reason"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Who it's from"
+msgstr "Who it's from"
+
+msgid "The time in x.x format (see below)"
+msgstr "The time in x.x format (see below)"
+
+msgid "The Channel it's going to"
+msgstr "The Channel it's going to"
+
+msgid "The sound"
+msgstr "The sound"
+
+msgid "The nick of the person"
+msgstr "The nick of the person"
+
+msgid "The CTCP event"
+msgstr "The CTCP event"
+
+msgid "The nick of the person who set the key"
+msgstr "The nick of the person who set the key"
+
+msgid "The key"
+msgstr "The key"
+
+msgid "The nick of the person who set the limit"
+msgstr "The nick of the person who set the limit"
+
+msgid "The limit"
+msgstr "The limit"
+
+msgid "The nick of the person who did the op'ing"
+msgstr "The nick of the person who did the op'ing"
+
+msgid "The nick of the person who has been op'ed"
+msgstr "The nick of the person who has been op'ed"
+
+msgid "The nick of the person who has been halfop'ed"
+msgstr "The nick of the person who has been halfop'ed"
+
+msgid "The nick of the person who did the halfop'ing"
+msgstr "The nick of the person who did the halfop'ing"
+
+msgid "The nick of the person who did the voice'ing"
+msgstr "The nick of the person who did the voice'ing"
+
+msgid "The nick of the person who has been voice'ed"
+msgstr "The nick of the person who has been voice'ed"
+
+msgid "The nick of the person who did the banning"
+msgstr "The nick of the person who did the banning"
+
+msgid "The ban mask"
+msgstr "The ban mask"
+
+msgid "The nick who removed the key"
+msgstr "The nick who removed the key"
+
+msgid "The nick who removed the limit"
+msgstr "The nick who removed the limit"
+
+msgid "The nick of the person of did the deop'ing"
+msgstr "The nick of the person who did the deop'ing"
+
+msgid "The nick of the person who has been deop'ed"
+msgstr "The nick of the person who has been deop'ed"
+
+msgid "The nick of the person of did the dehalfop'ing"
+msgstr "The nick of the person who did the dehalfop'ing"
+
+msgid "The nick of the person who has been dehalfop'ed"
+msgstr "The nick of the person who has been dehalfop'ed"
+
+msgid "The nick of the person of did the devoice'ing"
+msgstr "The nick of the person who did the devoice'ing"
+
+msgid "The nick of the person who has been devoice'ed"
+msgstr "The nick of the person who has been devoice'ed"
+
+msgid "The nick of the person of did the unban'ing"
+msgstr "The nick of the person who did the unban'ing"
+
+msgid "The nick of the person who did the exempt"
+msgstr "The nick of the person who did the exempt"
+
+msgid "The exempt mask"
+msgstr "The exempt mask"
+
+msgid "The nick of the person removed the exempt"
+msgstr "The nick of the person who removed the exempt"
+
+msgid "The nick of the person who did the invite"
+msgstr "The nick of the person who did the invite"
+
+msgid "The invite mask"
+msgstr "The invite mask"
+
+msgid "The nick of the person removed the invite"
+msgstr "The nick of the person who removed the invite"
+
+msgid "The nick of the person setting the mode"
+msgstr "The nick of the person setting the mode"
+
+msgid "The mode's sign (+/-)"
+msgstr "The mode's sign (+/-)"
+
+msgid "The mode letter"
+msgstr "The mode letter"
+
+msgid "The channel it's being set on"
+msgstr "The channel it's being set on"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Full name"
+msgstr "Full name"
+
+msgid "Channel Membership/\"is an IRC operator\""
+msgstr "Channel Membership/\"is an IRC operator\""
+
+msgid "Server Information"
+msgstr "Server Information"
+
+msgid "Idle time"
+msgstr "Idle time"
+
+msgid "Signon time"
+msgstr "Signon time"
+
+msgid "Away reason"
+msgstr "Away reason"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Real user@host"
+msgstr "Real user@host"
+
+msgid "Real IP"
+msgstr "Real IP"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Server Name"
+msgstr "Server Name"
+
+msgid "Nick of person who invited you"
+msgstr "Nick of person who invited you"
+
+msgid "Nickname in use"
+msgstr "Nickname in use"
+
+msgid "Nick being tried"
+msgstr "Nick being tried"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Modes string"
+msgstr "Modes string"
+
+msgid "IP address"
+msgstr "IP address"
+
+msgid "DCC Type"
+msgstr "DCC Type"
+
+msgid "Filename"
+msgstr "Filename"
+
+msgid "Destination filename"
+msgstr "Destination filename"
+
+msgid "CPS"
+msgstr "CPS"
+
+msgid "Pathname"
+msgstr "Pathname"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "DCC String"
+msgstr "DCC String"
+
+msgid "Number of notify items"
+msgstr "Number of notify items"
+
+msgid "Old Filename"
+msgstr "Old Filename"
+
+msgid "New Filename"
+msgstr "New Filename"
+
+msgid "Receiver"
+msgstr "Receiver"
+
+msgid "Hostmask"
+msgstr "Hostmask"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "The Packet"
+msgstr "The Packet"
+
+msgid "Seconds"
+msgstr "Seconds"
+
+msgid "Nick of person who have been invited"
+msgstr "Nick of person who has been invited"
+
+msgid "Banmask"
+msgstr "Banmask"
+
+msgid "Who set the ban"
+msgstr "Who set the ban"
+
+msgid "Ban time"
+msgstr "Ban time"
+
+msgid ""
+"Error parsing event %s.\n"
+"Loading default."
+msgstr ""
+"Error parsing event %s.\n"
+"Loading default."
+
+msgid ""
+"Cannot read sound file:\n"
+"%s"
+msgstr ""
+"Cannot read sound file:\n"
+"%s"
+
+msgid "-%C10-%C11-%O$t$1 added to notify list."
+msgstr "-%C10-%C11-%O$t$1 added to notify list."
+
+msgid "-%C10-%C11-%O$t$1 Banlist: %C3$4 %C4$2 %C5$3%O"
+msgstr "-%C10-%C11-%O$t$1 Banlist: %C3$4 %C4$2 %C5$3%O"
+
+msgid "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(You are banned)."
+msgstr "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(You are banned)."
+
+msgid "-%C10-%C11-%O$t$1 is now known as $2"
+msgstr "-%C10-%C11-%O$t$1 is now known as $2"
+
+msgid "%C13*%O$t$1 $2%O"
+msgstr "%C13*%O$t$1 $2%O"
+
+msgid "%C13*%O$t%C8%B$1%B%O $2%O"
+msgstr "%C13*%O$t%C8%B$1%B%O $2%O"
+
+msgid "-%C10-%C11-%O$t$1 sets ban on $2"
+msgstr "-%C10-%C11-%O$t$1 sets ban on $2"
+
+msgid "-%C10-%C11-%O$tChannel $1 created on $2"
+msgstr "-%C10-%C11-%O$tChannel $1 created on $2"
+
+msgid "-%C10-%C11-%O$t$1 removes channel half-operator status from $2"
+msgstr "-%C10-%C11-%O$t$1 removes channel half-operator status from $2"
+
+msgid "-%C10-%C11-%O$t$1 removes channel operator status from $2"
+msgstr "-%C10-%C11-%O$t$1 removes channel operator status from $2"
+
+msgid "-%C10-%C11-%O$t$1 removes voice from $2"
+msgstr "-%C10-%C11-%O$t$1 removes voice from $2"
+
+msgid "-%C10-%C11-%O$t$1 sets exempt on $2"
+msgstr "-%C10-%C11-%O$t$1 sets exempt on $2"
+
+msgid "-%C10-%C11-%O$t$1 gives channel half-operator status to $2"
+msgstr "-%C10-%C11-%O$t$1 gives channel half-operator status to $2"
+
+msgid "-%C10-%C11-%O$t$1 sets invite on $2"
+msgstr "-%C10-%C11-%O$t$1 sets invite on $2"
+
+msgid "%UChannel          Users   Topic%O"
+msgstr "%UChannel Users Topic%O"
+
+msgid "%C2<%O$1%C2>%O$t$2%O"
+msgstr "%C2<%O$1%C2>%O$t$2%O"
+
+msgid "-%C10-%C11-%O$t$1 sets mode $2$3 $4"
+msgstr "-%C10-%C11-%O$t$1 sets mode $2$3 $4"
+
+msgid "-%C10-%C11-%O$tChannel $1 modes: $2"
+msgstr "-%C10-%C11-%O$tChannel $1 modes: $2"
+
+msgid "%C2<%C8%B$1%B%C2>%O$t$2%O"
+msgstr "%C2<%C8%B$1%B%C2>%O$t$2%O"
+
+msgid "%C12-%C13$1/$2%C12-%O$t$3%O"
+msgstr "%C12-%C13$1/$2%C12-%O$t$3%O"
+
+msgid "-%C10-%C11-%O$t$1 gives channel operator status to $2"
+msgstr "-%C10-%C11-%O$t$1 gives channel operator status to $2"
+
+msgid "-%C10-%C11-%O$t$1 removes exempt on $2"
+msgstr "-%C10-%C11-%O$t$1 removes exempt on $2"
+
+msgid "-%C10-%C11-%O$t$1 removes invite on $2"
+msgstr "-%C10-%C11-%O$t$1 removes invite on $2"
+
+msgid "-%C10-%C11-%O$t$1 removes channel keyword"
+msgstr "-%C10-%C11-%O$t$1 removes channel keyword"
+
+msgid "-%C10-%C11-%O$t$1 removes user limit"
+msgstr "-%C10-%C11-%O$t$1 removes user limit"
+
+msgid "-%C10-%C11-%O$t$1 sets channel keyword to $2"
+msgstr "-%C10-%C11-%O$t$1 sets channel keyword to $2"
+
+msgid "-%C10-%C11-%O$t$1 sets channel limit to $2"
+msgstr "-%C10-%C11-%O$t$1 sets channel limit to $2"
+
+msgid "-%C10-%C11-%O$t$1 removes ban on $2"
+msgstr "-%C10-%C11-%O$t$1 removes ban on $2"
+
+msgid "-%C10-%C11-%O$t$1 gives voice to $2"
+msgstr "-%C10-%C11-%O$t$1 gives voice to $2"
+
+msgid "-%C10-%C11-%O$tConnected. Now logging in.."
+msgstr "-%C10-%C11-%O$tConnected. Now logging in.."
+
+msgid "-%C10-%C11-%O$tConnecting to %C11$1 %C14(%C11$2%C14)%C port %C11$3%C.."
+msgstr "-%C10-%C11-%O$tConnecting to %C11$1 %C14(%C11$2%C14)%C port %C11$3%C.."
+
+msgid "-%C10-%C11-%O$tConnection failed. Error: $1"
+msgstr "-%C10-%C11-%O$tConnection failed. Error: $1"
+
+msgid "-%C10-%C11-%O$tReceived a CTCP $1 from $2"
+msgstr "-%C10-%C11-%O$tReceived a CTCP $1 from $2"
+
+msgid "-%C10-%C11-%O$tReceived a CTCP $1 from $2 (to $3)"
+msgstr "-%C10-%C11-%O$tReceived a CTCP $1 from $2 (to $3)"
+
+msgid "%C3>%O$1%C3<%O$tCTCP $2%O"
+msgstr "%C3>%O$1%C3<%O$tCTCP $2%O"
+
+msgid "-%C10-%C11-%O$tReceived a CTCP Sound $1 from $2"
+msgstr "-%C10-%C11-%O$tReceived a CTCP Sound $1 from $2"
+
+msgid "%C22*%O$tReceived a CTCP Sound $1 from $2 (to $3)"
+msgstr "%C22*%O$tReceived a CTCP Sound $1 from $2 (to $3)"
+
+msgid "-%C10-%C11-%O$tDCC CHAT to %C11$1%O aborted."
+msgstr "-%C10-%C11-%O$tDCC CHAT to %C11$1%O aborted."
+
+msgid ""
+"-%C10-%C11-%O$tDCC CHAT connection established to %C11$1 %C14[%O$2%C14]%O"
+msgstr ""
+"-%C10-%C11-%O$tDCC CHAT connection established to %C11$1 %C14[%O$2%C14]%O"
+
+msgid ""
+"-%C10-%C11-%O$tDCC CHAT failed. Connection to $1 %C14[%O$2:$3%C14]%O lost."
+msgstr ""
+"-%C10-%C11-%O$tDCC CHAT failed. Connection to $1 %C14[%O$2:$3%C14]%O lost."
+
+msgid "-%C10-%C11-%O$tReceived a DCC CHAT offer from $1"
+msgstr "-%C10-%C11-%O$tReceived a DCC CHAT offer from $1"
+
+msgid "-%C10-%C11-%O$tOffering DCC CHAT to $1"
+msgstr "-%C10-%C11-%O$tOffering DCC CHAT to $1"
+
+msgid "-%C10-%C11-%O$tAlready offering CHAT to $1"
+msgstr "-%C10-%C11-%O$tAlready offering CHAT to $1"
+
+msgid "-%C10-%C11-%O$tDCC $1 connect attempt to %C11$2%O failed (err=$3)."
+msgstr "-%C10-%C11-%O$tDCC $1 connect attempt to %C11$2%O failed (err=$3)."
+
+msgid "-%C10-%C11-%O$tReceived '$1%O' from $2"
+msgstr "-%C10-%C11-%O$tReceived '$1%O' from $2"
+
+msgid "%C24,18 Type  To/From    Status  Size    Pos     File         "
+msgstr "%C24,18 Type To/From Status Size Pos File         "
+
+msgid ""
+"-%C10-%C11-%O$tReceived a malformed DCC request from %C11$1%O.%010-%C10-%C11-"
+"%O$tContents of packet: $2"
+msgstr ""
+"-%C10-%C11-%O$tReceived a malformed DCC request from %C11$1%O.%010-%C10-%C11-"
+"%O$tContents of packet: $2"
+
+msgid "-%C10-%C11-%O$tOffering %C11$1 %Cto %C11$2%O"
+msgstr "-%C10-%C11-%O$tOffering %C11$1 %Cto %C11$2%O"
+
+msgid "-%C10-%C11-%O$tNo such DCC offer."
+msgstr "-%C10-%C11-%O$tNo such DCC offer."
+
+msgid "-%C10-%C11-%O$tDCC RECV %C11$2%O to %C11$1%O aborted."
+msgstr "-%C10-%C11-%O$tDCC RECV %C11$2%O to %C11$1%O aborted."
+
+msgid ""
+"-%C10-%C11-%O$tDCC RECV %C11$1%O from %C11$3%O complete %C14[%C11$4%O cps%"
+"C14]%O."
+msgstr ""
+"-%C10-%C11-%O$tDCC RECV %C11$1%O from %C11$3%O complete %C14[%C11$4%O cps%"
+"C14]%O."
+
+msgid ""
+"-%C10-%C11-%O$tDCC RECV connection established to %C11$1 %C14[%O$2%C14]%O"
+msgstr ""
+"-%C10-%C11-%O$tDCC RECV connection established to %C11$1 %C14[%O$2%C14]%O"
+
+msgid "-%C10-%C11-%O$tDCC RECV $1 ($2) failed. Connection to $3 lost."
+msgstr "-%C10-%C11-%O$tDCC RECV $1 ($2) failed. Connection to $3 lost."
+
+msgid "-%C10-%C11-%O$tDCC RECV: Cannot open $1 for writing ($2)."
+msgstr "-%C10-%C11-%O$tDCC RECV: Cannot open $1 for writing ($2)."
+
+msgid ""
+"-%C10-%C11-%O$tThe file %C11$1%C already exists, saving it as %C11$2%O "
+"instead."
+msgstr ""
+"-%C10-%C11-%O$tThe file %C11$1%C already exists, saving it as %C11$2%O "
+"instead."
+
+msgid "-%C10-%C11-%O$t%C11$1 %Chas requested to resume %C11$2 %Cfrom %C11$3%C."
+msgstr ""
+"-%C10-%C11-%O$t%C11$1 %Chas requested to resume %C11$2 %Cfrom %C11$3%C."
+
+msgid "-%C10-%C11-%O$tDCC SEND %C11$2%O to %C11$1%O aborted."
+msgstr "-%C10-%C11-%O$tDCC SEND %C11$2%O to %C11$1%O aborted."
+
+msgid ""
+"-%C10-%C11-%O$tDCC SEND %C11$1%O to %C11$2%O complete %C14[%C11$3%O cps%C14]%"
+"O."
+msgstr ""
+"-%C10-%C11-%O$tDCC SEND %C11$1%O to %C11$2%O complete %C14[%C11$3%O cps%C14]%"
+"O."
+
+msgid ""
+"-%C10-%C11-%O$tDCC SEND connection established to %C11$1 %C14[%O$2%C14]%O"
+msgstr ""
+"-%C10-%C11-%O$tDCC SEND connection established to %C11$1 %C14[%O$2%C14]%O"
+
+msgid "-%C10-%C11-%O$tDCC SEND %C11$1%O failed. Connection to %C11$2%O lost."
+msgstr "-%C10-%C11-%O$tDCC SEND %C11$1%O failed. Connection to %C11$2%O lost."
+
+msgid "-%C10-%C11-%O$t%C11$1 %Chas offered %C11$2 %C(%C11$3 %Cbytes)"
+msgstr "-%C10-%C11-%O$t%C11$1 %Chas offered %C11$2 %C(%C11$3 %Cbytes)"
+
+msgid "-%C10-%C11-%O$tDCC $1 %C11$2 %Cto %C11$3 %Cstalled - aborting."
+msgstr "-%C10-%C11-%O$tDCC $1 %C11$2 %Cto %C11$3 %Cstalled - aborting."
+
+msgid "-%C10-%C11-%O$tDCC $1 %C11$2 %Cto %C11$3 %Ctimed out - aborting."
+msgstr "-%C10-%C11-%O$tDCC $1 %C11$2 %Cto %C11$3 %Ctimed out - aborting."
+
+msgid "-%C10-%C11-%O$t$1 deleted from notify list."
+msgstr "-%C10-%C11-%O$t$1 deleted from notify list."
+
+msgid "-%C10-%C11-%O$tDisconnected ($1)."
+msgstr "-%C10-%C11-%O$tDisconnected ($1)."
+
+msgid "-%C10-%C11-%O$tFound your IP: [$1]"
+msgstr "-%C10-%C11-%O$tFound your IP: [$1]"
+
+msgid "$1$t$2"
+msgstr "$1$t$2"
+
+msgid "%O%C11$1%O added to ignore list."
+msgstr "%O%C11$1%O added to ignore list."
+
+msgid "Ignore on %C11$1%O changed."
+msgstr "Ignore on %C11$1%O changed."
+
+msgid "%C24,18                                                              "
+msgstr ""
+"%C24,18pan class=\"po-message-special"
+"\">                                                              "
+
+msgid "%C24,18 Hostmask                  PRIV NOTI CHAN CTCP DCC  INVI UNIG "
+msgstr "%C24,18 Hostmask PRIV NOTI CHAN CTCP DCC INVI UNIG "
+
+msgid "%O%C11$1%O removed from ignore list."
+msgstr "%O%C11$1%O removed from ignore list."
+
+msgid "  Ignore list is empty."
+msgstr "  Ignore list is empty."
+
+msgid "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(Channel is invite only)."
+msgstr "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(Channel is invite only)."
+
+msgid "-%C10-%C11-%O$tYou have been invited to %C11$1%C by %C11$2%C (%C11$3%C)"
+msgstr ""
+"-%C10-%C11-%O$tYou have been invited to %C11$1%C by %C11$2%C (%C11$3%C)"
+
+msgid "-%C10-%C11>%O$t%B$1%B %C14(%C10$3%C14)%C has joined $2"
+msgstr "-%C10-%C11>%O$t%B$1%B %C14(%C10$3%C14)%C has joined $2"
+
+msgid "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(Requires keyword)."
+msgstr "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(Requires keyword)."
+
+msgid "<%C10-%C11-%O$t$1 has kicked $2 from $3 ($4%O)"
+msgstr "<%C10-%C11-%O$t$1 has kicked $2 from $3 ($4%O)"
+
+msgid "-%C10-%C11-%O$tYou have been killed by $1 ($2%O)"
+msgstr "-%C10-%C11-%O$tYou have been killed by $1 ($2%O)"
+
+msgid "%C3>%O$1%C3<%O$t$2%O"
+msgstr "%C3>%O$1%C3<%O$t$2%O"
+
+msgid "-%C10-%C11-%O$t$1%O"
+msgstr "-%C10-%C11-%O$t$1%O"
+
+msgid "-%C10-%C11-%O$tMOTD Skipped."
+msgstr "-%C10-%C11-%O$tMOTD Skipped."
+
+msgid "-%C10-%C11-%O$t$1 already in use. Retrying with $2.."
+msgstr "-%C10-%C11-%O$t$1 already in use. Retrying with $2.."
+
+msgid "-%C10-%C11-%O$tNickname already in use. Use /NICK to try another."
+msgstr "-%C10-%C11-%O$tNickname already in use. Use /NICK to try another."
+
+msgid "-%C10-%C11-%O$tNo such DCC."
+msgstr "-%C10-%C11-%O$tNo such DCC."
+
+msgid "-%C10-%C11-%O$tNo process is currently running"
+msgstr "-%C10-%C11-%O$tNo process is currently running"
+
+msgid "%C12-%C13$1%C12-%O$t$2%O"
+msgstr "%C12-%C13$1%C12-%O$t$2%O"
+
+msgid "-%C10-%C11-%O$tNotify list is empty."
+msgstr "-%C10-%C11-%O$tNotify list is empty."
+
+msgid "%C24,18 %B  Notify List                           "
+msgstr "%C24,18 %B Notify List                           "
+
+msgid "-%C10-%C11-%O$t$1 users in notify list."
+msgstr "-%C10-%C11-%O$t$1 users in notify list."
+
+msgid "-%C10-%C11-%O$tNotify: $1 is offline ($2)."
+msgstr "-%C10-%C11-%O$tNotify: $1 is offline ($2)."
+
+msgid "-%C10-%C11-%O$tNotify: $1 is online ($2)."
+msgstr "-%C10-%C11-%O$tNotify: $1 is online ($2)."
+
+msgid "<%C10-%C11-%O$t$1 %C14(%O$2%C14)%C has left $3"
+msgstr "<%C10-%C11-%O$t$1 %C14(%O$2%C14)%C has left $3"
+
+msgid "<%C10-%C11-%O$t$1 %C14(%O$2%C14)%C has left $3 %C14(%O$4%C14)%O"
+msgstr "<%C10-%C11-%O$t$1 %C14(%O$2%C14)%C has left $3 %C14(%O$4%C14)%O"
+
+msgid "-%C10-%C11-%O$tPing reply from $1 : $2 second(s)"
+msgstr "-%C10-%C11-%O$tPing reply from $1 : $2 second(s)"
+
+msgid "-%C10-%C11-%O$tNo ping reply for $1 seconds, disconnecting."
+msgstr "-%C10-%C11-%O$tNo ping reply for $1 seconds, disconnecting."
+
+msgid "%C12*%C13$1%C12*$t%O$2%O"
+msgstr "%C12*%C13$1%C12*$t%O$2%O"
+
+msgid "-%C10-%C11-%O$tA process is already running"
+msgstr "-%C10-%C11-%O$tA process is already running"
+
+msgid "<%C10-%C11-%O$t$1 has quit %C14(%O$2%O%C14)%O"
+msgstr "<%C10-%C11-%O$t$1 has quit %C14(%O$2%O%C14)%O"
+
+msgid "-%C10-%C11-%O$t$1 sets modes%B %C14[%O$2%B%C14]%O"
+msgstr "-%C10-%C11-%O$t$1 sets modes%B %C14[%O$2%B%C14]%O"
+
+msgid "%C12-%C13$1/Wallops%C12-%O$t$2%O"
+msgstr "%C12-%C13$1/Wallops%C12-%O$t$2%O"
+
+msgid "-%C10-%C11-%O$tLooking up IP number for%C11 $1%O.."
+msgstr "-%C10-%C11-%O$tLooking up IP number for%C11 $1%O.."
+
+msgid "-%C10-%C11-%O$tConnected."
+msgstr "-%C10-%C11-%O$tConnected."
+
+msgid "-%C10-%C11-%O$tLooking up %C11$1%C.."
+msgstr "-%C10-%C11-%O$tLooking up %C11$1%C.."
+
+msgid "-%C10-%C11-%O$tStopped previous connection attempt (pid=$1)"
+msgstr "-%C10-%C11-%O$tStopped previous connection attempt (pid=$1)"
+
+msgid "-%C10-%C11-%O$tTopic for %C11$1%C is %C11$2%O"
+msgstr "-%C10-%C11-%O$tTopic for %C11$1%C is %C11$2%O"
+
+msgid "-%C10-%C11-%O$t$1 has changed the topic to: $2%O"
+msgstr "-%C10-%C11-%O$t$1 has changed the topic to: $2%O"
+
+msgid "-%C10-%C11-%O$tTopic for %C11$1%C set by %C11$2%C at %C11$3%O"
+msgstr "-%C10-%C11-%O$tTopic for %C11$1%C set by %C11$2%C at %C11$3%O"
+
+msgid "-%C10-%C11-%O$tUnknown host. Maybe you misspelled it?"
+msgstr "-%C10-%C11-%O$tUnknown host. Maybe you misspelt it?"
+
+msgid "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(User limit reached)."
+msgstr "-%C10-%C11-%O$tCannot join%C11 %B$1 %O(User limit reached)."
+
+msgid "-%C10-%C11-%O$t%C11Users on $1:%C $2"
+msgstr "-%C10-%C11-%O$t%C11Users on $1:%C $2"
+
+msgid "%C22*%O$t%C28[%O$1%C28] %O$2%C27 $3"
+msgstr "%C22*%O$t%C28[%O$1%C28] %O$2%C27 $3"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12] %Cis away %C14(%O$2%O%C14)"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12] %Cis away %C14(%O$2%O%C14)"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12]%C $2"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12]%C $2"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12] %CEnd of WHOIS list."
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12] %CEnd of WHOIS list."
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12] %C$2"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12] %C$2"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12]%O idle %C11$2%O"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12]%O idle %C11$2%O"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12]%O idle %C11$2%O, signon: %C11$3%O"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12]%O idle %C11$2%O, signon: %C11$3%O"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12] %C14(%O$2@$3%C14) %O: $4%O"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12] %C14(%O$2@$3%C14) %O: $4%O"
+
+msgid ""
+"-%C10-%C11-%O$t%C12[%O$1%C12] %Oreal user@host %C11$2%O, real IP %C11$3%O"
+msgstr ""
+"-%C10-%C11-%O$t%C12[%O$1%C12] %Oreal user@host %C11$2%O, real IP %C11$3%O"
+
+msgid "-%C10-%C11-%O$t%C12[%O$1%C12]%O $2"
+msgstr "-%C10-%C11-%O$t%C12[%O$1%C12]%O $2"
+
+msgid "%C22*%O$t%C28[%O$1%C28]%O $2"
+msgstr "%C22*%O$t%C28[%O$1%C28]%O $2"
+
+msgid "-%C10-%C11>%O$t%BYou%B are now talking on %C11$2%O"
+msgstr "-%C10-%C11>%O$t%BYou%B are now talking on %C11$2%O"
+
+msgid "-%C10-%C11-%O$tYou have been kicked from $2 by $3 ($4%O)"
+msgstr "-%C10-%C11-%O$tYou have been kicked from $2 by $3 ($4%O)"
+
+msgid "-%C10-%C11-%O$tYou have left channel $3"
+msgstr "-%C10-%C11-%O$tYou have left channel $3"
+
+msgid "-%C10-%C11-%O$tYou have left channel $3 %C14(%O$4%C14)%O"
+msgstr "-%C10-%C11-%O$tYou have left channel $3 %C14(%O$4%C14)%O"
+
+msgid "-%C10-%C11-%O$tYou're inviting %C11$1%C to %C11$2%C (%C11$3%C)"
+msgstr "-%C10-%C11-%O$tYou're inviting %C11$1%C to %C11$2%C (%C11$3%C)"
+
+msgid "%C6<%O$1%C6>%O$t$2%O"
+msgstr "%C6<%O$1%C6>%O$t$2%O"
+
+msgid "-%C10-%C11-%O$tYou are now known as $2"
+msgstr "-%C10-%C11-%O$tYou are now known as $2"
+
+msgid "Remote host closed socket"
+msgstr "Remote host closed socket"
+
+msgid "Connection refused"
+msgstr "Connection refused"
+
+msgid "No route to host"
+msgstr "No route to host"
+
+msgid "Connection timed out"
+msgstr "Connection timed out"
+
+msgid "Cannot assign that address"
+msgstr "Cannot assign that address"
+
+msgid "Connection reset by peer"
+msgstr "Connection reset by peer"
+
+msgid "Ascension Island"
+msgstr "Ascension Island"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Antigua and Barbuda"
+msgstr "Antigua and Barbuda"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Albania"
+msgstr "Albania"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Netherlands Antilles"
+msgstr "Netherlands Antilles"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Antarctica"
+msgstr "Antarctica"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Reverse DNS"
+msgstr "Reverse DNS"
+
+msgid "American Samoa"
+msgstr "American Samoa"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Nato Fiel"
+msgstr "Nato Fiel"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Aland Islands"
+msgstr "Aland Islands"
+
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia and Herzegovina"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Businesses"
+msgstr "Businesses"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cocos Islands"
+msgstr "Cocos Islands"
+
+msgid "Democratic Republic of Congo"
+msgstr "Democratic Republic of Congo"
+
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+msgid "Congo"
+msgstr "Congo"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Cote d'Ivoire"
+msgstr "Cote d'Ivoire"
+
+msgid "Cook Islands"
+msgstr "Cook Islands"
+
+msgid "Cameroon"
+msgstr "Cameroon"
+
+msgid "China"
+msgstr "China"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Internic Commercial"
+msgstr "Internic Commercial"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Serbia and Montenegro"
+msgstr "Serbia and Montenegro"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Dominican Republic"
+
+msgid "Algeria"
+msgstr "Algeria"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Educational Institution"
+msgstr "Educational Institution"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Egypt"
+msgstr "Egypt"
+
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgid "European Union"
+msgstr "European Union"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Falkland Islands"
+msgstr "Falkland Islands"
+
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgid "Faroe Islands"
+msgstr "Faroe Islands"
+
+msgid "France"
+msgstr "France"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Great Britain"
+msgstr "Great Britain"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "French Guiana"
+msgstr "French Guiana"
+
+msgid "British Channel Isles"
+msgstr "British Channel Isles"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greenland"
+msgstr "Greenland"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Government"
+msgstr "Government"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "S. Georgia and S. Sandwich Isles"
+msgstr "S. Georgia and S. Sandwich Isles"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Heard and McDonald Islands"
+msgstr "Heard and McDonald Islands"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Croatia"
+msgstr "Croatia"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+msgid "India"
+msgstr "India"
+
+msgid "Informational"
+msgstr "Informational"
+
+msgid "International"
+msgstr "International"
+
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+msgid "Cambodia"
+msgstr "Cambodia"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "St. Kitts and Nevis"
+msgstr "St. Kitts and Nevis"
+
+msgid "North Korea"
+msgstr "North Korea"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Cayman Islands"
+msgstr "Cayman Islands"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Lebanon"
+msgstr "Lebanon"
+
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Lithuania"
+msgstr "Lithuania"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Libya"
+msgstr "Libya"
+
+msgid "Morocco"
+msgstr "Morocco"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Moldova"
+msgstr "Moldova"
+
+msgid "United States Medical"
+msgstr "United States Medical"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Marshall Islands"
+msgstr "Marshall Islands"
+
+msgid "Military"
+msgstr "Military"
+
+msgid "Macedonia"
+msgstr "Macedonia"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgid "Macau"
+msgstr "Macau"
+
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+msgid "Martinique"
+msgstr "Martinique"
+
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Internic Network"
+msgstr "Internic Network"
+
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Internic Non-Profit Organization"
+msgstr "Internic Non-Profit Organisation"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "French Polynesia"
+msgstr "French Polynesia"
+
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "St. Pierre and Miquelon"
+msgstr "St. Pierre and Miquelon"
+
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Palestinian Territory"
+msgstr "Palestinian Territory"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Reunion"
+msgstr "Reunion"
+
+msgid "Romania"
+msgstr "Romania"
+
+msgid "Old School ARPAnet"
+msgstr "Old School ARPAnet"
+
+msgid "Russian Federation"
+msgstr "Russian Federation"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "St. Helena"
+msgstr "St. Helena"
+
+msgid "Slovenia"
+msgstr "Slovenia"
+
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbard and Jan Mayen Islands"
+
+msgid "Slovak Republic"
+msgstr "Slovak Republic"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome and Principe"
+
+msgid "Former USSR"
+msgstr "Former USSR"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Syria"
+msgstr "Syria"
+
+msgid "Swaziland"
+msgstr "Swaziland"
+
+msgid "Turks and Caicos Islands"
+msgstr "Turks and Caicos Islands"
+
+msgid "Chad"
+msgstr "Chad"
+
+msgid "French Southern Territories"
+msgstr "French Southern Territories"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "East Timor"
+msgstr "East Timor"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinidad and Tobago"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "US Minor Outlying Islands"
+msgstr "US Minor Outlying Islands"
+
+msgid "United States of America"
+msgstr "United States of America"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Vatican City State"
+msgstr "Vatican City State"
+
+msgid "St. Vincent and the Grenadines"
+msgstr "St. Vincent and the Grenadines"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "British Virgin Islands"
+msgstr "British Virgin Islands"
+
+msgid "US Virgin Islands"
+msgstr "US Virgin Islands"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Wallis and Futuna Islands"
+msgstr "Wallis and Futuna Islands"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Yugoslavia"
+msgstr "Yugoslavia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "remote access"
+msgstr "remote access"
+
+msgid "plugin for remote access using DBUS"
+msgstr "plugin for remote access using DBUS"
+
+msgid "Couldn't connect to session bus: %s\n"
+msgstr "Couldn't connect to session bus: %s\n"
+
+msgid "Failed to acquire %s: %s\n"
+msgstr "Failed to acquire %s: %s\n"
+
+msgid "Set it at TRUE if you want it activated"
+msgstr "Set it at TRUE if you want it activated"
+
+msgid "The handler for \"irc://\" URLs"
+msgstr "The handler for \"irc://\" URLs"
+
+msgid ""
+"X-Chat GNOME is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version."
+msgstr ""
+"X-Chat GNOME is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version."
+
+msgid ""
+"X-Chat GNOME is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details."
+msgstr ""
+"X-Chat GNOME is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"X-Chat GNOME; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place, Suite 330, Boston, MA  02111-1307  USA"
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"X-Chat GNOME; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place, Suite 330, Boston, MA 02111-1307 USA"
+
+msgid ""
+"It has been well observed that a trombone is not a suitable instrument for a "
+"gentleman"
+msgstr ""
+"It has been well observed that a trombone is not a suitable instrument for a "
+"gentleman"
+
+msgid "XChat-GNOME Web Site"
+msgstr "XChat-GNOME Web Site"
+
+msgid "translator-credits"
+msgstr "Jeff Bailes <thepizzaking@gmail.com>"
+
+msgid "Background image filename"
+msgstr "Background image filename"
+
+msgid "Background transparency"
+msgstr "Background transparency"
+
+msgid "Default nickname used by servers without special options set"
+msgstr "Default nickname used by servers without special options set"
+
+msgid "Default real name used by servers without special options set"
+msgstr "Default real name used by servers without special options set"
+
+msgid "Display redundant nickstamps"
+msgstr "Display redundant nickstamps"
+
+msgid "Enable spellchecking"
+msgstr "Enable spellchecking"
+
+msgid "Font for the main window"
+msgstr "Font for the main window"
+
+msgid "Height of the channel list"
+msgstr "Height of the channel list"
+
+msgid "Height of the main window"
+msgstr "Height of the main window"
+
+msgid "Languages to use for spellchecking"
+msgstr "Languages to use for spellchecking"
+
+msgid "List of enabled plugins"
+msgstr "List of enabled plugins"
+
+msgid "Message sent on away"
+msgstr "Message sent on away"
+
+msgid "Message sent on channel part"
+msgstr "Message sent on channel part"
+
+msgid "Message sent on quit"
+msgstr "Message sent on quit"
+
+msgid "Position of the horizontal pane in the main window"
+msgstr "Position of the horizontal pane in the main window"
+
+msgid "Selected background type"
+msgstr "Selected background type"
+
+msgid "Selected color scheme"
+msgstr "Selected colour scheme"
+
+msgid "Show colors in the main window"
+msgstr "Show colours in the main window"
+
+msgid "Show timestamps in the main window"
+msgstr "Show timestamps in the main window"
+
+msgid "Use system fonts"
+msgstr "Use system fonts"
+
+msgid "Width of the main window"
+msgstr "Width of the main window"
+
+msgid "X position of the main window on the screen"
+msgstr "X position of the main window on the screen"
+
+msgid "Y position of the main window on the screen"
+msgstr "Y position of the main window on the screen"
+
+msgid "xchat configuration version"
+msgstr "xchat configuration version"
+
+msgid "%s Channel List"
+msgstr "%s Channel List"
+
+msgid "Open Link in Browser"
+msgstr "Open Link in Browser"
+
+msgid "Copy Link Location"
+msgstr "Copy Link Location"
+
+msgid "Send Message To..."
+msgstr "Send Message To..."
+
+msgid "Copy Address"
+msgstr "Copy Address"
+
+msgid "Send File"
+msgstr "Send File"
+
+msgid "Paste File Contents"
+msgstr "Paste File Contents"
+
+msgid "Paste Filename"
+msgstr "Paste Filename"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Error reading file \"%s\": %s\n"
+msgstr "Error reading file \"%s\": %s\n"
+
+msgid "Error converting URI \"%s\" into filename: %s\n"
+msgstr "Error converting URI \"%s\" into filename: %s\n"
+
+msgid "Error retrieving file information for \"%s\": %s\n"
+msgstr "Error retrieving file information for \"%s\": %s\n"
+
+msgid "Save Transcript"
+msgstr "Save Transcript"
+
+msgid "Error saving %s"
+msgstr "Error saving %s"
+
+msgid "Search buffer is empty.\n"
+msgstr "Search buffer is empty.\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "File"
+msgstr "File"
+
+msgid "Remaining"
+msgstr "Remaining"
+
+msgid "Incoming File Transfer"
+msgstr "Incoming File Transfer"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid ""
+"%s is attempting to send you a file named \"%s\". Do you wish to accept the "
+"transfer?"
+msgstr ""
+"%s is attempting to send you a file named \"%s\". Do you wish to accept the "
+"transfer?"
+
+msgid ""
+"%s\n"
+"from %s\n"
+"%s of %s"
+msgstr ""
+"%s\n"
+"from %s\n"
+"%s of %s"
+
+msgid "starting"
+msgstr "starting"
+
+msgid ""
+"%s\n"
+"from %s\n"
+"%s of %s at %s/s"
+msgstr ""
+"%s\n"
+"from %s\n"
+"%s of %s at %s/s"
+
+msgid "queued"
+msgstr "queued"
+
+msgid "Transfer of %s to %s failed"
+msgstr "Transfer of %s to %s failed"
+
+msgid "Transfer of %s from %s failed"
+msgstr "Transfer of %s from %s failed"
+
+msgid "Transfer failed"
+msgstr "Transfer failed"
+
+msgid "aborted"
+msgstr "aborted"
+
+msgid "stalled"
+msgstr "stalled"
+
+msgid "%.2d:%.2d:%.2d"
+msgstr "%.2d:%.2d:%.2d"
+
+msgid "%.2d:%.2d"
+msgstr "%.2d:%.2d"
+
+msgid "Send File..."
+msgstr "Send File..."
+
+msgid "Use directory instead of the default config dir"
+msgstr "Use directory instead of the default config dir"
+
+msgid "Don't auto-connect to servers"
+msgstr "Don't auto-connect to servers"
+
+msgid "Don't auto-load plugins"
+msgstr "Don't auto-load plugins"
+
+msgid "Open an irc:// url"
+msgstr "Open an irc:// url"
+
+msgid "Show version information"
+msgstr "Show version information"
+
+msgid ""
+"xchat-gnome: %s\n"
+"Try `xchat-gnome --help' for more information\n"
+msgstr ""
+"xchat-gnome: %s\n"
+"Try `xchat-gnome --help' for more information\n"
+
+msgid "Incoming DCC Chat"
+msgstr "Incoming DCC Chat"
+
+msgid ""
+"%s is attempting to create a direct chat. Do you wish to accept the "
+"connection?"
+msgstr ""
+"%s is attempting to create a direct chat. Do you wish to accept the "
+"connection?"
+
+msgid "Unable to show '%s'"
+msgstr "Unable to show '%s'"
+
+msgid "Find:"
+msgstr "Find:"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "<span foreground=\"dark grey\">Reached end, continuing from top</span>"
+msgstr "<span foreground=\"dark grey\">Reached end, continuing from top</span>"
+
+msgid ""
+"<span foreground=\"dark grey\">Reached beginning, continuing from bottom</"
+"span>"
+msgstr ""
+"<span foreground=\"dark grey\">Reached beginning, continuing from bottom</"
+"span>"
+
+msgid "<span foreground=\"red\">Search string not found</span>"
+msgstr "<span foreground=\"red\">Search string not found</span>"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "New Network"
+msgstr "New Network"
+
+msgid "%s Network Properties"
+msgstr "%s Network Properties"
+
+msgid "Invalid input"
+msgstr "Invalid input"
+
+msgid "You must enter a network name"
+msgstr "You must enter a network name"
+
+msgid "You must enter a nick name"
+msgstr "You must enter a nick name"
+
+msgid "You must enter a real name"
+msgstr "You must enter a real name"
+
+msgid "No Servers"
+msgstr "No Servers"
+
+msgid "You must add at least one server for this network"
+msgstr "You must add at least one server for this network"
+
+msgid "UTF-8 (Unicode)"
+msgstr "UTF-8 (Unicode)"
+
+msgid "ISO-8859-15 (Western Europe)"
+msgstr "ISO-8859-15 (Western Europe)"
+
+msgid "ISO-8859-2 (Central Europe)"
+msgstr "ISO-8859-2 (Central Europe)"
+
+msgid "ISO-8859-7 (Greek)"
+msgstr "ISO-8859-7 (Greek)"
+
+msgid "ISO-8859-8 (Hebrew)"
+msgstr "ISO-8859-8 (Hebrew)"
+
+msgid "ISO-8859-9 (Turkish)"
+msgstr "ISO-8859-9 (Turkish)"
+
+msgid "ISO-2022-JP (Japanese)"
+msgstr "ISO-2022-JP (Japanese)"
+
+msgid "SJIS (Japanese)"
+msgstr "SJIS (Japanese)"
+
+msgid "CP949 (Korean)"
+msgstr "CP949 (Korean)"
+
+msgid "KOI8-R (Cyrillic)"
+msgstr "KOI8-R (Cyrillic)"
+
+msgid "CP1251 (Cyrillic)"
+msgstr "CP1251 (Cyrillic)"
+
+msgid "CP1256 (Arabic)"
+msgstr "CP1256 (Arabic)"
+
+msgid "CP1257 (Baltic)"
+msgstr "CP1257 (Baltic)"
+
+msgid "GB18030 (Chinese)"
+msgstr "GB18030 (Chinese)"
+
+msgid "TIS-620 (Thai)"
+msgstr "TIS-620 (Thai)"
+
+msgid "IRC"
+msgstr "IRC"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Discussion"
+msgstr "Discussion"
+
+msgid "Go"
+msgstr "Go"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Connect..."
+msgstr "Connect..."
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Reconnect"
+msgstr "Reconnect"
+
+msgid "Disconnect"
+msgstr "Disconnect"
+
+msgid "Channels..."
+msgstr "Channels..."
+
+msgid "Leave"
+msgstr "Leave"
+
+msgid "Find"
+msgstr "Find"
+
+msgid "Change Topic"
+msgstr "Change Topic"
+
+msgid "Bans..."
+msgstr "Bans..."
+
+msgid "Contents"
+msgstr "Contents"
+
+msgid "About"
+msgstr "About"
+
+msgid "Ex-Chat"
+msgstr "Ex-Chat"
+
+msgid "Error showing help"
+msgstr "Error showing help"
+
+msgid ""
+"The way the D-Bus plugin works has changed.\n"
+"To avoid problems, you should remove the old plugin file.\n"
+"\n"
+"Please delete %s"
+msgstr ""
+"The way the D-Bus plugin works has changed.\n"
+"To avoid problems, you should remove the old plugin file.\n"
+"\n"
+"Please delete %s"
+
+msgid "D-Bus plugin is still installed"
+msgstr "D-Bus plugin is still installed"
+
+msgid "Previous Network"
+msgstr "Previous Network"
+
+msgid "Next Network"
+msgstr "Next Network"
+
+msgid "Previous Discussion"
+msgstr "Previous Discussion"
+
+msgid "Next Discussion"
+msgstr "Next Discussion"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Auto-connect on startup"
+msgstr "Auto-connect on startup"
+
+msgid "Auto-join on connect"
+msgstr "Auto-join on connect"
+
+msgid "<none>"
+msgstr "<none>"
+
+msgid "Colors"
+msgstr "Colours"
+
+msgid "Black on White"
+msgstr "Black on White"
+
+msgid "White on Black"
+msgstr "White on Black"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "System Theme Colors"
+msgstr "System Theme Colours"
+
+msgid "File Transfers  DCC"
+msgstr "File Transfers  DCC"
+
+msgid "Effects"
+msgstr "Effects"
+
+msgid "IRC Preferences"
+msgstr "IRC Preferences"
+
+msgid "Really remove network \"%s\" and all of its servers?"
+msgstr "Really remove network \"%s\" and all of its servers?"
+
+msgid "Networks"
+msgstr "Networks"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "unknown"
+msgstr "unknown"
+
+msgid "Plugin Unload Failed"
+msgstr "Plugin Unload Failed"
+
+msgid "Plugin Load Failed"
+msgstr "Plugin Load Failed"
+
+msgid "Open Plugin"
+msgstr "Open Plugin"
+
+msgid "Scripts and Plugins"
+msgstr "Scripts and Plugins"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Error in language %s activation: %s\n"
+msgstr "Error in language %s activation: %s\n"
+
+msgid "Error in spell checking configuration: %s\n"
+msgstr "Error in spell checking configuration: %s\n"
+
+msgid "Spell checking"
+msgstr "Spell checking"
+
+msgid ""
+"In order to get spell-checking, you need to have libenchant installed with "
+"at least one dictionary."
+msgstr ""
+"In order to get spell-checking, you need to have libenchant installed with "
+"at least one dictionary."
+
+msgid "Check spelling"
+msgstr "Check spelling"
+
+msgid "Choose languages to use for spellcheck:"
+msgstr "Choose languages to use for spellcheck:"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "%s%.1fs lag"
+msgstr "%s%.1fs lag"
+
+msgid "%d bytes buffered"
+msgstr "%d bytes buffered"
+
+msgid "Error in spellchecking configuration: %s\n"
+msgstr "Error in spellchecking configuration: %s\n"
+
+msgid "Insert Color Code"
+msgstr "Insert Colour Code"
+
+msgid "Black"
+msgstr "Black"
+
+msgid "Dark Blue"
+msgstr "Dark Blue"
+
+msgid "Dark Green"
+msgstr "Dark Green"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Brown"
+msgstr "Brown"
+
+msgid "Purple"
+msgstr "Purple"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Yellow"
+msgstr "Yellow"
+
+msgid "Light Green"
+msgstr "Light Green"
+
+msgid "Aqua"
+msgstr "Aqua"
+
+msgid "Light Blue"
+msgstr "Light Blue"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Violet"
+msgstr "Violet"
+
+msgid "Grey"
+msgstr "Grey"
+
+msgid "Light Grey"
+msgstr "Light Grey"
+
+msgid "White"
+msgstr "White"
+
+msgid "Changing topic for %s"
+msgstr "Changing topic for %s"
+
+msgid "Private Chat"
+msgstr "Private Chat"
+
+msgid "Kick"
+msgstr "Kick"
+
+msgid "Ban"
+msgstr "Ban"
+
+msgid "Ignore"
+msgstr "Ignore"
+
+msgid "Op"
+msgstr "Op"
+
+msgid ""
+"%s\n"
+"<span weight=\"bold\">Name:</span> %s"
+msgstr ""
+"%s\n"
+"<span weight=\"bold\">Name:</span> %s"
+
+msgid ""
+"%s\n"
+"<span weight=\"bold\">Country:</span> %s"
+msgstr ""
+"%s\n"
+"<span weight=\"bold\">Country:</span> %s"
+
+msgid ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> %d minute ago"
+msgid_plural ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> %d minutes ago"
+msgstr[0] ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> %d minute ago"
+msgstr[1] ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> %d minutes ago"
+
+msgid ""
+"%s\n"
+"<span weight=\"bold\">Away message:</span> %s"
+msgstr ""
+"%s\n"
+"<span weight=\"bold\">Away message:</span> %s"
+
+msgid "%d User"
+msgid_plural "%d Users"
+msgstr[0] "%d User"
+msgstr[1] "%d Users"
+
+msgid "Apply Text Filter To:    "
+msgstr "Apply Text Filter To:    "
+
+msgid "Maximum Users:"
+msgstr "Maximum Users:"
+
+msgid "Minimum Users:"
+msgstr "Minimum Users:"
+
+msgid "Text Filter:"
+msgstr "Text Filter:"
+
+msgid "Close this discussion"
+msgstr "Close this discussion"
+
+msgid "Screensaver activated, going away."
+msgstr "Screensaver activated, going away."
+
+msgid "Screensaver is off, welcome back"
+msgstr "Screensaver is off, welcome back"
+
+msgid "Auto-away plugin unloaded\n"
+msgstr "Auto-away plugin unloaded\n"
+
+msgid "ADDBUTTON <name> <action>, adds a button under the user-list"
+msgstr "ADDBUTTON <name> <action>, adds a button under the user-list"
+
+msgid "DELBUTTON <name>, deletes a button from under the user-list"
+msgstr "DELBUTTON <name>, deletes a button from under the user-list"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Open Dialog Window"
+msgstr "Open Dialogue Window"
+
+msgid "Send a File"
+msgstr "Send a File"
+
+msgid "User Info (WHOIS)"
+msgstr "User Info (WHOIS)"
+
+msgid "Operator Actions"
+msgstr "Operator Actions"
+
+msgid "Give Ops"
+msgstr "Give Ops"
+
+msgid "Take Ops"
+msgstr "Take Ops"
+
+msgid "Give Voice"
+msgstr "Give Voice"
+
+msgid "Take Voice"
+msgstr "Take Voice"
+
+msgid "Kick/Ban"
+msgstr "Kick/Ban"
+
+msgid "KickBan"
+msgstr "KickBan"
+
+msgid "Direct client-to-client"
+msgstr "Direct client-to-client"
+
+msgid "Offer Chat"
+msgstr "Offer Chat"
+
+msgid "Abort Chat"
+msgstr "Abort Chat"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Userinfo"
+msgstr "Userinfo"
+
+msgid "Clientinfo"
+msgstr "Clientinfo"
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Finger"
+msgstr "Finger"
+
+msgid "Oper"
+msgstr "Oper"
+
+msgid "Kill this user"
+msgstr "Kill this user"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Give Half-Ops"
+msgstr "Give Half-Ops"
+
+msgid "Take Half-Ops"
+msgstr "Take Half-Ops"
+
+msgid "Ignore User"
+msgstr "Ignore User"
+
+msgid "UnIgnore User"
+msgstr "UnIgnore User"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Who"
+msgstr "Who"
+
+msgid "WhoIs"
+msgstr "WhoIs"
+
+msgid "DNS Lookup"
+msgstr "DNS Lookup"
+
+msgid "Trace"
+msgstr "Trace"
+
+msgid "UserHost"
+msgstr "UserHost"
+
+msgid "External"
+msgstr "External"
+
+msgid "Traceroute"
+msgstr "Traceroute"
+
+msgid "Telnet"
+msgstr "Telnet"
+
+msgid "Leave Channel"
+msgstr "Leave Channel"
+
+msgid "Join Channel..."
+msgstr "Join Channel..."
+
+msgid "Enter Channel to Join:"
+msgstr "Enter Channel to Join:"
+
+msgid "Server Links"
+msgstr "Server Links"
+
+msgid "Ping Server"
+msgstr "Ping Server"
+
+msgid "Hide Version"
+msgstr "Hide Version"
+
+msgid "DeOp"
+msgstr "DeOp"
+
+msgid "bye"
+msgstr "bye"
+
+msgid "Enter reason to kick %s:"
+msgstr "Enter reason to kick %s:"
+
+msgid "Sendfile"
+msgstr "Sendfile"
+
+msgid "Dialog"
+msgstr "Dialogue"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "%s loaded successfully!\n"
+msgstr "%s loaded successfully!\n"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Find..."
+msgstr "Find..."
+
+msgid "Save List As"
+msgstr "Save List As"
+
+msgid "Nickserv Password:"
+msgstr "Nickserv Password:"
+
+msgid "Server Password:"
+msgstr "Server Password:"
+
+msgid "Auto-accept DCC Chat"
+msgstr "Auto-accept DCC Chat"
+
+msgid "Auto-accept DCC File Transfers"
+msgstr "Auto-accept DCC File Transfers"
+
+msgid "Get IP Address From Server"
+msgstr "Get IP Address From Server"
+
+msgid "Use System Terminal Font"
+msgstr "Use System Terminal Font"
+
+msgid "Use This IP Address:"
+msgstr "Use This IP Address:"
+
+msgid "Nick Name:"
+msgstr "Nick Name:"
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "XChat-GNOME remote access"
+msgstr "XChat-GNOME remote access"
+
+msgid "Couldn't connect to session bus : %s\n"
+msgstr "Couldn't connect to session bus : %s\n"
+
+msgid "irc://server:port/channel"
+msgstr "irc://server:port/channel"
+
+msgid "Execute a xchat command"
+msgstr "Execute an xchat command"
+
+msgid "\"Command to execute\""
+msgstr "\"Command to execute\""
+
+msgid "Prints some text to the current tab/window"
+msgstr "Prints some text to the current tab/window"
+
+msgid "\"Text to print\""
+msgstr "\"Text to print\""
+
+msgid "Change the context to the channel"
+msgstr "Change the context to the channel"
+
+msgid "channel"
+msgstr "channel"
+
+msgid "Change the context to the server"
+msgstr "Change the context to the server"
+
+msgid "server"
+msgstr "server"
+
+msgid "Get some informations from xchat"
+msgstr "Get some information from xchat"
+
+msgid "id"
+msgstr "id"
+
+msgid "Get settings from xchat"
+msgstr "Get settings from xchat"
+
+msgid "name"
+msgstr "name"
+
+msgid ""
+"xchat-gnome-remote: %s\n"
+"Try `xchat-gnome-remote --help' for more information\n"
+msgstr ""
+"xchat-gnome-remote: %s\n"
+"Try `xchat-gnome-remote --help' for more information\n"
+
+msgid "Couldn't connect to session bus"
+msgstr "Couldn't connect to session bus"
+
+msgid "Failed to complete command"
+msgstr "Failed to complete command"
+
+msgid "Failed to complete SetContext"
+msgstr "Failed to complete SetContext"
+
+msgid "Failed to complete print"
+msgstr "Failed to complete print"
+
+msgid "Failed to complete GetInfo"
+msgstr "Failed to complete GetInfo"
+
+msgid "Failed to complete GetPrefs"
+msgstr "Failed to complete GetPrefs"
+
+msgid "%s doesn't exist\n"
+msgstr "%s doesn't exist\n"
+
+msgid "Orientation"
+msgstr "Orientation"
+
+msgid "The orientation of the tray."
+msgstr "The orientation of the tray."
+
+msgid "CLEAR, Clears the current text window"
+msgstr "CLEAR, Clears the current text window"
+
+msgid "QUERY <nick>, opens up a new privmsg window to someone"
+msgstr "QUERY <nick>, opens up a new privmsg window to someone"
+
+msgid "France, Metropolitan"
+msgstr "France, Metropolitan"
+
+msgid "Neutral Zone"
+msgstr "Neutral Zone"
+
+msgid "Auto-join on startup"
+msgstr "Auto-join on startup"
+
+msgid ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> 1 minute ago"
+msgstr ""
+"%s\n"
+"<span weight=\"bold\">Last message:</span> 1 minute ago"
+
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+msgstr[1] ""
+
+

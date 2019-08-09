@@ -1,0 +1,509 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:40:04 CDT 2013 ---
+#
+# JimHu <jimhuyiwei@gmail.com>, 2009.
+# Li Ang <lllaaa@gmail.com>, 2010.
+# Xiong Jiang <jxiong@offtopic.org>, 2002-2005.
+# He Qiangqiang <carton@linux.net.cn>, 2001-2010.
+# Lie Ex <lilith.ex@gmail.com>, 2007-2011.
+# Ni Hui <shuizhuyuanluo@126.com>, 2007-2013.
+#   Updated and QA by Jiang Xiong <jxiong@gwu.edu>, 2001.
+# Xhacker Liu <liu.dongyuan@gmail.com>, 2010.
+# Wang Li <charles@linux.net.cn>, 2001-2008.
+# zhu-zhy <sp_xym@hotmail.com>, 2003-2005.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2002-2012.
+# Zong Yaotang <zong@cosix.com.cn>, 2002-2004.
+# Hinker <hinkerliu@gmail.com>, 2009-2010.
+# Sun G11n <gnome_int_l10n@ireland.sun.com>, 2002-2003.
+# Funda Wang <fundawang@linux.net.cn>, 2002-2011.
+# Yan Shuangchun <yahzee@d3eye.com>, 2003-2005.
+# Li Shaojie <storm-119@163.com>, 2004.
+#   Updated and QA by Zipeco <zipeco@btamail.net.cn>, 2002.
+# Aron Xu <happyaron.xu@gmail.com>, 2007-2013.
+# Feng Chao <rainofchaos@gmail.com>, 2010-2013.
+# Dillion Chen <dillon.chen@turbolinux.com.cn>, 1999-2003.
+# Liang Qi <cavendish.qi@gmail.com>, 2007-2008.
+# Qi Liang <cavendish@eyou.com>, 2001-2002.
+# Sarah Smith <sarahs@redhat.com>, 2002-2005.
+# Lie_Ex <lilith.ex@gmail.com>, 2006-2010.
+# 甘露(Gan Lu) <rhythm.gan@gmail.com>, 2008-2010.
+#   YangZhang <zyangmath@gmail.com>, 2008.
+# 朱涛 <bill_zt@sina.com>, 2010-2012.
+# Yongtao Yang <yongtao.yang@telia.com>, 2004.
+# Liu Songhe <jackliu9999@263.net>, 2002-2005.
+#   Updated and QA by Wang Jian <lark@linux.net.cn>.
+#   Funda Wang <fundawang@linux.net.cn>, 2002-2006.
+#   Updated by He Qiangqiang <carton@linux.net.cn>, 2002.
+# Richard Ma <richard.ma.19850509@gmail.com>, 2009-2012.
+# Wang Jian <lark@linux.net.cn>, 1998-2005.
+# Albert.Lew <albert_lew2002@eyou.com>, 2002.
+#   Updated and QA by WangLi <charlesw1234@163.com>, 2002.
+# Aliff Null <nju011221189@msn.com>, 2003.
+# Mai Haohui <maihaohui@hotmail.com>, 2001-2005.
+# Fan Qijiang <fqj1994@linux.com>, 2010.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+# Mai Hao Hui <mhh@126.com>, 2001-2004.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2013-04-29 17:33-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Merlin <merlin@turbolinux.com.cn>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: gb2312\n"
+
+msgid "Mount Point"
+msgstr "挂载点"
+
+msgid "Clear History"
+msgstr "清除历史"
+
+msgid "Loading folder..."
+msgstr "正在装入文件夹..."
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "%b %e  %Y"
+msgstr "%b %e  %Y"
+
+msgid "%b %e %H:%M"
+msgstr "%b %e %H:%M"
+
+msgid "bytes"
+msgstr "字节"
+
+msgid "Gigabytes"
+msgstr "GB"
+
+msgid "Megabytes"
+msgstr "MB"
+
+msgid "Kilobytes"
+msgstr "KB"
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] "%'u 项"
+
+msgid "The location is empty."
+msgstr "地址为空。"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Character device"
+msgstr "字符设备"
+
+msgid "Block device"
+msgstr "块设备"
+
+msgid "FIFO"
+msgstr "管道"
+
+msgid "Socket"
+msgstr "套接字"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "Create new file in the given directory"
+msgstr "无法在给定的目录中创建新文件"
+
+msgid "Create a new empty folder inside this folder"
+msgstr "在该文件夹中创建新的空文件夹"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Open in New Window"
+msgstr "在新窗口中打开"
+
+msgid "Show hidden files"
+msgstr "显示隐藏文件"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Home"
+msgstr "用户起始目录"
+
+msgid "Go back"
+msgstr "返回"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Mount the volume associated with this folder"
+msgstr "挂载与此文件夹关联的卷"
+
+msgid "Unmount the volume associated with this folder"
+msgstr "卸载与此文件夹关联的卷"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Personal settings"
+msgstr "个人设置"
+
+msgid "Reload"
+msgstr "刷新"
+
+msgid "Execute Shell Command"
+msgstr "执行 Shell 命令"
+
+msgid "Select All"
+msgstr "全选(A)"
+
+msgid "Unselect"
+msgstr "不选中"
+
+msgid "Select Items Matching..."
+msgstr "选择匹配的项目..."
+
+msgid "Group"
+msgstr "组"
+
+msgid "By Permissions"
+msgstr "按权限"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Background image"
+msgstr "背景图像"
+
+msgid "Background color"
+msgstr "背景颜色"
+
+msgid "Background transparency:"
+msgstr "背景透明度："
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Stay on single filesystem"
+msgstr "局限于单文件系统"
+
+msgid "None"
+msgstr "无"
+
+msgid "Iconify"
+msgstr "图标化"
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] "选中了 %'d 项"
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] " (含有 %'d 项)"
+
+msgid "No"
+msgstr "否"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Selection"
+msgstr "选择"
+
+msgid "Link to %s"
+msgstr "到 %s 的链接"
+
+msgid "Installed Plugins"
+msgstr "已安装的插件"
+
+msgid "File Type"
+msgstr "文件类型"
+
+msgid "MIME Type"
+msgstr "MIME类型"
+
+msgid "Encoding"
+msgstr "编码"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Modification Time :"
+msgstr "修改时间:"
+
+msgid "Access Time :"
+msgstr "访问时间:"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Shred"
+msgstr "粉碎"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Select File"
+msgstr "选择文件"
+
+msgid "Preparing"
+msgstr "准备中"
+
+msgid "Open with %s"
+msgstr "用 %s 打开"
+
+msgid "Go To"
+msgstr "转到"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Run in Terminal"
+msgstr "在终端中运行(T)"
+
+msgid "Create New Folder"
+msgstr "创建新文件夹"
+
+msgid "Left"
+msgstr "左边"
+
+msgid "Right"
+msgstr "右边"
+
+msgid "Text Completion"
+msgstr "文本补全"
+
+msgid "Variable"
+msgstr "变量"
+
+msgid ""
+"Basic rules:\n"
+"\n"
+"*  Will match any character zero or more times.\n"
+"?  Will match any character exactly one time\n"
+"[] Match any character within the [] \n"
+"^  Match at beginning of string\n"
+"$  Match at end of string \n"
+msgstr ""
+"基本规则:\n"
+"\n"
+"*  匹配任何字符 0 或任意次.\n"
+"?  匹配任何字符 1 次.\n"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Filter:"
+msgstr "过滤器:"
+
+msgid "Recursive"
+msgstr "递归"
+
+msgid "Find hidden files and directories"
+msgstr "查找隐藏目录和文件"
+
+msgid "File type : "
+msgstr "文件类型 : "
+
+msgid "Contains the text"
+msgstr "含有文本(T)"
+
+msgid "Extended regexp"
+msgstr "扩展的正则表达式"
+
+msgid "Any"
+msgstr "任何"
+
+msgid "Regular"
+msgstr "常规"
+
+msgid "Search Complete"
+msgstr "搜索完成"
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Select Files..."
+msgstr "选择文件..."
+
+msgid "Select folder to search in"
+msgstr "选择进行搜索的文件夹"
+
+msgid "Searching..."
+msgstr "正在搜索..."
+
+msgid "Create a compressed archive with the selected objects"
+msgstr "使用选择的对象创建一个压缩的归档"
+
+msgid "Create a new archive"
+msgstr "创建新归档文件"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Apply changes"
+msgstr "应用更改"
+
+msgid "Owner:"
+msgstr "所有者："
+
+msgid "Read"
+msgstr "读取"
+
+msgid "Write"
+msgstr "写入"
+
+msgid "Execute"
+msgstr "执行"
+
+msgid "Set UID"
+msgstr "设定UID"
+
+msgid "Group:"
+msgstr "组："
+
+msgid "Set GID"
+msgstr "设定GID"
+
+msgid "Others:"
+msgstr "其他："
+
+msgid "Sticky"
+msgstr "粘着位"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Kill (KILL)"
+msgstr "杀死(KILL)"
+
+msgid "Select a folder"
+msgstr "选择文件夹"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "General"
+msgstr "常规"
+
+msgid "General Options"
+msgstr "常规选项"
+
+msgid "Desktop"
+msgstr "桌面文件夹"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Edit the list of environment variables and associated values"
+msgstr "编辑环境变量以及对应值的列表"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Terminate (TERM)"
+msgstr "终止(TERM)"
+
+msgid "Mount point:"
+msgstr "挂载点："
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Diff Settings"
+msgstr "diff 设定"
+
+msgid "Highlight text color"
+msgstr "高亮文本颜色"
+
+msgid "Highlight background color"
+msgstr "高亮背景色"
+
+msgid "Show line numbers"
+msgstr "显示行号"
+
+msgid "Select highlight text color"
+msgstr "选择高亮文本颜色"
+
+msgid "Select highlight background color"
+msgstr "选择高亮背景色"
+
+msgid " versus "
+msgstr "相对"
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Verbose output debugging mode."
+msgstr "详尽的调试模式。"
+
+msgid "Show version information"
+msgstr "显示版本信息"
+
+msgid "Creation Time :"
+msgstr "创建时间:"
+
+msgid "Usage : %s [OPTIONS]\n"
+msgstr "运用选择 : %s [OPTIONS]\n"
+
+msgid "Enter password"
+msgstr "输入密码"
+
+msgid "Loading data"
+msgstr "正在装入数据"
+
+

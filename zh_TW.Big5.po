@@ -1,0 +1,354 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:38:51 CDT 2013 ---
+#
+# babyfai <babyfai_cheung@hotmail.com, 2002.>.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+# Thomas Niederreiter <tn@xcdroast.org>, 2002-2003.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2013-04-29 17:33-0500\n"
+"PO-Revision-Date: 2002-04-08 20:00+0800\n"
+"Last-Translator: babyfai <babyfaicheung@hotmail.com>\n"
+"Language-Team: None\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Differences"
+msgstr "差別"
+
+msgid "Disk"
+msgstr "硬碟"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Directory"
+msgstr "目錄"
+
+msgid "Character device"
+msgstr "字符設備"
+
+msgid "Block device"
+msgstr "區塊設備"
+
+msgid "FIFO"
+msgstr "快出快入"
+
+msgid "Socket"
+msgstr "套接字"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "Properties"
+msgstr "內容"
+
+msgid "About"
+msgstr "關於"
+
+msgid "Go back"
+msgstr "返回"
+
+msgid "Cut"
+msgstr "剪下"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Paste"
+msgstr "貼上"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Help"
+msgstr "說明"
+
+msgid "Unselect"
+msgstr "不全選"
+
+msgid "Group"
+msgstr "組別"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Type"
+msgstr "形式"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Owner"
+msgstr "擁有者"
+
+msgid "Verbose"
+msgstr "顯示訊息"
+
+msgid "Stay on single filesystem"
+msgstr "局限於單一系統"
+
+msgid "None"
+msgstr "沒有"
+
+msgid "Iconify"
+msgstr "圖示化"
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No"
+msgstr "否"
+
+msgid "Ok"
+msgstr "確定"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Permissions"
+msgstr "權限"
+
+msgid "Modification Time :"
+msgstr "修改時間："
+
+msgid "Access Time :"
+msgstr "訪問時間："
+
+msgid "File"
+msgstr "檔案"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Remove"
+msgstr "刪除"
+
+msgid "%d more item"
+msgid_plural "%d more items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Select File"
+msgstr "選擇檔案"
+
+msgid "Path"
+msgstr "目錄"
+
+msgid "New file"
+msgstr "新檔案"
+
+msgid "Left"
+msgstr "左側"
+
+msgid "Right"
+msgstr "右側"
+
+msgid ""
+"Basic rules:\n"
+"\n"
+"*  Will match any character zero or more times.\n"
+"?  Will match any character exactly one time\n"
+"[] Match any character within the [] \n"
+"^  Match at beginning of string\n"
+"$  Match at end of string \n"
+msgstr ""
+"基本規則：\n"
+"\n"
+"*  匹配任何字符 0 或任意次。\n"
+"?  匹配任何字符 1 次。\n"
+
+msgid ""
+"Reserved characters for extended regexp are\n"
+". ^ $ [ ] ? * + { } | \\ ( ) : \n"
+"In  basic regular expressions the metacharacters\n"
+"?, +, {, |, (, and ) lose their special meaning.\n"
+"\n"
+"The  period  .   matches  any  single  character.\n"
+"The caret ^ matches at the start of line.\n"
+"The dollar $ matches at the end of line.\n"
+"\n"
+"Characters within [ ] matches any single \n"
+"       character in the list.\n"
+"Characters within [^ ] matches any single\n"
+"       character *not* in the list.\n"
+"Characters inside [ - ] matches a range of\n"
+"       characters (ie [0-9] or [a-z]).\n"
+"\n"
+"A regular expression may be followed by one\n"
+"       of several repetition operators:\n"
+"?      The preceding item is optional and matched\n"
+"       at most once.\n"
+"*      The preceding item will be matched zero\n"
+"       or more times.\n"
+"+      The preceding item will be matched one or\n"
+"       more times.\n"
+"{n}    The preceding item is matched exactly n times.\n"
+"{n,}   The preceding item is matched n or more times.\n"
+"{n,m}  The preceding item is matched at least n times,\n"
+"       but not more than m times.\n"
+"\n"
+"To match any reserved character, precede it with \\. \n"
+"\n"
+"Two regular expressions may be joined by the logical or\n"
+"       operator |.\n"
+"Two regular expressions may be concatenated.\n"
+"\n"
+"More information is available by typing \"man grep\"\n"
+msgstr ""
+"延紳的常規符號有\n"
+". ^ $ [ ] ? * + { } | \\ ( ) : \n"
+"在基本的常規符號中某些元字符如\n"
+"?、 +、 {、 |、 (、 和 ) 會失去其原本意義。\n"
+"\n"
+" . 套用於任何單字元。\n"
+" ^ 套用於字行的開頭。\n"
+" $ 套用於字行的結尾。\n"
+"\n"
+"在 [ ] 內的字元套用於任何單一的\n"
+"     可列出之字元。\n"
+"在 [^ ] 內的字元套用於任何單一的\n"
+"     不可列出之字元。\n"
+"在 [ - ] 內的字元套用於一範圍內的\n"
+"     可列出之字元 (例如 [0-9] 或 [a-z])。\n"
+"\n"
+"一個延紳的常規符號法則後面必須有\n"
+"     其中一個可重複運算元：\n"
+"?    在此符號前的項目是選擇性的並被套用\n"
+"     最多一次。\n"
+"*    在此符號前的項目會被套用零\n"
+"     或多次。\n"
+"+    在此符號前的項目會被套用一或\n"
+"     或多次。\n"
+"{n}  在此符號前的項目會被套用n次。\n"
+"{n,} 在此符號前的項目會被套用n或多次。\n"
+"{n,m}在此符號前的項目會被套用最少n次。\n"
+"     但不多於m次。\n"
+"\n"
+"要套用任何保留字元、可在此前輸入\\。\n"
+"\n"
+"要相連兩個常規符號、可用邏輯符或\n"
+"     運算元 |。\n"
+"兩個常規符號便能互相連接。\n"
+"\n"
+"如要更詳盡資料請鍵入指令 \"man grep\"\n"
+"     在終端機模式。\n"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Filter:"
+msgstr "過濾:"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "Hours"
+msgstr "小時"
+
+msgid "Days"
+msgstr "天"
+
+msgid "Extended regexp"
+msgstr "延紳常規符號法則"
+
+msgid "lines"
+msgstr "行"
+
+msgid "Regular"
+msgstr "常規"
+
+msgid "Found %d match"
+msgid_plural "Found %d matches"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "Read"
+msgstr "讀取"
+
+msgid "Write"
+msgstr "寫入"
+
+msgid "Execute"
+msgstr "執行"
+
+msgid "Set UID"
+msgstr "設定UID"
+
+msgid "Set GID"
+msgstr "設定GID"
+
+msgid "Sticky"
+msgstr "Sticky"
+
+msgid "Move"
+msgstr "移動(M)"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Diff Settings"
+msgstr "設定"
+
+msgid "Highlight text color"
+msgstr "加亮文字顏色"
+
+msgid "Highlight background color"
+msgstr "加亮背景色"
+
+msgid "Show line numbers"
+msgstr "顯示行號"
+
+msgid "Select highlight text color"
+msgstr "加亮文本顏色"
+
+msgid "Select highlight background color"
+msgstr "選取加亮的背景顏色"
+
+msgid "Please select a name for the patch file in the next dialog."
+msgstr "請在下一個對話框中選擇一個補丁檔案名稱"
+
+msgid " versus "
+msgstr "相對"
+
+msgid "Creation Time :"
+msgstr "創建時間："
+
+msgid "Extended"
+msgstr "加大"
+
+msgid "Match whole lines only"
+msgstr "僅匹配整行"
+
+msgid "Usage : %s [OPTIONS]\n"
+msgstr "運用選擇 ： %s [OPTIONS]\n"
+
+

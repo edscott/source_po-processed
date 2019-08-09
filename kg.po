@@ -1,0 +1,3402 @@
+# Translations for Rodent package.
+# Copyright (C) 2004-2012 FSF.
+# This file is distributed under the same license as the Rodent package.
+#   --- vie may  3 10:45:24 CDT 2013 ---
+#
+# Kibavuidi Nsiangani <lundombe01@zaya-dio.com>, 2006-2010.
+# Edscott Wilson Garcia <edscott@xfce.org>, 2002-2011.
+# Kikongo Translation Team <lundombe01@zaya-dio.com>, 2010.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodent Delta\n"
+"Report-Msgid-Bugs-To: http://bugs.xffm.org\n"
+"POT-Creation-Date: 2006-11-14 15:32+0100\n"
+"PO-Revision-Date: 2010-09-30 14:21+0100\n"
+"Last-Translator: Kibavuidi Nsiangani <lundombe01@zaya-dio.com>\n"
+"Language-Team: Kikongo <lundombe01@zaya-dio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "Name"
+msgstr "mbiekolo"
+
+msgid "Show"
+msgstr "senzoka"
+
+msgid "Item"
+msgstr "nama"
+
+msgid "A name is required."
+msgstr "fuiti sola/vana mbiekolo umosi"
+
+msgid "A command is required."
+msgstr "fuiti tuma munyeki"
+
+msgid "Add, change, remove menu entries"
+msgstr "yika, soba, katudila bisolo-solo"
+
+msgid "Menu Layout"
+msgstr "nkubam'a sola-sola"
+
+msgid "Alacarte Menu Editor"
+msgstr "nsobi sola-sola, Alakalete"
+
+msgid "Browse..."
+msgstr "zoka..."
+
+msgid "Command:"
+msgstr "munyeki"
+
+msgid "Comment:"
+msgstr "nduengoso:"
+
+msgid "Copyright © 2006 Travis Watkins"
+msgstr "luve © 2006 Kibavuidi Nsiangani"
+
+msgid "Icon:"
+msgstr "ludimbu:"
+
+msgid "Items:"
+msgstr "nama"
+
+msgid "Menu Item Properties"
+msgstr "nsamu za bima"
+
+msgid "Menu Properties"
+msgstr "nkadilu a sola-sola"
+
+msgid "Move Down"
+msgstr "kulumuna"
+
+msgid "Move Up"
+msgstr "tombola"
+
+msgid "Name:"
+msgstr "mbiekolo:"
+
+msgid "New Item"
+msgstr "nam'a mpa"
+
+msgid "New Separator"
+msgstr "sinsu wamona"
+
+msgid "Restore the default menu layout"
+msgstr "vutuka kua nkadilu a nkulu"
+
+msgid "Revert Changes?"
+msgstr "yambula nsobolo zazo?"
+
+msgid "Revert all menus to original settings?"
+msgstr "vutuka kua nsingika zankulu?"
+
+msgid "Run command in a terminal"
+msgstr "tuma munyeki vana nyekilu"
+
+msgid "Simple fd.o compliant menu editor"
+msgstr "lusobi a sola-sola, yifuanane ye nkubama kia fd.o"
+
+msgid "Menus:"
+msgstr "nsola-sola"
+
+msgid "New Menu"
+msgstr "nsola-sola mpa"
+
+msgid "Revert to Original"
+msgstr "yambula nsobolo zazo"
+
+
+msgid "About GNOME"
+msgstr "mambu ma gnome"
+
+msgid "Learn more about GNOME"
+msgstr "longoka mambu mankaka ma gnome"
+
+msgid "News"
+msgstr "nsangu"
+
+msgid "GNOME Library"
+msgstr "kinsasilu kia gnome"
+
+msgid "Friends of GNOME"
+msgstr "nkundi za gnome"
+
+msgid "Contact"
+msgstr "ma bila"
+
+msgid "The Mysterious GEGL"
+msgstr "gegl"
+
+msgid "The Squeaky Rubber GNOME"
+msgstr "luaaza lua gnome"
+
+msgid "Wanda The GNOME Fish"
+msgstr "wanda wa mbizi a maza ya gnome"
+
+msgid "Open URL"
+msgstr "weenda ku kizi"
+
+msgid "Copy URL"
+msgstr "tangininae kizi"
+
+msgid "About the GNOME Desktop"
+msgstr "nsangu za gnome"
+
+msgid "%(name)s: %(value)s"
+msgstr "%(name)s: %(value)s"
+
+msgid "Welcome to the GNOME Desktop"
+msgstr "toma luaka mu gnome"
+
+msgid "Brought to you by:"
+msgstr "nsoniki"
+
+msgid "Version"
+msgstr "luteezolo"
+
+msgid "Distributor"
+msgstr "nteki"
+
+msgid "Build Date"
+msgstr "diatugama mu"
+
+msgid "Display information on this GNOME version"
+msgstr "songae mafiuma ma luteezolo elu kia gnome"
+
+msgid ""
+"GNOME also includes a complete development platform for applications "
+"programmers, allowing the creation of powerful and complex applications."
+msgstr ""
+"gnome yena ye luuvu kiantunga bisalasala, mu bantungi kisalasala ye luvu "
+"kiokio kivananga mpuasika mu tunga bisalasala biampimpita ye biangolo"
+
+msgid ""
+"GNOME includes most of what you see on your computer, including the file "
+"manager, web browser, menus, and many applications."
+msgstr "mamo maalanga muntu mu yandi nsikidisi, makalaanga mu gnome. "
+
+msgid ""
+"GNOME is a Free, usable, stable, accessible desktop environment for the Unix-"
+"like family of operating systems."
+msgstr "gnome yi lusadilu lua mpensa, lua lenga, lua mbote mu lundombe."
+
+msgid ""
+"GNOME's focus on usability and accessibility, regular release cycle, and "
+"strong corporate backing make it unique among Free Software desktops."
+msgstr ""
+"gnome usanga ntima mu kala bulenga, bunsalakana, nsaluka za mbote ye "
+"lusadisu luambote. I diodio i dia nsisi kati kua mayanzala mampensa"
+
+msgid ""
+"GNOME's greatest strength is our strong community. Virtually anyone, with or "
+"without coding skills, can contribute to making GNOME better."
+msgstr ""
+"ngolo za gnome mu buntuadi buandi zituukanga. vo uzeye tunga bisalasala vo "
+"kuzeye ko, lendele vana lusadisu mu tomesa gnome."
+
+msgid ""
+"Hundreds of people have contributed code to GNOME since it was started in "
+"1997; many more have contributed in other important ways, including "
+"translations, documentation, and quality assurance."
+msgstr ""
+"nkama za bantu bamana vana lusadisu luau muna tungulua gnome, tuuka mu "
+"luyantikulu andi mu 1997; bankaka keti mu sekola, mu sasila evo muna fimpa "
+"yo."
+
+msgid "Unknown"
+msgstr "dianzenza"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+"nanga ilemba sala kansi ngieti sadila xterm kaka, kadi nkele ka yi monekene "
+"ko."
+
+msgid "could not get the screen resources (CRTCs, outputs, modes)"
+msgstr "mambu ma kiansonga (crtc, biduukilu, nsongolo), bu yavewa mo nkatu"
+
+msgid "unhandled X error while getting the range of screen sizes"
+msgstr "mpitakani mu X bu ikele baka teezolo bia kiansongalala"
+
+msgid "could not get the range of screen sizes"
+msgstr "biteezolo bia kiansongalala, bu ivewa bio nkatu"
+
+msgid "RANDR extension is not present"
+msgstr "ki randr ka i monekene ko"
+
+msgid "could not get information about output %d"
+msgstr "nsangu za kiduukilu %d bu ibaka zo nkatu"
+
+msgid ""
+"requested position/size for CRTC %d is outside the allowed limit: position=(%"
+"d, %d), size=(%d, %d), maximum=(%d, %d)"
+msgstr ""
+"nkubu ulombele mu crtc %d kena va kati kua ndelo zabetila ko: kitudilu=(%d, %"
+"d), teezolo=(%d, %d), yongi=(%d, %d)"
+
+msgid "could not set the configuration for CRTC %d"
+msgstr "nkubukulu za crtc %d, bu itatanesa zo nkatu"
+
+msgid "could not get information about CRTC %d"
+msgstr "nsangu za crtc %d, bu yavewa zo nkatu"
+
+msgid "Laptop"
+msgstr "nsikidisi a koko"
+
+msgid ""
+"none of the saved display configurations matched the active configuration"
+msgstr ""
+"mu nkubukulu zazo zi monekene mu nti yi, ka vena mosi ko yikuenda betila ye "
+"zaku bubu"
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "crtc %d, bu kidiatisa %s nkatu"
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr " nduukilu %s ka yilendi sadila nsongolo zozo %dx%d@%dHz,"
+
+msgid "CRTC %d does not support rotation=%s"
+msgstr "CRTC %d kayizeye mveengulani=%s ko"
+
+msgid ""
+"output %s does not have the same parameters as another cloned output:\n"
+"existing mode = %d, new mode = %d\n"
+"existing coordinates = (%d, %d), new coordinates = (%d, %d)\n"
+"existing rotation = %s, new rotation = %s"
+msgstr ""
+"kiansongalala %s  ye kifuanisu kiandi, mosi mosi ye nkubukulu andi:\n"
+"nsongolo yankulu = %d, yampa= %d\n"
+"bintulani biankulu= (%d, %d), biampa = (%d, %d)\n"
+"mveengulani akulu = %s, mveengulani ampa = %s"
+
+msgid "cannot clone to output %s"
+msgstr "kileendi fuanikisa ku %s ko"
+
+msgid "Trying modes for CRTC %d\n"
+msgstr "nsongolo za crtc ngieti meka: %d\n"
+
+msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
+msgstr ""
+"CRTC %d: ngita meka  nsongolo yi %dx%d@%dHz ye %dx%d@%dHz (bua mbote %d)\n"
+
+msgid ""
+"could not assign CRTCs to outputs:\n"
+"%s"
+msgstr ""
+"zi crtc ye binsongalala, bu i ba waawasa nkatu\n"
+"%s"
+
+msgid ""
+"none of the selected modes were compatible with the possible modes:\n"
+"%s"
+msgstr ""
+"mu nsongolo zazo zi meni solua, ka yena mosi ko yina ya beetila:\n"
+" %s"
+
+msgid ""
+"required virtual size does not fit available size: requested=(%d, %d), "
+"minimum=(%d, %d), maximum=(%d, %d)"
+msgstr ""
+"teezo biangindula ka bina bia betila ko ye bia lundombe luaku: bi uyuvudi=(%"
+"d, %d), bia nsi=(%d, %d), bianene=(%d, %d)"
+
+
+msgid "Multimedia menu"
+msgstr "mambu ma KamaSaka"
+
+msgid "Sound  Video"
+msgstr "mindule ye bilili"
+
+msgid "Programming"
+msgstr "nieema nsiku"
+
+msgid "Tools for software development"
+msgstr "bikonko muna tungae bisala sala"
+
+msgid "Education"
+msgstr "malongi"
+
+msgid "Games"
+msgstr "nsaka"
+
+msgid "Games and amusements"
+msgstr "nsaka ye nsakana"
+
+msgid "Graphics"
+msgstr "madodika"
+
+msgid "Graphics applications"
+msgstr "bisala sala mu dodika"
+
+msgid "Hardware"
+msgstr "mankandu"
+
+msgid "Settings for several hardware devices"
+msgstr "yidikae kikalulu kia mankandu"
+
+msgid "Internet and Network"
+msgstr "nzonzama ye kintuadi"
+
+msgid "Network-related settings"
+msgstr "yidikae mambu ma kintuadi"
+
+msgid "Look and Feel"
+msgstr "ntomono"
+
+msgid "Settings controlling the desktop appearance and behavior"
+msgstr "mu yidika kalulu ye ntomono za ludombe"
+
+msgid "Internet"
+msgstr "nzonzama"
+
+msgid "Programs for Internet access such as web and email"
+msgstr "bienda ku nzonzama (fuani: nzonzama ye nkave)"
+
+msgid "Office"
+msgstr "makalaka"
+
+msgid "Office Applications"
+msgstr "bia kalaka"
+
+msgid "Personal"
+msgstr "mambu maku"
+
+msgid "Personal settings"
+msgstr "kalulu ye fu kia lundombe"
+
+msgid "Administration"
+msgstr "ntambuisilu"
+
+msgid "Change system-wide settings (affects all users)"
+msgstr "sikidisae lundombe luamvimba (mu besi lundombe zazo)"
+
+msgid "Personal preferences"
+msgstr "kalulu ye fu kia lundombe"
+
+msgid "Preferences"
+msgstr "kalulu"
+
+msgid "System"
+msgstr "lundombe"
+
+msgid "System settings"
+msgstr "mu yidikae lundombe"
+
+msgid "System Tools"
+msgstr "binkonko bia lundombe"
+
+msgid "System configuration and monitoring"
+msgstr "muna sikidisa ye lunda lundombe"
+
+msgid "Universal Access"
+msgstr "lusadisu"
+
+msgid "Universal Access Settings"
+msgstr "yidikae lusadisu"
+
+msgid "Accessories"
+msgstr "bikonko"
+
+msgid "Desktop accessories"
+msgstr "binkonko bia kiseka"
+
+msgid "Applications"
+msgstr "bisala sala"
+
+msgid "Personal preferences and administration settings"
+msgstr "kalulu ye fu kia lundombe"
+
+msgid "Applications that did not fit in other categories"
+msgstr "bisala sala biansisi"
+
+msgid "Other"
+msgstr "mambu mankaka"
+
+msgid "Menu Editor"
+msgstr "lusobi Songilu"
+
+msgid "Edit Menus"
+msgstr "mu sobae Songilu"
+
+msgid "Applications:"
+msgstr "bisala sala"
+
+msgid "Defaults"
+msgstr "maTuka"
+
+msgid "Simple Menu Editor %s"
+msgstr "fi sobi a Songilu %s"
+
+msgid ""
+"Cannot find home directory: not set in /etc/passwd and no value for $HOME in "
+"environment"
+msgstr ""
+"lubanga luaku ka yimonekene ko: fueti kio sasila mu /etc/passwd ye mu $HOME"
+
+msgid "Accessibility"
+msgstr "lusadisu"
+
+
+msgid "Error parsing option --gdk-debug"
+msgstr "i lembane fimpa kikalulu --gdk-debug"
+
+msgid "Error parsing option --gdk-no-debug"
+msgstr "i lembane fimpa kikalulu --gdk-no-debug"
+
+msgid "CLASS"
+msgstr "belo"
+
+msgid "Program name as used by the window manager"
+msgstr "nkumbua kisalasala landila kilundanela"
+
+msgid "NAME"
+msgstr "zina"
+
+msgid "X display to use"
+msgstr "nkia kisongani kia X "
+
+msgid "DISPLAY"
+msgstr "songani"
+
+msgid "X screen to use"
+msgstr "nkia muinu "
+
+msgid "SCREEN"
+msgstr "muinu"
+
+msgid "Gdk debugging flags to set"
+msgstr "bendila biobio bia GDK, si sasila bio"
+
+msgid "FLAGS"
+msgstr "bisinsu"
+
+msgid "Gdk debugging flags to unset"
+msgstr "bendila biobio bia GDK, kusasidi bio ko"
+
+msgid "BackSpace"
+msgstr "ku nima"
+
+msgid "Tab"
+msgstr "yabuka"
+
+msgid "Return"
+msgstr "mvutuka"
+
+msgid "Pause"
+msgstr "kinga"
+
+msgid "ScrollLock"
+msgstr "dingamae mwinu"
+
+msgid "SysReq"
+msgstr "lundo"
+
+msgid "Escape"
+msgstr "pamuka"
+
+msgid "Multikey"
+msgstr "bueto nkama"
+
+msgid "Home"
+msgstr "tuku"
+
+msgid "Left"
+msgstr "lumonso"
+
+msgid "Up"
+msgstr "zulu"
+
+msgid "Right"
+msgstr "lumene"
+
+msgid "Down"
+msgstr "banda"
+
+msgid "PageUp"
+msgstr "maka"
+
+msgid "PageDown"
+msgstr "kulumuka"
+
+msgid "End"
+msgstr "nsuka"
+
+msgid "Begin"
+msgstr "lubantiku"
+
+msgid "Print"
+msgstr "niema"
+
+msgid "Insert"
+msgstr "kotisa"
+
+msgid "NumLock"
+msgstr "sadila binongo"
+
+msgid "KPSpace"
+msgstr "nompondani"
+
+msgid "KPTab"
+msgstr "noyabu"
+
+msgid "KPEnter"
+msgstr "Nokota"
+
+msgid "KPHome"
+msgstr "notuku"
+
+msgid "KPLeft"
+msgstr "Nolumonso"
+
+msgid "KPUp"
+msgstr "nontandu"
+
+msgid "KPRight"
+msgstr "nolumene"
+
+msgid "KPDown"
+msgstr "nobanda"
+
+msgid "KPPageUp"
+msgstr "nomaka"
+
+msgid "KPPrior"
+msgstr "nonima"
+
+msgid "KPPageDown"
+msgstr "nokulumuna"
+
+msgid "KPNext"
+msgstr "nolandi"
+
+msgid "KPEnd"
+msgstr "nomfoko"
+
+msgid "KPBegin"
+msgstr "notuku"
+
+msgid "KPInsert"
+msgstr "nokotesa"
+
+msgid "KPDelete"
+msgstr "novidisa"
+
+msgid "Delete"
+msgstr "vidisa"
+
+msgid "Failed to open file '%s': %s"
+msgstr "kilendi tanga « '%s' » ko: %s"
+
+msgid "Image file '%s' contains no data"
+msgstr "kilala kia kifuanisu kia %s kina ye kima ko"
+
+msgid "Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr "kilendi tanga « %s » ko : nanga fuani kiki kiapatakasa"
+
+msgid "Failed to load animation '%s': reason not known, probably a corrupt animation file"
+msgstr "kilendi tanga « %s » ko : nanga fuani kiki kiapatakasa"
+
+msgid "Unable to load image-loading module: %s: %s"
+msgstr "busongi mvuatu bu i namisa wo nkatu: %s: « %s »"
+
+msgid "Image type '%s' is not supported"
+msgstr "kizeyi mpila kifuanisu ki %s ko"
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "kilendi tanga mambu ma « '%s' » ko"
+
+msgid "Unrecognized image file format"
+msgstr "kizeyi mpila kifuanisu kiki ko"
+
+msgid "Failed to load image '%s': %s"
+msgstr "kilendi tanga « '%s' » ko: %s"
+
+msgid "Error writing to image file: %s"
+msgstr "kilala: « %s », bu kivunzuna nkatu"
+
+msgid "Insufficient memory to save image to callback"
+msgstr "kifimpilu nkatu"
+
+msgid "Failed to open temporary file"
+msgstr "kilala kimvioka bu kizibuka nkatu"
+
+msgid "Failed to read from temporary file"
+msgstr "kilala kimvioka bu i tanga kio nkatu"
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "kilendi tanga « '%s' » ko: %s"
+
+msgid "Failed to close '%s' while writing image, all data may not have been saved: %s"
+msgstr "bu nkele sokae kifuanisu ki, '%s' kayizolele kangama ko. nanga mafiuma mankaka mavididi:%s"
+
+msgid "Insufficient memory to save image into a buffer"
+msgstr "kifimpilu nkatu"
+
+msgid "Image header corrupt"
+msgstr "mpu a kifuanisu kivuunzuni"
+
+msgid "Image format unknown"
+msgstr "kizeye ntindu yi kia kifuanisu ko"
+
+msgid "failed to allocate image buffer of %u byte"
+msgid_plural "failed to allocate image buffer of %u bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Invalid header in animation"
+msgstr "mpu ya mbi"
+
+msgid "Not enough memory to load animation"
+msgstr "fifimpilu fike"
+
+msgid "Not enough memory to load bitmap image"
+msgstr "kifimpilu nkatu"
+
+msgid "Couldn't allocate memory for saving BMP file"
+msgstr "kifimpilu nkatu"
+
+msgid "Couldn't write to BMP file"
+msgstr "bu lundisae kilala nkatu"
+
+msgid "Failure reading GIF: %s"
+msgstr "%s: bu itanga kio nkatu"
+
+msgid "Not enough memory to load GIF file"
+msgstr "nteesilu yike"
+
+msgid "Not enough memory to composite a frame in GIF file"
+msgstr "kifimpilu nkatu"
+
+msgid "File does not appear to be a GIF file"
+msgstr "kilala ki, ka kia gif ko"
+
+msgid "GIF image was truncated or incomplete."
+msgstr "kifuanisu ki kia GIF kizengolo"
+
+msgid "The GIF image format"
+msgstr "bifuanisu bia GIF"
+
+msgid "Invalid header in icon"
+msgstr "mpu a kiteki wa mbi kena"
+
+msgid "Not enough memory to load icon"
+msgstr "nteesilu yike"
+
+msgid "Icon has zero width"
+msgstr "bunene bua kiteki kio wa mpavala yina"
+
+msgid "Icon has zero height"
+msgstr "nkubu a kiteki kio ya mpavala yina"
+
+msgid "Not enough memory to load ICO file"
+msgstr "nteesilu yike"
+
+msgid "Image too large to be saved as ICO"
+msgstr "kifuanisu ki kia nene kingi, bu ikitula kio ICO nkatu"
+
+msgid "Unsupported depth for ICO file: %d"
+msgstr "mpinda yi %d kena ya dedana ye kilala kia ICO ko."
+
+msgid "The ICO image format"
+msgstr "bifuanisu bia ICO"
+
+msgid "Error reading ICNS image: %s"
+msgstr "kifuanisu ki bu itanga kio nkatu %s"
+
+msgid "Could not decode ICNS file"
+msgstr "kilala ki bu itanga kio nkatu %s"
+
+msgid "The ICNS image format"
+msgstr "bifuanisu bia ICNS"
+
+msgid "Couldn't allocate memory for stream"
+msgstr "kifimpilu nkatus"
+
+msgid "Couldn't decode image"
+msgstr "kifuanisu ki bu itanga kio nkatu %s"
+
+msgid "Couldn't allocate memory for color profile"
+msgstr "kifimpilu nkatu"
+
+msgid "Insufficient memory to open JPEG 2000 file"
+msgstr "kifimpilu kike muna tanga kilala kio kia JPEG"
+
+msgid "Couldn't allocate memory to buffer image data"
+msgstr "kifimpilu nkatu"
+
+msgid "Error interpreting JPEG image file (%s)"
+msgstr "kifuanisu ki kia JPEG bu itanga kio nkatu (%s)"
+
+msgid "Insufficient memory to load image, try exiting some applications to free memory"
+msgstr "kifimpilu nkatu"
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "kifimpilu nkatu"
+
+msgid "Transformed JPEG has zero width or height."
+msgstr "kilala kia JPEG kisobolo, bunene/nkubu andi yi 0"
+
+msgid "JPEG quality must be a value between 0 and 100; value '%s' could not be parsed."
+msgstr "bumpuenia bua JPEG i ntalu kati kua 0 ye 100. %s kena  ya betila ko"
+
+msgid "JPEG quality must be a value between 0 and 100; value '%d' is not allowed."
+msgstr "bumpuenia bua JPEG i ntalu kati kua 0 ye 100. %d kena  ya betila ko"
+
+msgid "The JPEG image format"
+msgstr "bifuanisu bia JPEG"
+
+msgid "Couldn't allocate memory for header"
+msgstr "kifimpilu nkatu"
+
+msgid "Couldn't allocate memory for context buffer"
+msgstr "kifimpilu nkatu"
+
+msgid "Image has invalid width and/or height"
+msgstr "kifuanisu ki, bunene/nkubu andi kena ya betila ko."
+
+msgid "Couldn't create new pixbuf"
+msgstr "%s bu ivanga kio nkatu"
+
+msgid "Couldn't allocate memory for line data"
+msgstr "kifimpilu nkatu"
+
+msgid "Couldn't allocate memory for paletted data"
+msgstr "kifimpilu nkatu"
+
+msgid "Didn't get all lines of PCX image"
+msgstr "malonga mankaka ma kifuanisu ki, makondolo"
+
+msgid "The PCX image format"
+msgstr "bifuanisu bia PCX"
+
+msgid "Insufficient memory to load PNG file"
+msgstr "kifimpilu nkatu"
+
+msgid "Insufficient memory to store a %ld by %ld image; try exiting some applications to reduce memory usage"
+msgstr "kifimpilu nkatu mu sokae kifuaninsu ye teezo bia %ld x %ld."
+
+msgid "Fatal error reading PNG image file: %s"
+msgstr "kizidi kio kia PNG bu itanga kio nkatu %s"
+
+msgid "PNG compression level must be a value between 0 and 9; value '%s' could not be parsed."
+msgstr "%s kena ya betila ko. konso ntaandani ufueti solua va kati kua 0 ye 9."
+
+msgid "PNG compression level must be a value between 0 and 9; value '%d' is not allowed."
+msgstr "konso ntaandani ufueti solua va kati kua 0 ye 9. %d kena ya betila ko. "
+
+msgid "The PNG image format"
+msgstr "bifuanisu bia png"
+
+msgid "PNM loader expected to find an integer, but didn't"
+msgstr "yi ntalu ya mvimba, kitanga pnm keta vingila, kansi ka i monekene ko."
+
+msgid "PNM file has an image width of 0"
+msgstr "kilala ki, bunene buandi i 0"
+
+msgid "PNM file has an image height of 0"
+msgstr "kilala ki, nkubu andi i 0"
+
+msgid "Cannot allocate memory for loading PNM image"
+msgstr "kifimpilu nkatu"
+
+msgid "Insufficient memory to load PNM context struct"
+msgstr "kifimpilu nkatu"
+
+msgid "Insufficient memory to load PNM file"
+msgstr "kifimpilu nkatu"
+
+msgid "Failed to read QTIF header"
+msgstr "mpu bu itanga yo nkatu"
+
+msgid "Failed to create GdkPixbufLoader object."
+msgstr "GdkPixbufLoader bu ivaanga yo nkatu"
+
+msgid "The QTIF image format"
+msgstr "bifuanisu bia qtif"
+
+msgid "RAS image has bogus header data"
+msgstr "mpu a kizidi ki, kena ya mbote ko"
+
+msgid "Not enough memory to load RAS image"
+msgstr "kifimpilu nkatu muna tangae kifuanisu kia ras"
+
+msgid "The Sun raster image format"
+msgstr "bizidi bia sunraster"
+
+msgid "Cannot allocate memory for IOBuffer struct"
+msgstr "kifimpilu nkatu"
+
+msgid "Cannot allocate memory for IOBuffer data"
+msgstr "kifimpilu nkatu"
+
+msgid "Cannot allocate colormap entries"
+msgstr "fulu nkatu mu nkubukulu a ntinta"
+
+msgid "Cannot allocate TGA header memory"
+msgstr "kifimpilu kike"
+
+msgid "TGA image has invalid dimensions"
+msgstr "teezo bia kifuanisu ki kabina badetila ko"
+
+msgid "TGA image type not supported"
+msgstr "mpila yi ya kifuanisu, kizete yo ko"
+
+msgid "Cannot allocate memory for TGA context struct"
+msgstr "kifimpilu kike"
+
+msgid "Excess data in file"
+msgstr "mafiuma matiamukini mu kilala ki"
+
+msgid "The Targa image format"
+msgstr "bifuanisu bia taraga"
+
+msgid "Could not get image width (bad TIFF file)"
+msgstr "kilala kio kia mbi kena, bu i tanga bunene buandi nkatu"
+
+msgid "Could not get image height (bad TIFF file)"
+msgstr "kilala kio kia mbi kena, bu i tanga nkubu andi nkatu"
+
+msgid "Width or height of TIFF image is zero"
+msgstr "kizidi kiki, evo bunene evo nkubu andi yena ya mpavala"
+
+msgid "Dimensions of TIFF image too large"
+msgstr "biteezo bia kifuanisu ki kia tifi bisakidi"
+
+msgid "Insufficient memory to open TIFF file"
+msgstr "kifimpilu kike muna tana kilala kio kia TIFF"
+
+msgid "Failed to load RGB data from TIFF file"
+msgstr "mafiuma mu kimbuazu ma kilala ki, bu itaga mo nkatu"
+
+msgid "Failed to open TIFF image"
+msgstr "kizidi kio kia TIIF bu itanga kio nkatu"
+
+msgid "Failed to load TIFF image"
+msgstr "kizidi kio kia TIIF bu itanga kio nkatu"
+
+msgid "Failed to save TIFF image"
+msgstr "kifuanisu ki kia tif bu iniema kio nkatu"
+
+msgid "Failed to write TIFF data"
+msgstr "mafiuma ma tifi bu i niema mo nkatu"
+
+msgid "Couldn't write to TIFF file"
+msgstr "kilala ki bu inieema kio nkatu"
+
+msgid "The TIFF image format"
+msgstr "bifuanisu bia tifi"
+
+msgid "Image has zero width"
+msgstr "kizidi kiki, bunene buandi wa mpavala yena"
+
+msgid "Image has zero height"
+msgstr "kifuanisu ki, nkubu andi ya mpavala"
+
+msgid "Not enough memory to load image"
+msgstr "kifimpilu kike"
+
+msgid "Couldn't save the rest"
+msgstr "fisidi bu i niata fio nkatu"
+
+msgid "The WBMP image format"
+msgstr "bifuanisu bia WBMP"
+
+msgid "Invalid XBM file"
+msgstr "kilala ki kia XBM kia mbi"
+
+msgid "Insufficient memory to load XBM image file"
+msgstr "kifimpilu kikondolo muna tanga kifuanisu kio kia XPM"
+
+msgid "Failed to write to temporary file when loading XBM image"
+msgstr "bu itenge kifuanisu ki kia XBM, ndembane niatae kilala kivioka"
+
+msgid "The XBM image format"
+msgstr "bizidi bia XBM"
+
+msgid "No XPM header found"
+msgstr "mpu nkatu"
+
+msgid "Invalid XPM header"
+msgstr "mpu yi ya XPM ya mbi"
+
+msgid "XPM file has image width <= 0"
+msgstr "bunene bua kifuanisu kiki <=0"
+
+msgid "XPM file has image height <= 0"
+msgstr "nkubu a kifuanisu kiki <=0"
+
+msgid "XPM file has invalid number of colors"
+msgstr "kilala ki kia XPM, nkubukulu a mbi kia ntinta yina yandi"
+
+msgid "Cannot allocate memory for loading XPM image"
+msgstr "kifimpilu bu i sadila yo mu tanga kizidi kio kia XPM nkatu"
+
+msgid "Cannot read XPM colormap"
+msgstr "nkubikulu a zintinta za XPM, bu i tanga yo nkatu"
+
+msgid "Failed to write to temporary file when loading XPM image"
+msgstr "buna izubidi kifuanisu kio kia XPM, kilala kivioka  bu i niema kio nkatu"
+
+msgid "The XPM image format"
+msgstr "bizidi bia XPM"
+
+msgid "The EMF image format"
+msgstr "bizidi bia EMF"
+
+msgid "Could not allocate memory: %s"
+msgstr "kifimpilu kike %s"
+
+msgid "Could not create stream: %s"
+msgstr "« %s », bu ivanga kio nkatu"
+
+msgid "Could not seek stream: %s"
+msgstr "%s bu isolola kio nkatu"
+
+msgid "Could not read from stream: %s"
+msgstr "bu itanga mu « %s » nkatu"
+
+msgid "Couldn't load bitmap"
+msgstr "kilala bu itanga fio nkatu"
+
+msgid "Couldn't load metafile"
+msgstr "filala bu itanga fio nkatu"
+
+msgid "Unsupported image format for GDI+"
+msgstr "kifuanisu kia mpila yi, buibakisuanga mu GDI+ nkatu"
+
+msgid "Couldn't save"
+msgstr "ilembane soka kio"
+
+msgid "The WMF image format"
+msgstr "bifuanisu bi WMF"
+
+msgid "Don't batch GDI requests"
+msgstr "yambula biuvu bia GDI"
+
+msgid "Same as --no-wintab"
+msgstr "tomene fuanana ye --no-wintab"
+
+msgid "COLORS"
+msgstr "ntinta"
+
+msgid "Make X calls synchronous"
+msgstr "bokidila a mbokolo zi X X"
+
+msgid "Starting %s"
+msgstr "%s mu tona"
+
+msgid "Opening %s"
+msgstr "%s mu zibuka"
+
+msgid "Opening %d Item"
+msgid_plural "Opening %d Items"
+msgstr[0] "kiloko ki %d ngieti zibula"
+msgstr[1] "biloko bi %d ngieti zibula"
+
+msgid "Could not show link"
+msgstr "mu songa lunzila nkatu"
+
+msgid "License"
+msgstr "luwawanu"
+
+msgid "The license of the program"
+msgstr "luwawanu mu sadila kisalasala kio"
+
+msgid "Credits"
+msgstr "matondo"
+
+msgid "About %s"
+msgstr "mambu mankaka ma %s"
+
+msgid "Written by"
+msgstr "disonamene mu"
+
+msgid "Documented by"
+msgstr "disasuluele mu"
+
+msgid "Translated by"
+msgstr "dibambukidi mu"
+
+msgid "Artwork by"
+msgstr "bifuanisu bia"
+
+msgid "Shift"
+msgstr "za kimbangu"
+
+msgid "Ctrl"
+msgstr "lundu"
+
+msgid "Alt"
+msgstr "Soba"
+
+msgid "Super"
+msgstr "nsisi"
+
+msgid "Hyper"
+msgstr "sivi"
+
+msgid "Meta"
+msgstr "nziunga"
+
+msgid "Space"
+msgstr "mpondani"
+
+msgid "Invalid type function on line %d: '%s'"
+msgstr "kilalumunu kia mu nlonga ya %d : « %s » kena ya betila ko"
+
+msgid "Duplicate object id '%s' on line %d (previously on line %d)"
+msgstr "kinongo kia « %s » mu longa dia %d weka mu longa %d"
+
+msgid "Invalid root element: '%s'"
+msgstr "muanzi wa mbi  : « %s »"
+
+msgid "Unhandled tag: '%s'"
+msgstr "nuatu kia mbi : « %s »"
+
+msgid "calendar:MY"
+msgstr "manaki:MY"
+
+msgid "calendar:weekstart:0"
+msgstr "manaki:weekstart:1"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%Y"
+msgstr "%Y"
+
+msgid "Disabled"
+msgstr "kiasalula"
+
+msgid "Invalid"
+msgstr "wa dedumuna"
+
+msgid "New accelerator..."
+msgstr "kinkufika kia mpa..."
+
+msgid "%d %%"
+msgstr "%d %%"
+
+msgid "Pick a Color"
+msgstr "soleti e nitu"
+
+msgid "Received invalid color data\n"
+msgstr "mafiuma ma ntiinta mambi\n"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "solaeti nitu yi uzolele sadila muna lukongolo ye nteemo andi muna kintotatu ki."
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "wazola solae ntinta umosi, sadila kisolantinta ibosi fina konso ntinta yi uzolele sadila."
+
+msgid "Hue:"
+msgstr "ntiinta :"
+
+msgid "Position on the color wheel."
+msgstr "kueyi mu lukongolo?"
+
+msgid "Saturation:"
+msgstr "ngolo:"
+
+msgid "\"Deepness\" of the color."
+msgstr "« mpinda » a nitu."
+
+msgid "Value:"
+msgstr "ntalu :"
+
+msgid "Brightness of the color."
+msgstr "kia kia nitu"
+
+msgid "Red:"
+msgstr "mbuaki :"
+
+msgid "Amount of red light in the color."
+msgstr "mbuaki kua"
+
+msgid "Green:"
+msgstr "kimbanzia :"
+
+msgid "Amount of green light in the color."
+msgstr "kimbanzia kua."
+
+msgid "Blue:"
+msgstr "zulu :"
+
+msgid "Amount of blue light in the color."
+msgstr "zulu kua."
+
+msgid "Opacity:"
+msgstr "ntemunu:"
+
+msgid "Transparency of the color."
+msgstr "ntemokono a nitu"
+
+msgid "Color name:"
+msgstr "tela nitu nkumbu :"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "va wau, ledele sonekae konso ntinta mu kinonga kiandi mu busampanu, evo mu nkumbu andi (lala)."
+
+msgid "Palette:"
+msgstr "yaanunulu :"
+
+msgid "Color Wheel"
+msgstr "lukongolo"
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "yi ntinta yi usolele. lendele yo sielumuna mu kisolantinta kiki, mpasi wasadila yo kuntuala."
+
+msgid "The previously-selected color, for comparison to the color you're selecting now."
+msgstr "nitu yina yasoluele kala, wasuasisa yo ye nitu yi weti sola."
+
+msgid "The color you've chosen."
+msgstr "nitu i usolele"
+
+msgid "Save color here"
+msgstr "lundisa nitu koko"
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "wazola sadilae nitu yi, sola yo mu yaaninu. mu soba yo, sielumunae nitu umosi evo fina lumene ye sola « ludisa nitu yi kuku »."
+
+msgid "Color Selection"
+msgstr "solae nitu"
+
+msgid "default:mm"
+msgstr "wankulu:fiafu fianla"
+
+msgid "Manage Custom Sizes"
+msgstr "luunda biteezo biaku"
+
+msgid "inch"
+msgstr "nlembo"
+
+msgid "mm"
+msgstr "fiafu fia nla"
+
+msgid "Margins from Printer..."
+msgstr "nzaku za kiniema.."
+
+msgid "Custom Size %d"
+msgstr "deezo kiaku%d"
+
+msgid "Width:"
+msgstr "bunene :"
+
+msgid "Height:"
+msgstr "bula :"
+
+msgid "Paper Size"
+msgstr "deezo kia bo"
+
+msgid "Top:"
+msgstr "ntu :"
+
+msgid "Bottom:"
+msgstr "mbanda :"
+
+msgid "Left:"
+msgstr "lumonso :"
+
+msgid "Right:"
+msgstr "lumene :"
+
+msgid "Paper Margins"
+msgstr "nsukunu za bo"
+
+msgid "Input Methods"
+msgstr "masono"
+
+msgid "Select A File"
+msgstr "solae kilala"
+
+msgid "Desktop"
+msgstr "kisadilu"
+
+msgid "(None)"
+msgstr "(nkatu)"
+
+msgid "Other..."
+msgstr "kiankaka..."
+
+msgid "Type name of new folder"
+msgstr "ta nkumbu a nta yo ya mpa"
+
+msgid "Could not retrieve information about the file"
+msgstr "mafiuma ma kilala kiki bu mamoneka nkatu"
+
+msgid "Could not add a bookmark"
+msgstr "kidiimbu bu diyikilua nkatu"
+
+msgid "Could not remove bookmark"
+msgstr "kidiimbu bu dikatuka nkatu"
+
+msgid "The folder could not be created"
+msgstr "nta bu divangama nkatu"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "nta bu divangama nkatu kadi wena ye ndoyi andi kala. teka tela nta yi nkumbu ankaka evo vilulae nkumbu a ndoyi kilala."
+
+msgid "Invalid file name"
+msgstr "nkumbu yi ka betila ko"
+
+msgid "The folder contents could not be displayed"
+msgstr "bilala bia nta yi bu i songa bio nkatu"
+
+msgid "%s$s on %s$s"
+msgstr "%s$s mu %s$s"
+
+msgid "Search"
+msgstr "solola"
+
+msgid "Recently Used"
+msgstr "biampa"
+
+msgid "Select which types of files are shown"
+msgstr "nkia mpila bilala i songa owau"
+
+msgid "Add the folder '%s' to the bookmarks"
+msgstr "yikilae nta « %s » kunae bisinsu"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "yikilae nta yi kunae bisinsu"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "yikilae nta zozo kunae bisinsu"
+
+msgid "Remove the bookmark '%s'"
+msgstr "katula kisinsu « %s »"
+
+msgid "Bookmark '%s' cannot be removed"
+msgstr "« %s » bu katulua nkatu"
+
+msgid "Remove the selected bookmark"
+msgstr "katulae siinsu kiki"
+
+msgid "Remove"
+msgstr "katula"
+
+msgid "Rename..."
+msgstr "biekulula..."
+
+msgid "Places"
+msgstr "mbuka"
+
+msgid "Add"
+msgstr "yikila"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "vangila kio e kisinsu"
+
+msgid "Could not select file"
+msgstr "kilala ki bu isola kio nkatu"
+
+msgid "Add to Bookmarks"
+msgstr "vangila kio e kisinsu"
+
+msgid "Show Hidden Files"
+msgstr "monesa bilala biasuekama"
+
+msgid "Show Size Column"
+msgstr "songae deezolo kia bilala"
+
+msgid "Files"
+msgstr "bilala"
+
+msgid "Size"
+msgstr "deezolo"
+
+msgid "Modified"
+msgstr "nsadululu"
+
+msgid "Browse for other folders"
+msgstr "landila nta zankaka"
+
+msgid "Type a file name"
+msgstr "si sonekae nkumbu a kilala"
+
+msgid "Create Folder"
+msgstr "nta a mpa"
+
+msgid "Location:"
+msgstr "mbuka :"
+
+msgid "Save in folder:"
+msgstr "tula mu nti :"
+
+msgid "Create in folder:"
+msgstr "vangila mu nti :"
+
+msgid "Could not read the contents of %s"
+msgstr "bilala bia %s bu bimoneka katu"
+
+msgid "Could not read the contents of the folder"
+msgstr "bilala bia nta yi bu bitangama katu"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "Yesterday at %H:%M"
+msgstr "zuzi mu%H:%M"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "nta yoyo bu yatanga yo nkatu kadi i nta ya nzenza"
+
+msgid "Shortcut %s already exists"
+msgstr "lukufama %s keka"
+
+msgid "Shortcut %s does not exist"
+msgstr "lukufama %s kenani ko"
+
+msgid "A file named \"%s\" already exists.  Do you want to replace it?"
+msgstr "kilala kimosi keka ye nkumbu a  \"%s\". nga uzolele kio yiingasa?"
+
+msgid "The file already exists in \"%s\".  Replacing it will overwrite its contents."
+msgstr "kilala keka mu « %s ». ovo yiingase yo u si nga kitula mambu mandi mpe."
+
+msgid "Replace"
+msgstr "yiingasa"
+
+msgid "Could not start the search process"
+msgstr "kinsosola ka yizolele tumama ko."
+
+msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
+msgstr "kisalasala kilembane vukana ye kitaagulula. toma tala keti mu sala kena."
+
+msgid "Could not send the search request"
+msgstr "kiuvu bu kiyuvulua nkatu"
+
+msgid "Search:"
+msgstr "sosola :"
+
+msgid "Could not mount %s"
+msgstr " %s, bu disuungamene nkatu"
+
+msgid "Invalid path"
+msgstr "nzila yi kina ya mbote ko"
+
+msgid "No match"
+msgstr "nkatu"
+
+msgid "Sole completion"
+msgstr "lusonokono kimosi"
+
+msgid "Complete, but not unique"
+msgstr "biabingi bifuanane"
+
+msgid "Completing..."
+msgstr "mu lungisa..."
+
+msgid "Only local files may be selected"
+msgstr "sola bilala bia nti yi kaka"
+
+msgid "Incomplete hostname; end it with '/'"
+msgstr "kizi kiki ka yi lungidi ko, fueti kio fukisa ye « / »"
+
+msgid "Path does not exist"
+msgstr "nzila yi kenani ko"
+
+msgid "Error creating folder '%s': %s"
+msgstr "kilala « %s », bu ivanga kio nkatu: %s"
+
+msgid "Folders"
+msgstr "nta"
+
+msgid "Folder unreadable: %s"
+msgstr "nta %s bu itanga yo nkatu."
+
+msgid ""
+"The file \"%s\" resides on another machine (called %s) and may not be available to this program.\n"
+"Are you sure that you want to select it?"
+msgstr ""
+"kilala kiki « %s » ku nti ankaka (nkumbu andi %s)  yenina ye nanga ka isadulua ye nti aku ko.\n"
+"nga uzolele yo sola kaka ?"
+
+msgid "New Folder"
+msgstr "nta mpa"
+
+msgid "Delete File"
+msgstr "luumbae kilala"
+
+msgid "Rename File"
+msgstr "tela kilala nkumbu a nkaka"
+
+msgid "The folder name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "nkumbu a « %s » usonamene ye bisono bia mbi."
+
+msgid "Folder name:"
+msgstr "nkumbu a nta :"
+
+msgid "Create"
+msgstr "vanga"
+
+msgid "The filename \"%s\" contains symbols that are not allowed in filenames"
+msgstr "nkumbu a kilala « %s », bisono bia mbi usonamene."
+
+msgid "Error deleting file '%s': %s"
+msgstr "kilendi katula kilala « %s »  ko: %s"
+
+msgid "Really delete file \"%s\"?"
+msgstr "nkatika i katula « %s » ?"
+
+msgid "Error renaming file to \"%s\": %s"
+msgstr "kilendi kitula nkumbu a kilala« %s » : %s"
+
+msgid "Error renaming file \"%s\": %s"
+msgstr "kilendi soba nkumbu a« %s » ko : %s"
+
+msgid "Error renaming file \"%s\" to \"%s\": %s"
+msgstr "kilendi kitula nkumbu a kilala kia « %s »  « %s » ko : %s"
+
+msgid "Rename file \"%s\" to:"
+msgstr "tele kilala « %s » nkumbu :"
+
+msgid "Rename"
+msgstr "kitula nkumbu"
+
+msgid "Selection: "
+msgstr "bisoluele : "
+
+msgid "The filename \"%s\" couldn't be converted to UTF-8. (try setting the environment variable GFILENAMEENCODING): %s"
+msgstr "nkumbu a kilala« %s » bu isekola yo mu ku-UTF-8 nkatu. (teka saasila GFILENAMEENCODING) : %s"
+
+msgid "Invalid UTF-8"
+msgstr "ka ki-UTF-8 kia betila ko"
+
+msgid "Name too long"
+msgstr "bula busakidi"
+
+msgid "Couldn't convert filename"
+msgstr "kilendi kitula nkumbu a kilala kio ko"
+
+msgid "File System"
+msgstr "nti"
+
+msgid "Pick a Font"
+msgstr "si solae masono"
+
+msgid "Sans 12"
+msgstr "saN 12"
+
+msgid "Font"
+msgstr "masono"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "mu nzila kongo mbakidi lubamba luame ye i vana zanga. basidi ma nima malala ma ntama beta dia ye batinini e badidi ntoto ye kala za va nsi 0123456789."
+
+msgid "Family:"
+msgstr "nkanda :"
+
+msgid "Style:"
+msgstr "nsonama :"
+
+msgid "Size:"
+msgstr "deezo :"
+
+msgid "Preview:"
+msgstr "siinsa :"
+
+msgid "Font Selection"
+msgstr "kisola masono"
+
+msgid "Gamma"
+msgstr "kinsungani"
+
+msgid "Gamma value"
+msgstr "nsungani"
+
+msgid "Error loading icon: %s"
+msgstr "kilendi ziezola kiteke ko : %s"
+
+msgid ""
+"Could not find the icon '%s'. The '%s' theme\n"
+"was not found either, perhaps you need to install it.\n"
+"You can get a copy from:\n"
+"\t%s"
+msgstr ""
+"kiteke kia « %s » bu kimoneka nkatu. mvuatu « %s »\n"
+" mpila mosi. meka wo kuna ntete. lendele vewa wo kuna :\n"
+"\t%s"
+
+msgid "Icon '%s' not present in theme"
+msgstr "kiteke  « %s » nkatu muna mvuatu wuwu"
+
+msgid "Failed to load icon"
+msgstr "kiteke kilembane senzoka"
+
+msgid "Simple"
+msgstr "mpamba"
+
+msgid "None"
+msgstr "nkatu"
+
+msgid "System (%s)"
+msgstr "lundombe (%s)"
+
+msgid "Input"
+msgstr "bikotolo"
+
+msgid "No extended input devices"
+msgstr "bikonko bisoneka biampimpita nkatu"
+
+msgid "Device:"
+msgstr "lukonko :"
+
+msgid "Screen"
+msgstr "mboninu"
+
+msgid "Window"
+msgstr "nela"
+
+msgid "Mode:"
+msgstr "nsalulu :"
+
+msgid "Keys"
+msgstr "bueto"
+
+msgid "X:"
+msgstr "a :"
+
+msgid "Y:"
+msgstr "o :"
+
+msgid "Pressure:"
+msgstr "lukamunu :"
+
+msgid "X tilt:"
+msgstr "lufumbumunu a :"
+
+msgid "Y tilt:"
+msgstr "lufumbumunu o :"
+
+msgid "Wheel:"
+msgstr "kivindumuka :"
+
+msgid "none"
+msgstr "nkatu"
+
+msgid "(disabled)"
+msgstr "(wasalulua)"
+
+msgid "(unknown)"
+msgstr "(wazayula)"
+
+msgid "Clear"
+msgstr "vunzuna"
+
+msgid "Open Link"
+msgstr "ziezolae lubuka"
+
+msgid "Copy Link Address"
+msgstr "tangininae kimbuka"
+
+msgid "Invalid URI"
+msgstr "lukizi luambi"
+
+msgid "Load additional GTK+ modules"
+msgstr "yiikama mabalu ma nkaka ma GTK+"
+
+msgid "MODULES"
+msgstr "mabalu"
+
+msgid "Make all warnings fatal"
+msgstr "yambula mu konso nduengoso"
+
+msgid "GTK+ debugging flags to set"
+msgstr "bendila muna londa GTK+ (usasila bio)"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "bendila muna londa GTK+(ku sasila bio ko)"
+
+msgid "default:LTR"
+msgstr "mankulu:LTR"
+
+msgid "Cannot open display: %s"
+msgstr "kisongilu %s bukisadilua nkatu"
+
+msgid "GTK+ Options"
+msgstr "ngilama za GTK+"
+
+msgid "Show GTK+ Options"
+msgstr "onga ngilama za GTK+"
+
+msgid "Connect"
+msgstr "vukana"
+
+msgid "Connect anonymously"
+msgstr "vukana kondo kua kisenzoka"
+
+msgid "Connect as user:"
+msgstr "vukana bonso :"
+
+msgid "Username:"
+msgstr "mbieko:"
+
+msgid "Domain:"
+msgstr "mfinda :"
+
+msgid "Password:"
+msgstr "lusuemi :"
+
+msgid "Forget password immediately"
+msgstr "kukangi lusuemi ko"
+
+msgid "Remember password until you logout"
+msgstr "lunda lusuemi te nsuka kisalu"
+
+msgid "Remember forever"
+msgstr "lundanga kaka"
+
+msgid "Unknown Application (pid %d)"
+msgstr "kisalasala kia nzenza (PID %d)"
+
+msgid "Unable to end process"
+msgstr "ntumunu bu ifukisua nkatu"
+
+msgid "End Process"
+msgstr "fukisae ntumunu"
+
+msgid "Cannot kill process with pid %d. Operation is not implemented."
+msgstr "fitumunnu ye PID %d bu i kanga yo nkatu: kizeye vanga diambu diodio ko."
+
+msgid "Top Command"
+msgstr "ntumunu a top"
+
+msgid "Bourne Again Shell"
+msgstr "nkele kia burene egeine"
+
+msgid "Bourne Shell"
+msgstr "nkele burene"
+
+msgid "Z Shell"
+msgstr "nkele Z"
+
+msgid "Cannot end process with pid %d: %s"
+msgstr "fitumunu ye  PID %d : %s bu i manisa kio nkatu"
+
+msgid "Page %u"
+msgstr "luse %u"
+
+msgid "Not a valid page setup file"
+msgstr "kilala kiayidika luse kia mbi"
+
+msgid "Any Printer"
+msgstr "konso kiniema"
+
+msgid "For portable documents"
+msgstr "muna minkanda miannatina"
+
+msgid ""
+"Margins:\n"
+" Left: %s %s\n"
+" Right: %s %s\n"
+" Top: %s %s\n"
+" Bottom: %s %s"
+msgstr ""
+"nteendo :\n"
+" lumonso : %s %s\n"
+" lumene : %s %s\n"
+" ntaandu : %s %s\n"
+" mbanda : %s %s"
+
+msgid "Manage Custom Sizes..."
+msgstr "luunda deezo biaku...."
+
+msgid "Format for:"
+msgstr "yidika mu :"
+
+msgid "Paper size:"
+msgstr "deezo kia :"
+
+msgid "Orientation:"
+msgstr "tadisa ku :"
+
+msgid "Page Setup"
+msgstr "nkubukulu"
+
+msgid "Up Path"
+msgstr "nzila ntu"
+
+msgid "Down Path"
+msgstr "nzila banda"
+
+msgid "File System Root"
+msgstr "muanzi"
+
+msgid "Authentication"
+msgstr "nsunzula"
+
+msgid "Not available"
+msgstr "nkatu"
+
+msgid "%s job #%d"
+msgstr "%s, fisalu n°%d"
+
+msgid "Initial state"
+msgstr "kalulu a ntete"
+
+msgid "Preparing to print"
+msgstr "kubika mu niema"
+
+msgid "Generating data"
+msgstr "mu vangulula binsamunsamu"
+
+msgid "Sending data"
+msgstr "mu tuma minsamu nsamu"
+
+msgid "Waiting"
+msgstr "mu vingila"
+
+msgid "Blocking on issue"
+msgstr "ngiambudi mu diambu dimosi"
+
+msgid "Printing"
+msgstr "mu niema"
+
+msgid "Finished"
+msgstr "mfokole"
+
+msgid "Finished with error"
+msgstr "mfokole ye mpitakani"
+
+msgid "Preparing %d"
+msgstr "mu kubika %d"
+
+msgid "Preparing"
+msgstr "mu kubika"
+
+msgid "Printing %d"
+msgstr "mu niema %d"
+
+msgid "Error creating print preview"
+msgstr "i lembane songa binietama"
+
+msgid "The most probable reason is that a temporary file could not be created."
+msgstr "i mu leembolo vangae kilala kivioka kuandi."
+
+msgid "Error launching preview"
+msgstr "i lembane songa binietama"
+
+msgid "Error printing"
+msgstr "i lembane niema"
+
+msgid "Application"
+msgstr "kisalasala"
+
+msgid "Printer offline"
+msgstr "kiniema kikutulu"
+
+msgid "Out of paper"
+msgstr "bo nkatu"
+
+msgid "Paused"
+msgstr "niingamane"
+
+msgid "Need user intervention"
+msgstr "ngeye kaka fueti landila dio"
+
+msgid "Custom size"
+msgstr "deezo kiaku"
+
+msgid "No printer found"
+msgstr "kiniema nkatu"
+
+msgid "Invalid argument to CreateDC"
+msgstr "kiloko kiambi mu CreateDC"
+
+msgid "Error from StartDoc"
+msgstr "vilua wa StartDoc"
+
+msgid "Not enough free memory"
+msgstr "mfimpilu yike"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "kiloko kia mbi mu PrintDlgEx"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "kinsongi kiambi mu PrintDlgEx"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "kinongo kia mbi muPrintDlgEx"
+
+msgid "Unspecified error"
+msgstr "mpitakani wankaka"
+
+msgid "Getting printer information failed"
+msgstr "mambu ma kiniema bu ibaka mo nkatu"
+
+msgid "Getting printer information..."
+msgstr "mu baka mafiuma ma kiniema..."
+
+msgid "Printer"
+msgstr "kiniema"
+
+msgid "Location"
+msgstr "mbuka"
+
+msgid "Status"
+msgstr "kadilu"
+
+msgid "Range"
+msgstr "mpuania"
+
+msgid "All Pages"
+msgstr "maluse mamo"
+
+msgid "Current Page"
+msgstr "luse didi"
+
+msgid "Selection"
+msgstr "disoluele"
+
+msgid "Pages:"
+msgstr "maluse :"
+
+msgid ""
+"Specify one or more page ranges,\n"
+" e.g. 1-3,7,11"
+msgstr ""
+"zayikisae konso mpuania za maluse,\n"
+"p. ex. 1-3, 7, 11"
+
+msgid "Pages"
+msgstr "maluse"
+
+msgid "Copies"
+msgstr "ntanguunu"
+
+msgid "Copies:"
+msgstr "ntangununu zikua :"
+
+msgid "Collate"
+msgstr "vuka"
+
+msgid "Reverse"
+msgstr "balula"
+
+msgid "General"
+msgstr "mamo"
+
+msgid "Left to right, top to bottom"
+msgstr "lumonso ku lumene, ntandu ku banda"
+
+msgid "Left to right, bottom to top"
+msgstr "lumonso ku lumene, banda ku ntandu"
+
+msgid "Right to left, top to bottom"
+msgstr "lumene ku lumonso, ntandu ku banda"
+
+msgid "Right to left, bottom to top"
+msgstr "lumene ku lumonso, banda ku ntandu"
+
+msgid "Top to bottom, left to right"
+msgstr "ntandu ku banda, lumonso ku lumene"
+
+msgid "Top to bottom, right to left"
+msgstr "ntandu ku banda, lumene ku lumonso"
+
+msgid "Bottom to top, left to right"
+msgstr "banda ku ntandu, lumonso ku lumene"
+
+msgid "Bottom to top, right to left"
+msgstr "banda ku ntandu, lumene ku lumonso"
+
+msgid "Page Ordering"
+msgstr "nkubukulu a maluse"
+
+msgid "Left to right"
+msgstr "lumonso ku lumene"
+
+msgid "Right to left"
+msgstr "lumene ku lumonso"
+
+msgid "Top to bottom"
+msgstr "ntandu ku banda"
+
+msgid "Bottom to top"
+msgstr "banda ku ntandu"
+
+msgid "Layout"
+msgstr "nkubukulu"
+
+msgid "Two-sided:"
+msgstr "mabaanzi mole :"
+
+msgid "Pages per side:"
+msgstr "maluse mu lubaanzi :"
+
+msgid "Page ordering:"
+msgstr "lutaangulu lua maluse:"
+
+msgid "Only print:"
+msgstr "niema kaka :"
+
+msgid "All sheets"
+msgstr "maluse mamo"
+
+msgid "Even sheets"
+msgstr "maluse manima"
+
+msgid "Odd sheets"
+msgstr "maluse mantuala"
+
+msgid "Scale:"
+msgstr "nteela :"
+
+msgid "Paper"
+msgstr "bo"
+
+msgid "Paper type:"
+msgstr "nka mpila bo :"
+
+msgid "Paper source:"
+msgstr "kueyi i bakae bo :"
+
+msgid "Output tray:"
+msgstr "vayikisa ku :"
+
+msgid "Portrait"
+msgstr "telamesa"
+
+msgid "Landscape"
+msgstr "lekesa"
+
+msgid "Reverse portrait"
+msgstr "telamasa ye balula"
+
+msgid "Reverse landscape"
+msgstr "lekesa ye balula"
+
+msgid "Job Details"
+msgstr "mafiuma ma fisalu"
+
+msgid "Priority:"
+msgstr "mfunu :"
+
+msgid "Billing info:"
+msgstr "ma mfuta :"
+
+msgid "Print Document"
+msgstr "niema mukanda"
+
+msgid "Now"
+msgstr "bubu"
+
+msgid "At:"
+msgstr "mu :"
+
+msgid ""
+"Specify the time of print,\n"
+" e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr ""
+"nkia ntangu uzolele niema,\n"
+"fuani 15:30, 14:15:20, ye bb."
+
+msgid "Time of print"
+msgstr "lokola kianietama"
+
+msgid "On hold"
+msgstr "mu vingila"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "salu se kaniingama te utuma kio"
+
+msgid "Add Cover Page"
+msgstr "yidikae mvuunga"
+
+msgid "Before:"
+msgstr "kitekila :"
+
+msgid "After:"
+msgstr "mboki :"
+
+msgid "Job"
+msgstr "kitumunu"
+
+msgid "Advanced"
+msgstr "mansiinda"
+
+msgid "Image Quality"
+msgstr "luwu lua kifuanisu"
+
+msgid "Color"
+msgstr "nitu"
+
+msgid "Finishing"
+msgstr "nzengolo"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "kaalulu mankaka ka mena madetila ko"
+
+msgid "Unable to find include file: \"%s\""
+msgstr "kilala kia « %s », bu kimoneka nkatu"
+
+msgid "Unable to locate image file in pixmappath: \"%s\""
+msgstr "kifuanisu ki ki monekene ko mu nzila za zipixmaps : « %s »"
+
+msgid "This function is not implemented for widgets of class '%s'"
+msgstr "kilalumunu ki kena ya betila ko mu fianela fia belo « %s »"
+
+msgid "Select which type of documents are shown"
+msgstr "nkia mpila minkanda uzolele monesa?"
+
+msgid "No item for URI '%s' found"
+msgstr "kiloko nkatu va mbuka wa« %s »"
+
+msgid "Untitled filter"
+msgstr "konso kiyungulu"
+
+msgid "Could not remove item"
+msgstr "kiloko ki bu kivuzuka mu ndaandani nkatu"
+
+msgid "Could not clear list"
+msgstr "bu divunzuka mu lutaagulu nkatu"
+
+msgid "Copy Location"
+msgstr "tangininae mbuka"
+
+msgid "Remove From List"
+msgstr "katula mu lutaangulu"
+
+msgid "Clear List"
+msgstr "vunzae lutaangulu"
+
+msgid "Show Private Resources"
+msgstr "songae bima bia baantu"
+
+msgid "No items found"
+msgstr "kizi nkatu"
+
+msgid "No recently used resource found with URI `%s'"
+msgstr "mu biloko biwasadila mu bilumbu bibi, kavena mosi ko mu kizi kia « %s »"
+
+msgid "Open '%s'"
+msgstr "sadila « %s »"
+
+msgid "Unknown item"
+msgstr "kiloko kianzenza"
+
+msgid "%d. %s"
+msgstr "%d. %s"
+
+msgid "Unable to find an item with URI '%s'"
+msgstr "bu dimonekae kiloko ye kisi « %s » nkatu"
+
+msgid "Spinner"
+msgstr "kimvukumuna"
+
+msgid "Provides visual indication of progress"
+msgstr "disonganga ngiendolo ku ntualua ya kisalu"
+
+msgid "Information"
+msgstr "luzayikusu"
+
+msgid "Warning"
+msgstr "nduengoso"
+
+msgid "Error"
+msgstr "mpitakani"
+
+msgid "Question"
+msgstr "kiuvu"
+
+msgid "About"
+msgstr "mambu mankaka"
+
+msgid "Apply"
+msgstr "tuma"
+
+msgid "Bold"
+msgstr "kobesa"
+
+msgid "Cancel"
+msgstr "vangula"
+
+msgid "CD-Rom"
+msgstr "sede"
+
+msgid "Close"
+msgstr "kanga"
+
+msgid "Convert"
+msgstr "kaalula"
+
+msgid "Copy"
+msgstr "tanginina"
+
+msgid "Cut"
+msgstr "zenga"
+
+msgid "Discard"
+msgstr "yambula"
+
+msgid "Disconnect"
+msgstr "bundumuna"
+
+msgid "Execute"
+msgstr "leemokesa"
+
+msgid "Edit"
+msgstr "sobulula"
+
+msgid "Find"
+msgstr "solola"
+
+msgid "Find and Replace"
+msgstr "solola ye yingasa"
+
+msgid "Floppy"
+msgstr "fipalati"
+
+msgid "Fullscreen"
+msgstr "songilu kiamvimba"
+
+msgid "Leave Fullscreen"
+msgstr "katuka mu songilu kiamvimba"
+
+msgid "Bottom"
+msgstr "baanda"
+
+msgid "First"
+msgstr "ntu"
+
+msgid "Last"
+msgstr "mukila"
+
+msgid "Top"
+msgstr "ntaandu"
+
+msgid "Back"
+msgstr "ku nima"
+
+msgid "Forward"
+msgstr "ku ntuala"
+
+msgid "Harddisk"
+msgstr "kinkela"
+
+msgid "Help"
+msgstr "lusadisu"
+
+msgid "Increase Indent"
+msgstr "wuunga"
+
+msgid "Decrease Indent"
+msgstr "wuungula"
+
+msgid "Index"
+msgstr "kitangululu"
+
+msgid "Italic"
+msgstr "tengamasa"
+
+msgid "Jump to"
+msgstr "dumuka ku"
+
+msgid "Center"
+msgstr "mudima"
+
+msgid "Fill"
+msgstr "zadisa"
+
+msgid "Next"
+msgstr "kiyiingani"
+
+msgid "Play"
+msgstr "sika"
+
+msgid "Previous"
+msgstr "kivitidi"
+
+msgid "Record"
+msgstr "bongulula"
+
+msgid "Rewind"
+msgstr "vutuka"
+
+msgid "Stop"
+msgstr "yambula"
+
+msgid "Network"
+msgstr "kibundu"
+
+msgid "New"
+msgstr "vanga"
+
+msgid "No"
+msgstr "nkatu"
+
+msgid "OK"
+msgstr "tambula"
+
+msgid "Open"
+msgstr "ziezula"
+
+msgid "Paste"
+msgstr "kotesa"
+
+msgid "Print Preview"
+msgstr "dianietikama"
+
+msgid "Properties"
+msgstr "kalulu"
+
+msgid "Quit"
+msgstr "sisa"
+
+msgid "Redo"
+msgstr "vangulula"
+
+msgid "Refresh"
+msgstr "vutukila"
+
+msgid "Revert"
+msgstr "vutula"
+
+msgid "Save"
+msgstr "luunda"
+
+msgid "Save As"
+msgstr "suunzula"
+
+msgid "Select All"
+msgstr "sola kiawonsono"
+
+msgid "Ascending"
+msgstr "mena"
+
+msgid "Descending"
+msgstr "menuna"
+
+msgid "Spell Check"
+msgstr "songika nsonika"
+
+msgid "Strikethrough"
+msgstr "wavuunzuka"
+
+msgid "Undelete"
+msgstr "vunzumuna"
+
+msgid "Underline"
+msgstr "keenda"
+
+msgid "Undo"
+msgstr "yambula"
+
+msgid "Yes"
+msgstr "ingeta"
+
+msgid "Normal Size"
+msgstr "kideezo kia nkulu"
+
+msgid "Best Fit"
+msgstr "toma taatanesa"
+
+msgid "Zoom In"
+msgstr "kobesa"
+
+msgid "Zoom Out"
+msgstr "kulula"
+
+msgid "Unknown error when trying to deserialize %s"
+msgstr "diambu dianisi bu ntezele landumunesa %s"
+
+msgid "Both \"id\" and \"name\" were found on the <%s> element"
+msgstr "« id » ye « name » bimonekene mu <%s>"
+
+msgid "The attribute \"%s\" was found twice on the <%s> element"
+msgstr "kalulu « %s » umonekene nkumbu zole mu kitini kia <%s>"
+
+msgid "<%s> element has invalid id \"%s\""
+msgstr "<%s> kinongo kiandi « %s », kena ya betila ko"
+
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
+msgstr "kitini <%s> kikondolo kalulu kia « name », ye kia « id »"
+
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr "kalulu « %s » usonamene nkumbu zole mu <%s>"
+
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr " « %s » ka isaduluanga bobo ko muna tini <%s> "
+
+msgid "Tag \"%s\" has not been defined."
+msgstr "« %s », kinuatu ki kondolo a nsasulu"
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "kinuatu kimosi kikondolo nkumbu kimonekene idina vo binuatu bu bivangama nkatu"
+
+msgid "Tag \"%s\" does not exist in buffer and tags can not be created."
+msgstr "kinuatu « %s » nkatu mu nkoso ye mpe, binuatu bu bivangama nkatu"
+
+msgid "Element <%s> is not allowed below <%s>"
+msgstr "kitini <%s> ka tuluanga ku mbanda ya <%s> ko"
+
+msgid "\"%s\" is not a valid attribute type"
+msgstr "« %s » ka i kalulu kia betila ko"
+
+msgid "\"%s\" is not a valid attribute name"
+msgstr "« %s » ka i nkumbu a betila ko"
+
+msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgstr "« %s » bu i sekola kio mu « %s » mu kalulu « %s » nkatu"
+
+msgid "\"%s\" is not a valid value for attribute \"%s\""
+msgstr "« %s » kena ya dedana ko ye kalulu « %s »"
+
+msgid "Tag \"%s\" already defined"
+msgstr "kinuatu« %s » usonamene kala"
+
+msgid "Tag \"%s\" has invalid priority \"%s\""
+msgstr "kinuatu « %s »kena ye kimfunu kia betila ko « %s »"
+
+msgid "Outermost element in text must be <textviewmarkup> not <%s>"
+msgstr "ndaambu yina ku nsukinu ikalanga kaka <textviewmarkup> ka <%s> ko"
+
+msgid "A <%s> element has already been specified"
+msgstr "kuunku dimosi dia <%s> disonamene kala"
+
+msgid "A <text> element can't occur before a <tags> element"
+msgstr "bisonosono <kinsonama> ka bina ye luve ko mu teekila  binuatu <tags>"
+
+msgid "Serialized data is malformed"
+msgstr "mafiuma malandakane ka ma betila ko"
+
+msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr "mafiuma malandakane ka ma betila ko. kapu diantete ka i GTKTEXTBUFFERCONTENTS-0001 ko."
+
+msgid "Unable to locate theme engine in modulepath: \"%s\","
+msgstr "kisonganga binkuti kileembane moneka muna modulepath : « %s »"
+
+msgid "--- No Tip ---"
+msgstr "---longi nkatu wunu--"
+
+msgid "Unexpected start tag '%s' on line %d char %d"
+msgstr "« %s » kina nuatu ya deetila ko va nlonga wa %d, mu sono kia %d"
+
+msgid "Unexpected character data on line %d char %d"
+msgstr "mu nlonga %d sono kia %d kina ya deetila ko"
+
+msgid "Empty"
+msgstr "sokukidi"
+
+msgid "Volume"
+msgstr "nningu"
+
+msgid "Turns volume down or up"
+msgstr "mu taatanesae nningu"
+
+msgid "Adjusts the volume"
+msgstr "taatesae nningu"
+
+msgid "Volume Down"
+msgstr "sikaa nningu"
+
+msgid "Decreases the volume"
+msgstr "sikaa nningu"
+
+msgid "Volume Up"
+msgstr "wokesa nningu"
+
+msgid "Increases the volume"
+msgstr "diwokesangae nningu"
+
+msgid "Muted"
+msgstr "na pi"
+
+msgid "Full Volume"
+msgstr "teebisa nningu"
+
+msgid "asmef"
+msgstr "asmef"
+
+msgid "A0x2"
+msgstr "A0x2"
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A0x3"
+msgstr "A0x3"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A1x3"
+msgstr "A1x3"
+
+msgid "A1x4"
+msgstr "A1x4"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A2x3"
+msgstr "A2x3"
+
+msgid "A2x4"
+msgstr "A2x4"
+
+msgid "A2x5"
+msgstr "A2x5"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A3 Extra"
+msgstr "A3 ekisitira"
+
+msgid "A3x3"
+msgstr "A3x3"
+
+msgid "A3x4"
+msgstr "A3x4"
+
+msgid "A3x5"
+msgstr "A3x5"
+
+msgid "A3x6"
+msgstr "A3x6"
+
+msgid "A3x7"
+msgstr "A3x7"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A4 Extra"
+msgstr "A4 ekisitira"
+
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+msgid "A4x3"
+msgstr "A4x3"
+
+msgid "A4x4"
+msgstr "A4x4"
+
+msgid "A4x5"
+msgstr "A4x5"
+
+msgid "A4x6"
+msgstr "A4x6"
+
+msgid "A4x7"
+msgstr "A4x7"
+
+msgid "A4x8"
+msgstr "A4x8"
+
+msgid "A4x9"
+msgstr "A4x9"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A5 Extra"
+msgstr "A5 ekesitira"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B6/C4"
+msgstr "B6-C4"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "DL Envelope"
+msgstr "kizungulu DL"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "JB0"
+msgstr "JB0"
+
+msgid "JB1"
+msgstr "JB1"
+
+msgid "JB10"
+msgstr "JB10"
+
+msgid "JB2"
+msgstr "JB2"
+
+msgid "JB3"
+msgstr "JB3"
+
+msgid "JB4"
+msgstr "JB4"
+
+msgid "JB5"
+msgstr "JB5"
+
+msgid "JB6"
+msgstr "JB6"
+
+msgid "JB7"
+msgstr "JB7"
+
+msgid "JB8"
+msgstr "JB8"
+
+msgid "JB9"
+msgstr "JB9"
+
+msgid "jis exec"
+msgstr "jis exec"
+
+msgid "Choukei 2 Envelope"
+msgstr "kizungulu Choukei 2"
+
+msgid "Choukei 3 Envelope"
+msgstr "kizungulu Choukei 3"
+
+msgid "Choukei 4 Envelope"
+msgstr "kizungulu Choukei 4"
+
+msgid "hagaki (postcard)"
+msgstr "hagaki"
+
+msgid "kahu Envelope"
+msgstr "kizungulu kahu"
+
+msgid "kaku2 Envelope"
+msgstr "kizungulu kahu2"
+
+msgid "oufuku (reply postcard)"
+msgstr "oufuku (lukanda  wa mvutu)"
+
+msgid "you4 Envelope"
+msgstr "kizungulu you4"
+
+msgid "10x11"
+msgstr "10x11"
+
+msgid "10x13"
+msgstr "10x13"
+
+msgid "10x14"
+msgstr "10x14"
+
+msgid "10x15"
+msgstr "10x15"
+
+msgid "11x12"
+msgstr "11x12"
+
+msgid "11x15"
+msgstr "11x15"
+
+msgid "12x19"
+msgstr "12x19"
+
+msgid "5x7"
+msgstr "5x7"
+
+msgid "6x9 Envelope"
+msgstr "kizungulu 6x9"
+
+msgid "7x9 Envelope"
+msgstr "kizungulu 7x9"
+
+msgid "9x11 Envelope"
+msgstr "kizungulu 9x11"
+
+msgid "a2 Envelope"
+msgstr "kizungulu a2"
+
+msgid "Arch A"
+msgstr "Arch A"
+
+msgid "Arch B"
+msgstr "Arch B"
+
+msgid "Arch C"
+msgstr "Arch C"
+
+msgid "Arch D"
+msgstr "Arch D"
+
+msgid "Arch E"
+msgstr "Arch E"
+
+msgid "b-plus"
+msgstr "b-pilusi"
+
+msgid "c"
+msgstr "c"
+
+msgid "c5 Envelope"
+msgstr "kizungulu c5"
+
+msgid "d"
+msgstr "d"
+
+msgid "e"
+msgstr "e"
+
+msgid "edp"
+msgstr "edp"
+
+msgid "European edp"
+msgstr "Edp ya mputu"
+
+msgid "Executive"
+msgstr "egezekitivi"
+
+msgid "f"
+msgstr "f"
+
+msgid "FanFold European"
+msgstr "fanfolde ya mputu"
+
+msgid "FanFold US"
+msgstr "FanFold US"
+
+msgid "FanFold German Legal"
+msgstr "wa wiisa FanFold kia gelemani"
+
+msgid "Government Legal"
+msgstr "nkanda wa wiisa kia luyaalu"
+
+msgid "Government Letter"
+msgstr "nkanda wa luyaalu"
+
+msgid "Index 3x5"
+msgstr "kinsasa nlembo 3x5"
+
+msgid "Index 4x6 (postcard)"
+msgstr "kinsasa 4x6 "
+
+msgid "Index 4x6 ext"
+msgstr "kisongolo 4x6 ext"
+
+msgid "Index 5x8"
+msgstr "kisongolo 5x8"
+
+msgid "Invoice"
+msgstr "lupeta"
+
+msgid "Tabloid"
+msgstr "tabloyidi"
+
+msgid "US Legal"
+msgstr "Légal US"
+
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgid "US Letter Plus"
+msgstr "usa Letter Plus"
+
+msgid "Monarch Envelope"
+msgstr "kizungulu Monarch"
+
+msgid "#10 Envelope"
+msgstr "kizungulu #10"
+
+msgid "#11 Envelope"
+msgstr "kizungulu #11"
+
+msgid "#12 Envelope"
+msgstr "kizungulu #12"
+
+msgid "#14 Envelope"
+msgstr "kizungulu #14"
+
+msgid "#9 Envelope"
+msgstr "kizungulu #9"
+
+msgid "Personal Envelope"
+msgstr "kizungulu kiampensa"
+
+msgid "Quarto"
+msgstr "In-quarto"
+
+msgid "Super A"
+msgstr "kia A"
+
+msgid "Super B"
+msgstr "kia Be"
+
+msgid "Wide Format"
+msgstr "kia nene"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Folio"
+msgstr "In-folio"
+
+msgid "Folio sp"
+msgstr "In-folio sp"
+
+msgid "Invite Envelope"
+msgstr "kizungulu kiantumisa"
+
+msgid "Italian Envelope"
+msgstr "kizungulu kia italia"
+
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgid "pa-kai"
+msgstr "pa-kai"
+
+msgid "Postfix Envelope"
+msgstr "kizungulu Postfix"
+
+msgid "Small Photo"
+msgstr "fizidi"
+
+msgid "prc1 Envelope"
+msgstr "kizungulu prc1"
+
+msgid "prc10 Envelope"
+msgstr "kizungulu prc10"
+
+msgid "prc 16k"
+msgstr "prc 16k"
+
+msgid "prc2 Envelope"
+msgstr "kizungulu prc2"
+
+msgid "prc3 Envelope"
+msgstr "kizungulu prc3"
+
+msgid "prc 32k"
+msgstr "prc 32k"
+
+msgid "prc4 Envelope"
+msgstr "kizungulu prc4"
+
+msgid "prc5 Envelope"
+msgstr "kizungulu prc5"
+
+msgid "prc6 Envelope"
+msgstr "kizungulu prc6"
+
+msgid "prc7 Envelope"
+msgstr "kizungulu prc7"
+
+msgid "prc8 Envelope"
+msgstr "kizungulu prc8"
+
+msgid "prc9 Envelope"
+msgstr "kizungulu prc9"
+
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgid "different idatas found for symlinked '%s' and '%s'\n"
+msgstr "bifiuma bimonekene muna « %s » ye « %s » \n"
+
+msgid "Failed to write header\n"
+msgstr "mpu bu yivangama nkatu\n"
+
+msgid "Failed to write hash table\n"
+msgstr "kisekokilu bu yi soba kio nkatu\n"
+
+msgid "Failed to write folder index\n"
+msgstr "ntaangulu a nta yi, bu yisonama nkatu\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "mpu bu isobua nkatu\n"
+
+msgid "Failed to open file %s : %s\n"
+msgstr "« %s » bu dizibuka nkatu : %s\n"
+
+msgid "Failed to write cache file: %s\n"
+msgstr "kinkoso bu kivangama nkatu : %s\n"
+
+msgid "The generated cache was invalid.\n"
+msgstr "kikoso ki uvangidi, kena ya betila ko.\n"
+
+msgid "Could not rename %s to %s: %s, removing %s then.\n"
+msgstr "%s bu kibaka nkumbu andi %s nkatu : %s, ibobo ngieti katula %s.\n"
+
+msgid "Could not rename %s to %s: %s\n"
+msgstr "%s bu kibaka nkumbu andi %s nkatu: %s\n"
+
+msgid "Could not rename %s back to %s: %s.\n"
+msgstr "%s bu kivutukila nkumbu andi %s nkatu: %s\n"
+
+msgid "Cache file created successfully.\n"
+msgstr "kinoso kitomene vangua.\n"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "yiingasa nkoso kaka"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "index.theme, kusolodi yo ko"
+
+msgid "Don't include image data in the cache"
+msgstr "mafiuma ma bifuanisu, veengula mo mu nkoso"
+
+msgid "Output a C header file"
+msgstr "vayikisae mpukilala ya C"
+
+msgid "Turn off verbose output"
+msgstr "katulae mafiuma ma bizayikusu"
+
+msgid "Validate existing icon cache"
+msgstr "ntambudi nkoso a biteke"
+
+msgid "File not found: %s\n"
+msgstr "kilala %s kimonekene ko\n"
+
+msgid "Not a valid icon cache: %s\n"
+msgstr "ka yi kisasilu kia mvuaatu kia mbote ko : %s\n"
+
+msgid "No theme index file.\n"
+msgstr "kisasilu kia mvuaatu nkatu.\n"
+
+msgid ""
+"No theme index file in '%s'.\n"
+"If you really want to create an icon cache here, use --ignore-theme-index.\n"
+msgstr ""
+"kisasilu kia mvuaatu nkatu ku « %s ».\n"
+"nkatika vo zolele vaangae nkoso va fulu ki, sadilae --ignore-theme-index.\n"
+
+msgid "Amharic (EZ+)"
+msgstr "kiamaliki (EZ+)"
+
+msgid "Cedilla"
+msgstr "sedila"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "kisiriliki"
+
+msgid "Inuktitut (Transliterated)"
+msgstr "inukitikuti"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Multipress"
+msgstr "nkama simba"
+
+msgid "Thai-Lao"
+msgstr "kitai-lawo"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "kitigilina kia elitele(EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "kitigilina kia abisini (EZ+)"
+
+msgid "Vietnamese (VIQR)"
+msgstr "kivietinami (VIQR)"
+
+msgid "X Input Method"
+msgstr "nsonokono va X"
+
+msgid "Authentication is required to get a file from %s"
+msgstr "teka kisunzula muna vewa kilala mu %s"
+
+msgid "Authentication is required to print document '%s' on printer %s"
+msgstr "teka kisunzula muna niema mukanda  « %s » ku %s"
+
+msgid "Authentication is required to print a document on %s"
+msgstr "teka kisunzula muna niemae mukanda ku %s"
+
+msgid "Authentication is required to get attributes of job '%s'"
+msgstr "teka kisunzula muna vewa mafiuma ma fisalu « %s »"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "teka kisunzula muna vewa mafiuma ma konso fisalu"
+
+msgid "Authentication is required to get attributes of printer %s"
+msgstr "teka kisunzula muna vewa mafiuma ma kiniema %s"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "teka kisunzula muna vewa mafiuma ma konso kiniema"
+
+msgid "Authentication is required to get default printer of %s"
+msgstr "fueti kisuunzula muna sadilae kiniema kiantete kia %s"
+
+msgid "Authentication is required to get printers from %s"
+msgstr "fueti kisuunzula muna sadilae biniema bia %s"
+
+msgid "Authentication is required on %s"
+msgstr "fueti kisuunzula va %s"
+
+msgid "Authentication is required to print document '%s'"
+msgstr "fueti kisuunzula muna niema « %s » wa nkanda"
+
+msgid "Authentication is required to print this document on printer %s"
+msgstr "fueti kisuunzula muna niema nkanda wuwu mu %s wa kiniema"
+
+msgid "Authentication is required to print this document"
+msgstr "fueti kisuunzula muna niema nkanda wuwu"
+
+msgid "Printer '%s' is low on toner."
+msgstr "diinta dike mu « %s » wa kiniema."
+
+msgid "Printer '%s' has no toner left."
+msgstr "diinta dimenin muna « %s »."
+
+msgid "Printer '%s' is low on developer."
+msgstr "maaka yike ku kiniema « %s »."
+
+msgid "Printer '%s' is out of developer."
+msgstr "maaka nkatu ku kiniema « %s »."
+
+msgid "Printer '%s' is low on at least one marker supply."
+msgstr "ntiinta za « %s » bakutu manisa."
+
+msgid "Printer '%s' is out of at least one marker supply."
+msgstr "ntiinta umosi umeeni kuna « %s »."
+
+msgid "The cover is open on printer '%s'."
+msgstr "kiyabukulu kia « %s » kiena ya zibuka."
+
+msgid "The door is open on printer '%s'."
+msgstr "« %s » wa kiniema wa zibuka kena."
+
+msgid "Printer '%s' is low on paper."
+msgstr "fioti fisidi « %s » si kakondua nkanda."
+
+msgid "Printer '%s' is out of paper."
+msgstr " « %s » wa kiniema kikondolo minkanda."
+
+msgid "Printer '%s' is currently off-line."
+msgstr "« %s » kitabukidi."
+
+msgid "Printer '%s' may not be connected."
+msgstr "« %s » kimonekene ko."
+
+msgid "There is a problem on printer '%s'."
+msgstr "« %s » wa kiniema ka yita sala ko."
+
+msgid "Paused; Rejecting Jobs"
+msgstr "diingamene ; mu sieenga bisalu"
+
+msgid "Rejecting Jobs"
+msgstr "mu tununuka bisalu"
+
+msgid "Two Sided"
+msgstr "mafula mole"
+
+msgid "Paper Type"
+msgstr "mpila bo"
+
+msgid "Paper Source"
+msgstr "ntukA bo"
+
+msgid "Output Tray"
+msgstr "mvayikilu"
+
+msgid "Resolution"
+msgstr "budede"
+
+msgid "GhostScript pre-filtering"
+msgstr "tekila kiyungulu kia GhostScript"
+
+msgid "One Sided"
+msgstr "ntuala kaka"
+
+msgid "Long Edge (Standard)"
+msgstr "lubaanzi lua nene"
+
+msgid "Short Edge (Flip)"
+msgstr "lubaanzi lafioti(balula)"
+
+msgid "Auto Select"
+msgstr "diakisolana"
+
+msgid "Printer Default"
+msgstr "landila kiniema"
+
+msgid "Embed GhostScript fonts only"
+msgstr "lunda masono mu GhostScript kaka"
+
+msgid "Convert to PS level 1"
+msgstr "bandula mu PS ntindu ya 1"
+
+msgid "Convert to PS level 2"
+msgstr "bandula mu PS ntindu ya 2"
+
+msgid "No pre-filtering"
+msgstr "kuyungula ko"
+
+msgid "Miscellaneous"
+msgstr "mambu mankaka"
+
+msgid "Urgent"
+msgstr "nzaki nzaki"
+
+msgid "High"
+msgstr "yingi"
+
+msgid "Medium"
+msgstr "katikati"
+
+msgid "Low"
+msgstr "fioti"
+
+msgid "Pages per Sheet"
+msgstr "luse muna lukayi kimosi"
+
+msgid "Job Priority"
+msgstr "mfunu a kisalu kiki"
+
+msgid "Billing Info"
+msgstr "ntalu"
+
+msgid "Classified"
+msgstr "wayidika"
+
+msgid "Confidential"
+msgstr "disuemi"
+
+msgid "Secret"
+msgstr "nsueki"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Top Secret"
+msgstr "disuemi"
+
+msgid "Unclassified"
+msgstr "wayidula"
+
+msgid "Before"
+msgstr "tekila"
+
+msgid "After"
+msgstr "mboki"
+
+msgid "Print at"
+msgstr "niema mu"
+
+msgid "Print at time"
+msgstr "Imprimer à l'heure"
+
+msgid "Custom %sx%s"
+msgstr "diakaaluka %sx%s"
+
+msgid "output.%s"
+msgstr "nduukulu.%s"
+
+msgid "Print to File"
+msgstr "niema kunae kilala"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Pages per sheet:"
+msgstr "maluse makua ka lukaya:"
+
+msgid "File"
+msgstr "kilala"
+
+msgid "Output format"
+msgstr "niemono"
+
+msgid "Print to LPR"
+msgstr "niema mu LPR"
+
+msgid "Pages Per Sheet"
+msgstr "maluse makua ka lukaya"
+
+msgid "Command Line"
+msgstr "nlongA nsiku"
+
+msgid "printer offline"
+msgstr "kiniema kikuikudi"
+
+msgid "ready to print"
+msgstr "kubamene mu niema"
+
+msgid "processing job"
+msgstr "mu sala"
+
+msgid "paused"
+msgstr "dingamene"
+
+msgid "unknown"
+msgstr "dianzenza"
+
+msgid "test-output.%s"
+msgstr "nietama mu mekameka %s"
+
+msgid "Print to Test Printer"
+msgstr "niema mu kiniema kia mekameka"
+
+
+msgid "Send To..."
+msgstr "fidisila..."
+
+msgid "Send file by mail, instant message..."
+msgstr "fila dio mu nkave, mu povasaniye b.b."
+
+msgid "Send files by mail, instant message..."
+msgstr "fila zo mu nkave, mu povasaniye b.b."
+
+msgid "Sharing %d folder"
+msgid_plural "Sharing %d folders"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sharing %d video"
+msgid_plural "Sharing %d videos"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sharing %d photo"
+msgid_plural "Sharing %d photos"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sharing %d image"
+msgid_plural "Sharing %d images"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sharing %d text file"
+msgid_plural "Sharing %d text files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sharing %d file"
+msgid_plural "Sharing %d files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Send"
+msgstr "fila"
+
+msgid "Unable to send file"
+msgstr "lembolo fila nkaya"
+
+msgid "There is no connection to gajim remote service."
+msgstr "dikuika ku gajimidikondolo"
+
+msgid "Sending file failed"
+msgstr "ndembi fisa nkaya"
+
+msgid "Recipient is missing."
+msgstr "ntambudi a nkave ukondolo"
+
+msgid "Unknown recipient."
+msgstr "kizeeyi ntambudi wuwu ko"
+
+msgid "Instant Message (Gajim)"
+msgstr "povani (ngiambi)"
+
+msgid "Nautilus Integration"
+msgstr "luwawanu ye notilia"
+
+msgid "Provides integration with Nautilus"
+msgstr "mu tunga luwawanu ye notilia"
+
+msgid "Send to..."
+msgstr "fidisila..."
+
+msgid "Default folder to use"
+msgstr "lukuba diantete"
+
+msgid "FOLDER"
+msgstr "lukuba"
+
+msgid "You don't insert the package name"
+msgstr "kweti ku ta KuBua waziinga ko"
+
+msgid "Nautilus Sendto"
+msgstr "(notulisi) fidisila"
+
+msgid "Send as:"
+msgstr "fidisila ye kitula ..."
+
+msgid "Send packed in"
+msgstr "fidisa yo yazingama mu..."
+
+msgid "Send to:"
+msgstr "fidisila:"
+
+msgid "Email (Balsa)"
+msgstr "nkave (basa)"
+
+msgid "Bluetooth (OBEX)"
+msgstr "blutu (OBEX)"
+
+msgid "Email (Evolution)"
+msgstr "nkave (volisioni)"
+
+msgid "Email (Sylpheed-Claws)"
+msgstr "nkave (silifidi-kolozo)"
+
+
+msgid "Update standard folders to current language?"
+msgstr "nga uzolele bandula nta za gnome mu ndingakue?"
+
+msgid "You have logged in in a new language. You can automatically update the names of some standard folders in your home folder to match this language. The update would change the following folders:"
+msgstr "usunzumukini mu ndingaku, buna ulendele yuvula lundombe kavovanga ndinga ku."
+
+msgid "Keep Old Names"
+msgstr "lunda nkumbu zankulu"
+
+msgid "Update Names"
+msgstr "bandula nkumbu"
+
+msgid "Current folder name"
+msgstr "nkumbu a nkulu nta"
+
+msgid "New folder name"
+msgstr "nkumbu a mpa"
+
+msgid "Note that existing content will not be moved."
+msgstr "toma zaya vo siwalunda bilala biaku kabinavunzuna ko"
+
+msgid "Don't ask me this again"
+msgstr "kungiuvulani diaka ko"
+
+msgid "There was an error updating the folders"
+msgstr "kilendi bandula nta zaku ko"
+
+msgid "Update common folders names to match current locale"
+msgstr "bandula nta za lundombe mu ndingAku"
+
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid " (containing %'d item)"
+msgid_plural " (containing %'d items)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d difference"
+msgid_plural "%d differences"
+msgstr[0] ""
+
+
